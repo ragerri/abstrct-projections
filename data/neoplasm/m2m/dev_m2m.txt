@@ -1,0 +1,679 @@
+La reconstrucción basada en implantes se realiza en la mayoría de las mujeres que ofrecieron la reconstrucción primaria para el cáncer de mama. 
+Se compararon prospectivamente dos implantes de amplificador diferentes. 
+El punto final primario era el número de operaciones necesarias en cada grupo para obtener la satisfacción del paciente. 
+Los puntos finales secundarios fueron la evaluación del volumen y la forma de los senos y aspectos de la calidad de vida. 
+Setenta pacientes con cáncer de mama consecutivos fueron aleatorios para una reconstrucción de una etapa con un implante de amplificador permanente redondo ( Becker 25 ; n = 35 ) o una reconstrucción de dos etapas con un amplificador en forma de mes ( LV 133 ; n = 35 ), posteriormente reemplazado por un implante anatómico estable en forma. 
+Treinta pacientes tuvieron que ser excluidos y 40 pacientes, 20 en cada grupo, fueron evaluados. 
+El seguimiento mediano para ambos grupos fue de 3,5 años (rango, de 1,5 a 5 años). 
+Se utilizaron tazas de plástico, juntas de plástico y técnicas de escaneo de dos y tres dimensiones para evaluar objetivamente el volumen y la forma de los senos. 
+El resultado estético fue evaluado por un panel de expertos y laicos, y por los pacientes. 
+La calidad de vida se evaluó con un cuestionario validado ( 36-Item Short Form Health Survey). 
+De los pacientes en el grupo de una etapa, el 70 por ciento tuvo cirugía de revisión, principalmente debido a la plenitud del polo superior y la pobre ptosis. 
+Estos hallazgos coincidieron con los datos de la escaneo bidimensional y del panel de expertos y el juicio subjetivo de los pacientes. 
+La calidad de vida fue similar en los dos grupos. 
+El método de expansor permanente falló significativamente como un procedimiento de una etapa. 
+El método de dos etapas creciente dio los resultados más aceptables tanto objetivamente como subjetivamente. 
+Para analizar el curso clínico, tratamiento, complicaciones, resultado y calidad de vida (QOL) en pacientes con rabdomiosarcoma perineal/perianal (PRMS) tratados dentro de los ensayos CWS-86, -91, -96 y -2002P. 
+Aunque existen múltiples ensayos de estudio internacionales para el tratamiento del rabdomiosarcoma, sólo se da información muy limitada sobre el tratamiento, el resultado y la QOL en el PRMS. 
+Un total de 35 pacientes que sufren de PRMS fueron tratados con quimioterapia neoadjuvante. 
+Se realizó terapia local con radiación y/o cirugía, seguida de quimioterapia adyuvante. 
+El seguimiento funcional a largo plazo se evaluó mediante una encuesta gastrointestinal/QOL. 
+Se evaluaron 32 pacientes (exclusión n = 3). 
+Ocho pacientes tenían histología embrionaria, y 24 pacientes tenían histología alveolar. 
+La edad media fue de 108 meses (mediano de seguimiento: 5,8 años). 
+La supervivencia general de 5 años fue del 47 % (intervalo de confianza del 95 %: 29-64). 
+Seiscientos pacientes del IRS (Estudio Intergrupo Rhabdomyosarcoma) III y IV tenían la participación de los ganglios linfáticos locoregionales en el diagnóstico. 
+Siete pacientes fueron tratados con quimioterapia/cirugía sola [ 5 años de supervivencia sin eventos (EFS) : 85,7 %]. 
+Once pacientes recibieron solo radioterapia (5 años EFS: 27,3%). 
+Se utilizó radioterapia/cirugía combinada en 12 pacientes (5 años EFS: 63,6%). 
+Dos pacientes fueron tratados con quimioterapia y murieron. 
+Los pacientes con histología embrionaria tenían una EFS de 5 años significativamente mejor (87,5 %) que los pacientes con histología alveolar ( 39,1 %; P = 0,013). 
+Algunos pacientes reportaron síntomas de incontinencia fecal. 
+La puntuación mediana de incontinencia fecal de Wexner fue de 9 (rango posible: 0-20) y la puntuación mediana de QOL fue de 90,5 (rango aplicable: 0-144). 
+El resultado de estos pacientes sigue siendo insatisfactorio. 
+Los factores de pronóstico para un resultado favorable son el tamaño del tumor de menos de 5 cm, los ganglios linfáticos negativos locoregionales, la edad de menos de 10 años, el grupo IRS bajo y la histología embrionaria. 
+La incontinencia fecal parece ser un problema. 
+Los estudios de fase II y III han demostrado que la adición de interleucina-2 (IL-2) e interferón alfa-2b (IFN-2b) en la quimioterapia multiagente (CT) para el melanoma avanzado aumenta la respuesta general (OR), aunque sin evidencia clara de una mejora en la supervivencia general (OS). 
+El tratamiento con dosis altas de IL-2 puede causar toxicidad severa y normalmente se administra en un establecimiento hospitalario. 
+Hemos llevado a cabo un ensayo clínico aleatorio multicéntrico prospectivo en pacientes ambulatorios con melanoma metastásico para comparar la CT con la bioquímica (bioCT) utilizando dosis inmunomodulantes de IL-2 e IFN alfa-2b. 
+Cientos setenta y seis pacientes elegibles con melanoma avanzado fueron aleatoriamente clasificados para recibir CT (cisplatina y dacarbazina con o sin carmustina cada 21 días) o bioCT que consistía en el mismo régimen CT seguido por IL-2 subcutáneo de dosis bajas durante 8 días e IFN alfa-2b tres veces por semana, ambos durante seis ciclos. 
+En un seguimiento mediano de 18 (CT) y 16 (bioCT) meses, el OS mediano fue de 9.5 versus 11.0 meses (P =.51), respectivamente. 
+En los 89 pacientes CT-arm, se observaron 18 ORs (20,2%) (tres respondedores completos [CRs] y 15 respondedores parciales [PRs]) de acuerdo con los criterios de la Organización Mundial de la Salud. 
+En los 87 pacientes bioCT-arm, se registraron 22 ORs ( 25,3% ) ( tres CRs y 19 PRs ) ( P = 70 ). 
+La toxicidad relacionada con el tratamiento fue bastante similar en ambos brazos. 
+La adición de la inmunoterapia de dosis bajas no produjo una ventaja estadísticamente significativa en el sistema operativo, el tiempo de progresión, o OR. 
+Sin embargo, el OS mediano de 11 meses en el brazo bioCT no difiere mucho de los mejores resultados con regímenes de alta dosis que contienen IL-2 reportados en la literatura. 
+Además, nuestro horario de tratamiento se llevó a cabo en pacientes ambulatorios y tenía un nivel aceptable de toxicidad. 
+Las esferas SIR son microsferas radioactivas (SIR-Spheres, Sirtex Medical Limited, Australia) utilizadas para dirigir selectivamente altos niveles de radiación ionizante a los tumores dentro del hígado. 
+Este ensayo fue diseñado para medir cualquier aumento del beneficio del paciente mediante la adición de una única administración de SIR-Spheres a un régimen de quimioterapia arterial hepática regional (HAC) administrado como una infusión de 12 días de floxuridina y repetido a intervalos mensuales, en comparación con la misma quimioterapia solo. 
+Un ensayo clínico aleatorio de fase III que incluyó a 74 pacientes se llevó a cabo en pacientes con metástasis hepáticas bi-lobares no resectibles del adenocarcinoma primario del colon. 
+Los criterios de beneficio del paciente evaluados en el ensayo fueron la respuesta tumoral, el tiempo de progresión de la enfermedad en el hígado, la supervivencia general, la calidad de vida y la toxicidad relacionada con el tratamiento. 
+La respuesta tumoral se midió por cambios en serie tanto en las áreas transversales del tumor como en los volúmenes totales del tumor, siempre que cualquier respuesta durara no menos de tres meses, así como cambios en el antígeno carcino-embriónico sérico (CEA). 
+La tasa de respuesta parcial y completa (PR + CR) fue significativamente mayor para los pacientes que recibieron SIR-Spheres cuando se midió por áreas tumorales ( 44 % ) vs. 17,6 %, P = 0,01 ) volúmenes tumorales ( 50 % vs. 24 %, P = 0,03 ) y CEA ( 72 % vs. 47 %, P = 0,004 ). 
+El tiempo mediano hasta la progresión de la enfermedad en el hígado fue significativamente más largo para los pacientes que recibieron SIR-Spheres en comparación con los pacientes que recibieron solo HAC cuando se midió por las áreas tumorales (9,7 versus 15,9 meses, P = 0,001), los volúmenes tumorales (7,6 versus 12,0 meses, P = 0,04 ) o CEA (5,7 versus 6,7 meses, P = 0,06). 
+La supervivencia de uno, dos, tres y cinco años para los pacientes que recibieron SIR-Spheres fue del 72 %, 39 %, 17 % y 3,5 %, en comparación con el 68 %, 29 %, 6,5 % y 0 % para el HAC solo. 
+El análisis de regresión de Cox sugiere una mejora en la supervivencia para los pacientes tratados con SIR-Spheres que sobreviven más de 15 meses ( P = 0,06 ). 
+No hubo aumento en la toxicidad relacionada con el tratamiento de grado 3-4 y no hubo pérdida de calidad de vida para los pacientes que recibieron SIR-Spheres en comparación con los pacientes que recibieron solo HAC. 
+La combinación de una sola inyección de SIR-Spheres más HAC es sustancialmente más eficaz en aumentar las respuestas tumorales y la supervivencia libre de progresión que el mismo régimen de HAC solo. 
+El objetivo del estudio fue evaluar la tasa de respuesta, el resultado clínico, la preservación del órgano/función y la toxicidad en pacientes con cáncer de cabeza y cuello tratados con quimioterapia de inducción seguida de quimioradioterapia concomitante y, en caso necesario, cirugía limitada. 
+El diseño del estudio fue un ensayo no aleatorio de fase II en pacientes hospitalizados. 
+El plan de tratamiento consistía en 3 ciclos de quimioterapia de inducción con cisplatina, fluorouracilo ( 5-FU ), l-leucovorina e interferón alfa2b ( PFL-IFN ) seguidos de 7 ciclos de 5-FU, hidroxiurea y radiación concomitante durante 5 días ( FHX ) para una dosis total de radiación de 70 Gy. 
+Se añadió ácido cis-retinoico al régimen de tratamiento para la quimioprevención y se administró una profilaxis sistemática de mucositis a todos los pacientes durante la FHX. 
+La resección quirúrgica conservadora se reservó a pacientes sin respuesta óptima (PR > o = 70%), mientras que la cirugía radical se realizó como tratamiento de salvación. 
+Veinticinco pacientes fueron tratados en una institución: más del 90 % tenían enfermedad de etapa IV y sólo el 19,2 % tenían cáncer de laringe. 
+El 81 % de los pacientes presentaba un estado de rendimiento 0 y el 23,1 % de los pacientes presentaba una pérdida de peso > 5 % al inicio del tratamiento. 
+Se analizaron 19 pacientes para la respuesta a la PFL-IFN: 3/19 ( 15,8 % ) pacientes alcanzaron un CR y 7/19 ( 36,8 % ) alcanzaron un PR para un ORR de 52,6 %. 
+FHX se administró de acuerdo con el protocolo a 12 pacientes: 6 pacientes (50 %) tenían CR, 1 paciente (8,3 %) tenían PR para una ORR de 58,3 %, 2 pacientes (16 %) tenían SD y 3 pacientes (25 %) tenían PD. 
+Al finalizar la FHX, ningún paciente se sometió a terapia local de acuerdo con el plan de tratamiento. 
+A un tiempo mediano de seguimiento de 13,5 meses (variedad de 1-28+) en junio de 2001, entre los 26 pacientes inscritos, 12 (46,1%) estaban aún vivos y 9 (75%) de ellos estaban libres de progresión. 
+La duración media de la respuesta fue de 9 meses (intervalo 0-25+), la media de la supervivencia sin progresión fue de 10,5 meses (intervalo 0-28+), la media de la supervivencia total fue de 9 meses (intervalo 1-22). 
+La toxicidad fue significativa y consistió principalmente en mucositis y, en menor medida, neutropenia/trombocitopenia. 
+En el presente estudio, se confirmaron los bajos niveles séricos de leptina y los altos niveles séricos de citocinas proinflamatorias en pacientes con cáncer de estadio avanzado. 
+En conclusión, este programa de quimioterapia de inducción secuencial y quimioradioterapia se ha encontrado moderadamente activo y significativamente tóxico; además, debe tenerse en cuenta la larga duración general del tratamiento. 
+Por estas razones, este régimen no podía ser recomendado para un estudio aleatorizado de fase III. 
+La dosificación intermitente puede reducir los eventos adversos (AEs) de la terapia de privación de andrógenos (ADT). 
+Para comparar la privación intermitente de andrógenos (IAD) y la privación continua de andrógenos (CAD) con respecto a la calidad de vida relacionada con la salud (QoL). 
+Un total de 852 hombres con cáncer de próstata avanzado (PCa) se inscribieron para recibir acetato de goserelina 3,6 mg cada 28 días durante 24 semanas. 
+Un total de 554 pacientes cuyo antígeno específico de la próstata (PSA) disminuyó a < 10 ng/ml o en ≥ 50 % (< 20 ng/ml en el punto de partida) fueron randomizados a IAD o CAD. 
+En el brazo IAD, el ADT se reanudó durante al menos 24 semanas cada vez que el PSA aumentó > 20 ng/ml o por encima de la línea de base. 
+El QoL fue monitorizado con un cuestionario de 30 elementos validado de Cleary y analizado por el test de Mann-Whitney U, la regla de desviación estándar de 0,5 y el análisis de mediciones repetidas de la varianza. 
+Los AEs y las reacciones adversas a los fármacos (ADRs) se analizaron mediante la prueba de chi-square. 
+El seguimiento mediano fue de 65 mo. 
+Diferencias significativas en QoL surgieron en la limitación de la actividad, la capacidad física y el funcionamiento sexual, favoreciendo la IAD. 
+No aparecieron diferencias significativas en la prevalencia de AEs: 87 pacientes en el brazo IAD ( 31,8 % ) y 95 en el brazo CAD ( 33,9 % ) tenían AEs cardiovasculares ( p = 0,59 ), con 25 ( 9,1 % ) y 29 ( 10,4 % ) retirados ( p = 0,62 ), y 21 ( 7,7 % ) y 24 ( 8,6 % ) fallecidos debido a un evento CV ( p = 0,70 ), respectivamente ; fracturas óseas ocurrieron en 19 ( 6,9 % ) y 15 ( 5,4 % ) pacientes ( p = 0,44 ), respectivamente. 
+Los resfriados calientes o sudores nocturnos fueron los ADR más comunes (47,1 % vs 50,4 %; p=0,44). 
+La disfunción eréctil ( 15,7 % vs 7,9 %; p = 0,042 ) y el estado de ánimo depresivo ( 2,2 vs 0 %; p = 0,032 ) fueron más comunes en el brazo IAD. 
+IAD mostró beneficios en el tratamiento de PCa avanzado con respecto a QoL. 
+La prevalencia de AEs no fue significativamente menor con IAD. 
+La calidad de vida (QoL) después del cáncer de mama es hoy en día un gran desafío. 
+Las intervenciones complementarias son necesarias debido a los frecuentes síntomas depresivos después del tratamiento y también para favorecer el retorno a la actividad. 
+Además, la radioterapia tiene efectos secundarios como el aumento de peso y la fatiga. 
+Varias estrategias, incluidas las intervenciones comportamentales-educativas de grupo, entrenamiento físico y/o educación dietética, han sido probadas para responder a estas dificultades con éxito moderado a largo plazo. 
+Doscientos cincuenta y uno pacientes no metastáticos se acumularon después de la quimioterapia en un ensayo multicéntrico aleatorio prospectivo entre 2008 y 2010, probando una intervención de 2 semanas en centros de SPA. 
+La intervención consistió en entrenamiento físico de grupo, educación dietética y fisioterapia. 
+Los pacientes seleccionados estaban en remisión completa. 
+El QoL se evaluó con el cuestionario SF36, la ansiedad y la depresión con el hospital de ansiedad y depresión (HAD). 
+Se obtuvieron mediciones antropométricas y evaluaciones de QoL antes de la aleatorización y cada 6 meses durante 3 años. 
+Doscientos veinte pacientes fueron evaluables en un año. 
+La intervención aumentó la puntuación de SF36 en 9.5 puntos (p=0.000006), 4.6 (p=0.032 ) y 6.2 (p=0.028 ) respectivamente en 6, 12 y 24 meses. 
+En el caso de los que no lo hayan hecho, los que no lo hayan hecho serán los que no lo harán, los que no lo harán serán los que no lo harán. 
+La puntuación de ansiedad fue reducida brevemente por la intervención (6 meses ES=-0.24 [ -0.42 ; -0.05 ] ) y la puntuación de depresión más duradera: ES=-0.45 [ -0.72 ; -0.18 ], -0.34 [ -061 ; -0.08 ], y -0.26 [ -0.63 ; 0.11 ] a los 6, 12 y 24 meses. 
+Esta intervención de grupo de 2 semanas parecía influir de forma duradera en el QoL de los pacientes con cáncer de mama tratados con quimioterapia. 
+Las diferencias, más pequeñas a los 12 meses que a los seis, sugieren que una segunda pero más corta intervención podría ayudar a mantener los beneficios de 6 meses. 
+Para evaluar la toxicidad, los resultados funcionales y la calidad de vida relacionada con la salud asociada con la terapia concomitante de quimioradición (CRT) en pacientes con cáncer de cabeza y cuello. 
+Estudio de resultados prospectivos y retrospectivos. 
+Institución de Cuidado Terciario. 
+Participantes en el Proyecto de Evaluación de Resultados Longitudinales cuyo cáncer de cabeza y cuello fue tratado con CRT entre el 1 de febrero de 2000 y el 1 de marzo de 2007 (n = 104). 
+Los pacientes prospectivamente proporcionaron información sobre la calidad de vida funcional y relacionada con la salud, incluyendo datos de las visitas de seguimiento de 1 año y más recientes. 
+Los registros médicos fueron revisados para determinar la toxicidad y las tasas de supervivencia. 
+Toxicidades agudas y tardías bien definidas; resultados funcionales (dieta, dentición, traqueostomías); cáncer específico de cabeza y cuello, resultados de salud general y depresión; y tasas de supervivencia. 
+La mayoría de los pacientes tenían tumores orofaríngeos o laríngeos (87,5 %) y enfermedades avanzadas (75,0 %). 
+Aproximadamente la mitad tuvieron toxicidad hematológica y retrasos en el tratamiento relacionados con la toxicidad. 
+Aproximadamente una cuarta parte tenía neurotoxicidades y/o ototoxicidades, desquamación húmeda, neumonía, náuseas y vómitos que requerían hospitalización o fluidos intravenosos, deshidratación o malnutrición que requerían hospitalización, y fiebre leve o moderada. 
+Aunque los pacientes que recibieron el protocolo actual de radiación modulada de intensidad (IMRT) utilizando el sistema de planificación Pinnacle ( 3 ) tuvieron más retrasos en el tratamiento relacionados con la toxicidad, tuvieron menos toxicidades y mejores resultados de calidad de vida relacionados con la salud y la función en comparación con aquellos que recibieron la radiación lateral opuesta-campo convencional o el protocolo inicial IMRT utilizando el mejor sistema de planificación nomos PEACOCK. 
+Los pacientes que reciben CRT experimentan un número sustancial de eventos adversos relacionados con el tratamiento, afectando principalmente a la función orofaríngea y laríngea, con mejoras notadas para el protocolo IMRT actual. 
+La mejora de la rehabilitación dental y la inclusión de evaluaciones con los patólogos de habla y la ingestión antes y durante el tratamiento pueden mejorar los resultados del paciente. 
+Para evaluar la combinación del antagonista de la gastrina Z-360 y la gemcitabina para el cáncer pancreático avanzado. 
+Los pacientes previamente no tratados con PC fueron asignados aleatoriamente a Z-360 120 mg, 240 mg o placebo. 
+Z-360/placebo se administró en el día 3 y gemcitabina 1000 mg/m2 comenzó en el día 1 seguido de Z-360 en el día 2. 
+Luego se administró Z-360/placebo dos veces al día simultáneamente con la dosis estándar de gemcitabina. 
+La farmacocinética de ambos fármacos se midió sola y en combinación. 
+También se registraron la toxicidad, la respuesta y la calidad de vida. 
+Treinta y tres pacientes con una edad media de 62 años fueron aleatorizados, de los cuales seis tenían enfermedad localmente avanzada y 26 tenían enfermedad metastásica. 
+El análisis del área de la concentración plasmática frente a la curva de tiempo (AUC), la concentración máxima observada (Cmax) y el tiempo de la concentración máxima observada (Tmax) para Z-360, gemcitabina y 2,2-difluorodeoxiridina (dFdU), no pudo excluir un efecto sobre la exposición sistémica a Z-360, gemcitabina y dFdU cuando la administración concomitante de Z-360 y gemcitabina se comparó con la administración de un solo agente. 
+Los eventos adversos más frecuentemente reportados fueron náuseas, dolor abdominal, vómitos y fatiga. 
+Al final del estudio, el 62.5%, el 25% y el 60% tenían enfermedad estable en el grupo de 120 mg, 240 mg y placebo, respectivamente. 
+Una mayor proporción de pacientes en los grupos Z-360 informó de una mejora en el dolor. 
+Z-360 es seguro y bien tolerado cuando se combina con gemcitabina. 
+Se necesita un ensayo de fase III para determinar si la combinación de Z-360 y gemcitabina es superior a la gemcitabina sola en PC avanzado. 
+La etoposida oral es un agente único activo en el cáncer de pulmón de células pequeñas (SCLC) y se prescribe ampliamente como tratamiento de primera línea como alternativa a la quimioterapia combinada intravenosa en pacientes con enfermedad extensiva. 
+La intención de este estudio era determinar si los efectos de la terapia oral con etoposida en la supervivencia y la calidad de vida son equivalentes a los de la quimioterapia intravenosa. 
+En un ensayo aleatorizado de tratamiento paliativo en SCLC avanzado, etoposida oral (100 mg administrados dos veces al día durante 5 días) se comparó con quimioterapia intravenosa que consistía en ciclos alternativos de cisplatina y etoposida (PE) y ciclofosfamida, doxorubicina y vincristina (CAV). 
+Se administraron seis ciclos de quimioterapia cada 21 días en ambos regímenes. 
+El control de los síntomas y la calidad de vida se medieron con la lista de control de síntomas de Rotterdam y una tarjeta diaria. 
+En enero de 1996, después de que 155 pacientes habían sido asignados aleatoriamente de una ingesta proyectada de 365 pacientes, un Comité de Monitorización de Datos independiente examinó los resultados intermedios. 
+La supervivencia fue determinada por el método Kaplan-Meier, y la prueba logrank se utilizó para comparar los tratamientos. 
+Para comparaciones de calidad de vida, se calcularon las puntuaciones medias para cada punto de tiempo. 
+La prueba de Mann-Whitney U se utilizó para determinar cualquier diferencia global significativa entre los tratamientos. 
+Para la lista de control de síntomas de Rotterdam, se realizaron análisis separados para cada subconjunto (benestar psicológico, síntomas físicos, síntomas de cáncer de pulmón, síntomas de tratamiento, actividad y calidad de vida). 
+Las tasas de respuesta y las puntuaciones de toxicidad se compararon utilizando chi2. 
+Todas las pruebas estadísticas fueron bidireccionales. 
+La supervivencia fue inferior a 1 año en el grupo de etoposídeos orales en comparación con la terapia intravenosa (9,8 % para la terapia oral versus 19,3 % para la intravenosa; diferencia = 9,5 %; 95 % de diferencia de intervalo de confianza = 0,3 % -18,7 %; P < 0,05), y hubo una tendencia hacia una supervivencia general inferior. 
+La supervivencia mediana fue de 4,8 meses para el tratamiento oral y 5,9 meses para la terapia intravenosa. 
+La supervivencia sin progresión fue peor en el brazo etoposida oral (mediano = 3,6 meses versus 5,6 meses; P < 0,001), así como la tasa de respuesta general ( 32,9 % versus 46,3 %; P < 0,01). 
+Con la excepción de náuseas agudas y vómitos asociados con la quimioterapia intravenosa, todos los aspectos del control de los síntomas y la calidad de vida fueron iguales o peores en el grupo de etoposida oral. 
+Se recomienda el cierre del estudio. 
+Estos resultados intermedios muestran que este esquema de etoposida oral es inferior a la quimioterapia intravenosa en el tratamiento de SCLC avanzada y no debe utilizarse como tratamiento de primera línea de esta enfermedad. 
+Evaluar los efectos de la medicina china (CM) música de cinco elementos en la calidad de vida de los pacientes de cáncer avanzado mayores y no mayores. 
+Con un ensayo controlado aleatorio, 170 pacientes con cáncer avanzado fueron asignados aleatoriamente a tres grupos: el grupo de música CM de cinco elementos (68 pacientes), el grupo de terapia de música occidental (68 casos) y el grupo de terapia sin música (34 casos). 
+Todos los pacientes de 70 años o más fueron considerados ancianos y los pacientes restantes menores de 70 años fueron considerados no ancianos. 
+Los pacientes en el grupo de música CM de cinco elementos escucharon música CM de cinco elementos, los pacientes en el grupo de música occidental escucharon música occidental, y los pacientes en el grupo sin música no escucharon música. 
+Un curso de tratamiento fue de 3 semanas, con 30 minutos cada día, 5 días a la semana. 
+El índice de calidad de vida de Hospice-Revised (HQOLI-R) y la puntuación de rendimiento de Karnofsky (KPS) fueron medidos en los tres grupos antes y después del tratamiento. 
+La puntuación diaria de síntomas se midió en los tres grupos cada 3 días, 7 veces en total. 
+El grupo de música CM de cinco elementos mostró una diferencia significativa de HQOLI-R, KPS y puntuación diaria de síntomas con otros grupos (todos P < 0,01). 
+Hubo diferencias significativas de HQOLI-R, puntuación diaria de síntomas y KPS después del tratamiento en el grupo de música CM de cinco elementos y otros grupos en el subgrupo no senior ( P < 0,05 ). 
+Además, hubo diferencias significativas en HQOLI-R y KPS después del tratamiento entre los tres grupos en el subgrupo senior ( P < 0,05 ). 
+La terapia musical de cinco elementos de CM podría mejorar la calidad de vida y la KPS para pacientes de cáncer avanzado de edad avanzada y no avanzada, y podría mejorar los síntomas subjetivos para pacientes de cáncer avanzado de edad avanzada. 
+Bacillus Calmette-Guérin y la quimioterapia intravesical representan opciones adjuvantes viables para el cáncer de vejiga invasivo no muscular de riesgo intermedio. 
+Aunque el bacilo Calmette-Guérin se percibe como menos tolerable que la quimioterapia intravesical, a nuestro conocimiento ningún estudio comparativo ha abordado problemas de calidad de vida. 
+Comparamos la calidad de vida de los pacientes con cáncer invasivo de vejiga no muscular que recibieron gemcitabina intravesical adjuvante o 1/3 dosis de bacilo Calmette-Guérin. 
+Nuestro estudio multicéntrico, prospectivo, aleatorio, de fase II incluyó a 120 pacientes con riesgo intermedio de cáncer invasivo de vejiga no muscular. 
+De estos pacientes, 88 permanecieron evaluables después de un año de seguimiento. 
+Sólo un paciente fue retirado debido a eventos adversos. 
+En total, 61 pacientes recibieron 2.000 mg/50 cc de gemcitabina semanalmente durante 6 semanas (entrenamiento mensual durante 1 año) mientras que 59 recibieron 1/3 dosis de bacilo Calmette-Guérin Connaught semanalmente durante 6 semanas (entrenamiento 3 instilaciones semanales a los 3, 6 y 12 meses). 
+La calidad de vida se midió a través de los cuestionarios EORTC QLQ-C30 (European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 versión 3.0) y QLQ-BLS24 (Quality of Life Superficial Bladder Cancer-Specific 24). 
+Las diferencias de grupo se calcularon utilizando ANOVA (ANOVA/MANOVA). 
+El tratamiento fue bien tolerado en ambos grupos, aunque se reportaron efectos secundarios locales y sistémicos con mayor frecuencia en el brazo del bacilo Calmette-Guérin. 
+Los análisis multivariados no mostraron diferencias significativas entre los dos grupos en todas las dimensiones de calidad de vida. 
+No se detectaron cambios significativos con el tiempo en los dominios de calidad de vida en pacientes con bacilo Calmette-Guérin y gemcitabina, excepto en el funcionamiento físico, que disminuyó significativamente en ambos grupos (p = 0,002). 
+No se detectaron diferencias significativas en términos de recurrencia y progresión entre los dos grupos en el seguimiento de 1 año. 
+Mientras que se detectó una mayor tasa de efectos secundarios, aunque leves a moderados, con 1/3 dosis de bacilo Calmette-Guérin en comparación con gemcitabina, nuestro estudio no mostró diferencias significativas entre los dos fármacos en términos de calidad de vida. 
+Para evaluar la eficacia y la seguridad del trastuzumab de primera línea, de un solo agente en mujeres con cáncer de mama metastásico HER2. 
+Catorce mujeres con cáncer de mama metastático HER2 sobreexpresivo fueron aleatoriamente clasificadas para recibir tratamiento de primera línea con trastuzumab 4 mg/kg dosis de carga, seguida de 2 mg/kg semanalmente, o una dosis de carga superior a 8 mg/kg, seguida de 4 mg/kg semanalmente. 
+La tasa de respuesta objetiva fue del 26% (intervalo de confianza del 95%, entre el 18,2% y el 34,4%), con siete respuestas completas y 23 respuestas parciales. 
+Las tasas de respuesta en 111 pacientes evaluables con 3+ y 2+ HER2 sobreexpresión por inmunohistocemia (IHC) fueron del 35 % (IC 95 %, 24.4 % a 44.7 %) y ninguno (IC 95 %, 0 % a 15.5 %), respectivamente. 
+Las tasas de beneficio clínico en pacientes evaluables con sobreexpresión de HER2 3+ y 2+ fueron 48% y 7% respectivamente. 
+Las tasas de respuesta en 108 pacientes evaluables con y sin amplificación del gen HER2 por análisis de la hibridación fluorescente in situ (FISH) fueron 34 % (IC 95 %, 23,9 % a 45,7 %) y 7 % (IC 95 %, 0,8 % a 22,8 %), respectivamente. 
+17 ( 57 % ) de los 30 pacientes con respuesta objetiva y 22 ( 51 % ) de los 43 pacientes con beneficio clínico no experimentaron progresión de la enfermedad en el seguimiento a los 12 meses o más tarde. 
+Los eventos adversos más comunes relacionados con el tratamiento fueron resfriados (25 % de los pacientes), astenia (23 %), fiebre (22 %), dolor (18 %) y náuseas (14 %). 
+La disfunción cardíaca ocurrió en dos pacientes (2 %); ambos tenían antecedentes de enfermedad cardíaca y no requerían intervención adicional después de la interrupción del trastuzumab. 
+No hubo evidencia clara de una relación dosis-respuesta para la respuesta, supervivencia o eventos adversos. 
+El trastuzumab de un solo agente es activo y bien tolerado como tratamiento de primera línea de mujeres con cáncer de mama metastático con sobreexpresión de HER2 3+ por IHC o amplificación de genes por FISH. 
+Investigamos la influencia de la conservación del cuello de la vejiga en la incontinencia urinaria, la calidad de vida y los márgenes quirúrgicos después de la prostatectomía radical. 
+Un total de 208 hombres que se presentaron para la prostatectomía radical fueron aleatoriamente clasificados para completar la conservación del cuello de la vejiga con anastomosis uretral subsequente o sin conservación como controles. 
+Los pacientes con falta de conservación del cuello de la vejiga no fueron incluidos en el estudio. 
+Documentamos la continencia objetiva con la prueba de 24 horas, la continencia social con el número de pads por día y los resultados de calidad de vida con el cuestionario de calidad de vida de la incontinencia validado en un solo entorno ciego. 
+La resección del cáncer se evaluó por el estado de margen quirúrgico. 
+A 0, 3, 6 y 12 meses, la pérdida media de orina en el grupo de control vs. el grupo de conservación del cuello de la vejiga fue de 713,3 vs. 237,0, 49,6 vs. 15,6, 44,4 vs. 5,5 y 25,4 vs. 3,1 gm, respectivamente ( cada p < 0,001 ). 
+A los 3, 6 y 12 meses en el grupo de control vs. el grupo de conservación, la tasa de continencia social fue de 55,3% vs. 84,2% (p < 0,001), 74,8% vs. 89,5% (p = 0,05) y 81,4% vs. 94,7% (p = 0,027), y la puntuación de calidad de vida fue de 80,4 vs. 90.3 (p < 0,001), 85,4 vs. 91,7 (p = 0,016) y 86.0 vs. 93,8 (p = 0,001), respectivamente. 
+Notamos significativamente menos pérdida de orina, mayores tasas de incontinencia objetiva y social, y mejores puntuaciones de calidad de vida después de la conservación completa del cuello de la vejiga en todos los puntos de seguimiento. 
+En el análisis de regresión logística múltiple, la conservación completa del cuello de la vejiga fue un predictor positivo independiente de la continencia. 
+No se encontraron diferencias significativas en el estado de margen quirúrgico entre los grupos de control y de conservación del cuello de la vejiga (12,5% vs. 14,7%, p = 0,65). 
+En lo que es a nuestro conocimiento el primer ensayo prospectivo, aleatorio, controlado, ciego único, la conservación completa del cuello de la vejiga durante la prostatectomía radical se asoció con una tasa de incontinencia urinaria significativamente mayor y una mayor satisfacción del paciente sin comprometer los márgenes de resección. 
+Docetaxel administrado cada 3 semanas es un tratamiento estándar para el cáncer de próstata avanzado resistente a la castración. 
+Hipotetizamos que la administración de dos semanas de docetaxel sería mejor tolerada que la de tres semanas de docetaxel en pacientes con cáncer de próstata avanzado resistente a la castración, y realizamos un estudio prospectivo, multicéntrico, aleatorizado, de fase 3 para comparar la eficacia y la seguridad. 
+Los pacientes elegibles tenían cáncer de próstata avanzado (metástasis, un resultado de prueba de antígeno específico de próstata de más de 10·0 ng/mL, y puntuación de estado de desempeño de la OMS de 0-2), no habían recibido quimioterapia (excepto con estramustina), habían sido sometidos a castración quirúrgica o química, y habían sido referidos a un centro de tratamiento en Finlandia, Irlanda o Suecia. 
+La inscripción y el tratamiento se realizaron entre el 1 de marzo de 2004 y el 31 de mayo de 2009. 
+La aleatorización se realizó centralmente y estratificada por el centro y la OMS puntuación de rendimiento de 0-1 vs 2. 
+A los pacientes se les asignó 75 mg/m2 de docetaxel por vía intravenosa el día 1 de un ciclo de 3 semanas, o 50 mg/m2 de docetaxel por vía intravenosa los días 1 y 15 de un ciclo de 4 semanas. 
+Se administraron 10 mg de prednisolona oral diariamente a todos los pacientes. 
+El punto final primario fue el fracaso del tiempo de tratamiento (TTTF). 
+Hemos evaluado los datos en la población por protocolo. 
+177 pacientes fueron asignados aleatoriamente al grupo docetaxel de 2 semanas y 184 al grupo docetaxel de 3 semanas. 
+170 pacientes en el grupo de 2 semanas y 176 en el grupo de 3 semanas fueron incluidos en el análisis. 
+La administración de 2 semanas se asoció con TTTF significativamente más largo que la administración de 3 semanas (5·6 meses, 95% CI 5·0-6·2 vs 4·9 meses, 4·5-5·4; relación de riesgo 1·3, 95% CI 1·1-1·6, p=0·014). 
+Los eventos adversos de grado 3-4 ocurrieron con más frecuencia en el grupo de administración de 3 semanas que en el grupo de administración de 2 semanas, incluyendo neutropenia (93 [ 53 % ] vs 61 [ 36 % ] ), leucopenia ( 51 [ 29 % ] vs 22 [ 13 % ] ) y neutropenia febril ( 25 [ 14 % ] vs seis [ 4 % ] ). 
+Las infecciones neutropenicas se reportaron con mayor frecuencia en pacientes que recibieron docetaxel cada 3 semanas (43 [24 %] vs. 11 [6 %], p=0·002). 
+La administración de docetaxel cada 2 semanas parece ser bien tolerada en pacientes con cáncer de próstata avanzado resistente a la castración y podría ser una opción útil cuando la administración de una dosis única cada 3 semanas es poco probable que sea tolerada. 
+Para los pacientes con cáncer gástrico o gastroesofágico avanzado (AGGEC), proporcionar beneficio clínico con paliación mejorada es altamente deseable. 
+Sin embargo, una evaluación prospectiva del beneficio clínico en pacientes con AGGEC nunca ha sido reportada antes en un entorno de fase III. 
+En un ensayo multinacional (V325), 445 pacientes fueron asignados aleatoriamente y tratados con docetaxel plus cisplatin y fluorouracil (DCF) o cisplatin y fluorouracil (CF). 
+El beneficio clínico fue evaluado prospectivamente en este ensayo como un punto final secundario. 
+La medida primaria para el análisis de beneficio clínico fue el tiempo de deterioro definitivo por una o más categorías del estado de desempeño de Karnofsky (KPS). 
+Los puntos finales secundarios de beneficio clínico incluyeron el tiempo hasta la pérdida de peso definitiva del 5%, el tiempo hasta la deterioración definitiva del apetito por un grado, la supervivencia sin dolor (definida como el tiempo hasta la primera aparición del dolor) y el tiempo para la primera ingesta de opioides relacionados con el dolor del cáncer. 
+Las evaluaciones de beneficio clínico se registraron en cada visita a la clínica. 
+Se realizaron evaluaciones de beneficio clínico en más del 75% de los pacientes en todo el V325. 
+DCF prolongó significativamente el tiempo hasta el deterioro definitivo de KPS en comparación con CF (mediano, 6,1 v 4,8 meses; relación de peligro, 1,38; CI del 95%, 1,08 a 1,76; log-rank P =.009). 
+Aunque el tiempo para la pérdida de peso definitiva y el tiempo para el deterioro definitivo del apetito favorecieron la DCF, los resultados no fueron estadísticamente significativos. 
+La supervivencia sin dolor y el tiempo hasta la primera ingesta de opioides relacionados con el dolor del cáncer fueron comparables. 
+Según nuestro conocimiento, V325 es el primer ensayo de fase III para reportar beneficio clínico en pacientes con AGGEC. 
+Se evaluó el beneficio clínico más allá de la quimioterapia específica del protocolo. 
+La adición de D a CF no solo mejoró significativamente el beneficio clínico, sino que también mejoró la calidad de vida, el tiempo de progresión y la supervivencia general en comparación con CF. 
+La adición del inhibidor de mTOR everolimus (EVE) a exemestano (EXE) se evaluó en un estudio internacional de fase 3 (BOLERO-2) en pacientes con cáncer de mama hormonal-receptor-positivo (HR+) refractor al letrozol o anastrozol. 
+La seguridad y la eficacia de los tratamientos anticancerígenos pueden ser influenciadas por la etnia ( Sekine et al. 
+en Br J Cáncer 99:1757-62, 2008 ). 
+Se han reportado resultados de seguridad y eficacia de pacientes asiáticos versus no asiáticos en Bolero-2. 
+Los pacientes fueron randomizados (2:1) a 10 mg/día de EVE + EXE o placebo (PBO) + EXE. 
+El punto final primario fue la supervivencia sin progresión (PFS). 
+Los puntos finales secundarios incluyeron la supervivencia general, la tasa de respuesta, la tasa de beneficio clínico y la seguridad. 
+De los 143 pacientes asiáticos, 98 recibieron EVE + EXE y 45 recibieron PBO + EXE. 
+El tratamiento con EVE + EXE mejoró significativamente la mediana de PFS versus PBO + EXE entre los pacientes asiáticos en un 38% (HR = 0,62; CI 95%, 0,41-0.94). 
+La PFS mediana también se mejoró entre los pacientes no asiáticos en un 59% (HR = 0,41; CI 95%, 0,33-0,50). 
+La duración media de la PFS entre los pacientes asiáticos tratados con EVE fue de 8,48 versus 4,14 meses para PBO + EXE, y 7,33 versus 2,83 meses, respectivamente, en pacientes no asiáticos. 
+Los eventos adversos más comunes de grado 3/4 (estomatitis, anemia, elevados niveles de enzimas hepáticas, hiperglicemia y dispneas) ocurrieron con frecuencias similares en pacientes asiáticos y no asiáticos. 
+La enfermedad pulmonar intersticial de grado 1/2 ocurrió con más frecuencia en pacientes asiáticos. 
+La calidad de vida fue similar entre los brazos de tratamiento en pacientes asiáticos. 
+La adición de EVE a EXE proporcionó un beneficio clínico sustancial en pacientes asiáticos y no asiáticos con perfiles de seguridad similares. 
+Esta combinación representa una mejora en el manejo de las mujeres postmenopáusicas con cáncer de mama avanzado HR ( + ) / HER2 ( - ) progresando en inhibidores de la aromatasa no esteroideos, independientemente de la etnia. 
+Los pacientes mayores, incluso si son aptos, a menudo se consideran incapaces de tolerar la terapia sistémica basada en platino. 
+Realizamos un análisis retrospectivo del Eastern Cooperative Oncology Group (ECOG) 5592, un ensayo aleatorio de fase III de regímenes de quimioterapia basados en platino para el cáncer de pulmón de células no pequeñas (NSCLC), y comparamos los resultados en participantes de 70 años de edad o más con los de pacientes más jóvenes. 
+ECOG realizó un ensayo aleatorio de fase III de cisplatina más etoposida o paclitaxel en pacientes NSCLC inoculados con quimioterapia con enfermedad de estadio III (B) o IV. 
+Los efectos tóxicos, las tasas de respuesta y las tasas de supervivencia se compararon entre los grupos de edad. 
+Todos los valores de P eran bidireccionales. 
+Un total de 574 pacientes inscritos desde agosto de 1993 hasta diciembre de 1994 fueron evaluables. 
+Ochocientos seis (15%) tenían 70 años de edad o más. 
+Los pacientes mayores tenían una incidencia más alta de comorbididades cardiovasculares (P =.009) y respiratorias (P =.04) y el uso de medicamentos no analgésicos (P =.02). 
+La leucopenia (P <.001 ) y la toxicidad neuropsiquiátrica (P = 002) fueron más comunes en hombres mayores que en hombres más jóvenes. 
+Las mujeres mayores perdieron más peso que las mujeres más jóvenes (P = 006). 
+Otros efectos tóxicos fueron similares en pacientes mayores y más jóvenes. 
+Las proporciones con respuesta clínica parcial o completa (21,5% vs. 23,3%; prueba exacta de Fisher, P = 66), tiempo mediano a la progresión ( 4,37 vs. 4,30 meses; prueba de log-rank, P = 29) y distribución de supervivencia ( prueba de log-rank, P = 29; supervivencia mediana, 9.05 vs. 8,53 meses; supervivencia de 1 año, 38% vs. 29%; y supervivencia de 2 años, 14% vs. 12%) fueron similares en pacientes menores de 70 años y 70 años de edad o mayores. 
+Los índices de base de calidad de vida y de resultado del tratamiento eran similares. 
+La disminución equivalente en el tiempo en el bienestar funcional ocurrió en ambos grupos. 
+La tasa de respuesta, la toxicidad y la supervivencia en forma, los pacientes mayores con NSCLC que reciben tratamiento basado en platino parecen ser similares a los de los pacientes más jóvenes, aunque los pacientes de 70 años o más tienen más comorbidades y pueden esperar más leucopenia y toxicidad neuropsiquiátrica. 
+La edad avanzada por sí sola no debe impedir el tratamiento adecuado de la NSCLC. 
+Investigar el efecto de dos dosis de acetato de megestrol (MA) en comparación con el placebo en la calidad de vida (QoL) y el estado nutricional (NS) en pacientes con cáncer endocrino insensible avanzado. 
+Doscientos cuarenta pacientes fueron aleatoriamente clasificados en dos dosis de MA 480 mg/día, MA 160 mg/día o placebo por 12 semanas. 
+El estado nutricional (incluyendo peso, espesor de la piel y circunferencia del brazo) y QoL (utilizando 6 escalas de autoevaluación analógica lineal (LASA) ) se evaluaron a la aleatoriedad y después de cuatro, ocho y 12 semanas. 
+También se utilizó una clasificación de QoL que incorporaba QoL y muerte que variaba de 1 = muerto a 5 = mucho mejor QoL. 
+Un centésimo setenta y cuatro pacientes fueron evaluables en la semana cuatro, 136 en la semana ocho y 103 pacientes en la semana 12. 
+Los pacientes que recibieron MA reportaron un apetito sustancialmente mejor ( P = 0,001 ), estado de ánimo ( P = 0,001 ) y calidad de vida general ( P < 0,001 ), y posiblemente menos náuseas y vómitos ( P = 0,08 ) que los pacientes que recibieron placebo, basado en una prueba de tendencia. 
+Se vio un mayor beneficio con la dosis más alta que (a diferencia de la dosis más baja) fue significativamente mejor en comparaciones en pareja con el placebo para el apetito, el estado de ánimo y el QoL general ( cada P < o = 0,001 ). 
+A pesar de que faltaban algunos datos sobre las puntuaciones de QoL, el ranking de QoL estaba disponible en 227 (95%) de los pacientes con una puntuación de QoL significativamente mayor asociada con la MA (P = 0,002). 
+Las mejoras en QoL ocurrieron a principios de cuatro semanas y se mantuvieron. 
+No se observaron diferencias estadísticamente significativas en las mediciones de NS, incluido el peso (P = 0,29). 
+Los efectos secundarios de la terapia fueron menores y no difirieron significativamente entre los tratamientos. 
+El acetato de megestrol administrado a 480 mg/día es útil para la paliación en pacientes con cáncer avanzado endocrino-insensible. 
+Mejora el apetito, el estado de ánimo y la calidad general de vida en estos pacientes, aunque no a través de un efecto directo en el estado nutricional. 
+Suramin es un agente novedoso que ha demostrado evidencia preliminar de actividad antitumoral en el cáncer de próstata hormonal refractario (HRPC). 
+Un ensayo clínico aleatorio prospectivo fue diseñado para evaluar el dolor y la ingesta analgésica de opioides como sustitutos para la respuesta antitumoral en pacientes con HRPC con dolor significativo, analgésico-dependiente de opioides. 
+Un ensayo doble ciego, controlado con placebo aleatoriamente a pacientes a recibir un régimen de 78 días, ambulatorio de suramina más hidrocortisona (HC, 40 mg/d) o placebo más HC. 
+La asignación del tratamiento fue invisible cuando ocurrió la progresión de la enfermedad o la toxicidad limitante de la dosis; a los pacientes con placebo se les permitió pasar a la suramina de etiqueta abierta más HC. 
+Además de la ingesta de dolor y analgésicos opioides, se compararon la respuesta del antígeno específico de la próstata (PSA), el tiempo de progresión de la enfermedad, la calidad de vida, el estado de rendimiento y la supervivencia. 
+Las reducciones medias globales en el dolor combinado y la ingesta analgésica de opiáceos fueron mayores para la suramina más HC (sumario P =.0001). 
+La respuesta al dolor se logró en una proporción mayor de pacientes que recibieron suramina que placebo ( 43 % v 28 %; P =.001) y la duración de la respuesta fue más larga para los respondedores de suramina (mediano, 240 v 69 días; P =.0027). 
+El tiempo hasta la progresión de la enfermedad fue más largo (risco relativo = 1,5; intervalo de confianza del 95%, 1,2 a 1,9) y la proporción de pacientes con una disminución del PSA superior al 50% fue mayor ( 33% contra 16%; P =.01 ) en los pacientes que recibieron suramina. 
+Ni la calidad de vida ni el estado de rendimiento se redujeron por el tratamiento con suramina, y la supervivencia general fue similar. 
+La mayoría de los eventos adversos eran de intensidad leve o moderada y se gestionaban fácilmente médicamente. 
+El tratamiento ambulatorio con suramina y HC es bien tolerado y proporciona un beneficio paliativo moderado y retraso en la progresión de la enfermedad para pacientes con HRPC sintomático. 
+Para comparar vinflunina (VFL) con docetaxel en pacientes con cáncer de pulmón no de células pequeñas en el estadio IIIB/IV (NSCLC) que han experimentado un fallo del tratamiento con quimioterapia basada en platino de primera línea. 
+En un estudio de fase III multicéntrico, aleatorizado, 551 pacientes recibieron vinflunina 320 mg/m2 o docetaxel 75 mg/m2 cada 21 días hasta la progresión de la enfermedad o toxicidad grave. 
+El punto final primario fue la supervivencia sin progresión (PFS). 
+El análisis de no inferioridad se basó en una diferencia del 10 % (ratio de error tipo I/II: 5 %/20 %). 
+Los puntos finales secundarios incluyeron la tasa de respuesta (ORR), la duración de la respuesta, la supervivencia general (OS), el beneficio clínico, la calidad de vida (QOL) y la seguridad. 
+El PFS mediano fue de 2,3 meses para cada brazo ( HR, 1.004 ; CI 95 %, 0.841 a 1.199 ). 
+ORR, enfermedad estable, OS mediano, fueron 4.4% versus 5.5%, 36.0% versus 39.6%, 6.7 versus 7.2 meses ( HR, 0.973 ; 95% CI, 0.805 a 1.176 ), respectivamente. 
+No hay diferencia significativa en el beneficio del paciente y la evaluación funcional de la terapia del cáncer (QOL). 
+No se han observado eventos adversos inesperados. 
+Grado superior a 0 (vinflunina v docetaxel ) anemia ( 82.1 % v 79.8 % ), neutropenia ( 49.3 v 39.02 % ), trombocitopenia ( 30.6 % v 14.3 % ), neutropenia febril ( 3.3 % v 4.7 % ), estreñimiento ( 39.2 % v 11.7 % ), cansancio ( 36.6 % v 33.9 % ), reacción en el sitio de la inyección ( 31.9 % v 0.7 % ), náuseas ( 26.7 % v 23.7 % ), vómitos ( 23.8 % v 14.2 % ), alopecia ( 19.8 % v 35.4 % ), estomatis ( 19.4 % v 12.4 % ), dolor abdominal ( 20.1 % v 3.6 % ), mialgia ( 14.7 % v 6.6 % ) 
+Este estudio de fase III de no inferioridad mostró puntos finales de eficacia similares para vinflunina y docetaxel. 
+A pesar de las tasas más altas de algunos efectos adversos (anemia, dolor abdominal, estreñimiento, fatiga) el perfil general de toxicidad de vinflunina era manejable. 
+Por lo tanto, VFL puede ser otra opción en el tratamiento de segunda línea de pacientes con NSCLC avanzado. 
+Este ensayo randomizado, controlado con placebo, de un solo ciego, investigó la seguridad y la eficacia de SAMITAL®, una fórmula de extractos botánicos altamente estandarizados, en el tratamiento de la mucositis oral inducida por quimioterapia/radioterapia (OM) en pacientes con cáncer de cabeza y cuello. 
+Los pacientes recibieron SAMITAL® o placebo cuatro veces al día durante hasta 50 días durante la quimioterapia / radioterapia programada. 
+La gravedad de la OM se monitorizó según una escala de gravedad modificada de la OMS, y las evaluaciones del dolor y la calidad de vida se basaron en el efecto de los síntomas de la OM en las actividades diarias relevantes, según una escala analógica visual. 
+Las puntuaciones medias para la gravedad de la OM se redujeron significativamente (p < 0,05 versus base) desde el día 31 hasta el final del tratamiento en pacientes tratados con SAMITAL® (n = 20). 
+No se observó mejoría significativa en el grupo placebo (n = 10). 
+La reducción del dolor fue significativa desde el día 4 hasta el final del tratamiento con SAMITAL y desde los días 7 a 21 en los pacientes con placebo. 
+SAMITAL® también mejoró significativamente la calidad de vida, como lo demuestran las mejoras en las puntuaciones para las actividades diarias relevantes, como comer, beber y dormir. 
+Todos los pacientes de SAMITAL® completaron el período de tratamiento, pero ninguno de los receptores de placebo completó el tratamiento. 
+No se observaron efectos adversos graves con SAMITAL®, y la absorción sistémica de los ingredientes activos relevantes fue indetectable. 
+SAMITAL redujo significativamente la gravedad de la OM inducida por quemo/radioterapia en pacientes con cáncer de cabeza y cuello, sin efectos adversos relacionados con el tratamiento. 
+El alivio del dolor duró durante todo el período de tratamiento, y las mejoras en la calidad de vida se reflejaron en los beneficios significativos de SAMITAL® en actividades como beber, comer y hablar. 
+Los pacientes que desarrollan cáncer de próstata resistente a la castración (CRPCa) normalmente continúan en la terapia de privación de andrógenos (ADT). 
+Si estos pacientes necesitan permanecer en ADT no ha sido bien estudiado. 
+Hemos llevado a cabo un ensayo aleatorio multicéntrico para comparar un enfoque intermitente versus continuo a la TDAH en pacientes con CRPCa. 
+La supervivencia general, la calidad de vida relacionada con la salud (QOL) y el coste fueron los principales puntos finales. 
+Los pacientes con CRPCa fueron randomizados 2:1 a agonistas de hormona luteinizante de liberación intermitente o continua (LHRHa). 
+Los pacientes fueron seguidos con evaluaciones clínicas, investigaciones de laboratorio y cuestionarios QOL (EORTC QLQ-C30 o PROSQOLI) cada 2 meses. 
+Si la testosterona sérica subió por encima de los niveles de castrato (1,75 nmol / L), se reiniciaron los LHRHa. 
+El estudio fue diseñado para cerrar si > 50% de los pacientes necesitaban reiniciar la TDAH en el brazo intermitente. 
+Treinta y uno pacientes fueron seguidos con un seguimiento mediano de 26,8 meses-18 en el brazo intermitente y 13 en el continuo. 
+Doce de los 18 pacientes en el brazo intermitente fueron reiniciados con LHRHa en un tiempo mediano de 17,9 meses. 
+No hubo diferencia en la supervivencia general o específica del cáncer entre los dos brazos. 
+No hubo diferencias estadísticamente significativas en QOL entre los 2 brazos a 0 y 12 meses. 
+El coste promedio total en 24 meses fue significativamente menor en el brazo intermitente ($ 3135 vs. $ 8253 dólares canadienses, P=0.0167) en comparación con el continuo. 
+La principal limitación de este estudio es el pequeño tamaño de la muestra. 
+Hemos observado que el ADT intermitente en pacientes con CRPCa, utilizando una testosterona de > 1,75 ngmol/L como un desencadenante para reiniciar LHRHa, resulta en un ahorro de costes sustancial sin impacto negativo en los resultados oncológicos y de la col. 
+La terapia hormonal de la menopausia continúa en uso clínico, pero permanecen dudas sobre sus riesgos y beneficios para la prevención de enfermedades crónicas. 
+Para informar una visión general completa e integrada de los hallazgos de los ensayos de terapia hormonal de 2 Women's Health Initiative (WHI) con seguimiento extendido después de la intervención. 
+Un total de 27.347 mujeres postmenopáusicas de 50 a 79 años se inscribieron en 40 centros estadounidenses. 
+Las mujeres con un útero intacto recibieron estrógenos de caballo conjugados (CEE; 0,625 mg/d) más acetato de medroxyprogesterona (MPA; 2,5 mg/d) (n = 8506) o placebo (n = 8102). 
+Las mujeres con histerectomía anterior recibieron CEE solo (0,625 mg/d) (n = 5310) o placebo (n = 5429). 
+La intervención duró un mediano de 5,6 años en el ensayo CEE plus MPA y 7,2 años en el ensayo CEE solo con 13 años de seguimiento acumulativo hasta el 30 de septiembre de 2010. 
+Los resultados primarios de eficacia y seguridad fueron enfermedad coronaria cardíaca (CHD) y cáncer de mama invasivo, respectivamente. 
+Un índice global también incluyó accidente cerebrovascular, embolismo pulmonar, cáncer colorrectal, cáncer de endometrio, fractura de cadera y muerte. 
+Durante la fase de intervención CEE plus MPA, el número de casos de CHD fue 196 para CEE plus MPA vs 159 para placebo ( ratio de riesgo [ HR ], 1,18 ; 95% CI, 0,95-1.45 ) y 206 vs 155, respectivamente, para cáncer de mama invasivo ( HR, 1,24 ; 95% CI, 1,01-1.53 ). 
+Otros riesgos incluyen aumento del accidente cerebrovascular, embolismo pulmonar, demencia (en mujeres mayores de 65 años), enfermedad de la vesícula biliar y incontinencia urinaria; los beneficios incluyen disminución de las fracturas de cadera, diabetes y síntomas vasomotoros. 
+La mayoría de los riesgos y beneficios se dispersaron después de la intervención, aunque alguna elevación en el riesgo de cáncer de mama persistió durante el seguimiento acumulativo (434 casos para CEE más MPA vs 323 para placebo; HR, 1,28 [ 95% CI, 1,11-1.48 ]). 
+Los riesgos y beneficios fueron más equilibrados durante la intervención CEE sola con 204 casos de CHD para CEE solo vs 222 casos para placebo ( HR, 0.94; 95% CI, 0.78-1.14 ) y 104 vs 135, respectivamente, para cáncer de mama invasivo ( HR, 0.79; 95% CI, 0.61-1.02) ; acumulativamente, hubo 168 vs 216, respectivamente, casos de cáncer de mama diagnosticados ( HR, 0.79; 95% CI, 0.65-0.97 ). 
+Los resultados para otros resultados fueron similares a CEE plus MPA. 
+Ni el régimen afectó a la mortalidad por todas las causas. 
+Por CEE solo, las mujeres más jóvenes (de 50 a 59 años) tenían resultados más favorables para la mortalidad por todas las causas, el infarto del miocardio y el índice global (P nominal < 0,05 para la tendencia por edad). 
+Los riesgos absolutos de eventos adversos (medidos por el índice global) por 10.000 mujeres anualmente que toman CEE plus MPA variaron de 12 casos excesivos para las edades de 50-59 años a 38 para las edades de 70-79 años; para las mujeres que toman CEE solo, de 19 menos casos para las edades de 50-59 años a 51 casos excesivos para las edades de 70-79 años. 
+Los resultados de calidad de vida tuvieron resultados mixtos en ambos ensayos. 
+La terapia hormonal de la menopausia tiene un patrón complejo de riesgos y beneficios. 
+Los hallazgos de la intervención y el seguimiento extendido post-intervención de los 2 ensayos de terapia hormonal WHI no apoyan el uso de esta terapia para la prevención de enfermedades crónicas, aunque es adecuado para el manejo de síntomas en algunas mujeres. 
+Los sobrevivientes del cáncer colorrectal están en riesgo de malos resultados de salud debido a estilos de vida poco saludables, pero pocos estudios han desarrollado intervenciones traducibles para cambiar el comportamiento de la salud. 
+Este estudio tuvo como objetivo determinar los efectos de una intervención de cambio de comportamiento de salud múltiple ( CanChange ) entregada por teléfono en los resultados de salud y comportamiento entre los sobrevivientes del cáncer colorrectal. 
+En este ensayo controlado aleatorio de dos grupos, 410 sobrevivientes del cáncer colorrectal fueron asignados aleatoriamente a la intervención de entrenamiento de la salud (11 sesiones de entrenamiento de salud basadas en la teoría entregadas por teléfono entregadas durante 6 meses enfocándose en la actividad física, la gestión del peso, los hábitos dietéticos, el alcohol y el tabaquismo) o los cuidados habituales. 
+La evaluación de la actividad física primaria (es decir, el índice de tiempo de ocio de Godin), la calidad de vida relacionada con la salud (HRQoL; Forma corta-36) y la fatiga relacionada con el cáncer (Evaluación funcional de la Escala de Fatiga de la Terapia de Enfermedades Crónicas) y los resultados secundarios (es decir, el índice de masa corporal (kg/m2)), la ingesta de dieta y alcohol (cuestionario de frecuencia alimentaria) y el tabaquismo) se llevaron a cabo en los meses 6 y 12. 
+A los 12 meses, se observaron efectos de intervención significativos para la actividad física moderada (28,5 minutos; P = 0,003), el índice de masa corporal ( -0,9 kg/m2); P = 0,001), la energía de la grasa total ( -7,0 %; P = 0,006) y la energía de la grasa saturada ( -2,8 %; P = 0,016). 
+Se reportó un efecto de intervención significativo para la ingesta de verduras (0,4 porciones por día; P = 0,001) a los 6 meses. 
+No se encontraron diferencias significativas en el grupo a los 6 o 12 meses para HRQoL, fatiga relacionada con el cáncer, ingesta de frutas, fibra, o alcohol, o fumar. 
+La intervención de CanChange fue efectiva para mejorar la actividad física, los hábitos dietéticos y el índice de masa corporal en sobrevivientes de cáncer colorrectal. 
+La intervención se traduce a través de los servicios de apoyo telefónico y de información sobre el cáncer existentes en Australia y otros países. 
+La evaluación de la calidad de vida relacionada con la salud ( HRQoL ) y la mejora de los síntomas fueron objetivos secundarios preplanificados para la población general y análisis post-hoc para los subgrupos mutación-positivo/negativo del receptor del factor de crecimiento epidermico ( EGFR ) en IPASS. 
+HRQoL se evaluó utilizando la Evaluación Funcional de la Terapia del Cáncer-Lung ( FACT-L ) y el Índice de Resultados del Ensayo ( TOI ) ; mejora de los síntomas por la Subescala del Cáncer del Pulmón ( LCS ). 
+Mejoras definidas como: 6 o más (FACT-L; TOI), 2 o más (LCS) aumentos de puntos mantenidos durante 21 o más días. 
+En general (n = 1151/1217 evaluable), las tasas de mejora de HRQoL fueron significativamente mayores con gefitinib versus carboplatina/paclitaxel; las tasas de mejora de síntomas fueron similares para ambos tratamientos. 
+Significativamente más pacientes registraron mejoras en HRQoL y síntomas con gefitinib en el subgrupo de mutación-positivo EGFR (n = 259 ; FACT-L 70.2 % versus 44,5 % ; ratio de probabilidades, 3.01 [ 95 % intervalos de confianza, 1.79-5.07 ] ; p < 0.001 ; TOI 70.2 % versus 38.3 % ; 3.96 [ 2.33-6.71 ] ; p < 0.001 ; LCS 75.6 % versus 53.9 % ; 2.70 [ 1.58-4.62 ] ; p < 0.001 ), y con carboplatina/paclitaxel en el subgrupo de mutación-negativo EGFR ( n = 169 ; FACT-L 14.6 % versus 36.3 % ; ratio de probabilidades, 0.31 [ 0.15-0.65 ] ; p = 0. 
+El tiempo mediano de deterioro (meses) de la puntuación FACT-L fue más largo con gefitinib versus carboplatina/paclitaxel para la población general (8,3 versus 2,5) y el subgrupo EGFR mutación-positivo (15,6 versus 3,0), y similar para ambos tratamientos en el subgrupo EGFR mutación-negativo (1,4 versus 1,4). 
+El tiempo medio de mejora con gefitinib fue de 8 días en pacientes con tumores positivos a la mutación de EGFR que mejoraron. 
+HRQoL y los endpoints de síntomas fueron consistentes con los resultados de la eficacia en IPASS y favorecían gefitinib en pacientes con tumores positivos a la mutación de EGFR y carboplatina/paclitaxel en pacientes con tumores negativos a la mutación de EGFR. 
+En un ensayo clínico aleatorio en pacientes con cáncer de pulmón de células no pequeñas avanzado (NSCLC), la infusión con adenosina 5'-trifosfato (ATP) inhibió la pérdida de peso corporal y la calidad de vida. 
+En el presente artículo, se reportan los efectos del ATP en la composición corporal, la ingesta de energía y el gasto de energía como medidas secundarias de resultado en los mismos pacientes. 
+Los pacientes con NSCLC, etapa IIIB o IV, fueron aleatoriamente clasificados para recibir 10 infusiones intravenosas de ATP de 30 horas cada 2 a 4 semanas o sin ATP. 
+La masa grasa (FM), la masa libre de grasa (FFM) y el área muscular del brazo se evaluaron a intervalos de 4 semanas durante 28 semanas. 
+La ingesta de alimentos, la masa celular corporal (BCM) y el gasto energético en el descanso (REE) se evaluaron a intervalos de 8 semanas durante 16 semanas. 
+Las diferencias entre grupos fueron probadas para la significancia estadística mediante análisis de covarianza de mediciones repetidas. 
+Cincuenta y ocho pacientes fueron aleatorios (28 ATP, 30 control). 
+No se encontró ningún cambio en la composición corporal durante el período de seguimiento de 28 semanas en el grupo ATP, mientras que, por 4 semanas, el grupo control perdió 0,6 kg de FM ( P =.004), 0,5 kg de FFM ( P =.02), 1,8 % de la área muscular del brazo ( P =.02), y 0,6 % de BCM / kg de peso corporal ( P =.054 ) y disminuyó 568 KJ / d en ingesta de energía ( P =.0001 ). 
+El apetito también se mantuvo estable en el grupo ATP pero disminuyó significativamente en el grupo control (P =.0004). 
+No se observaron diferencias significativas en REE entre los grupos ATP y control. 
+La inhibición de la pérdida de peso por las infusiones de ATP en pacientes con NSCLC avanzado se atribuye a contrarrestar la pérdida de tejidos tanto metabólicamente activos como inactivos. 
+Estos efectos se atribuyen en parte al mantenimiento de la ingesta de energía. 
+Para evaluar si el tratamiento con docetaxel de un solo agente resultaría en una supervivencia más larga que la mejor atención de apoyo en pacientes con cáncer de pulmón de células no pequeñas que habían sido tratados previamente con quimioterapia basada en platino. 
+Los puntos finales secundarios incluyeron la evaluación de la respuesta (sólo el brazo de docetaxel), la toxicidad y la calidad de vida. 
+Los pacientes con estados de rendimiento de 0 a 2 y estadio IIIB/IV de cáncer de pulmón de células no pequeñas con lesiones medibles o evaluables eran elegibles para ingresar al estudio si se habían sometido a uno o más regímenes de quimioterapia basados en platino y si tenían parámetros de hematología y bioquímica adecuados. 
+Se excluyeron si tenían metástasis cerebrales sintomáticas o si habían sido tratados previamente con paclitaxel. 
+Los pacientes fueron estratificados por el estado de rendimiento y la mejor respuesta a la quimioterapia con cisplatina y luego fueron clasificados aleatoriamente para el tratamiento con docetaxel 100 mg/m ( 2 ) ( 49 pacientes ) o 75 mg/m ( 2 ) ( 55 pacientes ) o mejor atención de soporte. 
+Los pacientes en ambos brazos fueron evaluados cada 3 semanas. 
+Cientos y cuatro pacientes (103 de los cuales eran elegibles para ingresar al estudio) estaban bien equilibrados para los factores de pronóstico. 
+De los 84 pacientes con lesiones medibles, seis (7). 
+1 %) alcanzaron respuestas parciales (tres pacientes en cada nivel de dosis). 
+El tiempo hasta la progresión fue más largo para los pacientes con docetaxel que para los pacientes con la mejor atención de apoyo (10,6 v 6,7 semanas, respectivamente; P < 0,001), así como la supervivencia mediana (7,0 v 4,6 meses; prueba de log-rank, P = 0,047). 
+La diferencia fue más significativa en pacientes con docetaxel 75 mg/m2 (2), en comparación con los pacientes correspondientes de mejor cuidado de apoyo (7,5 v 4,6 meses; prueba de log-rank, P = 0,010; supervivencia de 1 año, 37 % v 11 %; prueba de chi (2), P = 003). 
+La neutropenia febril ocurrió en 11 pacientes tratados con docetaxel 100 mg/m2, tres de los cuales murieron, y en un paciente tratado con docetaxel 75 mg/m2. 
+La toxicidad no hematológica de grado 3 o 4, con la excepción de la diarrea, ocurrió a una tasa similar tanto en los grupos de docetaxel como en los de mejor cuidado de apoyo. 
+El tratamiento con docetaxel está asociado con una prolongación significativa de la supervivencia, y a una dosis de 75 mg/m2, los beneficios de la terapia con docetaxel superan los riesgos. 
+Se ha demostrado que los programas de recuperación mejorados (ERP) reducen la duración de la estancia en el hospital ( LOS) y las complicaciones en la cirugía colorrectal. 
+Si los ERP tienen los mismos beneficios en la cirugía de resección hepática abierta no está claro, y faltan ensayos clínicos aleatorios. 
+Pacientes consecutivos programados para la resección hepática abierta fueron aleatorios a un grupo de ERP o atención estándar. 
+Los puntos finales primarios fueron el tiempo hasta que esté médicamente apto para la descarga (MFD) y los. 
+Los puntos finales secundarios fueron la morbilidad postoperatoria, las puntuaciones de dolor, la tasa de readmisión, la mortalidad, la calidad de vida (QoL) y la satisfacción del paciente. 
+Los elementos de ERP incluyeron la educación preoperatoria mayor, la carga de carbohidratos orales preoperatorios, la terapia de fluidos orientada a objetivos postoperatorios, la movilización temprana y la fisioterapia. 
+Ambos grupos recibieron anestesia estandarizada con analgesia epidural. 
+El análisis incluyó a 46 pacientes en el grupo ERP y 45 en el grupo de cuidados estándar. 
+El tiempo mediano de MFD se redujo en el grupo ERP (3 días versus 6 días con cuidados estándar; P < 0·001), como fue LOS (4 días versus 7 días; P < 0·001). 
+El ERP redujo significativamente la tasa de complicaciones médicas (7 versus 27 por ciento; P = 0·020), pero no las complicaciones quirúrgicas (15 versus 11 por ciento; P = 0·612), las readmisiones (4 versus 0 por ciento; P = 0·153) o la mortalidad (ambos 2 por ciento; P = 0·987). 
+El QoL durante 28 días fue significativamente mejor en el grupo ERP (P = 0·002). 
+No había diferencias en la satisfacción del paciente. 
+ERP para cirugía de resección abierta del hígado son seguros y eficaces. 
+Los pacientes tratados en el ERP se recuperaron más rápido, fueron despedidos antes, y tenían menos complicaciones relacionadas con la medicina y mejoraron el QoL. 
+Aunque el deterioro cognitivo inducido por la quimioterapia es común entre los pacientes con cáncer de mama, la evidencia de intervenciones eficaces para abordar los déficits cognitivos es limitada. 
+Este ensayo controlado aleatorio examinó la viabilidad y la eficacia preliminar de un programa de Meditación de Sonido Tibetano (TSM) para mejorar la función cognitiva y la calidad de vida en pacientes con cáncer de mama. 
+Se reclutaron cuarenta y siete pacientes con cáncer de mama (edad media de 56,3 años), que estaban en el estadio I-III en el diagnóstico, 6-60 meses después de la quimioterapia, y reportaron deterioro cognitivo en la entrada del estudio. 
+Los participantes fueron aleatoriamente asignados a dos sesiones semanales de TSM durante 6 semanas o a un grupo de control de lista de espera. 
+Las evaluaciones neuropsicológicas se completaron en el punto de partida y un mes después del tratamiento. 
+Las medidas de auto-reporte de la función cognitiva (Evaluación Funcional de la Terapia del Cáncer (FACT) -Cog), la calidad de vida (SF-36), los síntomas depresivos (Centro de Estudios Epidemiológicos de Depresión Escala), el trastorno del sueño (Pittsburgh Sleep Quality Index), la fatiga (Breve Inventario de Fatiga) y la espiritualidad (FACT-Sp) fueron completados en la línea de partida, el final del tratamiento, y 1 mes después. 
+En comparación con el grupo control, las mujeres del grupo TSM realizaron mejores resultados en la prueba de memoria verbal (Test de Aprendizaje Verbal Auditorio Rey 1 ) ( p = 0,06 ) y la tarea de memoria a corto plazo y velocidad de procesamiento ( Digit Symbol ) ( p = 0,09 ) y reportaron mejoras en la función cognitiva ( p = 0,06 ), habilidades cognitivas ( p = 0,08 ), salud mental ( p = 0,04 ), y espiritualidad ( p = 0,05 ) al final del tratamiento pero no 1 mes después. 
+Este ensayo controlado aleatorio reveló que el programa TSM parece ser una intervención factible y aceptable y puede estar asociado con mejoras a corto plazo en la función cognitiva objetiva y subjetiva, así como la salud mental y la espiritualidad en pacientes con cáncer de mama. 
+La elección de la reconstrucción después de la gastrectomía y la importancia de la función residual restante es una cuestión de controversia. 
+Para ampliar los criterios para la elección del tratamiento, llevamos a cabo un ensayo clínico aleatorio prospectivo para determinar el impacto de los diversos procedimientos de gastrectomía en la calidad de vida. 
+Los pacientes consecutivos (n = 64) elegibles para la cirugía de cáncer gástrico curativo fueron aleatoriamente clasificados para tener una gastrectomía total (n = 31) o subtotal (n = 13) o una bolsa en forma de S jejunal (n = 20) implantada como un sustituto gástrico. 
+La evaluación de la calidad de vida se basó en una batería de cuestionarios que cubrieron tanto aspectos generales como específicos de la vida. 
+Los pacientes fueron evaluados por uno de los dos psiquiatras que fueron ciegos a la afiliación del grupo de los pacientes. 
+Las evaluaciones se realizaron en tres ocasiones: durante la semana anterior a la cirugía y 3 y 12 meses después de la intervención quirúrgica. 
+Las complicaciones postoperatorias y las tasas de mortalidad fueron similares en todos los grupos de tratamiento, con pocas complicaciones graves registradas. 
+Independientemente del tipo de tratamiento, los pacientes sufrieron de síntomas alimentarios y limitaciones funcionales en la vida cotidiana, mientras que su bienestar mental mejoró después de la cirugía. 
+Los pacientes que se sometieron a una gastrectomía subtotal tuvieron los mejores resultados, especialmente con respecto a las quejas de diarrea. 
+Los pacientes que recibieron un sustituto gástrico después de la gastrectomía no mostraron diferencia con aquellos que sólo tuvieron una gastrectomía total. 
+Concluimos que a pesar de las consecuencias adversas significativas que siguen a la gastrectomía, los pacientes se recuperan con un mejor estado mental. 
+Una reconstrucción de bolsillo después de la gastrectomía total no mejora la calidad de vida, pero una gastrectomía subtotal tiene ventajas que deben considerarse cuando el procedimiento es clínicamente viable. 
+Para evaluar el efecto de la epoetina alfa en la calidad de vida (QOL) en pacientes con tumores sólidos y anemia leve a moderada que reciben quimioterapia basada en platino en relación con las normas de la población. 
+En el estudio original, los pacientes (n = 316) con niveles de hemoglobina (Hb) < o = 12,1 g/dl fueron aleatoriamente clasificados 2:1 para recibir epoetina alfa en una dosis de 10.000 U tres veces por semana o mejor cuidado de apoyo (BSC) para comparar los efectos sobre el uso de transfusión, respuesta hematológica y QOL (medido por la Evaluación Funcional de la Terapia del Cáncer-Anemia [ FACT-An ] y Cancer Linear Analogue Scale [ CLAS ] ). 
+Los datos de QOL de este ensayo anteriormente reportado se reanalizaron aquí en relación con las normas de la población. 
+Las puntuaciones medias basales de QOL fueron similares entre los grupos. 
+Al finalizar el estudio, las puntuaciones medias de CLAS, FACT-An, FACT-An Anemia subescala y FACT-An Fatigue subescala fueron significativamente más altas para los pacientes que recibieron epoetina alfa que para los tratados con BSC. 
+En comparación con las normas de la población, ambos grupos habían disminuido el QOL en el punto de partida. 
+Las diferencias en las puntuaciones medias de cambio de QOL desde la base hasta el final del estudio para la epoetina alfa versus BSC fueron de 3,17 puntos para el FACT-General Total, 9,90 para la subescala FACT-An Fatigue y 7,30 para la subescala FACT-Anemia. 
+Esto fue equivalente a correcciones en los déficits de QOL atribuibles a la epoetina alfa del 97,3 %, 40,7 % y 38,0 % para las puntuaciones de FACT-General Total, FACT-An Fatigue y FACT-An Anemia, respectivamente, versus BSC. 
+Se observó un beneficio QOL ligeramente mayor para las subescalas FACT-An Fatigue y FACT-An Anemia en el subconjunto de pacientes con niveles basales de Hb > 10,5 g/dl. 
+Los pacientes en este estudio tenían un deterioro de QOL en comparación con las normas de la población. 
+El tratamiento temprano con epoetina alfa para corregir la anemia mejoró la LDL de una manera estadísticamente significativa y clínicamente significativa, y las mejoras fueron mayores en pacientes con niveles basales de Hb > 10,5 g/dl. 
+Observar el efecto de la medicina china (CM) regimen integral como la terapia de mantenimiento (MT) en el tiempo a la progresión (TTP) y la calidad de vida (QOL) de los pacientes con cáncer de pulmón de células no pequeñas avanzado (NSCLC). 
+El estudio fue un ensayo clínico prospectivo, aleatorio y controlado. 
+Cincuenta pacientes no progresivos con NSCLC avanzada que respondieron a la terapia de primera línea fueron aleatoriamente clasificados en el grupo de ensayo (25 casos, tratados con el régimen integral de CM: goteo intravenoso de la preparación de hierbas chinas, administración oral de la decocción de hierbas chinas, y aplicación puntual) y el grupo de control (25 casos, tratados con uno de los tres regímenes de quimioterapia de mantenimiento de agente único: pemetrexed (500 mg/m2, día 1), docetaxel ( 75 mg/m2, día 1) y gemcitabina ( 1000 mg/mi, día 1 y día 8) en una proporción de 1:1. 
+Cada ciclo consta de 21 días. 
+Los ciclos se repitieron hasta que la enfermedad progresó, o se produjo una reacción tóxica o adversa intolerable, o los pacientes se negaron a continuar el tratamiento. 
+El punto final primario era TTP y el punto final secundario era QOL. 
+El QOL se evaluó utilizando el cuestionario QLQ-LC43 de la Organización Europea para la Investigación y el Tratamiento del Cáncer (EORTC QLQ-LC43). 
+El TTP de cincuenta pacientes y el QOL de 43 pacientes habían sido analizados estadísticamente. 
+(1) El TTP en el grupo de ensayo se prolongó por 23 días en comparación con el del grupo control, con una diferencia insignificante ( 87 días vs 64 días, P=0.063). 
+( 2 ) Las puntuaciones de dominios en EORTC QLQ-LC43 fueron estadísticamente significativamente mejores en el grupo de ensayo que en el grupo control ( P < 0,05 ) excepto las funciones cognitivas y sociales, los síntomas de disfagia y el dolor en otras partes. 
+(1) El régimen integral de CM como MT tenía eficacia equivalente en TTP en comparación con el régimen de quimioterapia de mantenimiento con un solo agente. 
+Fue una ventaja sobre la mejora del QOL. 
+(2) Es necesario ampliar el tamaño de la muestra para confirmar aún más la eficacia terapéutica del régimen integral de CM como MT en el tratamiento de pacientes con NSCLC avanzado. 
+La proctocolectomía restaurativa con anastomosis de bolsillo anal ileal (IPAA) es el procedimiento quirúrgico estándar para la colitis ulcerativa (UC) y la poliposis adenomatosa familiar (FAP). 
+Mientras que las técnicas mínimamente invasivas se han aplicado cada vez más, no hay evidencia clara de la superioridad para los procedimientos de bolsillo laparoscópicos. 
+El objetivo del ensayo LapConPouch fue comparar la eficacia de la laparoscopia (LAP) versus el procedimiento de bolsillo ileoanal convencional (CON) en pacientes sometidos a proctocolectomía restaurativa electiva. 
+El ensayo fue diseñado como un ensayo randomizado, controlado preoperativo con un diseño de superioridad paralelo de dos grupos. 
+Elegibles para la participación fueron los pacientes programados para la proctocolectomía restaurativa para FAP o para UC. 
+Los pacientes y los evaluadores de resultados fueron ciegos para la asignación de grupos. 
+El punto final primario se define como la cantidad de sangre perdida. 
+Los análisis estadísticos fueron exploratorios ya que el juicio tuvo que ser detenido prematuramente. 
+Un total de 42 pacientes (21 LAP (50,0 %) y 21 CON (50,0 %) fueron aleatorios. 
+El ensayo tuvo que ser interrumpido prematuramente debido a la insuficiencia del reclutamiento de pacientes. 
+No hubo diferencia en la cantidad de pérdida de sangre entre ambos grupos: LAP 261.5 ± 195.4 ml, CON 228.1 ± 119.5 ml. 
+Los puntos finales secundarios difieren en ambos grupos. 
+La cirugía laparoscópica era superior en cuanto a la longitud de la incisión de la piel; en contraste, el enfoque convencional era superior en la duración de la operación. 
+No hubo discrepancias en la duración de la estancia en el hospital, el dolor postoperatorio, la función intestinal y la calidad de vida entre ambos enfoques. 
+La tasa de conversión del enfoque LAP al CON fue del 23,8 %. 
+No hubo diferencias en cuanto a la pérdida de sangre entre el grupo LAP y el grupo CON. 
+El enfoque LAP es factible para la proctocolectomía restaurativa, y IPAA parece al menos tan seguro como la cirugía CON. 
+La ventaja más obvia de la técnica mínimamente invasiva es la cosmética mejorada. 
+Este análisis de los resultados de un ensayo controlado aleatorio que evalúa los efectos de la terapia con epoetina alfa (EPO) sobre las necesidades de transfusión, la hemoglobina (Hb) y la calidad de vida (QOL) en pacientes con cáncer que recibieron quimioterapia basada en platino se llevó a cabo para evaluar el efecto del nivel inicial de Hb en los resultados del estudio. 
+Los pacientes con niveles de Hb < o = 12,1 g/dl fueron aleatoriamente clasificados 2:1 para recibir EPO, 10,000 U tres veces por semana o mejor cuidado de apoyo (BSC) hasta 4 semanas después de su último ciclo de quimioterapia. 
+Para este análisis, los pacientes fueron estratificados por nivel de Hb basal (< o = 9,7 g/dl, > 9,7 g/dl a < o = 10,5 g/dl, > 10,5 g/dl a < o = 11,3 g/dl, y > 11,3 g/dl a < o = 12,1 g/dl) y los resultados del estudio fueron reanalizados. 
+Significativamente menos pacientes con EPO que pacientes con BSC con niveles iniciales de Hb > 9,7 g/dl a < o = 12,1 g/dl necesitaron transfusiones. 
+El EPO mantuvo los niveles de Hb durante todo el estudio en pacientes con niveles de Hb > 11,3 g/dl a < o = 12,1 g/dl, en comparación con una disminución con BSC. 
+Para los pacientes con niveles basales de Hb > 10,5 g/dl, para los que los cambios medios desde la base hasta la última evaluación fueron medidos por las evaluaciones de la Cancer Linear Analogue Scale de la energía y el QOL general, así como por la Evaluación Funcional de la Terapia del Cáncer ( FACT) - Fatigue y FACT-Anemia subescala, las puntuaciones de QOL fueron significativamente mayores con EPO que con BSC. 
+La QOL disminuyó en pacientes que recibieron BSC, y las disminuciones medias en las puntuaciones de QOL fueron mayores en pacientes con BSC con niveles de Hb basales > 10,5 g/dl, en comparación con el grupo general de BSC. 
+En pacientes con cáncer que reciben quimioterapia basada en platino y con niveles basales de Hb > 10,5 g/dl, la intervención temprana con EPO reduce las transfusiones, mantiene los niveles de Hb y mantiene o mejora el QOL. 
+Este estudio apoya los efectos positivos de la intervención temprana cuando se analiza según el valor inicial de Hb. 
+La medida en que la quimioterapia puede aliviar los síntomas relacionados con el tumor, mejorar la calidad de vida y prolongar la supervivencia en pacientes con cáncer de estómago no es conocida a pesar del amplio uso de esta modalidad de tratamiento. 
+El objetivo de este estudio era estimar cualquier ganancia en la cantidad y calidad de vida producida por la quimioterapia en estos pacientes. 
+Entre enero de 1991 y febrero de 1995, 61 pacientes con cáncer de estómago fueron randomizados a la quimioterapia además de la mejor atención de apoyo o a la mejor atención de apoyo. 
+La quimioterapia fue permitida en el último grupo si las medidas de apoyo no condujeron a la paliación. 
+La quimioterapia fue el régimen ELF consistente en 5-fluorouracil, leucovorina y etoposida, o, en pacientes ancianos con desempeño deficiente, un régimen 5-fluorouracil/leucovorina (FLv). 
+La calidad de vida fue evaluada con el instrumento EORTC-QLQ-C30. 
+Más pacientes en el grupo de quimioterapia (45 %, 14/31 ) tuvieron una mejor o prolongada alta calidad de vida durante un período mínimo de 4 meses en comparación con aquellos en el grupo de cuidados de mejor soporte ( 20 %, 6/30, P < 0,05 ). 
+Una diferencia similar se vio en la evaluación del médico curante de si el paciente mejoró subjetivamente o continuó haciendo bien durante al menos 4 meses ( 17/31, 55 % versus 6/30, 20 %, P < 0,01 ). 
+La supervivencia general fue más larga en el grupo de quimioterapia (mediana 8 vs. 5 meses), aunque la diferencia no fue estadísticamente significativa (P = 0,12). 
+Después de la corrección de los desequilibrios en las características de pretratamiento, el tratamiento con quimioterapia se asoció, sin embargo, con un beneficio de supervivencia (P = 0,003). 
+Además, el tiempo de supervivencia ajustado por la calidad y el tiempo de progresión de la enfermedad fueron más largos para los pacientes aleatorios a la quimioterapia (mediano 5 vs. 2 meses, P = 0,03). 
+Los resultados muestran que la quimioterapia puede añadir tanto la cantidad como la calidad de vida en el cáncer gástrico avanzado. 
+El número de pacientes que se benefician del tratamiento es, sin embargo, todavía bastante limitado. 
+La colectomía asistida por laparoscopia (LAC) ha surgido como la estrategia quirúrgica mínimamente invasiva preferida para las enfermedades del colon. 
+La seguridad y la eficacia de la LAC para el cáncer de colon son desconocidas, y la naturaleza y magnitud de cualquier beneficio de calidad de vida (QOL) resultante de la LAC para el cáncer de colon también es desconocido. 
+Para comparar los resultados de QOL a corto plazo después de la LAC vs colectomía abierta para el cáncer de colon. 
+Un ensayo multicéntrico, controlado aleatoriamente (Resultados clínicos de la terapia quirúrgica [COST]). 
+Entre septiembre de 1994 y febrero de 1999, 37 de los 48 centros proporcionaron datos para el componente QOL del ensayo para 449 pacientes consecutivos con cáncer de colon resectable clínicamente. 
+Puntos en la Escala de Desafío de Síntomas (SDS), Índice de Calidad de Vida, y una escala de clasificación global de un solo elemento en 2 días, 2 semanas y 2 meses postoperatorios; duración del uso analgésico postoperatorio en el hospital; y duración de la estancia. 
+De los 449 pacientes, 428 proporcionaron datos QOL. 
+En un análisis de intención de tratar comparando la intensidad del dolor del SDS, el resumen del SDS, el resumen del índice QOL y las puntuaciones de la escala de calificación global en cada momento, la única diferencia estadísticamente significativa observada entre los grupos fue la puntuación de la escala de calificación global durante 2 semanas de postcirugía. 
+Las puntuaciones medias (medianas) de la escala de calificación global durante 2 semanas de postcirugía fueron de 76,9 (80) para el LAC frente a 74,4 (75) para la colectomía abierta (P =.009). 
+Mientras que en el hospital, los pacientes asignados a LAC requerían menos días de ambos analgésicos parenterales en comparación con los pacientes asignados a colectomía abierta (medio [ mediano ], 3.2 [ 3 ] vs 4.0 [ 4 ] días ; P <.001 ) y analgésicos orales (medio [ mediano ], 1.9 [ 1 ] vs 2.2 [ 2 ] días ; P =.03 ). 
+Sólo se encontraron beneficios QOL a corto plazo mínimos con LAC para el cáncer de colon en comparación con la colectomía abierta estándar. 
+Hasta que los ensayos en curso establezcan que el LAC es tan eficaz como la colectomía abierta en la prevención de la recurrencia y la muerte por cáncer de colon, este procedimiento no debe ofrecerse a pacientes con cáncer de colon. 
+El impacto del hipertiroidismo subclínico prolongado en la calidad de vida no está claro. 
+Por lo tanto, evaluamos la calidad de vida en pacientes con cáncer de tiroides diferenciado (DTC) en la terapia de tiroxina supresora de TSH como un modelo para el hipertiroidismo subclínico e investigamos si la restauración al eutiroidismo afecta a la calidad de vida. 
+Realizamos un ensayo prospectivo, ciego, controlado por placebo, aleatorizado de 6 meses de duración con dos grupos paralelos. 
+Veinticuatro sujetos con una historia de cáncer de tiroides diferenciado con > 10 años de terapia supresora de TSH con L-tiroxina completaron el estudio. 
+La dosis de L-tiroxina fue reemplazada por un medicamento de estudio que contenía L-tiroxina o L-tiroxina más placebo. 
+La medicación se tituló para establecer la continuación de la supresión de la TSH (grupo de bajo TSH) y el eutiroidismo (grupo eutiroide). 
+Ambos grupos estaban formados por 12 pacientes. 
+Evaluamos la calidad de vida utilizando cinco cuestionarios validados. 
+En la línea de partida, el cuestionario del trastorno somático (SDQ) indicó más disfunción somática en pacientes en comparación con los valores de referencia, mientras que la puntuación de depresión (HADS) reveló una mejor puntuación que el grupo de referencia. 
+Todos los demás parámetros de calidad de vida eran normales. 
+En el punto de partida, no se observaron diferencias significativas entre los grupos de bajo TSH y los grupos de eutiroidismo. 
+Después de 6 meses, ninguno de los parámetros de calidad de vida en el grupo de bajo TSH fue diferente de los valores de base. 
+En el grupo eutiroide, la motivación fue significativamente mejorada (Índice de Fatiga Multidimensional-20, P = 0,003), aunque este parámetro no difiere del grupo de referencia en el punto de partida. 
+Se observó un deterioro probable en las limitaciones de rol como resultado de problemas físicos (Formulario corto-36; P = 0,050). 
+No se observó ninguna mejora en la puntuación de SDQ. 
+En resumen, la calidad de vida en pacientes con DTC y hipertiroidismo subclínico a largo plazo en general se conserva. 
+La restauración del eutiroidismo en general no afecta a la calidad de vida. 
+La mayoría de los pacientes con glioblastoma son mayores de 60 años, pero las pautas de tratamiento se basan en ensayos en pacientes de hasta 70 años. 
+Hemos realizado un ensayo aleatorio para evaluar el tratamiento paliativo óptimo en pacientes de 60 años y más con glioblastoma. 
+Los pacientes con glioblastoma recién diagnosticado fueron reclutados de Austria, Dinamarca, Francia, Noruega, Suecia, Suiza y Turquía. 
+Se les asignó un calendario de aleatorización generado por computadora, estratificado por centro, para recibir temozolomida (200 mg/m2 en los días 1-5 de cada 28 días durante hasta seis ciclos), radioterapia hipofraccionada (34·0 Gy administrados en 3·4 Gy fracciones durante 2 semanas) o radioterapia estándar (60·0 Gy administrados en 2·0 Gy fracciones durante 6 semanas). 
+Los pacientes y el personal del estudio estaban al tanto de la asignación del tratamiento. 
+El objetivo principal era la supervivencia general. 
+Los análisis se realizaron con la intención de tratar. 
+Este ensayo está registrado, número ISRCTN81470623. 
+Se inscribieron 342 pacientes, de los cuales 291 fueron aleatorizados en tres grupos de tratamiento (temozolomide n = 93, radioterapia hipofraccionada n = 98, radioterapia estándar n = 100) y 51 de los cuales fueron aleatorizados en sólo dos grupos (temozolomide n = 26, radioterapia hipofraccionada n = 25). 
+En la aleatorización de tres grupos, en comparación con la radioterapia estándar, la supervivencia media general fue significativamente más larga con temozolomida (8·3 meses [95 % CI 7·1-9·5; n=93] vs 6·0 meses [95 % CI 5·1-6·8; n=100], relación de riesgo [ HR ] 0·70 ; 95 % CI 0·52-0·93, p=0·01 ), pero no con radioterapia hipofraccionada (7·5 meses [ 6·5-8·6 ; n=98 ], HR 0·85 [ 0·64-1·12 ], p=0·24 ). 
+Para todos los pacientes que recibieron temozolomida o radioterapia hipofraccionada (n=242) la supervivencia general fue similar (8·4 meses [ 7·3-9·4; n=119] vs 7·4 meses [ 6·4-8·4; n=123 ] ; HR 0·82, 95% CI 0·63-1·06 ; p=0·12 ). 
+Para la edad de más de 70 años, la supervivencia fue mejor con temozolomide y con radioterapia hipofraccionada que con radioterapia estándar ( HR para temozolomide vs radioterapia estándar 0·35 [ 0·21-0·56 ], p < 0·0001 ; HR para hipofraccionados vs radioterapia estándar 0·59 [ 95% CI 0·37-0·93 ], p=0·02 ). 
+Los pacientes tratados con temozolomida que tenían metilación del promotor MGMT del tumor tenían una supervivencia significativamente más larga que los que no tenían metilación del promotor MGMT (9·7 meses [ 95% CI 8·0-11·4 ] vs 6·8 meses [ 5·9-7·7 ] ; HR 0·56 [ 95% CI 0·34-0·93 ], p=0·02 ), pero no se observó diferencia entre los promotores MGMT metilados y no metilados tratados con radioterapia ( HR 0·97 [ 95% CI 0·69-1·38 ] ; p=0·81 ). 
+Como se esperaba, los eventos adversos más comunes de grado 3-4 en el grupo de temozolomida fueron la neutropenia (n = 12) y la trombocitopenia (n = 18). 
+Se informaron infecciones de grado 3-5 en todos los grupos de aleatorización en 18 pacientes. 
+Dos pacientes tuvieron infecciones fatales (uno en el grupo de temozolomida y uno en el grupo de radioterapia estándar) y uno en el grupo de temozolomida con trombocitopenia de grado 2 murió de complicaciones después de la cirugía para una hemorragia gastrointestinal. 
+La radioterapia estándar se asoció con malos resultados, especialmente en pacientes mayores de 70 años. 
+Tanto la temozolomida como la radioterapia hipofraccionada deben considerarse como opciones de tratamiento estándar en pacientes ancianos con glioblastoma. 
+El estado de metilación del promotor de MGMT podría ser un indicador predictivo útil para el beneficio de temozolomida. 
+Para evaluar la diferencia de eficacia, efectos secundarios y calidad de vida en pacientes con cáncer de pulmón de células no pequeñas avanzado (NSCLC) tratados con oxaliplatin plus vinorelbine o cisplatin plus vinorelbine. 
+Los pacientes elegibles fueron asignados aleatoriamente al grupo NL (oxaliplatin + vinorelbine) y al grupo NP (cisplatin + vinorelbine) en una proporción de 2:1. 
+En el grupo NL, 70 casos evaluables fueron tratados con oxaliplatin 130 mg/m ( 2 ) i.v. 
+el día 2, y vinorelbina 25 mg/m ( 2 ) i.v. 
+los días 1 y 8 en 21 días por ciclo. 
+En el grupo NP, 32 casos evaluables fueron tratados con cisplatina 80 mg/m ( 2 ) i.v. 
+Dividido en dos a tres días de dosificación, 21 días por ciclo, y vinorelbine administrado de la misma manera que en el grupo NL. 
+Se observaron la tasa de respuesta, el tiempo de progresión (TTP), la supervivencia de un año, los efectos secundarios y la calidad de vida. 
+La tasa de respuesta fue de 35,7 % vs. 43,8 % ( P = 0,4 ), el TTP mediano fue de 4,7 meses vs. 5,5 meses ( P = 0,6 ), la tasa de supervivencia de un año fue de 38,5 % vs. 58,6 % ( P = 0,07 ) en los grupos NL y NP, respectivamente. 
+La toxicidad neuro-sensorial de grado I-II ocurrió significativamente más frecuentemente en el grupo NL que en el grupo NP ( 68,4% vs. 36,4%, P = 0,0017 ). 
+Sin embargo, la granulocitopenia de grado I-II fue significativamente menos frecuente en el grupo NL que en el grupo NP ( 49,4% vs. 70,6%, P = 0,037 ). 
+No hubo diferencias estadísticas entre los dos grupos en cuanto a la calidad de vida. 
+Debido a la buena eficacia y tolerancia, el régimen NL ofreció un nuevo candidato para el tratamiento de la NSCLC avanzada. 
+El restablecimiento de la innervación sensorial puede ser un adjunto útil en la reconstrucción de la cabeza y el cuello libres, pero, hasta ahora, no se ha demostrado que mejore los resultados de la reconstrucción del seno. 
+El estudio anterior de los autores demostró una mejora objetiva de la sensación en un grupo de pacientes de reconstrucción del pecho del pecho del rectus abdominis musculocutaneous (TRAM) inervado en relación con los pechos no inervados. 
+Este estudio comparó los resultados evaluados por los pacientes de la reconstrucción del seno TRAM libre en las palpitaciones inervadas versus no inervadas. 
+Veintisiete mujeres fueron aleatorizadas prospectivamente para someterse a una reconstrucción de pecho de la pulpa TRAM libre inervada o no inervada. 
+Para las palpitaciones inervadas, el nervio intercostal T10 fue recogido con la palpación TRAM y neurotizado al nervio sensorial T4 en el sitio receptor. 
+Tres herramientas de resultados validados se administraron después de la cirugía: el Estudio de Resultados Médicos 36-Item Breve Forma de Encuesta de Salud, la Imagen del Cuerpo después del Cuestionario del Cáncer de Mama, y la Evaluación Funcional de la Terapia del Cáncer-Madre. 
+Los resultados se correlacionaron con los resultados de sensibilidad objetiva reportados anteriormente. 
+Dieciocho de las 27 mujeres devolveron sus cuestionarios un promedio de 48 meses después de la reconstrucción gratuita de la tapa de TRAM. 
+El análisis demográfico no reveló diferencias significativas en la edad del paciente, la altura, el tabaquismo, la radioterapia y la reconstrucción compleja del mamilo-areola entre los grupos de pacientes aleatorios. 
+Se observó una mejora estadísticamente significativa en las tres medidas en pacientes que fueron aleatoriamente clasificados para recibir inervaciones libres de TRAM en comparación con aquellos que recibieron inervaciones no inervaciones. 
+Este estudio demuestra que la innervación de los tapones TRAM libres utilizados para la reconstrucción del seno no solo mejora la sensibilidad sino que también tiene un efecto positivo en la calidad de vida evaluada por los pacientes. 
+A pesar de las mejoras en las técnicas quirúrgicas, la incontinencia urinaria (IU) no es rara después de la prostatectomía radical (RP), y puede deteriorar drásticamente la calidad de vida (QoL). 
+Para determinar el beneficio de comenzar el ejercicio muscular del suelo pélvico (PFME) 30d antes de la RP y de continuar el PFME postoperatoriamente para la recuperación temprana de la continencia. 
+Se diseñó un estudio aleatorio y prospectivo. 
+Los hombres con cáncer de próstata localizado (PCa) que se sometieron a una prostatectomía retropúbica radical abierta (RRP) en nuestro departamento de urología fueron incluidos. 
+Los pacientes fueron aleatorizados para iniciar PFME preoperatoriamente y continuar postoperatoriamente (grupo activo: A) o para iniciar PFME postoperatoriamente solo (grupo control: B). 
+La medida de resultado primaria fue la continencia auto-reportada después de la cirugía. 
+Las medidas de resultado secundario se evaluaron por grado de UI basado en una prueba de pad de 24 horas y instrumentos de QoL (International Continence Society [ ICS ] masculino de forma corta [ SF ] ). 
+De los 143 hombres evaluados para el estudio, 118 fueron aleatorios para iniciar PFME preoperativamente y continuar postoperativamente (grupo A; n=59) o para iniciar PFME postoperatorio (grupo B; n=59). 
+Después de 1 mes, el 44,1% (26 de 59) de los pacientes eran continentes del grupo A, mientras que el 20,3% (12 de 59) eran continentes del grupo B (p=0.018). 
+A los 3 meses, el 59,3% ( 35 de 59 ) y el 37,3% ( 22 de 59 ) de los pacientes eran continentes del grupo A y del grupo B, respectivamente ( p=0.028 ). 
+La puntuación media masculina ICS SF mostró mejores resultados en el grupo A que en los pacientes del grupo B tanto en 1 mo ( 14,6 vs 18,3) y 3 mo ( 8,1 vs 12,2) después de RP ( p = 0,002). 
+En los análisis de regresión logística ajustados a la edad, los pacientes que realizaron la PFME preoperatoria tenían un riesgo 0.41 veces menor de ser incontinentes 1 mes después de la RP y un riesgo 0.38 veces menor de ser incontinentes 3 meses después de la RP ( p≤0.001 ). 
+La PFME preoperatoria puede mejorar los resultados de continencia temprana y QoL después de la RP. 
+Se necesitan más estudios para corroborar nuestros resultados. 
+El papel de la quimioterapia para los pacientes avanzados con NSCLC y ECOG PS2 sigue siendo controvertido. 
+Se evaluaron 4 dosis de docetaxel de 3 semanas para identificar una dosis menos tóxica y clínicamente efectiva. 
+Setenta y tres pacientes con estadio III ( 22 % ) (no aptos para cirugía radical / radioterapia ) y IV ( 78 % ) NSCLC fueron aleatoriamente clasificados para recibir 4 dosis de docetaxel cada 3 semanas, durante 4 ciclos: brazo ( A ) 40 mg/m ( 2 ) ( n = 17 ), brazo ( B ) 50 mg/m ( 2 ) ( n = 17 ), brazo ( C ) 60 mg/m ( 2 ) ( n = 19 ), brazo ( D ) 50 mg/m ( 2 ) escalado por 10 mg/m ( 2 ) a un máximo de 70 mg/m ( 2 ) ( n = 19 ). 
+Puntos finales primarios: dosis máxima tolerada, RR, duración de la respuesta, mejora de los síntomas, toxicidad y QoL. 
+El punto final secundario es la supervivencia general (OS). 
+Los pacientes y las características de la enfermedad estaban bien equilibrados. 
+La edad media era de 67 (intervalo 45-81), había 32 machos y 41 hembras, subtipo histológico: escamoso / adenocarcinoma / mixto / NOS = 42 % /49 % /4 % /5 %. 
+Siete pacientes no recibieron ningún tratamiento debido al deterioro de la PS o la muerte. 
+El 50% de los pacientes en el brazo D, que recibieron más de un ciclo, recibieron una escalada de dosis. 
+No hubo diferencia estadística en el número de ciclos administrados (armas A, B y D: mediano 2 ciclos y brazo C: mediano 3 ciclos) y no hubo diferencia en RR: brazo A = 6 %, brazo B = 6 %, brazo C = 10 % y brazo D = 0 %. 
+No hubo diferencias estadísticamente significativas en la neutropenia de grado 3/4 y la trombocitopenia entre los cuatro brazos. 
+No se observaron diferencias en la tasa de hospitalización, transfusiones de sangre, administración de antibióticos y toxicidad no hematológica. 
+QoL: no hay diferencia en las puntuaciones totales entre la base y los ciclos 1-4. 
+Se observó una disminución significativa en las puntuaciones de dolor desde la base hasta los ciclos 2 y 3 (p=0.025 y p=0.002, respectivamente). 
+No hubo diferencia en el sistema operativo (p=0.992 ). 
+La supervivencia mediana y la supervivencia de 6 meses fueron 61, 86, 88 y 97 días y 29%, 33%, 21% y 26% para las armas A, B, C y D, respectivamente. 
+La eficacia clínica de docetaxel se observó en todos los niveles de dosis. 
+Los niveles de dosis más altos no estaban asociados con un aumento de la toxicidad, el uso de antibióticos IV o las tasas de hospitalización. 
+Sin embargo, la supervivencia mediana observada es más corta que los datos históricos y no apoya una evaluación adicional de estas dosis de docetaxel de agente único en esta población. 
+Los análogos de Somatostatin se indican para el control de síntomas en pacientes con tumores neuroendocrinos gastroenteropancreaticos (NET). 
+La capacidad de los análogos de somatostatin para controlar el crecimiento de las NET metastáticas bien diferenciadas es una cuestión de debate. 
+Se realizó un estudio doble ciego de fase IIIB controlado con placebo en pacientes con NETs metastásicos bien diferenciados. 
+La hipótesis era que el octreotide LAR prolonga el tiempo hasta la progresión del tumor y la supervivencia. 
+Los pacientes ingenuos en el tratamiento fueron asignados aleatoriamente a placebo o octreotide LAR 30 mg intramuscularmente a intervalos mensuales hasta la progresión del tumor o la muerte. 
+El punto final primario de la eficacia fue el tiempo hasta la progresión del tumor. 
+Los puntos finales secundarios fueron el tiempo de supervivencia y la respuesta tumoral. 
+Este informe se basa en 67 progresión tumoral y 16 muertes observadas en 85 pacientes en el momento del análisis intermedio planeado. 
+El tiempo mediano hasta la progresión del tumor en los grupos de LAR octreotide y placebo fue de 14,3 y 6 meses, respectivamente (relación de riesgo [ HR ] = 0,34 ; CI 95 %, 0,20 a 0,59 ; P =.000072 ). 
+Después de 6 meses de tratamiento, se observó una enfermedad estable en el 66,7% de los pacientes en el grupo del LAR octreotideo y en el 37,2% de los pacientes en el grupo del placebo. 
+Los tumores funcionalmente activos e inactivos respondieron de manera similar. 
+El efecto más favorable se observó en pacientes con baja carga de tumor hepático y tumor primario resecado. 
+Se observaron siete y nueve muertes en los grupos de octreótido LAR y placebo, respectivamente. 
+El HR para la supervivencia general fue de 0,81 (IC del 95%, 0,30 a 2,18). 
+Octreotide LAR prolonga significativamente el tiempo hasta la progresión del tumor en comparación con el placebo en pacientes con NET metastásicos medianos funcionalmente activos e inactivos. 
+Debido al bajo número de muertes observadas, el análisis de supervivencia no fue confirmativo. 
+En el contexto de enfermedades físicas crónicas, como el cáncer de mama, la depresión está asociada con un aumento de la morbilidad, períodos más largos de hospitalización y una mayor discapacidad general. 
+El diagnóstico rápido y el tratamiento efectivo son, por lo tanto, esenciales. 
+Varios estudios pequeños han establecido la eficacia de los antidepresivos tricíclicos (TCAs) en este entorno, y los inhibidores selectivos de la recaptación de serotonina (ISRS) parecen ser una opción terapéutica alternativa debido a su eficacia establecida y mejor perfil de tolerancia. 
+Fue un multicentro. 
+Un estudio de doble ciego, en grupo paralelo, en el que 179 mujeres con cáncer de mama fueron aleatoriamente clasificadas para el tratamiento con la SSRI paroxetina (20-40 mg/día) o la TCA, amitriptilina (75-150 mg/día). 
+Después de 8 semanas de tratamiento, los síntomas depresivos habían mejorado notablemente y en una medida similar en ambos grupos en la Escala de Depresión de Montgomery Asberg. 
+La mejora global de la impresión clínica global (CGI) y las escalas de evaluación global del paciente indicaron que los pacientes mejoraron de manera mínima a mucho en el punto final del estudio: un cambio de moderadamente / ligeramente enfermo a enfermo borderline en la escala de gravedad de la enfermedad de la CGI. 
+También se observó una mejora constante en la calidad de vida en ambos grupos. 
+No hubo diferencias clínicamente significativas entre los grupos. 
+En total, 47 (53,4 %) pacientes en el grupo de paroxetina y 53 (59,6 %) pacientes en el grupo de amitriptilina tuvieron experiencias adversas, las más comunes de las cuales fueron los efectos secundarios bien reconocidos de los antidepresivos o la quimioterapia. 
+Los efectos anticolinérgicos fueron casi dos veces más frecuentes en el grupo de amitriptilina ( 19,1% ) en comparación con la paroxetina ( 11,4% ). 
+Este estudio ha demostrado que la paroxetina es una alternativa adecuada a la amitriptilina para el tratamiento de la depresión en pacientes con cáncer de mama. 
+En pacientes con cáncer anorectal, un efecto secundario agudo de la quimioradioterapia es la toxicidad gastrointestinal, que a menudo impide el tratamiento. 
+Basado en ensayos anteriores, el acetato de octreótido es ampliamente recomendado para el control de la diarrea inducida por la quimioterapia. 
+No obstante, la eficacia de octreotide en la prevención o control de la diarrea inducida por radiación y quimioradición no es conocida. 
+Un ensayo aleatorio, doble ciego, controlado con placebo fue diseñado para determinar la eficacia del acetato de octreótido de acción prolongada (LAO) en la prevención del inicio de la diarrea aguda en pacientes sometidos a terapia de quimioradición para el cáncer rectal o anal. 
+Entre 4 y 7 días antes del inicio de la radioterapia, los pacientes recibieron una dosis de 30 mg de LAO (109 pacientes) o placebo (106 pacientes) por inyección intramuscular. 
+Una segunda dosis se administró el día 22 ( +/-3 días) de tratamiento con radiación. 
+Un total de 215 pacientes fueron incluidos en el análisis final. 
+El punto final primario fue la incidencia de diarrea aguda de grado 2-4; los puntos finales secundarios incluyeron el cumplimiento del tratamiento, la utilización de los recursos médicos, la función intestinal reportada por el paciente y la calidad de vida (QoL). 
+Las pruebas estadísticas fueron unilaterales o bidireccionales, como se especificó. 
+Después de un tiempo mediano de seguimiento de 9,64 meses, las tasas de incidencia de diarrea aguda de grados 2-4 fueron similares en ambos grupos (49% placebo vs 44% LAO; P =.21). 
+No se observaron diferencias estadísticamente significativas en el tratamiento en la quimioterapia o la entrega de radiación, la utilización de recursos médicos, la función intestinal reportada por el paciente o la QoL. 
+En este estudio, el uso profiláctico de LAO no previno la incidencia o redujo la severidad de la diarrea y no tuvo un impacto notable en la función intestinal o QoL reportada por el paciente. 
+Una proporción significativa de los pacientes desarrollan incontinencia urinaria temprano después de la prostatectomía radical. 
+Se ha encontrado que la reconstrucción posterior de los tejidos de apoyo reduce la incontinencia en la serie de prostatectomía laparoscópica abierta y convencional. 
+Investigar si nuestra versión de una reconstrucción musculofascial posterior reducirá la incontinencia temprana y tendrá un efecto beneficioso en la calidad de vida de los pacientes (QoL). 
+Cientos y siete pacientes consecutivos sometidos a la prostatectomía radical laparoscópica primaria asistida por robots (RALP) realizada por un único cirujano en una institución de oncología de referencia terciaria fueron alternadamente asignados (no aleatorios) a la intervención (n = 53 ) o a los grupos de control (n = 54 ). 
+RALP con reconstrucción fibrosa mediana (MFRR) seguida de la formación de la anastomosis uretrovesical (grupo de intervención) versus anastomosis estándar sin reconstrucción posterior (grupo de control). 
+Las mediciones incluyeron incontinencia en los intervalos de base y de 3 meses; QoL como medida por un cuestionario simple; la Organización Europea para la Investigación y el Tratamiento del Cáncer (EORTC) Calidad de la Vida-Core 30 (QLQ-C30), y el Modulo del Cáncer de Próstata (PR25) cuestionarios preoperatorios y 6 meses después del procedimiento; características del tumor; tiempo operativo; puntuación de conservación fascial; duración de la cateterización; y fuga anastomótica en el cistograma. 
+Para los grupos de intervención y control, respectivamente, la duración media del catéter fue de 11,74 d y 12,74 d (p=0,451); la fuga en el cistograma estaba presente en seis y ocho casos (p=0,28); y la incontinencia (cualquier pérdida involuntaria de orina) en 3 mo fue del 75 % y 69 % (p=0,391) y en 6 mo fue del 51 % y 43 % (p=0,686). 
+La retención urinaria ocurrió sólo en un caso (grupo control). 
+El porcentaje de casos que regresaron a la línea de partida en todos los dominios de QoL (excepto el insomnio) fue similar en 6 mo entre los dos grupos. 
+El seguimiento corto, la falta de ceguera y las probabilidades de pequeñas diferencias en nuestro método de MFRR realizado en comparación con otros estudios se identificaron como limitaciones significativas. 
+No se observaron diferencias significativas en ninguna de las medidas de resultado analizadas. 
+La reconstrucción posterior del complejo musculofascial no parece mejorar la incontinencia urinaria temprana después de la RALP. 
+En el estudio Gynecologic Cancer Intergroup International Collaboration on Ovarian Neoplasms 7 (ICON7), bevacizumab mejoró la supervivencia sin progresión en pacientes con cáncer de ovario cuando se utilizó en combinación con quimioterapia de primera línea y como tratamiento de continuidad de un solo fármaco durante 18 ciclos. 
+En un análisis preliminar de un subconjunto de pacientes de alto riesgo, también hubo una mejora en la supervivencia general. 
+Este estudio tiene como objetivo describir los resultados de la calidad de vida relacionada con la salud (QoL) de ICON7. 
+ICON7 es un ensayo aleatorio, multicéntrico y abierto de fase 3. 
+Entre el 18 de diciembre de 2006 y el 16 de febrero de 2009, después de un procedimiento quirúrgico destinado a desbloquear la enfermedad, a las mujeres con cáncer de ovario epitelial de alto riesgo de etapa I-IV de la Federación Internacional de Ginecología y Obstetricia (FIGO) se les asignó aleatoriamente ( 1:1 ) por programa informático y aleatorización de bloques para recibir o seis ciclos de quimioterapia estándar (un total de 18 semanas) con carboplatina (zona debajo de la curva 5 o 6) y paclitaxel ( 175 mg/m ( 2 ) solo o con bevacizumab ( 7·5 mg/kg ) administrado por vía intravenosa con quimioterapia y continuado como un solo fármaco allí (un total de 54 semanas). 
+El punto final primario de QoL fue el global QoL de la Organización Europea para la Investigación y el Tratamiento del Cáncer cuestionario de calidad de vida-core 30 en la semana 54, analizado por ANOVA y ajustado para la puntuación de base. 
+Los análisis eran por intención de tratar. 
+El juicio ICON7 ha completado el reclutamiento y sigue en seguimiento. 
+Este estudio está registrado, número ISRCTN91273375. 
+764 mujeres fueron asignadas aleatoriamente al grupo de quimioterapia estándar y 764 al grupo de bevacizumab. 
+En el punto de partida, 684 (90%) de las mujeres en el grupo de quimioterapia estándar y 691 (90%) de las mujeres en el grupo de bevacizumab habían completado cuestionarios de QoL. 
+En la semana 54, 502 (66%) mujeres en el grupo de bevacizumab y 388 (51%) mujeres en el grupo de quimioterapia estándar proporcionaron datos de QoL. 
+En general, la puntuación media global de QoL mejoró durante la quimioterapia en 7·2 puntos (SD 24·4) cuando se analizó para todas las mujeres con datos en la base y la semana 18. 
+La puntuación media global de QoL a las 54 semanas fue mayor en el grupo de quimioterapia estándar que en el grupo de bevacizumab ( 76·1 [ SD 18·2 ] vs 69·7 [ 19·1 ] puntos; diferencia 6·4 puntos, 95% CI 3·7-9·0, p < 0·0001 ). 
+El tratamiento continuado con bevacizumab parece estar asociado con una disminución pequeña pero clínicamente significativa en el QoL en comparación con el tratamiento estándar para mujeres con cáncer de ovario. 
+El equilibrio entre la prolongación de la supervivencia sin progresión y la calidad de ese período de tiempo debe considerarse en la práctica clínica al tomar decisiones de tratamiento. 
+Se examinaron los mecanismos de mediación de una intervención de ejercicio basada en grupos de 12 semanas sobre la calidad de vida de los supervivientes del cáncer (QoL) para informar el desarrollo de futuras intervenciones de ejercicio. 
+Doscientos nueve sobrevivientes de cáncer ≥ 3 meses de post-tratamiento ( 57 % de cáncer de mama ) a los 49,5 ( ± 10,4 ) años fueron asignados al ejercicio físico ( n = 147 ) o control de lista de espera ( n = 62 ). 
+QoL, fatiga, angustia emocional, actividad física, autoeficacia general y dominio se evaluaron en la línea de partida y después de la intervención utilizando cuestionarios. 
+El análisis del camino se llevó a cabo utilizando Mplus para explorar si la mejora de la actividad física, la autoeficacia general y el dominio mediaron los efectos del ejercicio sobre la fatiga y el estrés y, en consecuencia, el QoL. 
+La intervención se asoció con un aumento de la actividad física ( β = 0,46, 95 % intervalos de confianza ( CI ) = 0,14 ; 0,59 ), auto-eficacia general ( β = 2,41, 95 % CI = 0,35 ; 4,73 ), y dominio ( β = 1,75, 95 % CI = 0,36 ; 2,78 ). 
+Además, la intervención tuvo tanto un efecto directo sobre la fatiga ( β = -1.09, 95% CI = -2.12 ; 0.01 ), como un efecto indirecto ( β = -0.54, 95% CI = -1.00 ; -0.21 ) a través de la actividad física ( β = -0.29, 95% CI = -0.64 ; -0.07 ) y la autoeficacia general ( β = -0.25, 95% CI = -0.61 ; -0.05 ). 
+La intervención tuvo un efecto límite significativo directo en la reducción de la angustia ( β = -1.32, 95% CI = -2.68 ; 0.11 ), y un efecto indirecto significativo a través del aumento de la autoeficacia general y el dominio ( β = -1.06, 95% CI = -1.89 ; -0.38 ). 
+Las reducciones en la fatiga ( β = -1.33, 95% CI =-1.85 ; -0.83 ) y el estrés ( β = -0.86, 95% CI = -1.25 ; -0.52 ) se asociaron con una mejor QoL. 
+Además, el aumento de la actividad física se asoció directamente con la mejora de QoL ( β = 3,37, 95% CI = 1,01 ; 5,54 ). 
+El efecto beneficioso del ejercicio físico basado en el grupo en el QoL fue mediado por el aumento de la actividad física, la autoeficacia general y el dominio, y las reducciones subsecuentes en la fatiga y el sufrimiento. 
+Además de la actividad física, las intervenciones futuras deben orientarse hacia la autoeficacia y el dominio. 
+Esto puede conducir a una disminución de la angustia y la fatiga, y por lo tanto a una mejor QoL de los sobrevivientes al cáncer. 
+Para evaluar si la omisión de la radioterapia postoperatoria (RT ) en mujeres con cáncer de mama axilar nodo-negativo de "bajo riesgo" [ tamaño del tumor de menos de 5 cm ( T0-2 ) aunque los criterios de elegibilidad reducen aún más el tamaño elegible a un máximo de 3 cm ] tratado por cirugía de conservación de la mama y terapia endocrina mejora la calidad de vida y es más rentable. 
+Se realizó un ensayo clínico controlado aleatorio, utilizando un método de minimización equilibrado por centro, grado de cáncer, edad, invasión linfovascular y terapia endocrina preoperatoria. 
+Clínicas de cáncer de mama en centros de cáncer en el Reino Unido. 
+Los pacientes mayores de 65 años eran elegibles siempre que sus cánceres de mama se consideraran con bajo riesgo de recurrencia local, que eran aptos para la cirugía de conservación de la mama, que estaban recibiendo terapia endocrina y que estaban dispuestos y capaces de dar su consentimiento informado. 
+El tratamiento estándar de la irradiación postoperatoria de la mama entera o la omisión de RT. 
+La calidad de vida fue la principal medida de resultado, junto con la ansiedad y la depresión y la rentabilidad. 
+Las medidas de resultado secundarias fueron las tasas de recurrencia y la supervivencia, y la morbilidad relacionada con el tratamiento. 
+El principal método de recopilación de datos fue por cuestionario, completado en casa con una enfermera de investigación en cuatro ocasiones durante 15 meses, luego por cuestionario postal a los 3 y 5 años después de la cirugía. 
+La hipotética mejora en la calidad general de vida con la omisión de RT no se vio en los dominios de resumen de las escalas de la Organización Europea para la Investigación en el Tratamiento del Cáncer (EORTC). 
+Algunas diferencias fueron evidentes dentro de las subescalas de los cuestionarios de EORTC, y las perspectivas sobre el impacto del tratamiento también fueron proporcionadas por los datos cualitativos obtenidos por preguntas abiertas añadidas por el equipo de ensayo. 
+Las diferencias fueron más evidentes poco después del tiempo de finalización de RT. 
+La RT se asoció entonces con un aumento de los síntomas mamarios y con una mayor (auto-reportada) fatiga, pero con niveles más bajos de insomnio y efectos secundarios endocrinos. 
+Estas diferencias estadísticamente significativas en los síntomas mamarios persistieron durante hasta 5 años después de la RT [diferencia media, RT fue 5,27 unidades más grande que sin RT, intervalo de confianza del 95% (CI) de 1,46 a 9,07], con tendencias similares, aunque no significativas, en el insomnio. 
+No se encontraron diferencias significativas en la medida general de calidad de vida, con el grupo sin RT teniendo 0,36 unidades de mayor calidad de vida que el grupo RT (95% CI -5.09 a 5,81). 
+La RT de mama es bien tolerada por la mayoría de los pacientes mayores con cáncer de mama sin afectar su calidad de vida relacionada con la salud en general (HRQoL). 
+Aunque el HRQoL siempre debe tenerse en cuenta al determinar el tratamiento, nuestros resultados muestran que la adición de RT no deteriora la calidad general de vida. 
+Se requiere más modelado económico sobre los costes a largo plazo y las consecuencias de omitir RT. 

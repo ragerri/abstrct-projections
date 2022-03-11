@@ -1,0 +1,1247 @@
+El objetivo de este estudio fue comparar la eficacia de aumentar la trabeculectomía con mitomicina C subconjuntival (MCTM ) frente a 5-fluorouracilo ( T5-FU ) en la reducción de la presión intraocular ( PIO ). 
+Cuarenta ojos de 40 pacientes referidos al Hospital Universitario de Oftalmología Nikoukari, Universidad Tabriz de Ciencias Médicas, Tabriz, Irán, fueron incluidos en un ensayo clínico aleatorizado. 
+Los pacientes con glaucoma de alto riesgo en ángulo abierto fueron asignados para recibir TMMC subconjuntival o T5-FU. 
+La PIO media general preoperatoria fue de 30,8 mmHg. 
+Los PIO medios preoperatorios en los grupos TMMC y T5-FU fueron 31,2 ± 9,8 y 30,6 ± 9,9 mmHg, respectivamente. En el postoperatorio, la media de los PIO fue de 11,4 ± 4,9 y 13,6 ± 3,9 mmHg, respectivamente para los grupos TMMC y T5-FU después de 6 meses. 
+A pesar de algunas diferencias descriptivas existentes en la PIO entre los grupos, las pruebas estadísticas no mostraron diferencia en la media y mediana de la PIO. 
+Se detectaron tres casos de hipotonía ( PIO < 6 mmHg ) y un caso de queratitis epitelial. 
+TMMC y T5-FU parecían tener una eficacia similar en la reducción de la PIO. 
+El objetivo de este estudio fue establecer la eficacia y seguridad de la Ex-PRESS (Optonol Ltd., Neve Ilan, Israel ) mini derivación de glaucoma en glaucoma de ángulo abierto. 
+Este fue un ensayo prospectivo, aleatorizado. 
+Los ojos de los pacientes incluidos fueron asignados aleatoriamente a la implantación de Ex-PRESS bajo colgajo escleral, o trabeculectomía. 
+Las principales medidas de desenlace fueron : presión intraocular media (PIO ), uso de medicamentos postoperatorios, agudeza visual, e incidencia de complicaciones. 
+El éxito completo se definió como una PIO de > 4 mmHg y < o = 18 mmHg sin el uso de medicamentos antiglaucoma. 
+También se observó un objetivo más estricto de PIO > 4 mmHg y < o = 15 mmHg. 
+Hubo 78 pacientes ( 80 ojos ) con glaucoma primario abierto, pseudoexfoliativo, o pigmentario, incluidos en el estudio. 
+Un total del 84,6 % de los pacientes que recibieron Ex-PRESS y el 60,0 % de los pacientes que recibieron trabeculectomía (P=0,0230 ) alcanzaron un éxito completo. 
+Las proporciones respectivas de pacientes que alcanzaron una PIO > 4 mmHg y < o = 15 mmHg fueron 76,9 % y 50,0 % ( p = 0,0193 ). 
+A 1 año de seguimiento, las tasas de éxito total fueron del 81,8% para la ex-PRESS y del 47,5% para la trabeculectomía ( p = 0,0020 ), y del 71,7% y del 37,5 % ( p = 0,0070 ), respectivamente, para el objetivo más estricto. 
+Hubo un nivel similar de intervenciones postoperatorias y complicaciones para cada grupo. 
+En el glaucoma de ángulo abierto, la derivación de glaucoma mini ex-PRESS implantada bajo un colgajo escleral superficial produce tasas de éxito significativamente más altas, y una tasa de complicaciones similar, en comparación con la trabeculectomía. 
+El Ex-PRESS es un dispositivo seguro y eficaz para tratar el glaucoma de ángulo abierto. 
+Comparar los efectos sobre la presión intraocular ( PIO ) y los efectos secundarios de la monoterapia con latanoprost o dorzolamida en pacientes con glaucoma o hipertensión ocular. 
+Se reclutó a 224 pacientes con glaucoma de ángulo abierto o hipertensión ocular en un estudio abierto de 3 meses marcado. 
+Los medicamentos previos con glaucoma fueron lavados y los pacientes fueron aleatorizados para recibir latanoprost 0,005 % una vez al día o dorzolamida 2 % tres veces al día. 
+De 224 pacientes, 213 fueron incluidos en el análisis de eficacia. 
+Después de 3 meses, latanoprost redujo la PIO diurnal media basal de 27,2 ( SD 3,0 ) mm Hg por 8,5 ( 3,3 ) mm Hg. 
+Las cifras correspondientes a la dorzolamida fueron 27,2 ( 3,4 ) y 5,6 ( 2,6 ) Hg. 
+La diferencia de 2,9 mm Hg ( IC 95 % : 2,3-3.6 ) fue muy significativa ( p < 0,001, ANCOVA ). 
+Latanoprost redujo la PIO al pico en 8,6 mm Hg ( 32 % ) en comparación con 6,2 mm Hg ( 23 % ) para la dorzolamida, y la diferencia de 2,4 mm Hg fue significativa ( p < 0,001, ANCOVA ). 
+Las cifras correspondientes en el valle fueron 8,1 mm Hg ( 31 % ) para latanoprost y 4,7 mm Hg ( 17 % ) para dorzolamida, una diferencia significativa de 3,4 mm Hg ( p < 0,001, ANCOVA ). 
+Ambas drogas fueron bien toleradas sistémicamente y localmente. 
+Latanoprost fue superior a la dorzolamida en la reducción de la PIO, tanto a partir del efecto sobre la PIO en el pico y valle como por el efecto sobre la PIO diurna. 
+Aproximadamente el 40% de los pacientes con glaucoma se prescriben concomitantemente > o = 2 medicamentos diferentes para bajar la presión intraocular ( PIO ). 
+Una combinación fija eficaz y bien tolerada de agentes que requieren una instilación diaria puede mejorar el cumplimiento del paciente. 
+El objetivo de este estudio fue comparar la eficacia y el perfil de seguridad de la combinación fija latanoprost 0,005 % + maleato de timolol 0,5 % QD con los de latanoprost 0,005 % QD en monoterapia en pacientes cuya PIO elevada ( > o = 21 mm Hg ) no estaba controlada adecuadamente por latanoprost. 
+Este estudio de 21 días, aleatorizado, doble enmascarado, de control activo, se realizó en 49 sitios de estudio en Argentina, Brasil, Colombia, México, Perú, Estados Unidos y Venezuela. 
+Se incluyeron adultos con glaucoma o hipertensión ocular que no habían alcanzado una PIO de < 21 mm Hg mientras recibían latanoprost durante al menos 28 días. 
+Después de 28 días adicionales de administración de latanoprost, los pacientes fueron asignados aleatoriamente para continuar con la monoterapia de latanoprost o para cambiar a la combinación fija durante 21 días. 
+La población de intención de tratar (ITT ) incluyó a todos los pacientes que recibieron al menos 1 dosis de medicación del estudio doble mascada ; el análisis por protocolo (PP ) incluyó a los pacientes que completaron el estudio sin una violación del protocolo mayor y que tuvieron mediciones de la PIO tanto al inicio como al día 21. 
+El punto final primario fue la proporción de pacientes cuya PIO se redujo > o = 2 mm Hg desde el nivel basal en el día 21. 
+Se evaluaron las proporciones de pacientes que demostraron disminuciones de la PIO > o = 3, > o = 4, o > o = 5 mm Hg desde el nivel basal y de pacientes que alcanzaron un 10P < o = 18 mm Hg. 
+También se evaluaron las reacciones adversas ( EA ). 
+Un total de 350 pacientes fueron incluidos. 
+En total, 348 pacientes fueron incluidos en los análisis de ITT y tolerabilidad (combinación fija, n = 175; latanoprost, n = 173; edad media [DE], 64,4 [ 13,2 ] y 63,2 [ 14,0 ] años, respectivamente; 103 mujeres en cada grupo ). 
+Las características demográficas y clínicas basales fueron similares entre los grupos. 
+Un mayor porcentaje de pacientes que recibieron la combinación fija presentó disminuciones de la PIO de 2 mm Hg en el día 21 en comparación con el valor basal en comparación con los pacientes tratados con latanoprost (79,4% vs. 51,4%, respectivamente ; P < 0,001 ). 
+Los análisis de PP encontraron que más pacientes en el grupo de combinación fija tenían disminuciones de la PIO > o = 3, > o = 4, o > o = 5 mm Hg (para cada nivel objetivo, P < 0,001 frente al grupo de latanoprost ) o PIO final 18 mm Hg (combinación fija, 35,1% ; latanoprost, 17,8% ; P < 0,001 ). 
+Ambos tratamientos fueron bien tolerados. 
+Proporción similar de pacientes en los grupos de combinación fija y latanoprost notificaron al menos 1 EA emergente al tratamiento ( 10,9 % y 12,1 %, respectivamente ). 
+En esta población seleccionada de pacientes con respuesta inicial inadecuada a latanoprost, el cambio a latanoprosttimolol de combinación fija dio lugar a una mayor disminución de la PIO y una tolerabilidad similar en comparación con el tratamiento continuado con latanoprost. 
+Verificar la seguridad y eficacia del implante de Ologen ( OLO ) como adyuvante en comparación con la mitomicina-C de baja dosis (MCM ) en la trabeculectomía. 
+Se trata de un ensayo clínico prospectivo aleatorizado con un seguimiento de 24 meses. 
+Cuarenta pacientes con glaucoma (40 ojos ) fueron asignados a la trabeculectomía con MMC u OLO. 
+El resultado primario incluye la PIO diana ≤21, ≤17, y ≤15 mmHg ; completa ( PIO diana sin medicamentos ), y el éxito calificado ( PIO diana independientemente de los medicamentos ). 
+Los resultados secundarios incluyen evaluación bleb, de acuerdo con el Sistema de Clasificación de Moorfields Bleb ( MBGS ) ; tomografía de coherencia óptica de dominio espectral ( SD-OCT ) ; número de medicamentos de glaucoma ; y frecuencia de procedimientos auxiliares postoperatorios y complicaciones. 
+La PIO media preoperatoria fue de 26,5 ( ±5,2 ) en MMC y 27,3 ( ±6,0 ) en ojos de OLO, sin significación estadística. 
+En el postoperatorio de un día, la PIO disminuyó a 5,2 ( ±3,5 ) y 9,2 ( ±5,5 ) mm Hg, respectivamente ( p = 0,009 ). 
+La reducción de la PIO fue significativa en el punto final en todos los grupos ( P=0,01 ), con una PIO media de 16,0 ( ±2,9 ) y 16,5 ( ±2,1 ) mm Hg en MMC y OLO, respectivamente. 
+Las tasas y las curvas de Kaplan-Meier no difirieron para el éxito completo y calificado en cualquier objetivo IOP. 
+La altura del bleb en el grupo OLO fue superior a la de MMC uno ( p < 0,05 ). 
+El análisis de SD-OCT de bleb exitoso/no exitoso en pacientes con o sin éxito completo en PIO = 17 mm Hg indicó una sensibilidad del 83 % y 73 % y una especificidad del 75 % y 67 %, respectivamente, para los grupos de MMC y OLO. 
+No se observó reacción adversa a OLO. 
+Nuestros resultados sugieren que el implante OLO podría ser una alternativa nueva, segura y eficaz a MMC, con una tasa de éxito similar a largo plazo. 
+Comparar el efecto hipotensor intraocular de latanoprost con el de la dorzolamida cuando se añade al timolol. 
+Este estudio aleatorizado abierto con dos grupos paralelos se llevó a cabo en cinco centros de Grecia. 
+El estudio incluyó a 148 pacientes con glaucoma de ángulo abierto o pseudoexfoliación no controlados adecuadamente (presión intraocular de al menos 22 mm Hg ) o hipertensión ocular (presión intraocular de al menos 27 mm Hg ) que estaban recibiendo monoterapia con un betabloqueante o tratamiento dual en el que uno de los agentes era betabloqueante. 
+Los pacientes fueron cambiados a timolol 0,5% dos veces al día durante 2 a 4 semanas ( periodo de rodaje ) antes del inicio del estudio ( basal ). 
+Al inicio, los pacientes fueron aleatorizados para recibir latanoprost 0,005 % una vez al día o dorzolamida 2 % dos veces al día como tratamiento adicional al timolol. 
+La presión intraocular se registró a las 9:30 AM, 12:30 PM, y 3:30 PM al inicio y a los 3 meses. 
+Se siguió la seguridad durante todo el estudio. 
+La reducción de la presión intraocular diurna fue significativa en ambos grupos ( p < 0,001 ). 
+La reducción media de la presión intraocular con respecto al valor basal fue del 32 % para el grupo de latanoprost más timolol y del 20 % para el grupo de dorzolamida más timolol. 
+La estimación mínima cuadrada de la reducción media de la presión intraocular diurna después de 3 meses fue -7,06 mm Hg en el grupo de latanoprost más timolol y -4,44 mm Hg en el grupo de dorzolamida más timolol ( p < 0,001 ). 
+Los fármacos administrados en ambos grupos de tratamiento fueron bien tolerados. 
+Este estudio mostró claramente que el efecto aditivo intraocular diurno-reductor de la latanoprost es superior al de la dorzolamida en pacientes tratados con timolol. 
+Comparar la eficacia y tolerabilidad de latanoprost o brimonidina en pacientes con presión intraocular elevada ( PIO ). 
+Este estudio prospectivo, aleatorizado, enmascarado-evaluador, de grupo paralelo, multicéntrico en los Estados Unidos incluyó pacientes con glaucoma primario de ángulo abierto o hipertensión ocular. 
+Los pacientes recibieron latanoprost 0,005 % una vez al día ( 8:00 AM ; n = 152 ) o tartrato de brimonidina 0,2 % dos veces al día ( 8:00 AM y 8:00 PM ; n = 151 ). 
+Los pacientes se sometieron a evaluación en la selección, basal (aleatorización ) y después de 0,5, 3 y 6 meses de tratamiento. 
+La PIO se midió a las 8:00 AM, 10:00 AM, mediodía y 4:00 PM en la línea de base y los meses 3 y 6 visitas, y a las 8:00 AM sólo en la semana 2. 
+La principal medida del resultado fue la diferencia en el cambio diurno de la PIO desde el inicio hasta el mes 6 entre los grupos de tratamiento. 
+En cada visita se registraron acontecimientos adversos. 
+Los niveles medios basales de la PIO diurna fueron similares entre los grupos. 
+En el mes 6, la media ajustada ( +/- SEM ) de reducción de la PIO diurna fue de 5,7 +/- 0,3 mm Hg en el grupo de latanoprost y 3,1 +/- 0,3 mm Hg en los pacientes que recibieron brimonidina ( p < 0,001 ). 
+La diferencia media en la reducción de la PIO diurna fue de 2,5 +/- 0,3 mm Hg ( IC 95 %: 1,9, 3,2 ; P < 0,001 ). 
+Cinco veces más pacientes que recibían brimonidina que latanoprost fueron retirados del estudio debido a acontecimientos adversos. 
+Latanoprost instilado una vez al día es más eficaz y mejor tolerado que la brimonidina administrada dos veces al día para el tratamiento de pacientes con glaucoma o hipertensión ocular. 
+Durante el tratamiento, el rango de fluctuación diaria de la PIO es menor para latanoprost en comparación con la brimonidina. 
+El tartrato de brimonidina es un agonista alfa 2 altamente selectivo. 
+Este estudio investiga la seguridad y eficacia de la brimonidina del 0,2 % administrada dos veces al día durante 1 año en pacientes con glaucoma o hipertensión ocular. 
+El diseño del estudio fue un ensayo clínico de comparación multicéntrico, doble enmascarado, aleatorizado, de grupo paralelo, controlado con activos. 
+Los sujetos infundieron 0,2 % de brimonidina o 0,5 % de maleato de timolol dos veces al día durante 12 meses. 
+Los sujetos se examinaron al inicio, la semana 1, y los meses 1, 2, 3, 6, 9 y 12. 
+Se examinó un subconjunto de sujetos en la semana 2. 
+De los 443 sujetos incluidos en este estudio, 374 cumplieron los criterios de entrada ; 186 recibieron brimonidina y 188 recibieron timolol. 
+Los sujetos tratados con brimonidina mostraron una reducción máxima media global de la presión intraocular ( PIO ) de 6,5 mm Hg; los sujetos tratados con timolol tuvieron una reducción máxima media de la PIO de 6,1 mm Hg. 
+La brimonidina redujo el pico medio de PIO significativamente más que el timolol en la semana 2 y el mes 3 (p < 0,03) ; no se observó diferencia significativa entre los grupos para esta variable en otras visitas durante el curso de 1 año del estudio. 
+No se observó evidencia de taquifilaxia en ninguno de los grupos. 
+Se observó alergia en el 9 % de los sujetos tratados con brimonidina. 
+La sequedad bucal fue más frecuente en el grupo tratado con brimonidina que en el grupo tratado con timolol ( 33,0 % vs 19,4 % ), pero las quejas de ardor y escozor fueron más frecuentes en el grupo tratado con timolol ( 41,9 % ) que en los pacientes tratados con brimonidina ( 28,1 % ). 
+Dolor de cabeza, fatiga y somnolencia fueron similares en los 2 grupos. 
+En general, la tolerancia a la medicación fue aceptable. 
+La brimonidina es segura y eficaz para reducir la PIO en los ojos glaucomatosos. 
+La brimonidina proporciona un efecto hipotensor ocular sostenido a largo plazo, es bien tolerado, y tiene una baja tasa de respuesta alérgica. 
+Comparar la facoemulsificación versus la trabeculectomía con la mitomicina C concomitante en el glaucoma crónico de cierre de ángulos ( CACG ) sin control médico sin cataratas. 
+Ensayo clínico prospectivo, aleatorizado. 
+Cincuenta ojos de CACG médicamente incontrolados sin cataratas de 50 pacientes. 
+Los pacientes fueron aleatorizados para ser sometidos a facoemulsificación o trabeculectomía con mitomicina C adyuvante. Después de la cirugía, los pacientes fueron seguidos cada 3 meses durante 2 años. 
+Presión intraocular ( PIO ) y necesidad de medicamentos contra el glaucoma. 
+Veintiséis ojos de CACG fueron aleatorizados para recibir facoemulsificación, y 24 ojos fueron sometidos a trabeculectomía con mitomicina C. La facoemulsificación y trabeculectomía dieron lugar a una reducción significativa y comparable de la PIO a los 24 meses después de la cirugía (reducción de 8,4 mmHg o 34% para la facoemulsificación frente a 8,9 mmHg o 36% para la trabeculectomía ; P=0,76 ). 
+Durante los primeros 24 meses, los ojos tratados con trabeculectomía requerían en promedio 1,1 menos fármacos que los ojos tratados con facoemulsificación ( p < 0,001 ). 
+Sin embargo, la trabeculectomía se asoció con complicaciones quirúrgicas significativamente mayores que la facoemulsificación ( 46% vs 4 %; p=0,001 ). 
+Ocho ( 33 % ) de 24 ojos de trabeculectomía demostraron cataratas durante el seguimiento. 
+Tanto la facoemulsificación como la trabeculectomía son eficaces en la reducción de la PIO en los ojos CACG no controlados médicamente sin cataratas. 
+La trabeculectomía es más eficaz que la facoemulsificación en la reducción de la dependencia de los fármacos del glaucoma, pero se asocia con más complicaciones. 
+Comparar la facoemulsificación sola y la facoemulsificación con implante de stent micro-bypass en ojos con glaucoma primario de ángulo abierto. 
+Instituto di Fisiopatologia Clinica, Clinica Oculistica, Universita'di Torino, Torino, Italia. 
+En este ensayo clínico prospectivo aleatorizado doble enmascarado, los pacientes tuvieron facoemulsificación sola ( grupo control ) o facoemulsificación con implantación de iStent ( grupo combinado ). 
+Los principales resultados fueron presión intraocular (PIO ) y reducción en el uso de medicamentos durante 15 meses e PIO después de un lavado de 1 mes de agentes hipotensos oculares ( es decir, 16 meses postoperatorio ). 
+La PIO basal fue similar entre los grupos ( grupo combinado : 17,9 mm Hg +/- 2,6 [ DE ] ; grupo de control : 17,3 +/- 3,0 mm Hg ) ( P =.512 ). 
+Tres pacientes del grupo control se perdieron en el seguimiento. 
+La PIO media fue de 14,8 +/- 1,2 mm Hg en el grupo combinado y 15,7 +/- 1,1 mm Hg en el grupo control a los 15 meses y 16,6 +/- 3,1 mm Hg y 19,2 +/- 3,5 mm Hg, respectivamente, tras el lavado ; la PIO fue estadísticamente más baja en el grupo combinado que en el grupo control en ambos momentos ( P = 0,031 y P = 0,042, respectivamente ). 
+A los 15 meses, el número medio de medicamentos fue menor en el grupo combinado que en el grupo control ( 0,4 +/- 0,7 y 1,3 +/- 1,0, respectivamente ; P = 0,007 ), al igual que la proporción de pacientes con medicamentos hipotensos oculares ( 33% y 76%, respectivamente ). 
+La facoemulsificación con implante de stent fue más eficaz en el control de la PIO que la facoemulsificación sola ; los perfiles de seguridad fueron similares. 
+Comparar la presión intraocular ( PIO ) disminuyendo la eficacia y los efectos secundarios de latanoprost 0,005 % y bimatoprost 0,03 % en sujetos con glaucoma crónico de cierre del ángulo primario ( PACG ). 
+Se trata de un estudio cruzado aleatorizado, enmascarado por observadores, de 60 sujetos con PACG que recibieron latanoprost o bimatoprost durante 6 semanas, después de lo cual fueron cruzados al otro medicamento durante otras 6 semanas. 
+El efecto reductor de la PIO de los medicamentos fue evaluado por la reducción de la PIO después de 6 semanas de tratamiento en comparación con el valor basal. 
+Cincuenta y cuatro sujetos ( 80 ojos ) completaron el estudio. 
+Latanoprost redujo la PIO ( media ( DE ) ) en 8,4 ( 3,8 ) mm Hg y bimatoprost en 8,9 ( 3,9 ) mm Hg a partir de un valor basal de 25,2 ( 3,6 ) mm Hg y 25,2 ( 3,6 ) mm Hg respectivamente ( p = 0,23 ). 
+Las reacciones adversas fueron leves en ambos grupos ; sin embargo, hubo dos veces más notificaciones de reacciones adversas en el grupo de bimatoprost ( 81 % ) en comparación con el grupo de latanoprost ( 40 %, p < 0,01 ). 
+La irritación ocular fue la reacción adversa notificada con más frecuencia en ambos grupos ; 22 sujetos ( 37,9 % ) tratados con hiperemia ocular experimentada con bimatoprost en comparación con 13 sujetos ( 22,4 % ) tratados con latanoprost ( p = 0,11 ). 
+Bimatoprost una vez al día fue igualmente eficaz en la reducción de la PIO en comparación con latanoprost una vez al día en sujetos con PACG crónica. 
+Ambos fármacos fueron bien tolerados con reacciones adversas oculares leves. 
+Latanoprost, un nuevo análogo de prostaglandina, se comparó con timolol para la eficacia hipotensiva ocular y efectos secundarios. 
+En un estudio multicéntrico, aleatorizado, doble mascado, en grupo paralelo, 268 pacientes con hipertensión ocular o glaucoma primario temprano de ángulo abierto recibieron 0,005 % de latanoprost una vez al día o 0,5 % de timolol dos veces al día durante 6 meses. 
+Todos excepto diez pacientes de cada grupo completaron con éxito el estudio. 
+La presión intraocular (OPI ) se redujo significativamente ( P < 0,001 ) y se mantuvo por ambos medicamentos sin evidencia de una deriva a largo plazo durante 6 meses. 
+Comparando 6 meses con los valores basales de la PIO diurna, la reducción de la PIO ( media +/- desviación estándar ) alcanzada con latanoprost ( -6,7 +/- 3,4 mmHg ) fue significativamente mayor ( P < 0,001 ) que la producida con timolol (4,9 +/- 2,9 mmHg ). 
+Cuatro pacientes tratados con timolol y ninguno tratado con latanoprost fueron retirados del estudio debido a un control inadecuado de la PIO. 
+El pulso se redujo significativamente con timolol, pero no con latanoprost. 
+La hiperemia levemente más conjuntival apareció en los ojos tratados con latanoprost en comparación con los ojos tratados con timolol. 
+Se produjeron menos efectos secundarios subjetivos en los ojos tratados con latanoprost. 
+Ambos ojos de un paciente con una característica, concéntrico iris heterocromía ( más oscuro centralmente ) en la línea basal mostró un aumento definido, fotográficamente documentado en la pigmentación durante el tratamiento con latanoprost, haciendo los irides uniformemente más oscuro. 
+Tres pacientes adicionales tratados con latanoprost fueron sospechosos de este cambio de color. 
+De lo contrario, no se produjo ninguna diferencia significativa entre los grupos de tratamiento agudeza visual, examen de la lámpara cortada, presión arterial y valores de laboratorio. 
+Latanoprost tiene el potencial de convertirse en un nuevo tratamiento de primera línea para el glaucoma. 
+Eficacia del tratamiento combinado latanoprost frente a timolol/dorzolamida en pacientes con glaucoma primario de ángulo abierto 
+El estudio fue diseñado como un estudio aleatorizado de 6 meses, enmascarado por observadores, compuesto por 120 pacientes con glaucoma primario de ángulo abierto en el Hospital Feiz, Isfahan, Irán, de 2006 a 2007. 
+Los pacientes fueron aleatorizados (latanoprost, n = 60 ; dorzolamida/timolol, n = 60 ) al tratamiento con latanoprost, 0,005 % una vez al día, o la combinación de timolol 0,5% dos veces al día, y dorzolamida 2 % 3 veces al día. 
+La presión intraocular media ( PIO ) después de 1, 3 y 6 meses de tratamiento se comparó con el valor basal en los 2 grupos. 
+Un total de 120 pacientes fueron aleatorizados a 2 grupos de tratamiento igualitario. 
+Los valores basales medios de la PIO fueron similares entre los 2 grupos. 
+La media ( error estándar de la media [ SE ] ) Las reducciones de la PIO en los meses uno fueron 7,2 ( 0,4 ), en el mes 3 fue 7,3 ( 0,4 ), y en el mes 6 fue 7,1 ( 0,3 ) Hg para el grupo de latanoprost y 7,5 ( 0,3 ), 7,8 ( 0,3 ), y 7,4 ( 0,3 ) Hg para el grupo de dorzolamida/timolol. 
+Las 2 terapias fueron igualmente efectivas. 
+La combinación de latanoprost y dorzolamida/timolol fue igualmente eficaz para reducir la PIO en comparación con el valor basal no tratado. 
+Comparar la eficacia y seguridad de la trabeculotomía láser excímero ( ELT ) ab interno vs trabeculoplastia láser selectiva ( SLT ) durante 24 meses de seguimiento en pacientes con glaucoma primario de ángulo abierto ( POAG ) refractario a la terapia médica. 
+Este estudio prospectivo aleatorizado incluyó 30 ojos consecutivos asignados aleatoriamente al grupo ELT o SLT. 
+El ELT se llevó a cabo utilizando un láser XeCl Excimer con una longitud de onda de emisión de 308 nm. 
+Ocho puntos fueron distribuidos igualmente a una distancia de 500 microm unos de otros sobre el trabeculum anterior. 
+Los pacientes con SLT fueron tratados con un láser de yitrio-aluminum-garnet ( longitud de onda 532 nm ) con un neodimio doble q conmutado de frecuencia. 
+Aproximadamente 50 adyacentes, pero no superpuestos, las manchas láser se distribuyeron a lo largo de 180 grados de la malla trabecular, utilizando un nivel de energía que va desde 0,7 a 1,0 mJ por pulso. 
+La principal medida de resultado fue la reducción de la presión intraocular ( PIO ) tras el ELT y el SLT. 
+El éxito se definió como > o = 20 % de reducción de la PIO sin intervención adicional de glaucoma. 
+A los 24 meses, las tasas de éxito total fueron del 53,3 % para el grupo ELT y del 40 % para el grupo SLT ( P=0,35, prueba exacta de Fisher ) ; las tasas de éxito cualificadas fueron del 33,3 % para el grupo ELT y del 26,6 % para el grupo SLT ( P=0,5, prueba exacta de Fisher ). 
+La PIO media disminuyó de 25,0+/-1,9 a 17,6+/-2,2 mmHg ( -29,6 %; P < 0,0001 ) en el grupo ELT y de 23,9+/-0,9 a 19,1+/-1,8 mmHg ( -21 %; P < 0,0001 ) en el grupo SLT. 
+Tanto el ELT como el SLT demostraron ser técnicas eficaces en el tratamiento de los AGPO refractarios a la terapia médica. 
+Comparar la actividad hipotensiva ocular y el perfil de seguridad de las gotas oftálmicas de hidrocloruro de carteol al 1 % de acción prolongada (formulación de acción prolongada ) con las gotas oftálmicas de hidrocloruro de carteol al 1 % (fármaco actualmente prescrito ) para reducir la presión intraocular. 
+Los pacientes con glaucoma primario de ángulo abierto o hipertensión ocular ( 146 casos ) fueron asignados aleatoriamente al grupo farmacológico de acción prolongada ( 74 casos ) y al grupo farmacológico actualmente prescrito ( 72 casos ). 
+Las gotas oftálmicas de acción prolongada fueron inculcadas una vez al día por la mañana (junto con una gota de placebo por la noche ) y las gotas oftálmicas actualmente prescritas fueron inculcadas dos veces al día por la mañana y por la noche. 
+Se administraron gotas para los ojos durante 8 semanas. 
+La presión intraocular fue monitoreada a las 2, 4, y 8 semanas después del inicio de la instilación del fármaco para la evaluación de la equivalencia. 
+La presión intraocular se redujo significativamente durante todo el periodo de seguimiento en ambos grupos. 
+En el grupo farmacológico de acción prolongada, la reducción de la presión intraocular fue de -3,5 +/- 0,2, -4,3 +/- 0,2 y -4,6 +/- 0,3 mmHg a las 2, 4 y 8 semanas, respectivamente ( prueba t pareada ). 
+En el grupo farmacológico actualmente prescrito, la reducción de la presión intraocular fue de -4,1 +/- 0,2, -4,4 +/- 0,3 y -- 4,6 +/- 0,2 mmHg a 2, 4, y 8 semanas ( prueba t emparejada ). 
+El perfil de seguridad fue similar en ambos grupos, y la tolerancia para las gotas oftálmicas de acción prolongada fue tan buena como para las gotas oftálmicas actualmente prescritas. 
+Debido a que la eficacia de ambos fármacos fue equivalente, con un perfil de seguridad idéntico, las gotas oftálmicas de acción prolongada parecen ser una formulación eficaz para uso clínico en pacientes con glaucoma japonés. 
+Los nuevos agentes hipotensores oculares disponibles para tratar el glaucoma y la hipertensión ocular (OHT ) incluyen latanoprost, un análogo de la prostaglandina F ( 2alfa ) y la combinación fija de clorhidrato de dorzolamida, un inhibidor de la anhidrasa carbónica, y maleato de timolol, un betabloqueante. 
+El objetivo de este estudio fue comparar la eficacia y tolerabilidad de latanoprost con la de la combinación fija de dorzolamida y timolol durante 8 semanas. 
+Este estudio intervencionista, de 8 semanas, aleatorizado, abierto, en grupo paralelo se realizó en 18 centros de 6 países latinoamericanos. 
+Los pacientes con glaucoma primario abierto unilateral o bilateral, pigmentario o exfoliativo o THO fueron aleatorizados para recibir latanoprost, 1 gota en el ojo afectado QD ( noche ), o combinación fija dorzolamida/timolol, 1 gota en el ojo afectado BID ( mañana y noche ). 
+Los medicamentos se autoadministraron, 1 gota por ojo afectado. 
+Al inicio y a la semana 8, la presión intraocular ( PIO ) se midió 3 veces cada una a las 8:30 am, 10:00 am, 2:00 pm, y 5:00 pm y después de la prueba de beber agua, que estima el pico de la PIO de la curva de tensión diurna, realizada después de la evaluación de la PIO a las 5:00 pm. 
+El resultado principal de eficacia fue el cambio en la PIO diurna ( media de las mediciones de la PIO ) desde el valor basal hasta la semana 8. 
+Los datos sobre el efecto adverso (EA ) se registraron en cada visita. 
+Un total de 229 pacientes fueron aleatorizados ( latanoprost, n = 112 ; dorzolamida/timolol, n = 117 ). 
+Los valores basales medios de la PIO diurna fueron similares entre los 2 grupos. 
+La reducción media ( DE ) de la PIO diurna en la semana 8 antes de la prueba de beber agua fue de 6,9 ( 3,0 ) mm Hg para el grupo de latanoprost y 6,4 ( 3,2 ) mm Hg para el grupo de dorzolamida/timolol. 
+Los valores medios de la PIO fueron similares en todos los momentos excepto a las 5:00 pm, cuando los niveles fueron significativamente más bajos en los pacientes tratados con latanoprost ( P = 0,025 ). 
+Después de la prueba de beber agua, el aumento de los valores de la PIO fue similar entre los grupos basales pero menor en los pacientes tratados con latanoprost en la semana 8 (diferencia ajustada, 1,08 mm Hg ; P = 0,012 ). 
+Menos pacientes tratados con latanoprost notificaron EA oculares o sistémicas ( P = 0,025 y P < 0,001, respectivamente). 
+En este estudio de pacientes con glaucoma primario abierto unilateral o bilateral, pigmentario o exfoliativo o reducciones de la PIO del OHT generalmente fueron similares entre los grupos de tratamiento, excepto a las 5:00 pm, cuando el nivel medio de la PIO fue significativamente menor en los pacientes tratados con latanoprost. 
+Latanoprost fue mejor tolerada que la dorzolamida y timolol de combinación fija. 
+Comparar las tasas de éxito clínico y el impacto en la calidad de vida de la brimonidina 0,2 % con timolol 0,5 % en pacientes recién diagnosticados que no habían recibido tratamiento con glaucoma. 
+Ensayo prospectivo, multicéntrico, aleatorizado, doble mascado, de eficacia clínica en el que se compararon los resultados clínicos de tartrato de brimonidina dos veces al día 0,2 % con los de maleato de timolol 0,5 % en pacientes con glaucoma e hipertensión ocular. 
+Se incluyeron 219 pacientes, 111 en el grupo de brimonidina y 108 en el grupo de timolol. 
+Los pacientes infundieron sus medicamentos de estudio dos veces al día durante 4 meses. 
+Los factores para determinar el éxito clínico fueron la reducción de la presión intraocular ( PIO ), la seguridad y los efectos adversos. 
+Se evaluaron los efectos de calidad de vida con los cuestionarios de la Encuesta de Salud SF-36 y el Índice de Discapacidad de Glaucoma. 
+El éxito clínico fue del 71 % ( 75/106 ) con brimonidina y del 70 % ( 73/105 ) con timolol como tratamiento inicial. 
+La disminución media global de la PIO fue de 6,5 mm Hg con brimonidina y 6,2 mm Hg con timolol. 
+Pocos pacientes notificaron un acontecimiento adverso específico y, con la excepción de una tasa ligeramente superior de ardor ocular y escozor en el grupo de brimonidina, no hubo diferencias significativas entre grupos. 
+No se observaron efectos cronotrópicos significativos en el corazón con brimonidina, mientras que en los meses 1 y 4 se observaron disminuciones medias pequeñas pero significativas en la frecuencia cardíaca con timolol. 
+La presión arterial media sistólica y diastólica se mantuvo relativamente estable en ambos grupos. 
+La calidad de vida se mantuvo estable, sin diferencias significativas entre grupos. 
+Como agente de primera línea para el tratamiento del glaucoma y la hipertensión ocular, la brimonidina tiene una eficacia clínica equivalente al timolol, pero con menos efecto cronotrópico sobre el corazón. 
+La brimonidina es una alternativa viable al timolol para el tratamiento de primera línea en el glaucoma y la hipertensión ocular. 
+Comparar el tartrato de brimonidina agonista alfa2-adrenérgico 0,2 % con el maleato de timolol antagonista beta-adrenérgico 0,5 % en la preservación de la función visual en el glaucoma de baja presión. 
+Ensayo clínico multicéntrico aleatorizado, doble enmascarado. 
+Los criterios de exclusión incluyeron presión intraocular no tratada (PIO ) > 21 mm Hg, desviación media del campo visual peor que -16 decibelios, o contraindicaciones para estudiar medicamentos. 
+Ambos ojos recibieron una monoterapia dos veces al día aleatoria en bloques de 7 ( 4 brimonidina a 3 timolol ). 
+La perimetría y la tonometría automatizada estándar se realizaron a intervalos de 4 meses. 
+La principal medida del resultado fue la progresión del campo en ambos ojos, definida como los mismos 3 o más puntos con una pendiente negativa -1 dB/año en P < 5 %, en 3 pruebas consecutivas, evaluadas por regresión lineal puntual. 
+Las medidas del resultado secundario fueron progresión basada en mapas de probabilidad de cambio de glaucoma ( GCPM ) de desviación del patrón y el método de 3 omisiones para regresión lineal puntual. 
+Noventa y nueve pacientes fueron aleatorizados a brimonidina y 79 a timolol. 
+La media ( +/- SE ) de los meses de seguimiento para todos los pacientes fue de 30,0 +/- 2. 
+Estadísticamente, menos pacientes tratados con brimonidina ( 9, 9,1 % ) tuvieron progresión del campo visual por regresión lineal puntual que los pacientes tratados con timolol ( 31, 39,2 %, rango logarítmico 12,4, p = 0,001 ). 
+La PIO media tratada fue similar para los pacientes tratados con brimonidina y timolol en todos los momentos. 
+Más pacientes tratados con brimonidina ( 28, 28,3 % ) que pacientes tratados con timolol ( 9, 11,4 % ) interrumpieron la participación en el estudio debido a acontecimientos adversos relacionados con el fármaco ( p = 0,008 ). 
+Se observaron diferencias similares en la progresión cuando se analizó por el GCPM y el método de 3 omitiendo. 
+Los pacientes con glaucoma de baja presión tratados con brimonidina 0,2 % que no desarrollen alergia ocular tienen menos probabilidades de tener progresión en el campo que los pacientes tratados con timolol 0,5 %. 
+Para comparar dos soluciones de riego intraocular, Sal balanceada Solución Plus ( BSS Plus ) versus Ringer Lactado's ( Ringer ), para la preservación de la integridad corneal después de la facoemulsificación. 
+110 pacientes sometidos a facoemulsificación fueron aleatorizados a BSS Plus ( n=55 ) o Ringer ( n=55 ) como solución de riego. 
+Los pacientes fueron examinados al inicio y a los 1, 8, 15, 30 y 60 días postoperatorios. 
+Las evaluaciones incluyeron microscopía especular para evaluar la densidad celular endotelial (DCE ) y la variabilidad del tamaño celular endotelial ( CV ), y la paquimetría corneal para la medición del espesor central de la córnea ( CCT ). 
+Los grupos estuvieron bien equilibrados en cuanto al ECD basal, CV y ECC ( p > 0,05 ). 
+No hubo diferencia estadísticamente significativa entre la reducción del ECD en el grupo BSS Plus 13,1 ± 2,0 % y Ringer 9,2 ± 1,9 % (p < 0,05 ) en el día 60 o en cualquier visita de estudio. 
+No hubo diferencia estadísticamente significativa entre el aumento de CV en el grupo BSS Plus 23,0 ± 3,0 % y Ringer 20,2 ± 4,0 % (p < 0,05 ) en el día 60 o en cualquier visita de estudio. 
+El TCC se incrementó significativamente ( p < 0,05 ) a los 1, 8, 15 y 30 días postoperatorios, volviendo al valor basal a los 60 días en ambos grupos. 
+No hubo diferencia significativa en el aumento de la ECC en ambos grupos en ninguna visita. 
+Curiosamente, hubo correlaciones estadísticamente significativas entre la pérdida de ECD y el tiempo de facoemulsificación ( p < 0,0001 ) y la pérdida de ECD y el volumen de solución de irrigación ( p < 0,0001 ) en el grupo Ringer, pero no en el grupo BSS Plus. 
+La solución de Ringers fue similar a BSS Plus para preservación corneal en cirugía de cataratas atraumáticas. 
+Sin embargo, nuestro estudio demuestra que existe una tendencia hacia una menor densidad celular endotelial postoperatoria para cirugías con mayor tiempo de facoemulsificación y mayores volúmenes de irrigación si se utiliza Ringer. 
+Comparar la eficacia y tolerabilidad de la combinación fija de maleato de timolol 0,5% / tartrato de brimonidina 0,2 % frente a la combinación fija de maleato de timolol 0,5% /dorzolamida 2 % en pacientes con presión intraocular elevada ( PIO ) a lo largo de 8 semanas. 
+Este estudio de grupo paralelo de 8 semanas, multicéntrico, intervencionista, aleatorizado, abierto, se realizó en 4 centros en Brasil y 1 centro en Argentina. 
+Los pacientes con glaucoma de ángulo abierto o hipertensión ocular fueron aleatorizados para recibir una combinación bilateralmente fija de brimonidina/maleato de timolol 0,5% o combinación fija de dorzolamida 2 % /timolol 0,5% dos veces al día a las 8:00 AM y 8:00 PM. 
+Una curva de tensión diurna modificada ( 8:00 AM, 10:30 AM, 02:00 PM, y 4:00 PM ) seguida por la prueba de agua potable ( WDT ), que estima el pico de la PIO de la curva de tensión diurna, se realizaron en la línea de base y las visitas de la semana-8. 
+Los datos sobre las reacciones adversas se registraron en cada visita. 
+Un total de 210 pacientes fueron aleatorizados (brimonidina/timolol, n=111 ; dorzolamida/timolol, n=99 ). 
+La PIO basal media fue de 23,43+/-3,22 mm Hg y 23,43+/-4,06 mm Hg en los pacientes tratados con brimonidina/timolol y dorzolamida/timolol, respectivamente ( P=0,993 ). 
+La reducción media de la PIO diurna después de 8 semanas fue de 7,02+/-3,06 mm Hg y 6,91+/-3,67 mm Hg, respectivamente ( P=0,811 ). 
+La diferencia ajustada entre grupos (análisis de covarianza ) en la semana 8 no fue estadísticamente significativa ( p = 0,847 ). 
+El pico basal medio de WDT fue de 27,79+/-4,29 mm Hg en el grupo de brimonidina/timolol y de 27,68+/-5,46 mm Hg en el grupo de dorzolamida/timolol. 
+Después de 8 semanas de tratamiento, los picos medios de TMD fueron 20,94+/-3,76 mm Hg ( P < 0,001 ) y 20,98+/-4,19 ( P < 0,001 ), respectivamente. 
+La diferencia ajustada entre grupos (análisis de covarianza ) no fue estadísticamente significativa ( p = 0,469 ). 
+No se encontró diferencia estadística en términos de eventos adversos entre los grupos. 
+Ambas combinaciones fijas fueron capaces de reducir significativamente el PIO diurno medio, el pico diurno medio, y el pico WDT medio después de 8 semanas de tratamiento. 
+También, ambas combinaciones fijas son bien toleradas con pocos efectos secundarios. 
+Para comparar la presión intraocular ) -reducción del efecto y efectos secundarios de latanoprost 0,005 % una vez al día con unoprostone 0,12 % dos veces al día. 
+Se aleatorizaron 60 pacientes con glaucoma primario de ángulo abierto o hipertensión ocular para recibir latanoprost una vez al día por la noche y placebo una vez al día por la mañana, o unoprostone dos veces al día por la mañana y por la noche. 
+El estudio fue doble enmascarado y siguió un diseño cruzado con dos periodos de tratamiento de 1 mes separados por un periodo de lavado de 3 semanas. 
+La presión intraocular se midió a las 9 AM y a las 5 PM en las visitas iniciales y al día 28, y a las 9 AM en las visitas del día 2 y del día 14 de cada período de tratamiento. 
+La medición de las 9 AM se realizó 2 horas y 13 horas después de la última gota de unoprostone y latanoprost, y la medición de las 5 PM fue a las 10 y 21 horas, respectivamente. 
+Se calculó la media de las mediciones. 
+También se registraron los parámetros de seguridad. 
+Cincuenta y seis pacientes completaron ambos periodos de tratamiento y tenían datos de presión intraocular disponibles para su evaluación. 
+Después de 1 mes de tratamiento, latanoprost redujo significativamente la presión intraocular ( media +/- SEM ) en 6,1 +/- 0,5 mm Hg ( p < 0,001 ) y unaprostone en 4,2 +/- 0,4 mm Hg ( p < 0,001 ) ajustados a partir de un valor basal global de 22,3 +/- 0,5 mm Hg y 23,2 +/- 0,4 mm Hg, respectivamente. 
+La diferencia de 1,9 mm Hg entre los tratamientos fue estadísticamente significativa a favor de latanoprost [ P = 0,003, análisis de covarianza ( ANCOVA ) ]. 
+El análisis no ajustado de los respondedores utilizando el porcentaje de disminución de la presión intraocular mostró que la proporción de respondedores en el grupo tratado con latanoprost fue mayor que en el grupo tratado con unaprostone. 
+Los síntomas oculares adversos y los hallazgos fueron leves en ambos grupos de tratamiento. 
+El enrojecimiento ocular y la irritación ocular fueron los acontecimientos notificados con mayor frecuencia. 
+Latanoprost una vez al día fue significativamente más eficaz en la reducción de la presión intraocular en comparación con unoprostone dos veces al día después de 1 mes de tratamiento en pacientes con glaucoma primario de ángulo abierto e hipertensión ocular. 
+Ambos fármacos fueron bien tolerados con pocos efectos adversos oculares. 
+Comparar latanoprost y timolol con respecto a los cambios en el rango de presión intraocular intervisita ( PIO ), una medida de fluctuación de la PIO a largo plazo. 
+Análisis post hoc de tres ensayos de registro de latanoprost (n = 313 ) vs timolol (n = 318 ) a 6 meses, multicéntrico, aleatorizado ( 1:1). 
+Los análisis incluyeron pacientes con glaucoma o hipertensión ocular que inculcaban latanoprost una vez al día por la noche y vehículo por la mañana y aquellos que inculcaban timolol dos veces al día. 
+Intervisita de pretratamiento Intervalo de PIO : PIO más alto menos PIO más bajo de 4 mediciones obtenidas en el cribado y en el valor basal. 
+Intervisita de postratamiento Intervalo de la PIO : mayor PIO menos menor PIO de 4 mediciones obtenidas en las semanas 18 y 26. 
+Los rangos fueron dicotomizados a alto ( > 6 mm Hg ) y bajo ( < o = 6 mm Hg ). 
+Ambos tratamientos dieron lugar a reducciones significativas en el rango medio de la PIO entre visitas durante 26 semanas. 
+Pretratamiento, proporciones comparables de pacientes tratados con latanoprost y timolol tuvieron rangos intervisivos de PIO elevados ( 22 % [ 70/313 ] y 23 % [ 72/318 ], respectivamente ; P = 934 ). 
+Después del tratamiento, el 6 % ( 19/313 ) y el 11 % ( 35/318 ) de los pacientes de los grupos de latanoprost y timolol, respectivamente, presentaron intervalos de la PIO entre visitas elevados ( P = 0,026 ). 
+Los factores de riesgo significativos para el rango alto de intervisitas postratamiento (regresión logística multivariable ) fueron el rango alto de intervisitas pretratamiento, tratamiento con timolol, raza negra, mayor tiempo desde el diagnóstico, y mayor promedio de IOP pretratamiento. 
+En comparación con timolol, el tratamiento con latanoprost da lugar a un número significativamente menor de pacientes con una alta fluctuación de la PIO. 
+El impacto de la reducción de la alta fluctuación de la PIO en el daño glaucomatoso progresivo merece ser investigado en estudios prospectivos. 
+Informar de un ensayo clínico aleatorizado de inyecciones subconjuntivales postoperatorias de dosis bajas de 5-fluorouracilo en pacientes sometidos a trabeculectomía primaria. 
+En un ensayo clínico prospectivo aleatorizado, 40 ojos de 40 pacientes fueron aleatorizados al grupo de dosis bajas de 5-fluorouracilo y recibieron tres inyecciones subconjuntivales de 5 mg cada una durante 11 días postoperatorios, y 40 ojos de 40 pacientes fueron aleatorizados a trabeculectomía sin 5-fluorouracilo. 
+La media ( +/-SD ) de las presiones intraoculares preoperatorias y postoperatorias a 1 año en el grupo de 5-fluorouracilo fue de 26,9 ( +/-9,5 ) y 15,3 ( +/-5,8 ) Hg, respectivamente. 
+En el grupo control estos fueron 25,9 ( +/-8,1 ) mm Hg, y 15,8 ( +/-5,1 ) mm Hg, respectivamente. 
+Los pacientes que recibieron 5-fluorouracilo tuvieron una reducción media de la presión intraocular de 11,5 ( +/-9,1 ) Hg a una mediana de seguimiento de 52,3 semanas. 
+El grupo control tuvo una reducción media de la presión intraocular de 10,2 ( +/-8,7 ) mm Hg a una mediana de seguimiento de 52,6 semanas. 
+Estas diferencias no fueron estadísticamente significativas. 
+Tres inyecciones de 5-fluorouracilo subconjuntivales postoperatorias de 5 mg cada una después de la trabeculectomía en ojos de bajo riesgo de fracaso no tuvieron ningún efecto estadísticamente o clínicamente significativo sobre la reducción de la presión intraocular con un seguimiento de 1 año. 
+La mejora del éxito en este grupo de pacientes puede requerir una dosis total mayor de 5-fluorouracilo. 
+Comparar los efectos longitudinales del tratamiento sobre la presión intraocular ( PIO ) y el rendimiento del campo visual en el glaucoma de tensión normal japonés ( NTG ) entre latanoprost y timolol. 
+Este es un estudio abierto, aleatorizado. 
+Un total de 62 pacientes con GNT fueron incluidos de forma prospectiva, consecutivamente. 
+Todos los sujetos del estudio fueron asignados al azar a una instilación de latanoprost del 0,005 % una vez al día por la mañana o a una instilación de timolol del 0,5 % dos veces al día para un seguimiento prospectivo de 3 años, y se sometieron a un examen ocular de rutina cada mes. 
+La perimetría automatizada se realizó cada 6 meses utilizando analizadores de campo Humphrey. 
+También se obtuvieron estereofotografías de discos ópticos cada 6 meses. 
+El porcentaje de reducción de la PIO o la magnitud de la reducción de la PIO tampoco mostró diferencias entre grupos en ningún momento ( 13-15 % ). 
+En el campo visual, la tasa estimada de cambio en el valor de MD ( dB/año ) fue -0,34+/-0,17 ( SE ) para el grupo de latanoprost y -0,10+/-0,18 ( SE ) para el grupo de timolol. 
+La tasa estimada de variación en MD no mostró diferencia significativa con respecto a cero en ambos grupos, y no hubo diferencias estadísticas entre grupos. 
+No se observaron cambios en la topografía de la cabeza del nervio óptico en la relación vertical copa-disco y en el área de la llanta medida por técnicas de análisis de imágenes en ninguno de los dos grupos. 
+No hubo pacientes que abandonaron el tratamiento debido a los efectos secundarios de los regímenes de tratamiento. 
+Tanto los tratamientos individuales de latanoprost como timolol redujeron la PIO en un 13-15 % en sus efectos valle durante 3 años en pacientes japoneses con GNT ; ambos mostraron efectos similares en el desempeño del campo visual. 
+Latanoprost es un análogo alfa de PGF2 que reduce la presión intraocular ( PIO ) al aumentar el flujo de salida uveoscleral. 
+El objetivo de este estudio fue investigar el efecto de dos regímenes diferentes de latanoprost sobre la PIO diurna y también el efecto de latanoprost sobre la barrera acuosa en sangre medida con un medidor de células de bengala láser ( Kowa FM-500 ). 
+Además, se estudiaron los aspectos de seguridad de los dos regímenes con respecto a la hiperemia. 
+Se realizó un estudio aleatorizado de doble enmascaramiento en 30 pacientes (9 hombres, 21 mujeres; edad media 61,9 años) con glaucoma primario de ángulo abierto o glaucoma de pseudoexfoliación. 
+Veinte pacientes fueron tratados con latanoprost 0.0015 % dos veces al día o 0,005 % una vez al día durante 3 semanas en un diseño cruzado. 
+Diez pacientes recibieron timolol 0,5% dos veces al día como control. 
+Latanoprost 0,005 % una vez al día reducción de la PIO ( +/- SEM ) más eficaz que latanoprost 0,0015 % dos veces al día ( 9,8 +/- 0,9 mm Hg y 6,7 +/- 0,9 mm Hg, respectivamente ). 
+Hubo un aumento estadísticamente significativo en la concentración de proteínas de humor acuoso dentro del grupo timolol ( P = 0,004 ), pero no dentro del grupo latanoprost ( P = 0,97 ). 
+No hubo diferencia estadísticamente significativa en el cambio en la concentración de proteínas de humor acuoso desde el inicio entre los grupos de latanoprost y timolol ( P = 0,08 ). 
+No se encontró diferencia estadísticamente significativa en la hiperemia conjuntival entre los dos regímenes de latanoprost (P = 0,37 ). 
+Latanoprost 0,005 % una vez al día redujo la PIO más eficazmente que latanoprost 0,0015 % dos veces al día ( P < 0,001 ). 
+Latanoprost no tuvo ningún efecto estadísticamente o clínicamente significativo sobre la barrera hematoacuosa. 
+No hubo diferencia en la hiperemia entre los dos regímenes. 
+Ambas concentraciones de latanoprost redujeron la PIO al menos así como timolol 0,5% colirio. 
+Se realizó un estudio prospectivo aleatorizado para comparar mitomicina con fluorouracilo para la eficacia y seguridad como complemento a la trabeculectomía en ojos con glaucoma con mal pronóstico quirúrgico. 
+Se asignaron 32 ojos de 32 pacientes aleatoriamente a la terapia con mitomicina (17 ojos ) o con fluorouracilo (15 ojos ). 
+La mitomicina ( 0,2 mg ) se aplicó sólo una vez durante la trabeculectomía, y el fluorouracilo ( 5 mg ) se inyectó subconjuntivalmente 10 veces en las 2 semanas posteriores a la cirugía. 
+Quince ojos ( 88 % ) en el grupo de mitomicina y siete ( 47 % ) en el grupo de fluorouracilo alcanzaron una presión intraocular inferior o igual a 20 mm Hg sin medicación antiglaucoma. 
+El período de seguimiento fue de 7 a 12 meses. 
+Las complicaciones corneales fueron menos frecuentes en el grupo al que se administró mitomicina que en el grupo al que se administró fluorouracilo ( 12 vs 53 % ). 
+La incidencia de otras complicaciones fue similar entre los dos grupos. 
+trabeculectomía es el procedimiento quirúrgico estándar para el manejo del glaucoma. 
+comparar el resultado de los colgajos escleral triangulares y rectangulares en la trabeculectomía. 
+Este estudio se realizó en el Departamento de Oftalmología, BPKIHS, Dharan, durante un período de un año. 
+Un total de 22 pacientes sometidos a trabeculectomía fueron aleatorizados para someterse ya sea a trabeculectomía con colgajo escleral triangular (grupo A = 11 ojos ) o a trabeculectomía con colgajo rectangular (grupo B = 11 ojos ). 
+Los parámetros estudiados fueron presión intraocular ( PIO ), profundidad de la cámara anterior ( ACD ), características del bleb y complicaciones quirúrgicas. 
+El valor de p < 0,05 se consideró significativo. 
+Todos los cálculos se ejecutaron utilizando el programa de software SPSS 11.0. 
+la edad varió entre 40 y 76 años con una media de 56,5 +/- 9,25 años. 
+El diagnóstico preoperatorio más común fue el glaucoma de cierre de ángulo. 
+El porcentaje postoperatorio de reducción de la PIO (grupo A 68,9 % ; grupo B 66,51 % ) fue significativa estáticamente en ambos grupos (p=0,001 ). 
+La trabeculectomía fue casi igual de eficaz con un éxito quirúrgico completo del 91% en el grupo A y del 82% en el grupo B (p=0,534 ). 
+Las puntuaciones finales de bleb fueron casi similares en ambos grupos con 3,27 +/- 1,5 en el grupo A y 3,36 +/- 1,21 en el grupo B ( p=0,877 ). 
+La hipotonía con la PIO inferior a 6 mmHg se encontró en el primer día postoperatorio en 2 pacientes del Grupo A y en 1 del Grupo B. 
+Todos ellos mejoraron espontáneamente en una semana. 
+los colgajos escleral triangulares y rectangulares en la trabeculectomía son igualmente efectivos en términos de control postoperatorio de la PIO, características bleb y complicaciones. 
+Comparar la eficacia y seguridad de bimatoprost tópico ( LUMIGAN ; Allergan, Inc., Irvine, CA ) una vez al día con la de timolol combinado tópico y dorzolamida ( Cosopt ; Merck and Co, Inc., Whitehouse Station, NJ ) dos veces al día. 
+Ensayo clínico prospectivo, aleatorizado, doble enmascarado, multicéntrico. 
+Ciento setenta y siete pacientes con diagnóstico de glaucoma o hipertensión ocular y control inadecuado de la presión intraocular ( PIO ) después de al menos 2 semanas de maleato tópico de timolol 0,5% en monoterapia. 
+Los pacientes fueron aleatorizados para recibir bimatoprost 0,03 % una vez al día ( n = 90 ) o timolol combinado 0,5% y dorzolamida 2 % dos veces al día ( n = 87 ) durante un período de 3 meses. 
+La presión intraocular, el punto final primario, se midió a las 8 AM y 10 AM al inicio, semana 1, y meses 1, 2, y 3, y también a las 4 PM y 8 PM al inicio y al mes 3. 
+Bimatoprost proporcionó una reducción significativamente mayor de la PIO en comparación con timolol combinado y dorzolamida. 
+En las mediciones de 8 AM, bimatoprost redujo la PIO media 6,8 mmHg a 7,6 mmHg desde el inicio, mientras que la combinación de timolol y dorzolamida redujo la PIO media 4,4 a 5,0 mmHg desde el inicio ( P < 0,001 ). 
+En el último seguimiento, los pacientes tuvieron mejor control diurno de la PIO con bimatoprost que la combinación de timolol y dorzolamida. 
+A las 8 AM en la visita de 3 meses, los porcentajes de pacientes que alcanzaron COP de < o = 13 mmHg, < o = 14 mmHg, < o = 15 mmHg, o < o = 16 mmHg fueron más del doble para bimatoprost que para timolol combinado y dorzolamida ( todos P < o = 0,008 ). 
+La perversión del gusto, el ardor ocular, y el escozor con instilación fueron más comunes con timolol combinado y dorzolamida, mientras que la hiperemia conjuntival fue más común con bimatoprost. 
+En individuos con glaucoma o hipertensión ocular, no controlados con un betabloqueante tópico solo, bimatoprost redujo la PIO de forma más consistente que la combinación de timolol y dorzolamida. 
+En un ensayo clínico aleatorizado, los autores compararon el uso de inyecciones subconjuntivales postoperatorias de 5-fluorouracilo ( 5-FU ) en 19 ojos con una única aplicación intraoperatoria de mitomicina subconjuntival ( MMC ) en el lugar de filtrado en 20 ojos con alto riesgo de fracaso de la cirugía de filtrado de glaucoma. 
+Seis meses después de la cirugía, las presiones intraoculares promediaron 10,9 +/- 5,3 mmHg ( media +/- desviación estándar ) en los ojos tratados con MMC frente a 14,2 +/- 5,5 mmHg en los ojos tratados con 5-FU ( P = 0,08 ) y fueron inferiores o iguales a 12 mmHg en el 60,0 % de los ojos tratados con MMC y 21,1 % de los ojos tratados con 5-FU ( P = 0,03 ). 
+Los ojos tratados con mitomicina recibían un promedio de 0,3 +/- 0,5 medicamentos para el control de la presión intraocular, y los ojos tratados con 5-FU recibían un promedio de 1,1 +/- 1,1 medicamentos ( P = 0,01 ). 
+Se observaron defectos epiteliales de la córnea inducidos por fármacos en nueve ojos tratados con 5-FU y en ningún ojo tratado con MMC ( P = 0,0004 ). 
+Estos resultados sugieren que la MCM intraoperatoria puede ser una alternativa viable al 5-FU postoperatorio, con menor presión intraocular global, disminución de la dependencia de medicamentos antihipertensivos oculares postoperatorios y disminución de la toxicidad corneal. 
+Para comparar la presión intraocular ( PIO ) - efecto reductor y efectos secundarios de 0,005 % de latanoprost administrado una vez al día con 0,5% de timolol administrado dos veces al día en pacientes con glaucoma de ángulo abierto o hipertensión ocular. 
+Se trata de un estudio aleatorizado, doble enmascarado, con dos grupos paralelos y un periodo de tratamiento de 6 meses. 
+El objetivo principal del estudio es comparar el efecto reductor de la PIO de latanoprost con el de timolol al final del periodo de tratamiento de 6 meses. 
+Se incluyeron 294 pacientes: 149 en el grupo de latanoprost y 145 en el grupo de timolol. 
+Latanoprost se administró por la noche. 
+La PIO diurna ( 9:00 am, 1:00 pm, 5:00 pm ) se redujo de 25,2 a 16,7 mmHg ( 33,7 % ) con lantanoprost y de 25,4 a 17,1 mmHg ( 32,7 % ) con timolol determinado al final del periodo de tratamiento de 6 meses. 
+No se produjo ninguna deriva ascendente en la PIO con ninguno de los medicamentos durante el período de tratamiento. 
+Latanoprost causó una hiperemia algo más conjuntival que el timolol y más erosiones epiteliales punctúas corneales. 
+Sin embargo, ambos fármacos fueron generalmente bien tolerados. 
+El efecto secundario más significativo de latanoprost fue el aumento de la pigmentación del iris que se observó en 15 pacientes ( 10,1% ). 
+Timolol causó más efectos secundarios sistémicos que latanoprost. 
+Latanoprost 0,005 % administrado una vez al día por la noche redujo la PIO al menos así como el timolol 0,5% administrado dos veces al día. 
+Latanoprost fue generalmente bien tolerado sistémicamente y en el ojo. 
+Sin embargo, el medicamento tiene un efecto secundario inusual de aumentar la pigmentación del iris, particularmente en individuos con ojos marrón-verdoso o azul-marrón. 
+Para evaluar el control a largo plazo de la presión intraocular (PIO ) de la trabeculectomía y el procedimiento triple ( extracción de cataratas por facoemulsificación, implantación de lentes intraoculares y trabeculectomía ), se incluyeron 1.542 ojos de 900 pacientes con glaucoma primario de ángulo abierto ( POAG ) o glaucoma crónico de cierre de ángulo primario ( CPACG ). 
+Cuando el éxito se definió como una reducción de la PIO de al menos un 30 % desde el inicio, con o sin medicamentos antiglaucoma, la probabilidad global de éxito de la trabeculectomía y el procedimiento triple fue de 0,613 y 0,733 a los 15 años, respectivamente. 
+La probabilidad de éxito de trabeculectomía y triple procedimiento en la reducción de la PIO por debajo de 18 mm Hg fue de 0,748 y 0,825 a los 15 años, respectivamente. 
+En pacientes con POAG y CPACG, la trabeculectomía y el procedimiento triple fueron efectivos en la reducción de la PIO hasta 15 años después de la cirugía. 
+Determinar la eficacia y seguridad de la clonidina oral en la disminución de la prevalencia e intensidad de la presión intraocular postoperatoria ( PIO ) en aquellos sometidos a facoemulsificación. 
+Este fue un ensayo clínico prospectivo aleatorizado, doble ciego, controlado con placebo, que incluyó a 62 pacientes (cada uno con 1 aye afectado) con cataratas seniles programadas para la facoemulsificación a los que se asignaron aleatoriamente para recibir clonidina oral preoperatoria ( 5g/kg, 31 pacientes ) o placebo ( 1 comprimido, 31 pacientes ). 
+La PIO se midió preoperatoriamente y a los 6, 12, y 24h postoperatoriamente. 
+Se comparó la prevalencia e intensidad del aumento agudo de la PIO postoperatoria entre y dentro de los grupos. 
+No hubo diferencia significativa entre los dos grupos de estudio en cuanto a las características basales y la PIO basal ( P=0,628 ). 
+Los pacientes que recibieron placebo como premedicación presentaron una PIO significativamente mayor a los 6 (17,96±5,49 vs 13,61±4,09; P < 0,001 ) y 12 (16,90±4,11 vs 13,96±3,25 ; P=0,003 ) en el postoperatorio en comparación con los que recibieron clonidina oral. 
+Sin embargo, no hubo diferencia significativa entre los 2 grupos con relación a la PIO a las 24h después de la operación ( 15,41±3,96 vs 16,01±3,41 ; P=0,0539 ). 
+La prevalencia de aumento agudo de la PIO ( > 21 mmHg ) fue significativamente mayor en el grupo placebo en comparación con el grupo clonidina ( 25,8 % vs 9,6 %; P=0,091 ). 
+La administración de clonidina oral preoperatoria en dosis de 5g/kg, 2h antes de la facoemulsificación, disminuye significativamente la prevalencia e intensidad del aumento agudo de la PIO postoperatoria en aquellos sometidos a anestesia general. 
+La clonidina oral es segura, barata, y de fácil acceso y, por lo tanto, se recomienda para el control de la PIO después de la facoemulsificación, especialmente en pacientes de alto riesgo. 
+Comparar la eficacia y seguridad a largo plazo de la trabeculectomía combinada y la extracción de cataratas frente a la trabeculectomía sola en el glaucoma de cierre de ángulo primario ( PACG ). 
+Se examinaron retrospectivamente los expedientes hospitalarios de 99 pacientes chinos con PACG ; 75 pacientes se sometieron a cirugía combinada y 24 a trabeculectomía sola. 
+Las tasas de éxito fueron evaluadas con el análisis de supervivencia de Kaplan-Meier. 
+El resultado principal fue la tasa de éxito total definida como una reducción > 20 % de la presión intraocular ( PIO ) o una PIO que permaneció por debajo de 15 mm Hg, sin necesidad de medicamentos. 
+Los pacientes del grupo combinado y del grupo de trabeculectomía tuvieron un periodo medio de seguimiento de 25,8 (DE 10,8 ) meses y 31,4 ( 8,9 ) meses, respectivamente. 
+El análisis de supervivencia mostró que la tasa de éxito completo a los 3 años fue del 56 % en el grupo combinado y del 54 % en el grupo trabeculectomía ( p = 0,903 ). 
+No hubo diferencias significativas entre los grupos ni en la PIO ni en el número de medicamentos con glaucoma a lo largo de los 3 años de seguimiento. 
+Las incidencias de complicaciones postoperatorias fueron similares entre los grupos (p = 0,232 ). 
+No se requirieron procedimientos quirúrgicos adicionales para reducir la PIO en el grupo combinado, mientras que 13 ( 54 % ) ojos en el grupo de trabeculectomía requirieron extracción de cataratas o procedimientos quirúrgicos adicionales para reducir la PIO ( p < 0,001 ). 
+En pacientes con PACG, el efecto reductor de la PIO a largo plazo y las complicaciones quirúrgicas de la trabeculectomía combinada y la extracción de cataratas son comparables a las de la trabeculectomía sola. 
+Sin embargo, la cirugía combinada incurrió en menos intervenciones quirúrgicas posteriores. 
+El carteolol es un antagonista beta-adrenérgico con actividad simpaticomimética intrínseca. 
+Utilizado tópicamente para reducir la presión intraocular, se aplica típicamente dos veces al día. 
+En un esfuerzo por proporcionar un régimen de dosificación una vez al día, el carteolol se formuló con un 1 % de ácido algínico. 
+El alginato de sodio es un producto polímero natural con propiedades bioadhesivas que proporcionan un mayor tiempo de contacto corneal y una mejor penetración de carteolol a través de la córnea. 
+El objetivo de este estudio fue evaluar la eficacia y seguridad de la solución de alginato de carteolol de acción prolongada 1 % en comparación con la solución estándar de carteolol 1 %. 
+Se trata de un estudio multicéntrico de doble enmascaramiento, grupo paralelo. 
+Los pacientes con hipertensión ocular o glaucoma de ángulo abierto ( n=151 ) fueron asignados aleatoriamente para recibir alginato de carteolol al 1 % una vez al día ( AM ) o solución estándar de carteolol al 1 % dos veces al día durante 2 meses. 
+El enmascaramiento se mantuvo mediante el uso de un placebo por la noche para el grupo de alginato. 
+La entrada en el estudio requirió presión intraocular no medicada (PIO ) entre 23 mmHg y 32 mmHg a las 9 AM y 11 AM. 
+Los pacientes que usaban medicamentos hipotensos oculares debían someterse a un lavado. 
+Todos los pacientes dieron su consentimiento informado por escrito. 
+Se excluyeron del estudio pacientes con cierre de ángulo, congénito, glaucoma secundario o glaucoma avanzado ; cualquier infección o inflamación intraocular, trauma ocular, cirugía ocular o trabeculoplastia láser dentro de los 3 meses anteriores ; contraindicaciones al uso de antagonistas beta adrenóceptores ; medicamentos sistémicos susceptibles de modificar la PIO prescrita o modificada durante los 3 meses anteriores ; uso de esteroides oculares ; uso de lentes de contacto ; y mujeres embarazadas y lactantes. 
+Los pacientes fueron evaluados al inicio, 15 y 60 días, con mediciones de la PIO a las 9 AM y a las 11 AM. 
+En el día 15 y el día 60, la PIO se midió justo antes de la instilación de la medicación ( 9 AM ) y 2 horas después ( 11 AM ). 
+Se realizaron exámenes con lámpara de corte en cada examen de seguimiento, junto con la medición de la frecuencia cardíaca y la presión arterial ( 10 AM ) y la tolerancia ocular después de la medicación ( 11 AM ). 
+El criterio principal de eficacia fue la disminución de la PIO con respecto al valor basal en el día 60 para cada medición a las 9 AM y a las 11 AM. 
+El ojo del estudio fue el ojo con la PIO más alta en el día 0 o, si es igual, el ojo derecho. 
+Se evaluó la eficacia-de los 151 pacientes incluidos en el estudio, 149 (dos pacientes perdieron el seguimiento después del día 0 ) : 74 en el grupo alginato y 75 en el grupo estándar. 
+Ambos grupos de tratamiento fueron comparables en el día 0 excepto para el sexo, la presión arterial diastólica, y la PIO en el ojo compañero. 
+A las 9.00 horas ( supuesto valle ) del día 60, la reducción media de la presión intraocular con respecto al valor basal fue de 6,32+/-2,87 y 5,67+/-3,30 mmHg para los grupos alginato carteolol y estándar, respectivamente. 
+A las 11.00 horas ( presumiblemente pico ), las reducciones medias fueron de 6,70+/-2,81 y 6,55+/-3,35 mmHg, respectivamente. 
+En cada momento de evaluación, las dos pruebas t unilaterales fueron altamente significativas ( p < 0,005 ), confirmando la equivalencia de ambos tratamientos. 
+Las conclusiones no fueron modificadas teniendo en cuenta el sexo y la presión arterial diastólica. 
+Seguridad- En las visitas de seguimiento se observaron leves disminuciones de la frecuencia cardíaca y de los promedios de presión arterial en ambos grupos, sin diferencia significativa entre los grupos. 
+La tolerancia subjetiva tras la instilación se consideró buena o muy buena al día 60 por el 100 % de los pacientes con alginato y por el 98,7% de los pacientes estándar. 
+El malestar transitorio (principalmente sensación de escozor o ardor ) fue notificado por aproximadamente el 4 % - 6 % de los pacientes en cada grupo de tratamiento en cada visita. 
+Se notificó una sensación de visión borrosa en 2 de los 74 pacientes del grupo de alginato. 
+Entre las 17 reacciones adversas notificadas, se evaluaron tres como relacionadas con el fármaco: un vértigo, una queratitis superficial punctata en el grupo alginato y una disminución de la presión arterial en el grupo estándar. 
+No se notificaron acontecimientos adversos graves. 
+La nueva formulación de alginato de carteolol 1 % de acción prolongada administrada una vez al día es tan eficaz como la norma 1 % de carteolol administrada dos veces al día, sin diferencias significativas con respecto a la seguridad. 
+Esta eficacia se verificó a las 9 AM ( 24 horas después de la última gota de carteolol de acción prolongada o 12 horas después de la de carteolol estándar ) y a las 11 AM ( 2 horas después de la caída de la mañana ). 
+La nueva formulación de alginato de carteolol 1 % de acción prolongada administrada una vez al día es eficaz y bien tolerada por pacientes con glaucoma que requieren tratamiento crónico. 
+Comparar la presión intraocular postoperatoria (PIO ) y la incidencia de complicaciones tempranas después de la trabeculectomía con sutura releasable a trabeculectomía estándar en pacientes chinos con glaucoma primario de cierre angular. 
+Ciento setenta y cinco pacientes diagnosticados como glaucoma primario de cierre angular con 6 horas de reloj o más de sinequia anterior periférica fueron asignados aleatoriamente a 2 grupos de tratamiento: 87 fueron sometidos a trabeculectomía estándar (grupo S: 2 suturas permanentes interrumpidas al colgajo escleral ) y 88 recibieron trabeculectomía con 2 suturas permanentes y 2 releasables (grupo R ). 
+Se compararon la PIO postoperatoria y las complicaciones durante los primeros 3 meses después de la cirugía. 
+Cien setenta y un pacientes ( 97,7% ) asistieron a la visita de tres meses. 
+La PIO en la primera semana después de la trabeculectomía fue significativamente mayor en el grupo R: día 1, 17,3 ± 8,6 versus 12,7 ± 6,0 mm Hg ( p < 0,001 ) ; día 3, 18,0 ± 7,3 versus 12,9 ± 6,3 mm Hg ( p < 0,001 ) ; día 7, 14,8 ± 6,3 versus 12,0 ± 4,9 mm Hg ( p = 0,001 ), pero no se observaron diferencias después de la segunda semana ( p = 0,659 a 0,753 ). 
+La incidencia de hipotonía transitoria fue mayor en el grupo S ( 20,4% ) que en el grupo R (9,1% ) ( P=0,046 ) ; la hipotonía se recuperó en el 80,8% ( 21/26 ) en 1 semana. 
+No hubo diferencia en la ocurrencia de cámara superficial, desprendimiento coroidal, edema macular, cirugía adicional o hifema ( p = 0,56 a 1,0 ). 
+La técnica de suturas releasables para trabeculectomía utilizada en este estudio no demostró ventajas significativas sobre la trabeculectomía estándar. 
+Las suturas liberables se asociaron con cierta disminución de la agudeza visual y aumento de las quejas postoperatorias. 
+El objetivo del estudio fue comparar la eficacia y seguridad a largo plazo de tafluprost 0,0015 % con colirio latanoprost 0,005 % en pacientes con glaucoma de ángulo abierto o hipertensión ocular. 
+Este estudio de doble enmascaramiento, control activo, grupo paralelo, multinacional, multicéntrico, fase III se realizó en 49 centros de 8 países. 
+Los pacientes elegibles fueron asignados al tratamiento administrado una vez al día a las 20:00 horas durante un máximo de 24 meses. 
+El cambio respecto a la presión intraocular basal ( PIO ) fue la variable principal de eficacia. 
+Se registraron acontecimientos adversos y se evaluó la seguridad ocular. 
+Tanto el tafluprost como el latanoprost se conservaron con cloruro de benzalconio. 
+De 533 pacientes aleatorizados, 402 pacientes completaron 24 meses de tratamiento. 
+Ambos tratamientos tuvieron un importante efecto reductor de la PIO que persistió durante todo el estudio ( -7,1 mmHg para tafluprost y -7,7 mmHg para latanoprost a los 24 meses ). 
+Aunque el efecto reductor de la PIO durante el estudio fue ligeramente mayor con latanoprost, esta diferencia fue clínicamente pequeña y la no inferioridad de tafluprost a latanoprost en todas las mediciones diurnas de la PIO se mostró con anova y casi alcanzada con ancova (límites superiores de los intervalos de confianza del 95 % 1,38 y 1,52 para el período total, respectivamente ). 
+El límite de no inferioridad fue de 1,5 mmHg. 
+Tafluprost es un nuevo tratamiento eficaz y bien tolerado para el glaucoma y la hipertensión ocular. 
+Comparar la eficacia de bimatoprost y travoprost en la reducción de la presión intraocular ( PIO ) en una población egipcia. 
+Los pacientes con glaucoma primario de ángulo abierto o hipertensión ocular fueron aleatorizados para recibir bimatoprost 0,03 % o travoprost 0,004 % una vez al día. 
+Los PIO se midieron al inicio ; 2 semanas ; y 1, 2, 4 y 6 meses utilizando el tonómetro de aplicación Goldman. 
+Se incluyeron 72 pacientes: 34 y 38 (p=0,142) con una PIO media basal 26,52 ± 5,185 y 26,36 ± 1,605 mm Hg (p=0,629 ) para bimatoprost y travoprost, respectivamente. 
+Ambas caídas proporcionaron reducciones estadísticamente significativas de la PIO desde el punto de vista basal en todas las visitas ( p < 0,001 ). 
+Bimatoprost proporcionó reducciones medias de la PIO mayores ( no significativas ) desde el nivel basal que travoprost en cada visita. 
+La reducción media de la PIO fue de 8,77 mm Hg ( 33,39 % ) y 8,42 mm Hg ( 31,54 % ) a las 2 semanas ( P = 0,703 ) y 8,47 mm Hg ( 31,61 % ) y 7,84 mm Hg ( 29,50 % ) a los 6 meses ( P = 0,536 ) para bimatoprost y travoprost, respectivamente. 
+Los PIO a las 2 semanas fueron de 18 mm Hg en 20 ( 58,8 % ) frente a 19 ( 50 % ) ojos ( P = 0,603 ) y 16 mm Hg en 12 ( 35 % ) frente a 12 ( 32 % ) ojos ( P = 0,456 ) ; y a los 6 meses 18 mm Hg en 22 ( 65 % ) frente a 14 ( 37 % ) ojos ( P = 0,045 ) y 16 mm Hg en 12 ( 35 % ) frente a 7 ( 18 % ) ojos ( P = 0,037 ) para bimatoprost y travoprost, respectivamente. 
+El éxito clínico y adverso ocular se produjo igualmente con ambas gotas. 
+Ambas caídas redujeron la PIO de manera efectiva, pero bimatoprost mostró una mayor reducción no significativa de la PIO media con respecto al valor basal. 
+Comparar la eficacia de las combinaciones fijas bimatoprost/timolol ( BTFC ) o travoprost/timolol ( TTFC ) sobre la reducción de la presión intraocular ( PIO ) en una población egipcia. 
+Los pacientes con glaucoma primario de ángulo abierto fueron aleatorizados para recibir BTFC o TTFC. 
+Los PIO se midieron al inicio, 2 semanas, y 1, 2, 4 y 6 meses. 
+La medida de resultado principal fue el cambio medio de la PIO respecto al valor basal en cada visita. 
+Las medidas de resultados secundarios incluyeron la incidencia de acontecimientos adversos. 
+Finalmente se incluyeron 80 pacientes ( 80 ojos ) : 40 ojos en cada grupo. 
+La media basal de los COP fue de 24,78±3,53 y 25,26±3,51 mm Hg para BTFC y TTFC, respectivamente ( P=0,344). 
+Ambas caídas proporcionaron reducciones estadísticamente significativas de la PIO desde el punto de vista basal en todas las visitas ( p < 0,001 ). 
+El BTFC proporcionó mayores reducciones medias significativas de la PIO con respecto al valor basal que el TTFC en cada visita ( p < 0,001 ). 
+Las reducciones medias de la PIO fueron de 11,34 y 6,42 mm Hg a las 2 semanas ( p=0,000 ) y 11,17 y 7,89 mmHg a los 6 meses ( p=0,001 ) para BTFC y TTFC, respectivamente. 
+Los PIO a las 2 semanas fueron de 18 mm Hg en 36 ( 90,8% ) frente a 22 ( 55 % ) ojos y 16 mm Hg en 28 ( 70 % ) frente a 16 ( 40 % ) ojos ( P < 0,001 ) y a los 6 meses, 18 mm Hg en 38 ( 95 % ) frente a 28 ( 70 % ) ojos y 16 mm Hg en 30 ( 75 % ) frente a 18 ( 45 % ) ojos para BTCC y TTFC, respectivamente ( P < 0,001 ). 
+Ambas gotas proporcionaron una reducción efectiva de la PIO que fue mayor y los pacientes tuvieron más probabilidades de lograr presiones objetivo más bajas con BTFC que con TTFC. 
+Comparar la eficacia y tolerabilidad de una dosis una vez al día por la noche de bimatoprost/combinación fija de timolol ( BTFC ) con la de una dosis una vez al día por la noche de la combinación fija de latanoprost/timolol ( LTFC ) en pacientes no controlados con análogos de prostaglandinas en monoterapia. 
+Un total de 82 pacientes tratados con análogos de prostaglandina en monoterapia fueron incluidos en este estudio clínico prospectivo, multicéntrico, investigador enmascarado y aleatorizados a la terapia tópica BTFC ( n=47 ) o LTFC ( n=35 ) una vez por la noche durante 12 semanas. 
+El criterio principal de valoración del estudio fue comparar la reducción media diaria de la presión intraocular ( PIO ) con respecto al valor basal entre los dos grupos de tratamiento. 
+Las variables secundarias incluyeron la PIO media diaria a los 1 y 3 meses en comparación con el valor basal y el porcentaje de pacientes que mostraron una reducción media de la PIO desde el valor basal mayor o igual al 15 % o 20 %. 
+La PIO media al inicio fue de 22,7+/-2,0 y 22,1+/-2,6 mmHg en los grupos BTFC y LTFC, respectivamente ( p=0,23 ). 
+Ambos tratamientos fueron eficaces en la reducción de la PIO desde el inicio. 
+La reducción media de la PIO fue significativamente mayor en el grupo de BTFC que en el grupo de LTFC ( -21,4 % vs -13,7 %, p < 0,001 ). 
+Un mayor porcentaje de pacientes del grupo de BTFC mostró una reducción media de la PIO con respecto al valor basal > o = 15 % ( 72,3 % frente a 40,0 % ) y > o = 20 % ( 61,7 % frente a 17,1 % ) en comparación con los pacientes del grupo de LTFC. 
+Tanto BTFC como LTFC fueron más eficaces frente a la monoterapia con análogos de prostaglandina. 
+El BTFC demostró un rendimiento más alto que el LTFC en términos de reducción relativa de la PIO. 
+Los inhibidores orales de la anhidrasa carbónica utilizados para tratar el glaucoma tienen efectos secundarios sistémicos significativos. 
+Brinzolamida 1,0 %, un nuevo inhibidor tópico de la anhidrasa carbónica ocular, es eficaz aparentemente sin efectos secundarios sistémicos significativos. 
+Este estudio se realizó para establecer la seguridad y eficacia a largo plazo de brinzolamida 1,0 % dos y tres veces al día para el glaucoma primario de ángulo abierto y la hipertensión ocular. 
+Se realizó un estudio controlado de 18 meses, multicéntrico, doble enmascarado, paralelo. 
+Los pacientes fueron aleatorizados a brinzolamida dos o tres veces al día o timolol 0,5% dos veces al día en una relación 2:2:1 ( n = 150, 153, y 75, respectivamente ). 
+La presión intraocular se midió a las 8:00 AM en los meses 1, 3, 6, 9, 12, 15 y 18. 
+La eficacia se basó en la reducción de la presión intraocular con respecto al valor basal. 
+También se evaluó la seguridad. 
+Todos los regímenes produjeron reducciones de la presión intraocular clínicamente relevantes y estadísticamente significativas ( p < 0,05 ) desde el inicio. 
+Los cambios medios en las mediciones del valle de presión intraocular variaron de -2,7 a -3,9 mm Hg con la administración de brinzolamida dos veces al día y -2,8 a -3,8 mm Hg tres veces al día en comparación con -4,7 a -5,6 mm Hg con timolol. 
+Las reducciones de la presión intraocular con brinzolamida dos y tres veces al día fueron clínicamente y estadísticamente equivalentes. 
+Ciento cuarenta y cuatro pacientes fueron suspendidos del estudio tras la aleatorización, siendo las razones más comunes la ocurrencia de un evento adverso ( 46 ), un control inadecuado de la presión intraocular ( 23 ), la decisión del paciente no relacionada con la medicación del estudio ( 11 ), la pérdida del seguimiento ( 16 ), y el incumplimiento ( 9 ). 
+Los acontecimientos adversos no fueron graves y se resolvieron sin secuelas. 
+No hubo cambios clínicamente relevantes en los parámetros de seguridad. 
+La brinzolamida produjo menos molestias oculares (quemazón/canción) que el timolol, y los niveles totales de inhibición de la anhidrasa carbónica permanecieron por debajo de los que se sabe que causan efectos secundarios sistémicos. 
+La brinzolamida produjo reducciones significativas y equivalentes de la presión intraocular cuando se administró dos y tres veces al día durante 18 meses. 
+La brinzolamida fue segura y bien tolerada por los pacientes, con una molestia ocular mínima. 
+Evaluar la seguridad y eficacia del stent de microbypass trabecular iStent ( Glaukos Corporation, Laguna Hills, CA ) en combinación con cirugía de cataratas en sujetos con glaucoma de ángulo abierto leve a moderado. 
+Ensayo clínico prospectivo, aleatorizado, abierto, controlado, multicéntrico. 
+Un total de 240 ojos con glaucoma de ángulo abierto de leve a moderado con presión intraocular (PIO ) = 24 mmHg controlados con 1 a 3 medicamentos fueron aleatorizados para someterse a cirugía de cataratas con implante de iStent ( grupo de tratamiento ) o cirugía de cataratas solamente ( control ). 
+Se incluyeron 50 sujetos adicionales para someterse a cirugía de cataratas con implante de iStent bajo expansión del protocolo. 
+Los datos de este informe se basan en los primeros 240 ojos inscritos. 
+Implantación del stent de microbypass trabecular iStent en combinación con cirugía de cataratas o de cataratas solamente. 
+La medida primaria de eficacia fue la PIO no medicada ≤21 mmHg a 1 año. 
+Una medida secundaria fue la reducción no medicada de la PIO ≥20 % a 1 año. 
+Las medidas de seguridad incluyeron la agudeza visual mejor corregida ( BCVA ), observaciones de la lámpara cortada, complicaciones y eventos adversos. 
+El estudio alcanzó el resultado primario, con el 72 % de los ojos de tratamiento frente al 50 % de los ojos de control alcanzando el criterio ( p < 0,001 ). 
+A 1 año, la PIO en ambos grupos de tratamiento fue estadísticamente significativamente inferior a los valores basales. 
+Sesenta y seis por ciento de los ojos de tratamiento frente al 48 por ciento de los ojos de control obtenidos =20 % de reducción de la PIO sin medicación ( P = 0,003 ). 
+La incidencia global de reacciones adversas fue similar entre los grupos sin efectos adversos no previstos. 
+La reducción de la presión en menos medicamentos fue clínicamente y estadísticamente significativamente mejor 1 año después del stent más cirugía de cataratas frente a la cirugía de cataratas sola, con un perfil de seguridad general similar al de la cirugía de cataratas sola. 
+Se utilizan combinaciones fijas de 0,2 % de brimonidina-0,5 % de timolol y 2 % de dorzolamida-0,5 % de timolol para reducir la presión intraocular ( PIO ). 
+El objetivo de este estudio fue evaluar la eficacia reductora de la PIO y la tolerabilidad ocular de brimonidina-timolol en comparación con dorzolamida-timolol cuando se utilizaba en monoterapia o como terapia concomitante a un análogo de prostaglandina (AGP ) en pacientes con glaucoma o hipertensión ocular. 
+Análisis de datos agrupados de dos estudios aleatorizados, enmascarados por investigador, de 3 meses, en grupos paralelos con protocolos idénticos ( diez sitios ). 
+En total, 180 pacientes con glaucoma de ángulo abierto o hipertensión ocular que necesitaban una PIO inferior recibieron tópico brimonidina-timolol BID o dorzolamida-timolol BID como monoterapia ( n = 101 ) o como terapia concomitante a un PGA ( latanoprost, bimatoprost, o travoprost ) ( n = 79 ). 
+La PIO se midió a las 10 a.m. ( efecto pico ) al inicio y a los meses 1 y 3. 
+La tolerabilidad/comodidad se evaluó mediante un cuestionario para el paciente. 
+No hubo diferencias estadísticamente significativas entre grupos en la demografía de los pacientes. 
+La mayoría de los pacientes fueron caucásicos, y la edad media fue de 68 años. 
+Tampoco hubo diferencias estadísticamente significativas entre los grupos de tratamiento en la PIO basal. 
+En el mes 3, la reducción media (DE ) con respecto a la PIO basal en pacientes en monoterapia de combinación fija fue de 7,7 ( 4,2 ) mmHg ( 32,3 % ) con brimonidina-timolol frente a 6,7 ( 5,0 ) mmHg ( 26,1 % ) con dorzolamida-timolol ( p = 0,040 ). 
+La reducción media de la PIO basal tratada con PGA en pacientes tratados con terapia concomitante de combinación fija fue de 6,9 ( 4,8 ) mmHg ( 29,3 % ) con brimonidina-timolol frente a 5,2 ( 3,7 ) mmHg ( 23,5 % ) con dorzolamida-timolol ( p = 0,213 ). 
+Los pacientes tratados con brimonidina-timolol notificaron menos ardor ( p < 0,001 ), escozor ( p < 0,001 ) y sabor inusual ( p < 0,001 ) que los pacientes tratados con dorzolamida-timolol. 
+La combinación fija de brimonidina-timolol proporcionó la misma o mayor reducción de la PIO en comparación con la combinación fija de dorzolamida-timolol. 
+Ambos medicamentos de combinación fija eran seguros y bien tolerados. 
+Brimonidina-timolol recibió mayores calificaciones de comodidad ocular que dorzolamida-timolol. 
+La duración de los estudios fue de 3 meses y se necesitarán estudios adicionales para comparar la eficacia y tolerabilidad de brimonidina-timolol y dorzolamida-timolol durante el tratamiento a largo plazo. 
+Para probar la hipótesis de que el neodimio : itrio-aluminum-garnet ( Nd : YAG ) iridotomía periférica láser ( LPI ) reduce significativamente la incidencia de conversión del síndrome de dispersión del pigmento ( PDS ) con hipertensión ocular ( OHT ) al glaucoma pigmentario ( PG ). 
+Ensayo prospectivo, aleatorizado, controlado de 3 años. 
+Ciento dieciséis ojos de 116 pacientes con PDS y OHT. 
+Los pacientes fueron asignados aleatoriamente a Nd : YAG LPI o a un grupo de control ( sin láser ). 
+La medida del resultado primario fue la conversión a PG dentro de los 3 años, basada en el análisis de campo visual de umbral completo ( FV ) utilizando los criterios del Estudio de Tratamiento de Hipertensión Ocular. 
+Las medidas de resultado secundario fueron si los ojos requerían medicamentos antiglaucoma tópicos durante el período de estudio y el tiempo de conversión o medicación. 
+Cincuenta y siete pacientes fueron aleatorizados para someterse a tratamiento con láser y 59 fueron aleatorizados a ningún láser (controles ). 
+La edad, el sexo, la refracción esférica equivalente y la presión intraocular basal fueron similares entre los grupos. 
+Se dispone de datos de resultados para 105 ( 90 % ) de los sujetos reclutados, 52 en el grupo de tratamiento con láser y 53 en el grupo sin tratamiento con láser. 
+Se realizó un seguimiento de los pacientes durante una mediana de 35,9 meses (intervalo, 10-36 meses ) en el brazo láser y 35,9 meses (intervalo, 1-36 meses ) en el brazo control. 
+Ocho ojos ( 15 % ) en el grupo láser y 3 ojos ( 6 % ) en el grupo control convertidos a glaucoma en el período de estudio. 
+La proporción de ojos que comenzaron con el tratamiento médico fue similar en los 2 grupos : 8 ojos ( 15% ) en el grupo láser y 9 ojos ( 17% ) en el grupo control. 
+Los análisis de supervivencia no mostraron ninguna evidencia de diferencia en el tiempo hasta la progresión de la FV o el inicio de la terapia tópica entre los dos grupos. 
+La extracción de cataratas se realizó en 1 paciente del grupo láser y en 1 paciente del grupo control durante el período de estudio (ojo láser a los 18 meses ; ojo control a los 34 meses ). 
+Este estudio sugiere que no hubo beneficio de Nd : YAG LPI en la prevención de la progresión de PDS con OHT a PG dentro de los 3 años de seguimiento. 
+Determinar el efecto analgésico de la lidocaína intracameral suplementaria 1 % durante la facoemulsificación bajo anestesia tópica, y evaluar los factores de riesgo asociados con el dolor. 
+En un ensayo clínico aleatorizado, doblemente enmascarado, 506 pacientes sometidos a facoemulsificación bajo anestesia tópica fueron aleatorizados para recibir una inyección intracameral suplementaria de 0,5 cc de lidocaína al 1 % ( 277 pacientes, 54,7 % ) o solución salina equilibrada ( BSS ) (229 pacientes, 45,3 % ). 
+Los pacientes fueron entrevistados por un entrevistador capacitado utilizando un cuestionario estandarizado. 
+La principal medida de desenlace fue el dolor intraoperatorio, puntuado en una escala analógica visual de 0-10. 
+Se realizó regresión logística para evaluar las OR. 
+125 de 277 pacientes ( 45,1 % ) experimentaron dolor en el grupo de lidocaína, frente a 123 de 229 pacientes ( 53,7 % ) en el grupo de BSS. 
+La proporción de pacientes que experimentaron dolor fue significativamente menor en el grupo intracameral de lidocaína en comparación con el grupo BSS (OR multivariable 0,68, IC 95 % 0,47 a 0,97 ; p=0,034 ). 
+La mediana de la puntuación de dolor (intervalo ) fue de 0,0 para el grupo intracameral de lidocaína en comparación con 1,0 para el grupo BSS (p=0,039 ). 
+El dolor fue más frecuente en mujeres ( 54,3 % frente a 43,6 %; OR 1,56 ), no chinas ( 62,3 % frente a 46,9 %; OR 2,13 ) y en aquellas que tuvieron una cirugía previa de cataratas en el ojo del compañero ( 55,3 % frente a 44,7 %; OR 1,61 ). 
+El uso de 0,5 cc de lidocaína intracameral al 1 % durante la facoemulsificación bajo anestesia tópica reduce significativamente el dolor experimentado por los pacientes. 
+Los factores de riesgo para el dolor son las mujeres, la cirugía de cataratas no china y previa. 
+La brimonidina es un agonista del receptor adrenérgico alfa-2 altamente selectivo con efecto reductor de la presión intraocular ( PIO ). 
+Se realizó este estudio en Taiwán para comparar la seguridad y eficacia de la brimonidina 0,2 % con timolol 0,5 % para el tratamiento del glaucoma. 
+De marzo a septiembre de 2000 se llevó a cabo un ensayo prospectivo, aleatorizado, monoenmascarado, de eficacia clínica y de seguridad a 1 mes. 
+Se incluyeron 40 pacientes con glaucoma: 29 en el grupo de brimonidina y 11 en el grupo de timolol. 
+Los pacientes infundieron sus medicamentos de estudio dos veces al día durante 4 semanas, y fueron seguidos al inicio de la visita, semanas 2 y 4. 
+Se obtuvieron y analizaron datos demográficos, reducción de la PIO, seguridad y eventos adversos. 
+Ambos fármacos mostraron una eficacia hipotensiva ocular sostenida en el periodo de estudio. 
+Al inicio, la PIO media fue de 24,48 +/- 2,29 mmHg en el grupo de brimonidina y de 23,32 +/- 0,82 mmHg en el grupo de timolol. 
+Las lecturas de la PIO después del tratamiento fueron significativamente inferiores a sus niveles basales en ambos grupos en todas las visitas (p < 0,001 ). 
+En el pico, la media de disminución desde la PIO basal varió de 5,22 +/- 0,30 mmHg a 6,96 +/- 0,33 mmHg para la brimonidina y de 4,55 +/- 0,49 mmHg a 6,64 +/- 0,53 mmHg para el timolol. 
+En el valle, la media de descensos desde el valor basal varió de 3,72 +/- 0,32 mmHg a 4,55 +/- 0,32 mmHg para la brimonidina y 3,82 +/- 0,52 mmHg a 4,27 +/- 0,51 mmHg para el timolol. 
+No se observaron diferencias significativas entre grupos en el pico o valle en todas las visitas. 
+La tasa de éxito clínico fue del 86,2 % en el grupo de brimonidina y del 81,8 % en el grupo de timolol, sin diferencia estadísticamente significativa entre ellos ( p = 0,817 ). 
+El 17,2 % de los pacientes del grupo de brimonidina y el 9,0 % de los pacientes del grupo de timolol notificaron reacciones adversas leves. 
+La alergia ocular se produjo en el 10,3% de los pacientes del grupo de brimonidina. 
+No se observaron cambios significativos en la agudeza visual, la biomicroscopia o la oftalmoscopia en ambos grupos. 
+La presión arterial media sistólica y diastólica se mantuvo relativamente estable en ambos grupos excepto en la semana 2 (p = 0,016 ) cuando la brimonidina tenía menor presión arterial sistólica. 
+Sin embargo, la brimonidina no mostró ninguna diferencia significativa en la semana 4 con respecto al valor basal. 
+La frecuencia cardíaca media en el grupo de brimonidina se mantuvo relativamente inalterada durante el período de estudio. 
+Los pacientes que recibieron timolol experimentaron disminuciones estadísticamente significativas de la frecuencia cardiaca media desde el inicio (p = 0,020 ) en la semana 4. 
+Aplicado tópicamente dos veces al día durante un mes, el tartrato de brimonidina 0,2 % tiene una eficacia clínica equivalente al timolol 0,5% en pacientes taiwaneses con glaucoma. 
+Tiene un perfil sistémico seguro con un efecto mínimo sobre el corazón. 
+Evaluar la eficacia y seguridad de la mitomicina C (MCM ) intraoperatoria en los ojos sometidos a implante de la válvula Ahmed Glaucoma. 
+Ensayo clínico controlado aleatorio. 
+Sesenta pacientes con glaucoma refractario. 
+Se aleatorizaron 60 ojos de 60 pacientes con glaucoma refractario para recibir MCM intraoperatorio ( 0,5 mg/ml durante 5 minutos ) ( n = 34 ) o solución salina equilibrada ( n = 26 ) durante el implante de la válvula de Ahmed Glaucoma. 
+El éxito quirúrgico se definió de acuerdo con 2 criterios diferentes: ( 1 ) presión intraocular postoperatoria ( PIO ) entre 6 y 21 mmHg, con o sin medicamentos antiglaucoma, y ( 2 ) reducción de la PIO de al menos un 30 % en relación con los valores preoperatorios. 
+Los ojos que requieren cirugía adicional de glaucoma, desarrollar phthisis, o mostrar pérdida de la percepción de la luz fueron clasificados como fallas. 
+Las tasas de éxito en ambos grupos se compararon utilizando las curvas de supervivencia de Kaplan-Meier y la prueba de rango logarítmico. 
+Otras medidas de desenlace fueron la PIO media, el número de medicamentos contra el glaucoma, y las complicaciones. 
+Tras un seguimiento medio de 12,3 meses, el análisis de supervivencia de Kaplan-Meier mostró una probabilidad de éxito del 59 % a los 18 meses para el grupo MMC y del 61 % para el grupo control cuando se utilizó el primer criterio de éxito ( PIO entre 6 y 21 mmHg ). 
+Cuando se utilizó una reducción de la PIO de al menos el 30 % como criterio para definir el éxito, el análisis de supervivencia de Kaplan-Meier demostró una probabilidad de éxito a los 18 meses del 62 % para el grupo MMC y del 67 % para el grupo control. 
+No hubo diferencias significativas en las tasas de supervivencia entre los dos grupos con cualquiera de los dos criterios ( P = 0,75 y P = 0,37, respectivamente ). 
+Después de 15 días de postoperatorio, la PIO media no difirió significativamente tanto en la MMC como en los ojos de control. 
+El número medio de medicamentos antiglaucoma postoperatorios fue similar en los ojos y controles tratados con MMC. 
+No hubo diferencia significativa entre las incidencias de complicaciones postoperatorias en ambos grupos. 
+La mitomicina C no aumentó las tasas de éxito a corto o medio plazo de la implantación de la válvula Ahmed Glaucoma. 
+Para comparar la eficacia de la combinación fija de dorzolamida 2 % /timolol 0,5% ( COSOPT ) frente a latanoprost 0,005 % ( XALATAN ). 
+Se realizaron dos ensayos clínicos de 3 meses, paralelos, aleatorizados, enmascarados por observadores y enmascarados por pacientes, multicéntricos, en pacientes con hipertensión ocular o glaucoma de ángulo abierto. 
+El estudio 1 ( n=256 ) se realizó en los Estados Unidos y el estudio 2 ( n=288 ) se realizó en Europa/Israel. 
+Los pacientes podrían ser incluidos si estaban tomando o no tratamiento hipotensivo ocular, e independientemente de la eficacia de cualquier tratamiento previo. 
+Los pacientes fueron lavados de sus medicamentos hipotensos oculares habituales y luego aquellos con presión intraocular basal (PIO ) > /= 24 mmHg fueron aleatorizados a la combinación de gotas oftálmicas dorzolamida/timolol dos veces al día o gotas oftálmicas latanoprost una vez al día en ambos ojos. 
+La eficacia fue evaluada por la PIO diurna ( media de las mediciones realizadas a las 0800, 1000, 1400 y 1600 h ). 
+Al inicio, la PIO diurna media fue de 26,1 mmHg en el grupo de combinación dorzolamida/timolol frente a 25,6 mmHg en el grupo de latanoprost en el ensayo 1, y de 25,3 mmHg en el grupo de combinación dorzolamida/timolol frente a 24,7 mmHg en el grupo de latanoprost en el ensayo 2. 
+Después de 3 meses, la PIO diurna media fue de 18,9 mmHg para la combinación dorzolamida/timolol frente a 18,4 mmHg para latanoprost en el Estudio 1 y 17,4 mmHg para la combinación dorzolamida/timolol frente a 17,5 mmHg para latanoprost en el Estudio 2. 
+La diferencia entre los tratamientos en el cambio medio de la PIO a los 3 meses fue de -0,04 mmHg [ intervalo de confianza 95 % (IC ) -0,85, 0,77 ] en el Estudio 1, y -0,57 mmHg ( IC 95 % -1,31, 0,16 ) en el Estudio 2. 
+La probabilidad de que la diferencia real estuviera entre -1,5 y 1,5 mmHg, los límites predefinidos para la equivalencia, fue > 0,950 en ambos estudios. 
+Ambos tratamientos fueron bien tolerados a lo largo de 3 meses, aunque con mayor frecuencia se produjeron picaduras oculares con la combinación dorzolamida/timolol. 
+La combinación dorzolamida/timolol y latanoprost fueron igualmente eficaces para reducir la PIO. 
+Comparar la seguridad y eficacia de 5-fluorouracilo ( 5-FU ) intraoperatorio o mitomicina C ( MMC ) intraoperatoria en ojos sometidos a trabeculectomía primaria. 
+Ensayo clínico aleatorizado prospectivo doble enmascarado. 
+Ciento quince ojos de 103 pacientes con presión intraocular no controlada ( PIO ) a pesar de la máxima terapia médica tolerada o láser fueron aleatorizados prospectivamente de forma doble enmascarada a uno de los dos grupos de tratamiento en una sola institución. 
+Los ojos del sujeto fueron sometidos a trabeculectomía primaria con 5-FU tópico ( 50 mg/ml durante 5 minutos ) o MMC tópico ( 0,2 mg/ml durante 2 minutos ). 
+Las medidas de desenlace primario incluyeron el número de ojos que alcanzaron presiones diana de 21, 18, 15 y 12 mm Hg a los 6 y 12 meses postoperatorios. 
+Las medidas de resultado secundario incluyeron PIO, agudeza visual mejor corregida, complicaciones e intervenciones. 
+De los 115 ojos, 57 recibieron 5-FU y 58 recibieron MMC. 
+Se alcanzó una PIO objetivo de 21 mm Hg a los 6 meses en 53 de 56 ( 95 % ) ojos en el grupo de 5-FU y 54 de 57 ( 95 % ) ojos en el grupo de MMC ( P = 1,00 ). 
+A los 12 meses, 45 de 48 ( 94 % ) ojos en el grupo de 5-FU alcanzaron una PIO objetivo de 21 mm Hg, mientras que 48 de 54 ( 89 % ) ojos en el grupo de MMC lo hicieron ( P = 49 ). 
+Las complicaciones más comunes en cada grupo fueron derrames coroidales persistentes y fuga de bleb. 
+Nuestro estudio sugiere que el 5-FU tópico intraoperatorio es al menos tan eficaz como el MCM tópico intraoperatorio para reducir la PIO de los ojos sometidos a trabeculectomía primaria. 
+El objetivo de este ensayo clínico aleatorizado fue comparar la eficacia y seguridad de la viscocanalostomía ( visco ) con la trabeculectomía ( trab ) en el manejo del glaucoma primario de ángulo abierto ( POAG ). 
+Los pacientes fueron aleatorizados para someterse a una viscocanalostomía ( 25 ojos ) o a una trabeculectomía ( 25 ojos ) realizada por un cirujano ( TDM ) y se les realizó un seguimiento prospectivo. 
+Los pacientes fueron examinados preoperatoriamente, en el día 1, día 3 si fuera necesario, día 6, semana 2 y posteriormente lo más cercano posible a 1, 3, 6, 12, 18, 24, 30, 36, 48, 54, y 60 meses. 
+Se registró presión intraocular ( PIO ), presencia o ausencia de cualquier complicación, presencia y descripción de cualquier bleb, agudeza visual con gafas, y exámenes completos como rutina para monitorear cualquier progresión del glaucoma. 
+Se permitieron y registraron intervenciones bleb incluyendo necesidad y antimetabolitos en ambos grupos. 
+Se permitió la goniopuntura láser YAG en el grupo de viscocanalostomía. 
+El seguimiento medio fue de 40 meses ( DE 15 ), con un rango de 6 a 60 meses. 
+El 42% (n=10 ) de los pacientes del grupo de trabeculectomía tuvieron un resultado exitoso ( PIO < 18 mm Hg sin tratamiento ) en la última visita de seguimiento, en comparación con el 21% (n=5 ) en el grupo de viscocanalostomía. 
+La PIO fue menor en el grupo de trabajo con diferencias en la PIO estadísticamente significativas en el mes 12 (P= < 0,001 ), 24 (P= < 0,001 ), 30 (P=0,030 ), 36 (P= < 0,001 ) y 48 (P=0,018 ). 
+El grupo de trabeculectomía requirió menos medicación hipotensora tópica postoperatoria (P=0,011 ). 
+En este estudio, encontramos que la trabeculectomía es más eficaz para reducir la PIO que la viscocanalostomía en pacientes con POAG. 
+Comparar la eficacia y seguridad de la viscocanalostomía y la trabeculectomía en adultos con glaucoma de ángulo abierto no controlado. 
+Ensayo de 24 meses, prospectivo, aleatorizado, en grupo paralelo, con un 90 % de potencia para detectar una diferencia clínicamente importante entre los grupos. 
+Cincuenta pacientes consecutivos ( 50 ojos ) con glaucoma primario de ángulo abierto o pseudoexfoliativo. 
+Los ojos fueron asignados aleatoriamente a la viscocanalostomía (grupo 1 ) o a la trabeculectomía (grupo 2 ) sin antifibróticos intraoperatorios en el ojo del estudio. 
+En el grupo 1, no se permitió ninguna otra intervención, mientras que los ojos de trabeculectomía podían recibir inyecciones subconjuntivales de 5-fluorouracilo ( 5-FU ) o lisis de sutura con láser después de la cirugía. 
+Tasa de éxito basada en la presión intraocular ( PIO ), agudeza visual, malestar y otras complicaciones. 
+Al final del seguimiento de 24 meses, la PIO de 21 mmHg o menos y más de 6 mmHg se alcanzó en el 76 % en el grupo 1 ( n = 19 ) y en el 80 % en el grupo 2 ( n = 20 ; log-rank P = 0,60 ) ; la PIO de 6 a 16 mmHg se obtuvo en el 56 % en el grupo 1 ( n = 14 ) y en el 72 % en el grupo 2 ( n = 18 ; log-rank P = 0,17 ; Kaplan-Meier probabilidad acumulada de éxito ). 
+Las complicaciones de la viscocanalostomía incluyeron una conversión intraoperatoria en trabeculectomía ; microrupturas en la membrana de Descemet en cinco ojos ; tres casos de encarcelación de iris en la ventana de Decemet, dos de los cuales causaron el fracaso temprano del procedimiento que requiere reoperación ; y un hifema transitorio auto-resolutivo de 1 mm a 2 mm en tres casos. 
+Las complicaciones de la trabeculectomía incluyeron un caso de sangrado bleb postoperatorio con pico transitorio temprano de la PIO ; un hifema temprano ; cinco casos de hipotonía postoperatoria, dos de los cuales tuvieron una prueba Seidel positiva de la sutura conjuntival ; tres casos de desprendimiento coroidal transitorio, dos de los cuales tenían cámara anterior superficial. 
+Ningún paciente necesitó una reoperación. 
+Dos ojos requirieron lisis de sutura láser de argón, y nueve se sometieron a una o más inyecciones de 5-FU, que causaron queratopatía punctata en tres ojos. 
+La viscocanalostomía es un procedimiento eficaz de reducción de la PIO en adultos blancos afectados por el glaucoma de ángulo abierto. 
+La trabeculectomía con 5-FU postoperatorio puede probablemente proporcionar menores PIO pero, con complicaciones más numerosas, mayor incomodidad, y un manejo postoperatorio más intensivo. 
+Comparar la eficacia de la válvula de glaucoma Ahmed S2 con el implante de glaucoma Baerveldt 250 mm ( 2 ) en el tratamiento del glaucoma adulto. 
+Serie de casos comparativos. 
+Cincuenta y nueve ojos de 59 pacientes que recibieron la válvula de glaucoma Ahmed S2 y 133 ojos de 133 pacientes que recibieron el implante de glaucoma Baerveldt 250 mm ( 2 ) por el Servicio de Glaucoma de la Universidad de Indiana de 1996 a 2003. 
+Los ojos que tenían procedimientos de implante de drenaje previos fueron excluidos de ambos grupos. 
+Si ambos ojos de un solo paciente recibieron un implante, el segundo ojo que fue implantado fue excluido del estudio. 
+Supervivencia de Kaplan-Meier con éxito definido como presión intraocular (PIO ) > 5 mmHg y < 22 mmHg y reducción al menos del 20 % de la PIO preoperatoria ( con o sin medicamentos antiglaucoma ) y sin pérdida de percepción de la luz. 
+Las medidas de resultado secundario incluyeron presión intraocular, agudeza visual, número de medicamentos con glaucoma, y complicaciones quirúrgicas. 
+Los 2 grupos fueron similares en cuanto a edad, sexo, raza, diagnóstico neovascular de glaucoma, número de cirugías oculares previas, PIO preoperatorio y número de medicamentos preoperatorios de glaucoma. 
+La duración media del seguimiento fue de 20,0 meses para los ojos de Ahmed y de 22,9 meses para los ojos de Baerveldt. 
+Los éxitos acumulados en el grupo Ahmed fueron 0,73 a 1 año y 0,62 a 2 años, mientras que los éxitos acumulados en el grupo Baerveldt fueron 0,92 a 1 año y 0,85 a 2 años ( Kaplan-Meier funciones de supervivencia : P = 0,03, log rank test ). 
+El sexo masculino, afrodescendientes, el glaucoma neovascular, y la implantación de Ahmed fueron encontrados como predictores significativos del fracaso. 
+En la última visita de seguimiento, los ojos en el grupo Ahmed tuvieron una PIO media significativamente mayor ( 18,8+/-9,5 vs. 15,8+/-7,9 mmHg, P = 0,003, t test ) y más medicamentos antiglaucoma ( 1,4+/-1,2 vs. 0,9+/-1,1 medicamentos, P = 0,008, Mann-Whitney test ) que los ojos en el grupo Baerveldt. 
+Dos métodos para evitar la hipotonía después del implante de Baerveldt 250 mm ( 2 ) tuvieron resultados similares. 
+Nuestro estudio sugiere que la válvula de glaucoma Ahmed S2 puede ser menos eficaz en la reducción de la PIO que el implante de glaucoma Baerveldt 250 mm (2 ). 
+Evaluar la eficacia y seguridad de los implantes de drenaje Baerveldt y Ahmed glaucoma en pacientes asiáticos con glaucoma refractario. 
+Estudio retrospectivo no aleatorizado. 
+Cuarenta y un pacientes. 
+Los autores revisaron la inserción de 18 implantes de glaucoma Ahmed valvulados ( AGV-S2) y 24 implantes de glaucoma Baerveldt de 350 mm ( 2 ) realizados por un solo cirujano del Departamento de Oftalmología del Hospital Universitario Nacional de Singapur, desde el 1 de enero de 2000 hasta el 31 de diciembre de 2000. 
+Se insertaron 42 implantes de drenaje de glaucoma en los ojos de 41 pacientes. 
+Todos los pacientes tuvieron al menos 6 meses de seguimiento. 
+Presión intraocular ( PIO ), agudeza visual, y complicaciones. 
+Ambos implantes de drenaje lograron reducciones notables en la PIO ; desde la PIO pretratamiento de 40,1+/-13,8 mmHg y 43,7+/-9,3 mmHg hasta la PIO postoperatoria de 17,4+/-6,2 y 14,9+/-5,5 mmHg en los grupos Baerveldt y Ahmed, respectivamente. 
+Se había logrado una disminución del PIO del 56,6 % y del 65,9 %. 
+Las tasas de éxito fueron 20 ( 83,3 % ) para Baerveldt y 12 ( 66,7 % ) para los implantes Ahmed, mientras que el éxito calificado ocurrió en 1 ( 4,2 % ) Baerveldt y 3 ( 16,7 % ) los implantes Ahmed. 
+Por el contrario, se produjo un fallo en el control de la PIO en 3 ( 12,5 % ) implantes Baerveldt y 3 ( 16,7 % ) implantes Ahmed. 
+Más del 80 % de los pacientes habían mantenido o mejorado la función visual, mientras que sólo 4 ( 16,0% ) de los pacientes con implantes de Baerveldt y 2 ( 16,7% ) de los pacientes con implantes de Ahmed presentaron pérdida de más de 1 línea Snellen. 
+Tanto los implantes de drenaje Baerveldt como Ahmed glaucoma realizaron bien en términos de control de la PIO, preservación de la función visual, y con bajas tasas de complicaciones. 
+Para reportar los resultados a largo plazo de un ensayo clínico aleatorizado, comparando los implantes de glaucoma de 350 mm2 y 500 mm2 de Baerveldt. 
+Seguimiento extendido en un ensayo aleatorizado y controlado. 
+Entre marzo de 1991 y abril de 1993, 107 pacientes con presión intraocular no controlada ( PIO ) por glaucoma no neovascular asociado a afakia, pseudofaquia, o filtros fallidos fueron asignados aleatoriamente para la colocación quirúrgica del implante Baerveldt de 350 mm2 o 500 mm2 en el Doheny Eye Institute. 
+Se utilizó una tabla de números aleatorios para asignar cada paciente a uno de los dos grupos. 
+Se registraron PIO preoperatorios y agudezas visuales. 
+Se revisaron los registros clínicos para determinar las PIO postoperatorias, las agudezas visuales, el número de medicamentos utilizados y las complicaciones relacionadas con los implantes que ocurrieron durante el período de seguimiento. 
+El éxito se definió como PIO de 6 mmHg o mayor y de 21 mmHg o menos en dos o más visitas consecutivas de seguimiento sin cirugía de glaucoma adicional o pérdida de la percepción de la luz atribuible al glaucoma. 
+Las tasas globales de éxito fueron del 87 % para el grupo de 350 mm2 y del 70 % para el grupo de 500 mm2 ( P = 0,05 ). 
+El seguimiento promedio fue de 37 meses (intervalo, 1-76 meses ) para el grupo de 350 mm2 y 34 meses (intervalo, 5-77 meses ) para el grupo de 500 mm2. 
+Las tasas de éxito de la tabla de vida disminuyeron con el tiempo para ambos grupos de implantes, desde un máximo del 98 % para el grupo de 350 mm2 y del 92 % para el grupo de 500 mm2 a 1 año hasta una tasa de éxito acumulativa del 79 % para el grupo de 350 mm2 y del 66 % para el grupo de 500 mm2 a 5 años. 
+Las agudezas visuales fueron mejores o se mantuvieron iguales en el 50 % de los pacientes del grupo de 350 mm2 y en el 46 % de los del grupo de 500 mm2. 
+Las complicaciones durante el seguimiento a 5 años también fueron estadísticamente similares. 
+Los resultados a largo plazo muestran que el implante Baerveldt de 350 mm2 es más exitoso que el implante de 500 mm2 para el control global de la PIO. 
+Las comparaciones entre intervalos indican una mayor tasa de éxito para el implante de 350 mm2 en los primeros, segundos, terceros, cuarto y quinto años de implantación. 
+Las agudezas visuales, las complicaciones relacionadas con los implantes, y los PIO promedios fueron estadísticamente indistinguibles entre los dos grupos. 
+Para determinar si el tratamiento con betaxolol puede retrasar o prevenir la conversión de la hipertensión ocular al glaucoma precoz sobre la base de criterios de campo visual, mediante un ensayo prospectivo, aleatorizado y controlado con placebo. 
+Trescientos cincuenta y seis hipertensos oculares fueron aleatorizados al tratamiento con gotas de betaxolol o gotas de placebo durante el período 1992-1996. 
+Cada paciente fue seguido prospectivamente con visitas de 4 meses. 
+El examen en cada visita incluyó pruebas de campo visual, medición de presión intraocular (PIO) e imágenes de disco óptico. 
+La conversión al glaucoma temprano se definió sobre la base del cambio de campo visual por criterios AGIS. 
+Un análisis de intención de tratar comparó la conversión del campo visual después de 3 años en los brazos de tratamiento y placebo. 
+También se realizó un análisis de supervivencia del campo visual normal. 
+Se compararon las características de la PIO de los dos grupos de tratamiento. 
+Doscientos cincuenta y cinco pacientes completaron el estudio, que finalizó en 1998, con un rango de seguimiento de 2-6 años. 
+Dieciséis ( 13,2 % ) de 121 pacientes del grupo placebo convertidos a glaucoma, en comparación con 12 ( 9,0 % ) de 134 pacientes del grupo betaxolol. 
+El análisis de la intención de tratar no demostró ninguna diferencia en las tasas de conversión entre los grupos de betaxolol y placebo después de 3 años. 
+El análisis de supervivencia del campo visual no demostró ninguna diferencia significativa entre los grupos de betaxolol y placebo. 
+El grupo tratado con betaxolol presentó valores de PIO significativamente más bajos después del tratamiento. 
+Los conversores presentaron valores de PIO significativamente más altos antes y después del tratamiento que los no convertidores. 
+Betaxolol redujo significativamente el nivel de la PIO en comparación con placebo. 
+Se encontró que la conversión al glaucoma estaba relacionada tanto con los niveles basales como con los niveles de PIO post-tratamiento. 
+Sin embargo, el análisis de la intención de tratar no demostró una reducción estadísticamente significativa de la tasa de conversión en el grupo tratado con betaxolol. 
+Comparar la facoemulsificación sola versus la facotrabeculectomía combinada en el glaucoma de cierre de ángulo crónico sin control médico ( CACG ) con la cataratas coexistentes. 
+Ensayo clínico prospectivo aleatorizado. 
+Cincuenta y un ojos CACG médicamente incontrolados con cataratas coexistentes de 51 pacientes. 
+Los pacientes reclutados fueron aleatorizados en el grupo 1 (facoemulsificación sola ) o en el grupo 2 (facotrabeculectomía combinada con mitomicina C concomitante ). 
+En el postoperatorio, los pacientes fueron revisados cada 3 meses durante 2 años. 
+Presión intraocular ( PIO ) y necesidad de medicamentos tópicos con glaucoma. 
+Veintisiete ojos de CACG fueron aleatorizados en el grupo 1, y 24 ojos de CACG fueron aleatorizados en el grupo 2. 
+La facotrabeculectomía combinada resultó en una PIO media postoperatoria menor que la facoemulsificación sola a los 3 meses ( 14,0 vs 17,0 mmHg, P = 0,01 ), 15 meses ( 13,2 vs 15,4 mmHg, P = 0,02 ) y 18 meses ( 13,6 vs 15,9 mmHg, P = 0,01 ). 
+La facotrabeculectomía combinada resultó en 1,25 fármacos glaucoma tópicos menos (p < 0,001 ) en el período postoperatorio de 24 meses, en comparación con la facoemulsificación sola. 
+La cirugía combinada se asoció con más complicaciones postoperatorias ( p < 0,001 ) y más progresión de la neuropatía óptica ( p = 0,03 ), en comparación con la facoemulsificación sola. 
+La facotrabeculectomía combinada con mitomicina C concomitante es más eficaz que la facoemulsificación sola en el control de la PIO en ojos CACG no controlados médicamente con cataratas coexistentes. 
+La facotrabeculectomía combinada se asocia con más complicaciones postoperatorias. 
+Para comparar el efecto hipotensor intraocular adicional de latanoprost 0,005 % administrado una vez al día con el de pilocarpina 2 % administrado tres veces al día en pacientes con glaucoma primario de ángulo abierto o hipertensión ocular actualmente en monoterapia con timolol 0,5 % dos veces al día. 
+En un ensayo abierto, multicéntrico, aleatorizado, de 6 meses de duración, 242 pacientes con POAG u OH cuya PIO no se controló con timolol 0,5% antes del inicio del tratamiento. 
+se matricularon. 
+Los ojos no habían sido tratados con pilocarpina y latanoprost durante al menos 2 años. 
+Se realizó un análisis de la covarianza con el cambio diurno de la PIO desde el inicio hasta el mes 6 para los ojos del estudio. 
+Cuatro pacientes con latanoprost 0,005 % y 35 con pilocarpina 2 % no completaron el estudio ( p < 0,001 ). 
+Doscientos cuarenta pacientes fueron incluidos en el análisis de intención de tratamiento. 
+Para ambos tratamientos, la reducción diurna de la PIO después de 6 meses fue estadísticamente significativa ( p < 0,001 ). 
+La PIO ( media+/-SD ) se redujo de 23,3+/-2,8 a 17,8+/-2,8 ( -5,6 ) mmHg en el grupo de latanoprost 0,005 % y de 23,0+/-3,2 a 18,5+/-2,4 ( -4,8 ) mmHg en los ojos tratados con pilocarpina 2 % t.i.d. 
+La diferencia media de -0,8 mmHg ( por protocolo, PP ) y -1,6 mmHg ( intención de tratar, ITT ) fue estadísticamente significativa ( P < 0,04, PP ; P < 0,001, ITT ) a favor de latanoprost 0,005 %. 
+Dos ojos tratados con latanoprost mostraron un cambio de color del iris. 
+Treinta y seis pacientes del grupo de latanoprost y 106 del grupo de pilocarpina 2 % notificaron reacciones adversas oculares ( p < 0,001 ). 
+De los datos se concluye que la aditividad de latanoprost 0,005 % es al menos tan eficaz como la pilocarpina 2 % t.i.d. en la reducción de la PIO cuando se añade a los ojos actualmente en monoterapia con timolol 0,5% al día. 
+Latanoprost fue mejor tolerada que la pilocarpina 2 % colirio en este estudio. 
+El aumento de la pigmentación del iris requiere una mayor investigación. 
+El implante de glaucoma Baerveldt es un gran dispositivo de derivación acuosa ecuatorial que se instala a través de una incisión conjuntival monocuadrante. 
+Se reportan los resultados a medio plazo de un estudio aleatorizado que compara los implantes Baerveldt de 350 y 500 mm2. 
+Se incluyeron 73 pacientes con glaucomas no neovasculares médicamente incontrolables asociados a afakia, pseudofakia o filtros fallidos en un estudio prospectivo aleatorizado en el que se compararon implantes Baerveldt de 350 y 500 mm2. 
+El éxito quirúrgico se definió como 6 mmHg < o = presión intraocular final < o = 21 mmHg sin cirugía de glaucoma o complicación devastadora. 
+De los pacientes con implantes de 350 y 500 mm2, el 93 % y el 88 %, respectivamente, alcanzaron éxito quirúrgico (análisis de la tabla de vida de 18 meses, P = 0,93 ). 
+Los implantes de 500 mm2 proporcionaron control de presión intraocular con significativamente menos medicamentos (0,7 versus 1,3 ; P = 0,006 ). 
+Las agudezas visuales postoperatorias permanecieron dentro de una línea de las agudezas visuales preoperatorias o mejoraron en el 62 % y el 66 % de los pacientes en los grupos de 350 y 500 mm2, respectivamente ( P = 0,93 ). 
+Las tasas de complicación fueron estadísticamente similares. 
+Los más frecuentes en los grupos de 350 y 500 mm2, respectivamente, fueron derrame coroideo seroso ( 16 % y 32 % ), estrabismo ( 16 % y 19 % ), uveítis anterior ( 14 % y 11 % ) y edema corneal o corneal de injerto ( 11 % cada uno ). 
+Los resultados a medio plazo de los implantes Baerveldt de 350 y 500 mm2 fueron estadísticamente comparables con respecto a los resultados quirúrgicos y visuales, así como a las complicaciones, aunque el implante más grande se asoció con una mayor tasa de algunas complicaciones. 
+Sin embargo, el implante Baerveldt de 500 mm2 proporcionó control de presión intraocular con menos medicamentos que el implante de 350 mm2. 
+Para evaluar la presión intraocular del aditivo ( PIO ) -reducción de la eficacia y seguridad de la combinación fija de brimonidina 0,2 % /timolol 0,5 % en comparación con timolol 0,5 % en el pico y efecto valle cuando se utiliza como terapia concomitante a latanoprost 0,005 % en pacientes con glaucoma o hipertensión ocular que requieren reducción adicional de la PIO. 
+En este estudio prospectivo, aleatorizado, multicéntrico, enmascarado por investigador, en grupo paralelo, los pacientes fueron tratados con monoterapia de latanoprost durante al menos cuatro semanas antes del inicio. 
+Al inicio del tratamiento con latanoprost, los pacientes con PIO 21 mmHg en al menos un ojo fueron aleatorizados a brimonidina-timolol dos veces al día fijo ( n = 102 ) o timolol ( n = 102 ), cada uno adjuntivo a latanoprost durante 12 semanas. 
+La PIO se midió a las 8 am y 10 am al inicio, semana 6 y semana 12 y se evaluó en la población por protocolo. 
+La variable principal de eficacia fue la reducción máxima de la PIO a las 10 am, semana 12. 
+Las medidas de seguridad incluyeron eventos adversos. 
+La PIO media basal fue similar a las 10 am en los grupos de tratamiento ( brimonidina-timolol 23,4 mmHg ; timolol 23,0 mmHg ). 
+La reducción adicional media de la PIO basal tratada con latanoprost fue de 8,3 mmHg ( 35,5 % ) con brimonidina-timolol fija y 6,2 mmHg ( 27,0 % ) con timolol a las 10 am, semana 12 ( P < 0,001 ). 
+Los pacientes tratados con brimonidina-timolol fija adjuntiva a latanoprost fueron significativamente más propensos que los pacientes tratados con timolol concomitante a alcanzar una PIO < 18 mmHg ( P = 0,028 ) y una reducción del 20 % de la PIO desde el inicio ( P = 0,047 ) tanto a las 8 am como a las 10 am en la semana 12. 
+Se produjeron reacciones adversas en el 14,7 % de los pacientes fijos con brimonidina-timolol y en el 12,7 % de los pacientes con timolol. 
+Los hallazgos de la biomicroscopia fueron similares entre los grupos de tratamiento después de 12 semanas de tratamiento. 
+La combinación fija de brimonidina-timolol redujo significativamente la PIO más eficazmente que el timolol cuando se utilizó como terapia concomitante a latanoprost en pacientes con glaucoma e hipertensión ocular. 
+Tanto el brimonidina-timolol fijo como el timolol fueron bien tolerados como agentes auxiliares a latanoprost. 
+Para evaluar la presión intraocular ( PIO ) -reducción de la eficacia y seguridad de la brimonidina de combinación fija 0,2 % -timolol 0,5 % en comparación con latanoprost 0,005 % en pacientes con glaucoma o hipertensión ocular. 
+Se trata de un ensayo clínico prospectivo, aleatorizado, multicéntrico, enmascarado por investigador. 
+Después del lavado de cualquier medicamento previo que redujera la PIO, los pacientes con PIO de 24 mmHg o superior fueron aleatorizados a brimonidina dos veces al día de combinación fija 0,2 % -timolol 0,5% ( n = 73 ) o latanoprost una vez al día 0,005 % ( n = 75, dosificado por la noche, con control del vehículo por la mañana para mantener el enmascaramiento ) durante 12 semanas. 
+La PIO se midió a las 8 a.m. ( antes de la administración ), a las 10 a.m. y a las 3 p.m. al inicio, a la semana 6 y a la semana 12. 
+El criterio principal de valoración de la eficacia fue la PIO diurna (promedió más de 8 a.m., 10 a.m. y 3 p.m.) en la semana 12. 
+Las medidas de seguridad incluyeron la biomicroscopía. 
+No hubo diferencia estadísticamente significativa entre los grupos de tratamiento en la PIO diurna media al inicio ( p = 0,118 ). 
+En la semana 12, la media ( DE ) de la PIO diurna fue de 17,8 ( 2,9 ) mmHg con brimonidina-timolol y 17,9 ( 3,9 ) mmHg con latanoprost ( p = 0,794 ). 
+El porcentaje de pacientes que alcanzaron al menos una disminución del 20 % con respecto a la PIO diurna basal en la semana 12 fue del 87,7% en el grupo de brimonidina-timolol y del 77,3% en el grupo de latanoprost (p = 0,131 ). 
+Los cambios biomicroscópicos medidos desde el inicio hasta la semana 12 fueron poco frecuentes en ambos grupos. 
+La combinación fija de brimonidina-timolol fue tan eficaz como latanoprost en la reducción de la PIO en pacientes con glaucoma o hipertensión ocular. 
+Ambos tratamientos demostraron tolerancia ocular favorable. 
+La duración del estudio fue de 12 semanas y se necesitarán estudios adicionales para comparar la eficacia y seguridad de la brimonidina-timolol de combinación fija y latanoprost durante el tratamiento a largo plazo. 
+Comparar la eficacia del control de presión intraocular (PIO) del implante Baerveldt-350 con ligadura del tubo y la válvula Ahmed en pacientes con glaucoma refractario. 
+Entre julio de 1995 y julio de 2001 ( 6 años ) se revisaron retroactivamente cuatrocientos setenta procedimientos del dispositivo de drenaje del glaucoma. 
+Se identificaron 32 casos de implantación de Baerveldt-350 en pacientes con glaucoma refractario al tratamiento médico y a los procedimientos de filtrado, sin dispositivo de drenaje previo o procedimientos ciclodestructivos y con un mínimo de 1 año de seguimiento. 
+Treinta y dos casos de implante valvular Ahmed fueron comparados caso por caso con 32 casos de Baerveldt-350 para edad, raza, sexo, subtipo de glaucoma, historia ocular previa, PIO preoperatorio y cirujano que realizó el implante. 
+Los dos grupos fueron comparados para el control de la PIO, el resultado visual, la tasa de complicaciones y la tasa de éxito quirúrgico. 
+La tasa de éxito quirúrgico se definió como una reducción de la PIO mayor o igual al 30 % y la PIO final superior a 5 mm Hg y menos de 22 mm Hg, sin complicaciones devastadoras. 
+Durante un período de seguimiento de 1 año, no se detectaron diferencias estadísticamente significativas entre el implante Baerveldt-350 frente a la válvula Ahmed para el control de la PIO ( 12,1 +/- 5,3 mm Hg vs 13,6 +/- 5,6 mm Hg respectivamente, con una potencia del 90 % para detectar una diferencia de 3,2 mm Hg entre los dos grupos y P = 0,05 ), tasa de éxito quirúrgico ( 65,6 % vs 65,6 % respectivamente, combinación completa y cualificada ), tasa de hipotonía postoperatoria ( 37,5 % vs 34,4 % respectivamente ), y cambios de agudeza visual de más de 1 línea en la agudeza visual de Snellen ( 43,3 % vs 29,0 % respectivamente ). 
+En una comparación controlada por casos, el implante Baerveldt-350 y la válvula Ahmed tuvieron un control de la PIO similar y resultados quirúrgicos en pacientes con glaucoma refractario a 1 año de seguimiento. 
+Comparar la eficacia de reducción de la PIO de travoprost y latanoprost dosificados por la mañana a las 24 h posdosis. 
+Los pacientes con glaucoma de ángulo abierto no naïve a la terapia con prostaglandina y actualmente controlados con dosis p.m. ( 2100 ) latanoprost ( n = 21 ) o travoprost ( n = 30 ) tenían PIO basales medidos a 0900. 
+En un diseño cruzado aleatorizado, monomascado, los pacientes recibieron travoprost ( Travatan † ) o latanoprost ( Xalatan ‡ ) a las 0900 durante 4 semanas, luego se cruzaron para recibir la segunda prostaglandina durante otras 4 semanas. 
+El tratamiento de la PIO se midió a las 0900 horas antes de la dosis matutina en las visitas de 4 y 8 semanas. 
+Preferencia de dosificación del paciente ( a.m./p.m. ) 
+fue encuestada a la salida. 
+Medida de resultado principal : Presión intraocular ( PIO ). 
+† Travatan es un nombre comercial registrado de Alcon Laboratories, Inc., Fort Worth, TX, USA ‡ Xalatan es un nombre comercial registrado de Pfizer, Nueva York, NY, USA. 
+La PIO media en el primer período en el que se administró a todos los pacientes por la noche se evaluó 12 h después de la administración a las 09:00 y fue similar en los dos grupos de tratamiento (desviación media +/- estándar: 17,9 +/- 2,7 mmHg para travoprost frente a 17,7 +/- 2,5 mmHg para latanoprost, p = 0,812 ). 
+En la comparación cruzada de dosis de la mañana, la PIO posterior a la dosis de 24 horas fue significativamente menor ( p < 0,001 ) en travoprost ( 16,9 +/- 3,1 mmHg ) en comparación con latanoprost ( 18,6 +/- 3,3 mmHg ). 
+En la encuesta de salida, el 51 % de los pacientes prefirieron la administración a.m.. 
+El travoprost dosificado por la mañana es superior al latanoprost dosificado por la mañana por 1,7 mmHg a las 24 horas después de la administración. 
+Evaluar la eficacia y seguridad de la combinación fija de latanoprost-timolol ( FCLT ) frente a latanoprost o timolol en monoterapia. 
+En este estudio de grupo paralelo, aleatorizado, de 12 semanas de duración, se incluyeron pacientes con glaucoma de ángulo abierto o hipertensión ocular tratados con bloqueador beta y con presión intraocular basal (PIO) de 26 a 36 mm Hg. 
+Tras el lavado, los pacientes elegibles fueron aleatorizados a FCLT una vez al día por la noche, latanoprost por la noche, o timolol por la mañana. 
+Evaluaciones postbaseline IOP a las 8 am, 10 am, y 4 pm a las semanas 2, 6, y 12 ; superioridad estadística de FCLT para las 18 comparaciones de pares entre FCLT y las 2 monoterapias, utilizando el análisis de varianza. 
+Todas las terapias resultaron en reducciones significativas de la PIO desde el inicio. 
+Las comparaciones entre pares favorecieron a FCLT en todos los momentos. 
+Cuando las 18 comparaciones se probaron simultáneamente, FCLT fue estadísticamente superior a latanoprost en 7 de 9 puntos de tiempo y en todos los 9 puntos de tiempo cuando se comparó con timolol. 
+Además, el FCLT se asoció con mayores reducciones porcentuales en los niveles diurnos de PIO y una mayor probabilidad de alcanzar niveles medios inferiores de PIO diurnos. 
+Las reducciones diarias de la PIO del 30 % o más desde el inicio hasta la semana 12 se alcanzaron en 73,5 %, 57,5 % y 32,8 % de los tratados con FCLT, latanoprost y timolol, respectivamente ( P = 0,007 para FCLT vs timolol ; P < 0,001 para FCLT vs latanoprost ). 
+Todas las terapias fueron bien toleradas. 
+El tratamiento con latanoprost-timolol de combinación fija es tan seguro y eficaz para reducir la PIO en pacientes con hipertensión ocular o glaucoma como en monoterapia con latanoprost o timolol. 
+El tratamiento combinado puede utilizarse para tratar pacientes para los que la monoterapia no proporciona una reducción suficiente de la PIO. 
+La simplicidad, eficacia y tolerabilidad de la FCLT contribuyen a su utilidad en la práctica clínica. 
+Para determinar el efecto del tamaño del colgajo escleral sobre el control de presión intraocular a medio plazo y las tasas de complicaciones después de la trabeculectomía aumentada. 
+Ensayo clínico prospectivo aleatorizado. 
+Pacientes con glaucoma sometidos a trabeculectomía primaria. 
+Los criterios de exclusión incluyeron cirugía ocular previa aparte de cirugía de cataratas, glaucoma secundario y edad menor de 18 años. 
+Los pacientes fueron aleatorizados a trabeculectomía estándar ( colgajo escleral de 4 × 4 mm ) o a microtrabeculectomía ( colgajo escleral de 2 × 2 mm ), ambos con suturas ajustables y antimetabolitos. 
+La punción Bleb se realizó según lo requerido. 
+Los pacientes fueron evaluados en el día 1, semanas 1, 3, 6 y meses 3, 6, 12, 18 y 24 postoperatorios. 
+Visión, presión intraocular, complicaciones e insuficiencia (presión intraocular ≥ 21 mmHg o no reducida en ≥20 % con respecto al valor basal, presión intraocular ≤ 5 mmHg, cirugía de glaucoma repetida y sin visión de la percepción de la luz ). 
+Cuarenta y un pacientes fueron reclutados ; 20 tuvieron trabeculectomía estándar, y 21 tuvieron microtrabeculectomía. 
+A los 2 años, la presión intraocular media y la probabilidad acumulada de fracaso fue de 12,4 ± 4,6 mmHg y 0,28 para la trabeculectomía estándar, y 11,5 ± 3,6 mmHg y 0,27 para la microtrabeculectomía ( P = 0,50 y 0,89, respectivamente ). 
+Un paciente en cada grupo necesitó la implantación del dispositivo Baerveldt. 
+La visión redujo ≥2 líneas Snellen en un 15 % en el grupo de trabeculectomía estándar y en un 25 % en el grupo de microtrabeculectomía, principalmente a partir de cataratas ( P = 0.48 ). 
+Ambas técnicas de trabeculectomía lograron una buena reducción de la presión intraocular y tuvieron tasas de complicaciones similares. 
+El tamaño del colgajo escleral no tuvo un efecto significativo en el control de presión intraocular a medio plazo y el perfil de complicación. 
+Para comparar la eficacia y seguridad de tafluprost, un análogo libre de conservantes ( PF ) prostaglandina, con PF timolol en pacientes con glaucoma de ángulo abierto o hipertensión ocular. 
+Ensayo clínico multicéntrico aleatorizado, doble enmascarado. 
+Tras la interrupción y el lavado del tratamiento hipotensivo ocular existente, los pacientes con presión intraocular ( PIO ) =23 y =36 mm Hg en al menos 1 ojo a las 08:00 horas fueron aleatorizados 1:1 a 12 semanas de tratamiento con tafluprost PF 0,0015 % o PF timolol 0,5%. 
+La PIO se midió 3 veces durante el día ( 08:00, 10:00, 16:00 horas ) al inicio y a las semanas 2, 6 y 12. 
+Se hizo la hipótesis de que el PF tafluprost no sería inferior al PF timolol durante 12 semanas con respecto al cambio con respecto a la PIO basal. 
+El ensayo fue impulsado por un margen de no inferioridad de 1,5 mm Hg en cada uno de los 9 puntos de tiempo evaluados. 
+Un total de 643 pacientes fueron aleatorizados y 618 completados (PF tafluprost = 306, PF timolol = 312). 
+Las PIO en los 3 momentos evaluados durante la visita basal variaron de 23,8 a 26,1 mm Hg en el grupo de PF tafluprost y de 23,5 a 26,0 mm Hg en el grupo de PF timolol. 
+Las PIO en los 3 puntos de tiempo evaluados durante la visita de 12 semanas variaron de 17,4 a 18,6 mm Hg para PF tafluprost y 17,9 a 18,5 mm Hg para PF timolol. 
+En todos los 9 momentos, los límites superiores de los intervalos de confianza de los dos lados 95 % para la diferencia entre los tratamientos en la reducción de la PIO fueron inferiores al margen de no inferioridad preespecificado. 
+Porcentajes similares de pacientes con tafluprost de PF y timolol de PF notificaron dolor/cansancio/irritación ocular ( 4,4 % vs 4,6 % ) y prurito ( 2,5 % vs 1,5% ). 
+Los porcentajes de pacientes con tafluprost de PF y timolol de PF que notificaron hiperemia conjuntival fueron 4,4 % vs 1,2 % (P nominal = 0,016 ). 
+El efecto reductor de la PIO de PF tafluprost no fue inferior al de PF timolol. 
+El PF tafluprost es un agente hipotensor ocular eficaz y generalmente bien tolerado. 
+Para reportar los resultados de un año del estudio Tube Versus Trabeculectomía ( TVT ). 
+Ensayo clínico multicéntrico aleatorizado. 
+Entorno : 17 Centros Clínicos. 
+Población del estudio : Pacientes de 18 a 85 años de edad que tuvieron trabeculectomía previa y/o extracción de cataratas con implante de lentes intraoculares y glaucoma no controlado con presión intraocular (PIO) > o = 18 mm Hg y < o = 40 mm Hg en terapia médica máxima tolerada. 
+Intervenciones : 350 mm ( 2 ) Implante de glaucoma Baerveldt o trabeculectomía con mitomicina C ( MMC ). 
+Principales medidas de resultado : PIO, agudeza visual, y reoperación para el glaucoma. 
+Se incluyeron 212 ojos de 212 pacientes, incluyendo 107 en el grupo de tubo y 105 en el grupo de trabeculectomía. 
+A un año, la PIO ( media +/- DE ) fue de 12,4 +/- 3,9 mm Hg en el grupo de tubos y 12,7 +/- 5,8 mm Hg en el grupo de trabeculectomía ( P =,73 ). 
+El número de medicamentos con glaucoma (media +/- DE) fue de 1,3 +/- 1,3 en el grupo con tubo y de 0,5 +/- 0,9 en el grupo con trabeculectomía (p < 0,001). 
+La probabilidad acumulada de fracaso durante el primer año de seguimiento fue del 3,9 % en el grupo de tubos y del 13,5 % en el grupo de trabeculectomía ( p = 0,017 ). 
+La cirugía de derivación del tubo sin válvulas fue más propensa a mantener el control de la PIO y evitar la hipotonía persistente o la reoperación para el glaucoma que la trabeculectomía con MMC durante el primer año de seguimiento en el Estudio TVT. 
+Ambos procedimientos quirúrgicos produjeron una reducción similar de la PIO a un año, pero hubo menos necesidad de terapia médica complementaria después de la trabeculectomía con MMC. 
+El objetivo de este estudio es evaluar la eficacia y las complicaciones de la trabeculectomía con un implante biodegradable (implanto ológeno ) frente a la trabeculectomía con mitomicina C (MCM ) en pacientes con glaucoma de ángulo abierto no controlado médicamente en un ensayo clínico prospectivo aleatorizado. 
+En el grupo MCM ( 10 pacientes ), la trabeculectomía se realizó de acuerdo con los protocolos estándar. 
+En el grupo ológeno ( 10 pacientes ) después de la trabeculectomía estándar el implante se colocó sobre el colgajo escleral y no se aplicó MMC. 
+El seguimiento fue continuado durante 12 meses después de la cirugía e incluyó pruebas de presión intraocular (PIO), agudeza visual, campo visual, biomicroscopía por ultrasonido y puntuación de bleb filtrante. 
+La PIO media preoperatoria fue de 24,8+/-8,9 mm Hg para todos los pacientes incluidos. 
+A 1 año después de la cirugía, la PIO media fue de 15,6+/-2,4 mm Hg en el grupo ológeno ( P < 0,01, reducción del 43 % ) y 11,5+/-4,1 mm Hg en el grupo MMC ( P < 0,01, reducción del 50 % ). 
+No fue necesario ningún medicamento antiglaucomatoso en el grupo MMC en el primer año de seguimiento, mientras que cinco pacientes del grupo ológeno requirieron tratamiento tópico. 
+La tasa de éxito absoluto fue del 100 % en el grupo MMC y del 50 % en el grupo ológeno ( p=0,01 ). 
+Después de 1 año, los blebs filtrantes desarrollaron significativamente más áreas avasculares en el grupo MMC (puntuación=1,4 ) que en el grupo ológeno (puntuación=2,8 ; P < 0,01 ). 
+La tasa de éxito total con trabeculectomía con implante ológeno es menor que la alcanzada con trabeculectomía con MMC. 
+Sin embargo, la morfología del bleb causó más problemas en el grupo MMC ( puntuación de avascularidad ). 
+Para comparar el efecto sobre la presión intraocular de latanoprost versus timolol más dorzolamida en glaucoma de ángulo abierto. 
+Treinta y cinco pacientes con glaucoma de ángulo abierto fueron aleatorizados, 18 a latanoprost una vez al día y 17 a timolol más dorzolamida dos veces al día. 
+La presión intraocular y los efectos secundarios oculares se registraron al inicio y después de 2 semanas y 3 meses de tratamiento. 
+Latanoprost redujo la presión intraocular 1,09 y 1,58 mm Hg más que timolol más dorzolamida después de 2 semanas y 3 meses de tratamiento, respectivamente. 
+Estas diferencias fueron estadísticamente significativas (p < 0,05 ) al final del estudio. 
+Después de 3 meses de tratamiento, el 32,3 % de los ojos en el grupo de latanoprost redujo la presión intraocular en un 30 % o más con respecto al valor basal, mientras que el 15,6 % de los ojos en el grupo de timolol más dorzolamida logró esta reducción. 
+Latanoprost administrado una vez al día redujo la presión intraocular al menos así como timolol más dorzolamida dos veces al día en pacientes con glaucoma de ángulo abierto. 
+Para comparar el control de la presión intraocular (PIO ) y otros resultados clínicos después de la facotrabeculectomía basada en un sitio fornix y 2 sitios basada en limbo. 
+Ensayo prospectivo aleatorizado controlado. 
+Se trataron 90 ojos de 76 pacientes con cataratas y glaucoma. 
+Se asignaron 44 ojos al azar para recibir una facotrabeculectomía de 1 sitio con colgajo conjuntival basado en fornix, y 46 ojos al azar para recibir una facotrabeculectomía de 2 sitio con colgajo conjuntival basado en limbo. 
+Todas las operaciones se realizaron con mitomicina C. 
+La presión intraocular y el número de medicamentos antiglaucoma se registraron al inicio y durante un periodo de seguimiento de 3 años. 
+La PIO media preoperatoria fue de 20,1+/-3,8 mmHg en el grupo de 1 sitio y de 19,5+/-5,3 mmHg en el grupo de 2 sitios (P = 0,56 ) utilizando una media de 2,3+/-0,9 y 2,5+/-0,9 medicamentos antiglaucoma, respectivamente ( P = 0,27 ). 
+Después de 3 años de seguimiento, la PIO media fue de 12,6+/-4,8 mmHg en el grupo de 1 sitio y 11,7+/-4,0 mmHg en el grupo de 2 sitio ( P = 0,40 ), recibiendo una media de 0,3+/-0,7 y 0,4+/-0,9 medicamentos, respectivamente ( P = 0,59 ). 
+Al final del estudio, el 73 % de los ojos de 1 sitio y el 78,4% de los ojos de 2 sitios tenían COP de menos de 18 mmHg mientras no recibían medicamentos antiglaucoma ( P = 0,59 ). 
+La agudeza visual fue similar en ambos grupos a los 3 meses de la cirugía. 
+No hubo diferencias significativas en la necesidad de presión digital, necesidad de bleb postoperatorio con 5-fluorouracilo, o número de visitas postoperatorias. 
+Hubo 2 complicaciones mayores en cada grupo durante el seguimiento. 
+Las fugas tempranas del cierre de la herida conjuntival ocurrieron en 6 ojos en el grupo de 1 sitio y en 0 ojos en el grupo de 2 sitio ( P = 0,03 ). 
+El tiempo de operación (en minutos ) fue menor en el grupo de cirugía de 1 sitio ( p < 0,0001 ). 
+La PIO postoperatoria del primer día fue mayor en el grupo de 2 sitios (P = 0.0.01 ). 
+La facotrabeculectomía basada en un sitio fornix y 2 sitios basada en limbo fue igualmente eficaz en la reducción de la PIO y la reducción de la necesidad de medicamentos antiglaucoma durante un período de seguimiento de 3 años. 
+Evaluar la eficacia y tolerabilidad de la brimonidina purita 0,1% en comparación con brinzolamida 1 % cuando se utiliza como terapia concomitante a latanoprost 0,005 % en pacientes con glaucoma o hipertensión ocular. 
+Estudio clínico de grupo paralelo, aleatorizado, monocéntrico, enmascarado investigador. 
+Los pacientes con PIO > o = 18 mmHg mientras tomaban una vez al día latanoprost fueron aleatorizados al tratamiento concomitante con brimonidina purita TID ( n = 20 ) o brinzolamida TID ( n = 20 ) durante 3 meses. 
+La presión intraocular (PIO ) se midió a las 8 a.m., a las 10 a.m. y a las 4 p.m. en el momento basal tratado con latanoprost y después de 1 y 3 meses de tratamiento con latanoprost y concomitante. 
+Se administró un cuestionario a un paciente para evaluar la tolerabilidad de la instilación de gotas oftálmicas. 
+La media basal de la PIO diurna ( +/- desviación estándar, mmHg ) en latanoprost fue comparable entre los grupos ( purito de brimonidina : 19,6 +/- 2,94 ; brinzolamida : 19,8 +/- 3,25 ; p = 0,846 ). 
+La PIO diurna media al mes 3 fue de 16,3 +/- 2,63 mmHg con purito de brimonidina y 17,8 +/- 2,19 mmHg con brinzolamida (p = 0,028 ). 
+El uso concomitante de purito de brimonidina proporcionó una reducción de la PIO mayor que la de brinzolamida a las 10.00 horas ( p < 0,001 ) y a las 4 p.m. ( p = 0,050 ) y una reducción de la PIO equivalente a brinzolamida a las 8.00 horas ( p = 0,716 ). 
+La visión borrosa en el mes 1 y el sabor amargo en los meses 1 y 3 fueron más comunes al instilar gotas oftálmicas de brinzolamida. 
+La purita de brimonidina 0,1% proporcionó una PIO significativamente menor en comparación con la brinzolamida 1 % cuando se utilizó como terapia concomitante a latanoprost. 
+Ambas terapias concomitantes fueron bien toleradas. 
+Las limitaciones de este estudio incluyen el uso de un solo sitio y el tamaño de la muestra. 
+Se necesitan estudios adicionales para evaluar estos fármacos como terapia concomitante a análogos de prostaglandina. 
+La disregulación del flujo sanguíneo ocular se ha implicado en la patogénesis del glaucoma. 
+Mientras que el efecto de una sola sustancia antiglaucoma sobre el flujo sanguíneo ocular se ha abordado en varios experimentos, la evidencia de combinaciones fijas es escasa. 
+En el presente estudio, nos propusimos comparar los efectos de la combinación fija latanoprost 0,005 % /timolol 0,5% ( LT ) y la combinación fija brimonidina 0,2 % /timolol 0,5% ( BT ) sobre la presión intraocular ( PIO ) y el flujo sanguíneo ocular. 
+En el presente estudio, que siguió un diseño cruzado de dos vías aleatorizado y doble enmascarado, se incluyeron 16 pacientes con glaucoma primario de ángulo abierto y 2 pacientes con hipertensión ocular. 
+Los pacientes se sometieron a un tratamiento de 6 semanas con LT y a un tratamiento de 6 semanas con BT después de un lavado para medicación antiglaucoma previa. 
+El flujo sanguíneo óptico de la cabeza nerviosa (ONHBF ) se midió mediante flujometría Doppler láser ; las velocidades de flujo retrobulbar se midieron mediante imágenes Doppler de color en la arteria oftalmológica, la arteria retinal central, y las arterias ciliares posteriores. 
+La PIO se midió a las 8 AM, 12 PM, y 4 PM. 
+La PIO basal media fue de 25,3 ±2,8 mmHg. 
+Ambos fármacos fueron igualmente eficaces en la reducción de la PIO ( LT : -35,0 % ±10,0 % ; BT : -33,6 % ±8,8 %, P=0,463 entre grupos ). 
+Además, no se observó diferencia en la presión de perfusión ocular entre los 2 grupos de tratamiento ( p = 0,1, entre los grupos ). 
+Ni LT ni BT alteraron el ONHBF ( p=0,4, basal vs. tratamiento ) y no se observó ningún efecto sobre las velocidades de flujo en los vasos retrobulbares con ninguno de los dos tratamientos. 
+En el presente estudio, un tratamiento de 6 semanas con LT o BT fue igualmente eficaz en la reducción de la PIO. 
+Además, ninguno de los fármacos administrados indujo un efecto significativo sobre los parámetros de flujo sanguíneo ocular. 
+Bimatoprost y la combinación fija de latanoprost con maleato de timolol son 2 medicamentos ampliamente utilizados para tratar el glaucoma y la hipertensión ocular (OHT). 
+El objetivo del estudio es comparar la eficacia de estos dos fármacos en la reducción de la presión intraocular ( PIO ) después de 8 semanas de tratamiento en pacientes con glaucoma primario de ángulo abierto ( POAG ) o THO. 
+En este ensayo abierto aleatorizado, 44 pacientes con POAG o OHT fueron asignados para recibir bimatoprost ( 1 gota QD ) o latanoprost/timolol ( 1 gota QD ). 
+El resultado primario fue la medición media de la PIO diurna a la octava semana, calculada como la media de las mediciones de la PIO tomadas a las 8:00 am, 10:00 am, y 12:00 pm Los resultados secundarios incluyeron el cambio basal en la PIO medido 3 veces al día, después de la prueba de beber agua ( realizada después de la última medición de la PIO ), y la evaluación de los efectos secundarios de cada tratamiento. 
+Los niveles medios de PIO de latanoprost/timolol ( 13,83, DE = 2,54 ) fueron significativamente inferiores a los de bimatoprost ( 16,16, DE = 3,28 ; P < 0,0001 ) en la semana 8. 
+También, el cambio en los valores medios de la PIO fue significativamente mayor en el grupo de latanoprost/timolol a las 10:00 am ( P = 0,013 ) y 12:00 pm ( P = 0,01 ), pero no a las 8:00 am ( P = ns ). 
+Durante la prueba de beber agua, no hubo diferencia significativa en el aumento de la PIO ( absoluto y porcentaje ) entre los grupos ; sin embargo, hubo una disminución significativa en la frecuencia cardíaca media en el grupo de latanoprost/timolol. 
+Finalmente, no se observaron cambios significativos en la presión arterial ni en la espirometría pulmonar en ninguno de los dos grupos. 
+La combinación fija de latanoprost/timolol fue significativamente superior a bimatoprost solo en la reducción de la PIO en pacientes con POAG o THO. 
+Se deben realizar más estudios con grandes tamaños de muestra para apoyar la eficacia superior de latanoprost/timolol, así como para evaluar mejor su perfil de efectos secundarios. 
+Comparar la eficacia y seguridad de la iridotomía periférica láser con o sin iridoplastia periférica láser en el tratamiento de ojos con cierre de ángulo primario sinequial o glaucoma primario de cierre de ángulo. 
+Ensayo clínico aleatorizado, controlado. 
+Se reclutaron pacientes consecutivos mayores de 40 años con cierre de ángulo primario sinequial o glaucoma de cierre de ángulo primario. 
+Los pacientes elegibles fueron aleatorizados a 1 de 2 opciones de tratamiento, iridotomía o iridotomía más iridoplastia, y fueron seguidos durante 1 año. 
+Las principales medidas de resultado fueron presión intraocular ( PIO ), sinequias anteriores periféricas, recuento de células endoteliales corneales, y complicaciones. 
+Se aleatorizaron 77 ojos ( 77 pacientes ) al grupo de iridotomía y 81 ojos ( 81 pacientes ) al grupo de iridotomía más iridoplastia. 
+Sesenta y un pacientes ( 79,2 % ) en la iridotomía y 65 pacientes ( 80,2 % ) de los grupos de iridotomía más iridoplastia completaron 1 año de seguimiento. 
+No hubo diferencias significativas entre los grupos en los datos basales. 
+La PIO se redujo de 24,66 +/- 13,76 mm Hg a 19,03 +/- 6,21 mm Hg en el grupo de iridotomía ( p < 0,001 ) y de 27,96 +/- 13,06 mm Hg a 20,45 +/- 7,26 mm Hg en el grupo de iridotomía más iridoplastia ( p < 0,001 ). 
+La extensión de las sinequias anteriores periféricas disminuyó en 1 hora más después de la iridoplastia en comparación con la de la iridotomía en el grupo de iridotomía más iridoplastia (p < 0,001 ). 
+No hubo diferencia significativa en la PIO, medicamentos, necesidad de cirugía, o función visual entre los grupos en la visita de 1 año. 
+En ojos con cierre de ángulo primario sinequial o glaucoma de cierre de ángulo primario, tanto la iridotomía sola como la combinación con iridoplastia proporcionan una reducción significativa y equivalente de la PIO. 
+También existe una posible reducción de las sinequias anteriores periféricas, más aún en el grupo de iridoplastia. 
+Comparar la eficacia ( reducción de la presión intraocular ( PIO ) y la seguridad de latanoprost ( T2345 ) sin conservantes con cloruro de benzalconio ( BAK ) -latanoprost conservada ( BPL ; Xalatan ) en pacientes con hipertensión ocular ( OHT ) o glaucoma primario de ángulo abierto ( POAG ). 
+Ensayo prospectivo, internacional, multicéntrico, aleatorizado, enmascarado-investigado, en grupo paralelo. 
+Después de un período de lavado, los pacientes con POAG u OHT, tratados previamente con BPL en monoterapia, recibieron al azar T2345 o BPL ( una gota en el ojo afectado ( s ) ) una vez al día de D0 a D84. 
+El cambio en la PIO se midió a las 09:00 ( ±1 h ) de D0 a D84 en el ojo peor. 
+La reducción media de la PIO ( D0-D84 ) fue de -8,6 ±2,6 mm Hg ( -36 % ) en T2345 y - 9,0 ± 2,4 mm Hg ( -38 % ) en BPL, confirmando la no inferioridad de T2345 a BPL. 
+La no inferioridad de T2345 se observó a partir de D15. 
+El acontecimiento adverso ocular más frecuente, intolerancia al fármaco, se notificó en 1 ( 0,5% ) de los pacientes tratados con T2345 frente a 4 ( 2,1 % ) de los pacientes tratados con BPL. 
+La hiperemia conjuntival moderada a grave fue menos frecuente en T2345 que en BPL en D42 ( 20,2 % frente a 30,6 %; p=0,003 ) y D84 ( 21,4 % frente a 29,1 %; p=0,02 ). 
+Tras la instilación, la puntuación global subjetiva de los síntomas oculares fue significativamente menor en T2345 que en BPL en D42 ( 0,15 vs 0,41 ; p=0,001 ) y D84 ( 0,18 vs 0,46 ; p=0,001 ). 
+El latanoprost libre de conservantes tiene la misma eficacia que el BPL, con tolerancia local mejorada. 
+Comparar el efecto sobre la presión intraocular ( PIO ) de la válvula de silicona Ahmed glaucoma con y sin inyección intravítrea de acetonuro de triamcinolona. 
+Cuarenta y nueve pacientes con glaucoma neovascular clínicamente incontrolado fueron incluidos en el estudio ; 22 fueron asignados aleatoriamente al grupo de estudio ( implante de válvula de glaucoma de silicona Ahmed con acetonuro de triamcinolona intravítrea ) y 27 al grupo control ( válvula de glaucoma de silicona Ahmed ). 
+La PIO fue la principal medida de resultado en este estudio. 
+El resultado secundario fue el éxito, definido por la PIO inferior a 22 mm Hg y superior a 5 mm Hg, sin complicaciones graves. 
+Las tasas de éxito en ambos grupos se compararon utilizando las curvas de supervivencia de Kaplan-Meier y la prueba de rango logarítmico. 
+Los niveles de PIO se compararon mediante análisis de modelos lineales mixtos para corregir la correlación de medidas repetidas. 
+Cuarenta y tres pacientes, 18 en el grupo de estudio y 25 en el grupo de control, completaron el estudio ( seguimiento de 12 meses ). 
+La PIO media fue significativamente menor después de 1 año en ambos grupos ( p < 0,001 ). 
+La PIO media en el primer mes de seguimiento fue menor en el grupo de estudio (control ; 20,4±9,7, estudio ; 13,6±6,5, p < 0,01 ). 
+La tasa de éxito a 1 año fue del 78 % para el grupo de estudio y del 76 % para el grupo de control ( p=0,82 ). 
+Las tasas de complicación no fueron diferentes entre los grupos. 
+La inyección intravítrea de acetonuro de triamcinolona en el glaucoma neovascular no afectó el éxito a medio plazo de la válvula Ahmed de silicona ni redujo la incidencia de complicaciones. 
+El pico medio de la PIO en el primer mes fue menor en el grupo de triamcinolona. 
+Para comparar la presión intraocular ( PIO ) - efecto reductor de la viscocanalostomía combinada y la facoemulsificación y la trabeculectomía combinada y la facoemulsificación con mitomicina C en los ojos con glaucoma primario de ángulo abierto. 
+Ensayo prospectivo aleatorizado de 1 año. 
+Cuarenta pacientes consecutivos ( 40 ojos ) con glaucoma primario de ángulo abierto y cataratas. 
+Los ojos fueron asignados aleatoriamente a la trabeculectomía con mitomicina C o a la viscocanalostomía en combinación con la facoemulsificación y la implantación de lentes intraoculares. 
+Tasa de éxito basada en la PIO. 
+La PIO basal media fue de 24,0+/-2,0 mmHg en el grupo de viscocanalostomía y de 23,7+/-2,6 mmHg en el grupo de trabeculectomía (P = 0,7 ). La PIO media postoperatoria fue de 13,7+/-2,2 mmHg a los 3 meses, 14,8+/-3,3 mmHg a los 6 meses y 14,9+/-3,0 mmHg a los 12 meses en el grupo de viscocanalostomía y 12,1+/-4,0 mmHg a los 3 meses, 13,8+/-4,7 mmHg a los 6 meses y 14,1+/-4,4 mmHg a los 12 meses en el grupo de trabeculectomía. 
+No hubo diferencia significativa en la PIO media entre los grupos en ningún momento. 
+A los 12 meses, 17 pacientes ( 85% ) en el grupo de viscocanalostomía y 16 pacientes ( 80% ) en el grupo de trabeculectomía alcanzaron una PIO de 20 mmHg o menos sin medicación ( P = 0,7 ). 
+Las complicaciones incluyeron 2 casos ( 10 % ) de cámara anterior plana/seca y 4 casos ( 20 % ) de hipotonía en el grupo de trabeculectomía, mientras que la microperforación intraoperatoria de la membrana de Descemet se produjo en 3 casos ( 15 % ) en el grupo de viscocanalostomía. 
+No hubo diferencia significativa en la reducción de la PIO entre viscocanalostomía y trabeculectomía con mitomicina C en combinación con facoemulsificación e implantación de lentes intraoculares en pacientes con glaucoma primario de ángulo abierto. 
+Comparar la presión intraocular ( PIO ) a lo largo del tiempo después de la trabeculectomía estándar frente a la implantación de Ex-PRESS en pacientes con glaucoma primario bilateral de ángulo abierto ( POAG ). 
+Estudio prospectivo, aleatorizado. 
+Este estudio incluyó pacientes adultos con POAG bilateral que requerían cirugía. 
+Cada paciente se sometió a trabeculectomía en un ojo y a implante de Ex-PRESS bajo colgajo escleral en el otro ojo según asignaciones contralaterales aleatorias. 
+La eficacia fue evaluada por los valores de la PIO y las tasas de éxito (umbral de la PIO y/o necesidad de glaucoma tópico ) durante 30 meses. 
+El análisis estadístico incluyó modelos de Ecuación de Estimación Generalizada y Supervivencia de Cox, y pruebas t emparejadas. 
+Se estudiaron 30 ojos de 15 pacientes durante una media de 23,6 meses (DE, ± 6,9 ). 
+En la última visita de seguimiento, la media de la PIO preoperatoria disminuyó de 31,1 ( ± 14,2 ) a 16,2 ( ± 1,5 ) mm Hg después de la trabeculectomía, y de 28,1 ( ± 9,0 ) a 15,7 ( ± 1,8 ) mm Hg después de la implantación Ex-PRESS ( P=0,001 ). 
+El número medio de medicamentos anti-glaucoma prescritos en el último seguimiento disminuyó de 3,7 en el preoperatorio (ambos grupos ) a 0,9 después de la trabeculectomía frente a 0,3 después de la implantación de Ex-PRESS ( p=0,001 ). 
+Las tasas de éxito completo ( 5 < PIO < 18 mm Hg sin medicamentos ) fueron mayores con Ex-PRESS en comparación con trabeculectomía ( p = 0,0024 ). 
+Las complicaciones postoperatorias fueron más frecuentes después de la trabeculectomía ( 33 % ) en comparación con Ex-PRESS ( 20 % ), con cuatro ojos de trabeculectomía ( 27 % ) que necesitaban intervenciones postoperatorias, en comparación con ninguno con Ex-PRESS. 
+La trabeculectomía y la implantación de Ex-PRESS proporcionaron un control similar de la PIO, pero el grupo de Ex-PRESS tuvo una menor tasa de complicaciones, menos intervenciones postoperatorias, y necesitó menos medicamentos para el glaucoma. 
+Comparar la eficacia hipotensiva ocular y la seguridad de la combinación tópica de bimatoprost y timolol-dorzolamida en pacientes con glaucoma primario de ángulo abierto (POAG ) o hipertensión ocular durante 6 meses de tratamiento. 
+Una muestra de 65 pacientes con diagnóstico de POAG o hipertensión ocular fue aleatoria para recibir bimatoprost 0,03 % una vez al día o combinación timolol-dorzolamida dos veces al día. 
+Las visitas de estudio se realizaron al inicio y después de 2 semanas y 1, 3 y 6 meses de tratamiento. 
+Las mediciones de presión intraocular (PIO ) se realizaron a las 12.00 horas en todas las visitas de estudio y también a las 08.00 horas y a las 16.00 horas en las visitas basales y a los 6 meses. 
+En cada visita, se registraron los efectos secundarios locales y sistémicos que se produjeron durante el período de tratamiento. 
+La prueba t de Student fue usada para comparar las diferencias entre los valores de la PIO. 
+Las diferencias en la PIO entre los grupos bimatoprost y timolol-dorzolamida fueron estadísticamente insignificantes en todas las visitas de estudio ( p > 0,05 ). 
+En el grupo tratado con bimatoprost, la reducción de la PIO fue de 6,2 +/- 1,8 mmHg, mientras que fue de 6,5 +/- 2,3 mmHg en el grupo tratado con timolol-dorzolamida después de 6 meses de tratamiento. 
+La diferencia no fue estadísticamente significativa ( p = 0,48 ). 
+Las eficacias de la combinación bimatoprost y timolol-dorzolamida con reducción de la PIO fueron similares durante un seguimiento de 6 meses. 
+Tanto el bimatoprost como la combinación timolol-dorzolamida fueron bien tolerados. 
+Bimatoprost puede utilizarse como agente en monoterapia a largo plazo en el tratamiento de la EPAG y la hipertensión ocular. 
+Para comparar la eficacia y los efectos secundarios y el efecto sobre la dinámica del humor acuoso de 0,005 % latanoprost aplicado tópicamente una vez al día con 0,5% de timolol administrado dos veces al día durante 12 meses a pacientes con glaucoma pigmentario. 
+Estudio clínico prospectivo, aleatorizado, doble enmascarado. 
+Se incluyeron en el estudio 36 pacientes afectados por glaucoma pigmentario bilateral controlado con no más de un solo medicamento hipotensor. 
+La población muestral se dividió aleatoriamente en 2 grupos de edad y género, cada uno de 18 pacientes. 
+El grupo 1 recibió un 0,005 % de gotas oftálmicas de latanoprost una vez al día y el vehículo ( placebo ) una vez al día ; el grupo 2 fue asignado al timolol 0,5% de gotas oftálmicas dos veces al día. 
+Se realizaron curvas diurnas de presión intraocular ( PIO ) en el día basal y después de 0,5, 3, 6 y 12 meses de tratamiento. 
+Las mediciones del IOP se realizaron a las 8:00 AM, 12:00 del mediodía, 4:00 PM, y 8:00 PM. 
+La instalación de salida ( C ) se midió el día basal y el último día del estudio con un tonómetro electrónico Schiotz. 
+Para la evaluación estadística de las diferencias entre el tratamiento y los valores basales o entre el grupo de latanoprost y timolol se utilizó una prueba t de Student de dos colas para datos emparejados o no emparejados. 
+Las mediciones diurnas de la PIO se compararon hora por hora. 
+Para el análisis se utilizaron valores medios de los dos ojos IOP y C. 
+En comparación con las mediciones basales, tanto latanoprost como timolol causaron una reducción significativa de la PIO ( p < 0,001 ) a cada hora de curva diurna a lo largo de la duración del tratamiento. 
+La reducción de la PIO fue de 6,0 +/- 4,5 y 5,9 +/- 4,6 con latanoprost y 4,8 +/- 3,0 y 4,6 +/- 3,1 con timolol después de 6 y 12 meses, respectivamente. 
+La comparación de las mediciones diurnas medias con latanoprost y timolol mostró una diferencia estadística significativa ( p < 0,001 ) a los 3, 6 y 12 meses. 
+Se observó que la media de C aumentó significativamente ( +30 % ) sólo en el grupo tratado con latanoprost en comparación con el valor basal ( P = 0,017 ). 
+La hiperemia conjuntival media se clasificó en 0,3 en los ojos tratados con latanoprost y 0,2 en los ojos tratados con timolol. 
+Se observó un cambio notable en el color del iris en ambos ojos de 1 de los 18 pacientes tratados con latanoprost y ninguno de los 18 pacientes que recibieron timolol. 
+Se sospechó oscurecimiento del iris estroma periférico en dos pacientes tratados con latanoprost. 
+En el grupo timolol, la frecuencia cardíaca se redujo significativamente de 72 +/- 9 al inicio a 67 +/- 10 latidos por minuto a los 12 meses. 
+Aunque otros estudios pueden necesitar confirmar estos datos en una muestra más grande y evaluar el efecto secundario del aumento de la pigmentación del iris en el seguimiento a largo plazo, en pacientes con glaucoma pigmentario, el 0,005 % de latanoprost tomado una vez al día fue bien tolerado y más eficaz en la reducción de la PIO que el 0,5 % de timolol tomado dos veces al día. 
+El aumento de la presión intraocular ( PIO ) ha demostrado ser uno de los factores de riesgo más importantes para el desarrollo del glaucoma. 
+Sin embargo, no se ha demostrado claramente que el tratamiento con reducción de la PIO pueda reducir la incidencia de daño por glaucoma en pacientes con hipertensión ocular. 
+El objetivo del presente documento era informar de los resultados de un estudio a largo plazo sobre este mismo problema. 
+Se realizó un estudio aleatorizado, doble mascado, comparando el tratamiento con timolol y placebo en 90 pacientes con hipertensión ocular más algún factor de riesgo adicional. 
+Los pacientes fueron seguidos a intervalos de 3 meses prospectivamente durante 10 años o hasta que la pérdida de campo glaucomatosa pudo demostrarse con perimetría informatizada. 
+Se realizó un análisis post-estudio que incluyó todos los datos disponibles, extendiendo así el seguimiento máximo a 17 años. 
+Después de 5 años de seguimiento, ocho pacientes del grupo placebo y cinco pacientes del grupo timolol habían desarrollado pérdida de campo glaucomatosa (NS ) ; las cifras correspondientes al cabo de 10 años fueron 15 pacientes del grupo placebo y siete pacientes del grupo timolol. 
+El análisis de supervivencia mostró una tendencia pero ninguna diferencia estadísticamente significativa entre los grupos de tratamiento ( P = 0,07 ). 
+El desgaste del estudio fue grande. 
+Dieciocho pacientes en cada grupo habían desarrollado pérdida de campo glaucomatosa cuando también se incluyeron los datos posteriores al estudio. 
+La reducción de la PIO fue mayor en los ojos que pasaron la visita de 10 años sin pérdida de campo ( 5,7 mmHg ) que en los que alcanzaron el punto final ( 2,3 mmHg ; P = 0,0002 ). 
+En este estudio a largo plazo se encontró una tendencia pero no se demostró un efecto beneficioso del tratamiento con timolol tópico en pacientes con PIO elevada, campos visuales normales y algún factor de riesgo adicional. 
+El análisis de la intención de tratar no mostró diferencias entre los grupos de tratamiento. 
+El alto desgaste muestra las dificultades asociadas con un seguimiento muy largo. 
+La trabeculectomía es un tratamiento quirúrgico de uso común para el glaucoma. 
+Evaluar la eficacia de la combinación de suturas de colgajo escleral permanentes y releasables para minimizar las complicaciones postoperatorias inmediatas de la trabeculectomía. 
+Este estudio se llevó a cabo en el Departamento de Oftalmología, B P Instituto Koirala de Ciencias de la Salud, Dharan, Nepal. 
+Cuarenta y un ojos de 34 pacientes sometidos a trabeculectomía fueron aleatorizados para someterse ya sea a trabeculectomía convencional (grupo A= 20 ojos ) o a trabeculectomía con combinación de suturas de colgajo escleral permanentes y releasables (grupo B = 21 ojos ). 
+Los parámetros estudiados fueron presión intraocular ( PIO ), profundidad de la cámara anterior ( ACD ) y complicaciones quirúrgicas durante un período de 6 semanas. 
+Un número significativamente mayor de ojos pertenecientes al grupo A ( 14 ojos ) tenían una cámara anterior más superficial que el grupo B ( 7 ojos ) en el primer día postoperatorio ( p=0,042 ). 
+Seis ojos ( 30% ) en el grupo A tuvieron contacto periférico o central iridocorneal en el período postoperatorio temprano en comparación con sólo uno en el grupo B. Se observó hipotonía en tres ojos en cada grupo. 
+Dos pacientes del grupo A requirieron reforma de la cámara anterior. 
+Otras complicaciones quirúrgicas en los dos grupos fueron similares. 
+Ambos grupos presentaron una disminución significativa en la PIO después de la cirugía. 
+Sin embargo, no hubo diferencia significativa en la PIO entre los dos grupos después de 6 semanas ( Grupo A : 10.95 +/- 3.03 mmHg vs. Grupo B : 12.29 +/- 4.67 mmHg ; p=0.87 ). 
+Hubo una disminución significativa de la PIO tras la extracción de suturas ( 15,19 +/- 6,15 mmHg a 13,19 +/- 6,13 mmHg; p=006 ) en el grupo B. 
+El uso de la combinación de suturas de colgajo escleral permanentes y releasables es una técnica segura que reduce significativamente la incidencia de cámara anterior superficial postoperatoria inmediata después de la trabeculectomía. 
+Comparar el efecto de la trabeculoplastia selectiva por láser ( SLT ) y travoprost en las fluctuaciones de 24 horas de la PIO en el glaucoma primario de ángulo abierto ( POAG ) y glaucoma de tensión normal ( NTG ). 
+Se incluyeron 60 ojos. 
+Dieciséis y 14 ojos de los pacientes con POAG fueron aleatorizados para recibir un SLT de 360° o un travoprost de 0,004 %, respectivamente. 
+Catorce y 16 ojos de pacientes con GNT fueron aleatorizados para recibir SLT o travoprost, respectivamente. 
+Los datos de la PIO de 24 horas se recogieron antes del tratamiento y de 6 a 8 semanas después del tratamiento. 
+La PIO se midió a intervalos de 2 horas en posición sentada durante el día ( 9 AM a 7 PM ) y en posición supina durante la noche ( 9 PM a 7 AM ). 
+La principal medida del resultado fue el porcentaje de ojos que alcanzaron fluctuaciones de la PIO después del tratamiento de 24 horas < 3 mm Hg. 
+El éxito en la reducción de las fluctuaciones se definió como al menos una reducción del 50 % en estas fluctuaciones. 
+Se analizaron 58 ojos. 
+En general, los ojos en los grupos SLT y travoprost lograron una reducción significativa de la PIO en comparación con los valores basales de la PIO ( -3,7 mm Hg [ P = 0,002 ] vs -4,1 mm Hg [ P < 0,001 ], respectivamente ). 
+No hubo diferencia significativa en la reducción de la PIO en ambos grupos según el tipo de glaucoma. 
+Durante el periodo diurno, el 100 % de los ojos POAG en el grupo travoprost alcanzaron fluctuaciones de la PIO después del tratamiento < 3 mm Hg, y el 87 % de los ojos en el grupo SLT alcanzaron el mismo nivel de fluctuaciones ( p < 0,001 ). 
+El 96% de los ojos de GNT en el grupo travoprost, y el 82% de los ojos en el grupo SLT tuvieron fluctuaciones de la PIO < 3 mm Hg ( P = 0,01 ). 
+El éxito en la reducción de las fluctuaciones fue del 75 % y del 92 % para los grupos SLT y travoprost, respectivamente ( P = 0,005 ). 
+El efecto de travoprost sobre la reducción de la PIO en pacientes con POAG y NTG fue significativo tanto durante el día como durante la noche, mientras que el efecto del SLT fue significativo sólo durante la noche. 
+Tanto travoprost como SLT pueden reducir significativamente la PIO en pacientes con POAG y NTG. 
+Sobre la base de las posiciones habituales, travoprost controla mejor las fluctuaciones de la PIO que el SLT, especialmente durante el día. 
+Comparar la trabeculoplastia selectiva por láser ( SLT ) y la trabeculoplastia por láser de argón ( ALT ), en términos de disminución de la presión intraocular ( PIO ), en pacientes con glaucoma de ángulo abierto. 
+Se incluyeron 176 ojos de 152 pacientes en este estudio, 89 en el SLT y 87 en los grupos ALT. 
+Los pacientes fueron aleatorizados para recibir tratamiento con SLT o ALT a 180 grados de la malla trabecular. 
+Se realizó un seguimiento de los pacientes hasta 12 meses después del tratamiento. 
+El resultado principal medido fue la reducción de la PIO a los 12 meses después del tratamiento, en comparación con los grupos SLT y ALT. 
+No se encontró diferencia significativa ( p = 0,846 ) en la disminución media de la PIO entre los grupos SLT ( 5,86 mm Hg ) y ALT ( 6,04 mm Hg ) a 1 año o en cualquier otro momento, ni hubo diferencias significativas en la tasa de complicaciones tempranas o tardías entre los dos grupos. 
+La SLT es equivalente a la ALT en términos de reducción de la PIO a 1 año, y es un procedimiento seguro y eficaz para pacientes con glaucoma de ángulo abierto. 
+Muchos médicos recomiendan la brimonidina o latanoprost como terapia de primera línea para el glaucoma crónico de ángulo abierto o hipertensión ocular. 
+Sin embargo, una búsqueda de MEDLINE indica que ha habido pocas comparaciones cabeza a cabeza de las 2 monoterapias en un entorno clínico. 
+En este estudio se comparó la eficacia clínica y tolerabilidad de la brimonidina 0,2 % dos veces al día con las de latanoprost 0,005 % una vez al día como monoterapia en pacientes con glaucoma de ángulo abierto o hipertensión ocular. 
+En este estudio de 3 meses, multicéntrico, doble mascado, grupo paralelo, 4 visitas, pacientes tratados previamente con glaucoma de ángulo abierto o hipertensión ocular y presión intraocular bilateral ( PIO ) tras lavado de entre 22 y 34 mm Hg fueron aleatorizados para recibir brimonidina o latanoprost. 
+Los pacientes que habían recibido tratamiento previo con cualquiera de los dos fármacos del estudio fueron excluidos del estudio. 
+La medida del resultado primario fue la tasa de respuesta, definida como el porcentaje de pacientes que alcanzaron > o = 20 % de reducción de la PIO desde el inicio hasta el mes 3. 
+Las medidas de resultado secundario fueron la reducción media de la PIO desde el inicio hasta el mes 3 y el éxito clínico, definido como la recomendación del investigador de que el paciente continúe utilizando el medicamento asignado para el estudio. 
+Un total de 127 pacientes ( 55 pacientes ingenuas al tratamiento ) fueron incluidos, 66 en el grupo de brimonidina y 61 en el grupo de latanoprost. 
+Después de 3 meses de tratamiento, el 80 % de los pacientes del grupo de brimonidina y el 74 % de los pacientes del grupo de latanoprost habían alcanzado > o = 20 % de reducción de la PIO desde el inicio. 
+La reducción media de la PIO desde el inicio en el mes 3 fue de 6,8 mm Hg con brimonidina y 6,5 mm Hg con latanoprost ( 27,8 % frente a 27,0 %, respectivamente ). 
+Entre los pacientes sin tratamiento previo, un porcentaje significativamente mayor de pacientes tratados con brimonidina alcanzó > o = 20 % de disminución de la PIO en comparación con los pacientes tratados con latanoprost ( 88 % frente a 59 %, respectivamente ; P = 0,01 ). 
+En pacientes tratados previamente, un mayor porcentaje del grupo de latanoprost alcanzó > o = 20 % de reducción en la PIO en comparación con el grupo de brimonidina ( 88 % vs 74 %, respectivamente ) ; sin embargo, la diferencia no fue estadísticamente significativa. 
+Un número significativamente mayor de pacientes en el grupo de brimonidina alcanzó éxito clínico en el mes 3 en comparación con los pacientes en el grupo de latanoprost (91 % vs 74 %; P = 0,01 ). 
+Al máximo efecto, la brimonidina dos veces al día fue tan eficaz como latanoprost una vez al día en la reducción de la PIO. 
+En pacientes sin tratamiento previo, latanoprost se asoció con una tasa de falta de respuesta significativamente mayor después de 3 meses de tratamiento en comparación con la brimonidina. 
+Esto sugiere que la brimonidina puede ser la opción más confiable para la terapia de primera línea de glaucoma de ángulo abierto o hipertensión ocular recién diagnosticado. 
+Sin embargo, en pacientes tratados previamente, latanoprost proporcionó una reducción media de la PIO mayor que la brimonidina. 
+Un número significativamente mayor de pacientes alcanzó éxito clínico con la monoterapia con brimonidina que con la monoterapia con latanoprost. 
+Evaluar la seguridad y eficacia a largo plazo de un único stent de microbypass trabecular con cirugía concomitante de cataratas frente a la cirugía de cataratas sola para el glaucoma de ángulo abierto de leve a moderado. 
+Veintinueve sitios de investigación, Estados Unidos. 
+Ensayo clínico multicéntrico prospectivo controlado y aleatorizado. 
+Los ojos con glaucoma de leve a moderado con presión intraocular no medicada (PIO) de 22 mm Hg o superior y 36 mm Hg o inferior fueron asignados aleatoriamente para someterse a cirugía de cataratas con implante de stent de microbypass trabecular iStent (grupo stent) o cirugía de cataratas sola (grupo control ). 
+Los pacientes fueron seguidos durante 24 meses en el postoperatorio. 
+La incidencia de acontecimientos adversos fue baja en ambos grupos a lo largo de 24 meses de seguimiento. 
+A los 24 meses, la proporción de pacientes con una PIO de 21 mm Hg o inferior sin medicamentos hipotensos oculares fue significativamente mayor en el grupo stent que en el grupo control ( p=0,036 ). 
+En general, la PIO media fue estable entre 12 meses y 24 meses ( 17,0 mm Hg ± 2,8 [ DE ] y 17,1 ± 2,9 mm Hg, respectivamente ) en el grupo de stent, pero aumentó (17,0 ± 3,1 mm Hg a 17,8 ± 3,3 mm Hg, respectivamente ) en el grupo de control. 
+La medicación hipotensiva ocular fue estadísticamente significativamente menor en el grupo del stent a los 12 meses ; también fue menor a los 24 meses, aunque la diferencia ya no fue estadísticamente significativa. 
+Los pacientes con un solo stent de microbypass trabecular combinado y cirugía de cataratas tuvieron un control de la PIO significativamente mejor en ningún medicamento durante 24 meses que los pacientes con cirugía de cataratas solos. 
+Ambos grupos tenían un perfil de seguridad similar favorable a largo plazo. 
+Para determinar si la ciclosporina tópica postoperatoria 0,05 % tiene algún efecto beneficioso después de la trabeculectomía. 
+Se trata de un ensayo clínico intervencionista, aleatorizado, prospectivo, doble mascado de 44 pacientes consecutivos con glaucoma no controlado que requerían cirugía de filtración. 
+Cuestionario del índice de enfermedad de la superficie ocular y examen ocular completo, incluyendo la prueba de desgarro de Schirmer 1, fueron realizados. 
+Los pacientes fueron sometidos a trabeculectomía de rutina, con o sin facoemulsificación. 
+El grupo de estudio ( n = 22 ) recibió ciclosporina 0,05 %, y el grupo de control ( n = 22 ) recibió desgarros artificiales. 
+Los pacientes fueron evaluados a los 1 y 6 meses de la cirugía. 
+Las medidas de resultado fueron presión intraocular, tasa de éxito, apariencia de bleb, índice de enfermedad de la superficie ocular, prueba de desgarro de Schirmer 1 e inflamación conjuntival. 
+Treinta y nueve pacientes completaron el estudio ( 19 en el grupo de estudio, 20 en el grupo de control ). 
+La presión intraocular basal media fue de 23,8 +/- 12,6 mmHg en el grupo de estudio y de 25,9 +/- 10,6 mmHg en el grupo control ( P = 0,513 ). 
+La presión intraocular media en el mes 6 postoperatorio fue de 14,88 +/- 6,2 y 14,62 +/- 5,46 mmHg en el grupo de estudio y el grupo control, respectivamente ( P = 0,837 ). 
+No hubo diferencia estadísticamente significativa en los valores medios de la prueba de desgarro de Schirmer 1 y el nivel de hiperemia conjuntival entre los dos grupos al inicio, los meses 1 y 6 después de la cirugía. 
+El grupo de tratamiento presentó una disminución estadísticamente significativa en la puntuación del índice de enfermedad de la superficie ocular a los 6 meses (P = 0,003 ), lo que indica una menor severidad de los síntomas oculares secos y una reducción significativa del dolor ocular. 
+La ciclosporina tópica 0,05 % no tuvo efecto sobre la función bleb postoperatoria y la presión intraocular después de la trabeculectomía, pero mejoró los síntomas subjetivos de la superficie ocular en estos pacientes. 
+Comparar la eficacia y seguridad de la solución oftalmológica de tafluprost ( Tafluprost ) del 0,0015 % con la solución oftalmológica de Placebo ( Placebo ) en glaucoma de tensión normal ( NTG ). 
+Total de 94 pacientes incluidos en un estudio aleatorizado, doble ciego, de grupo paralelo y multicéntrico. 
+Los pacientes con GNT fueron asignados aleatoriamente a Tafluprost o Placebo. 
+Ambas soluciones oftalmológicas fueron inculcadas una vez al día por la mañana durante 4 semanas. 
+Los cambios medios en la presión intraocular (PIO ) respecto al valor basal fueron de -4,0 +/- 1,7 mmHg en los pacientes tratados con Tafluprost y de -1,4 +/- 1,8 mmHg en los pacientes tratados con Placebo a las 4 semanas, con una diferencia estadísticamente significativa ( p < 0,001 ). 
+El cambio de la PIO a las 4 semanas, la reducción porcentual de la PIO a las 2 y 4 semanas también fue significativamente mayor en Tafluprost que en Placebo. 
+Un total de 51,0 % en el grupo tratado con Tafluprost y 8,9% en el grupo tratado con Placebo notificaron reacciones adversas al fármaco. 
+Estos resultados indican que Tafluprost es clínicamente útil en el tratamiento de la GNT. 
+Comparar la presión intraocular ( PIO ) -reducción del efecto y la seguridad de la brimonidina tópica con la del timolol, y estudiar el efecto aditivo de la brimonidina tópica a análogos de la prostaglandina tópica ( PG ) en 475 pacientes con hipertensión ocular o glaucoma primario de ángulo abierto. 
+El criterio de valoración principal fue el cambio medio de la PIO respecto al valor basal a las 0 y 2 horas en la semana 4. 
+Los cambios medios fueron -4,7 +/- 2,1 (S. D. ) en el timolol y -4,0 +/- 2,0 mmHg en el grupo de brimonidina (p = 0,0138 ). 
+El intervalo de confianza del 95 % de la diferencia entre grupos fue mayor que el criterio predeterminado de no inferioridad de brimonidina a timolol. 
+Cuando se añadió a los análogos del PG, el efecto reductor de la PIO de la brimonidina ( -2,9 +/- 1,8 mmHg ) fue mayor que el del placebo ( -2,1 +/- 1,8 mmHg ) ( p = 0,0010 ). 
+No se encontraron efectos adversos apreciables. 
+La brimonidina tópica mostró un efecto reductor de la PIO aditivo a los análogos del PG tópico, aunque su efecto reductor de la PIO fue inferior al timolol tópico en monoterapia. 
+Para evaluar la eficacia y seguridad intraoculares de travoprost 0,0015 % y 0,004 %, dosificados diariamente por la noche en comparación con el vehículo, en pacientes con glaucoma de ángulo abierto o hipertensión ocular, cuya presión intraocular no se controló adecuadamente con timolol 0,5% dos veces al día ( dos veces al día ). 
+Los sujetos que calificaron en el cribado comenzaron un periodo de administración de timolol dos veces al día durante 3 semanas. 
+Si los sujetos tenían una presión intraocular de 24 a 36 mm Hg a las 8 AM y 21 a 36 mm Hg a las 10 AM y 4 pm en al menos un ojo sobre timolol, fueron aleatorizados a una de las dos concentraciones de travoprost ( 0,0015 % o 0,004 % ) o solución vehicular cada día y fueron seguidos durante 6 meses. 
+Cuatrocientos veintiséis sujetos fueron aleatorizados. 
+Para el análisis se utilizó la presión intraocular media a las 8 AM, 10 AM, y 4 PM en el ojo del paciente con mayor presión intraocular. 
+Los valores basales medios ( 25 mm Hg ) para los sujetos elegibles ( mientras se mantenían con timolol ) no fueron significativamente diferentes ( p < 0,0001 ) entre los grupos de tratamiento. 
+La presión intraocular se redujo en concentraciones adicionales de -5,7 a -7,2 mm Hg y -5,1 a -6,7 mm Hg en las concentraciones de travoprost 0,004 % y 0,0015 %, respectivamente. 
+Estos cambios fueron significativamente diferentes ( p < o = 0001 ) del grupo del vehículo ( -1,3 a -2,8 mm Hg ). 
+El rango de presión intraocular sobre el tratamiento en todos los momentos de visita durante el período de tratamiento de 6 meses varió entre 17,9 y 19,2 mm Hg para travoprost 0,004 % y 18,3 a 20,1 mm Hg para travoprost 0,0015 % en comparación con 22,4 a 24,1 mm Hg para vehículo. 
+Las puntuaciones medias de hiperemia variaron de traza a leve (media 0,5 en una escala de 0 = ninguna/traza ; 1 = leve ; 2 = moderada ; 3 = grave ) para todos los grupos de tratamiento. 
+No se observaron cambios en la pigmentación del iris en ningún paciente durante este estudio. 
+No hubo cambios clínicamente o estadísticamente significativos desde el inicio en la agudeza visual, células oculares y bengala, parámetro fundus, relación copa-disco y campo visual entre los grupos de tratamiento. 
+No se notificaron acontecimientos adversos graves en ningún grupo de tratamiento. 
+Travoprost produjo reducciones adicionales clínicamente relevantes y estadísticamente significativas de la presión intraocular desde el inicio cuando se utilizó concomitantemente con timolol en sujetos con glaucoma de ángulo abierto o hipertensión ocular. 
+Para comparar los resultados a corto e intermedio de dos procedimientos quirúrgicos de glaucoma de uso común, trabeculectomía e implante valvular Ahmed glaucoma. 
+Se realizó un ensayo clínico aleatorizado en dos centros internacionales. 
+Un ojo cada uno de los pacientes consecutivos que requirieron cirugía de glaucoma para el control de la presión intraocular fue aleatorizado para recibir trabeculectomía o implante Ahmed. 
+De los 117 pacientes, 62 fueron aleatorizados a trabeculectomía y 55 al implante Ahmed. 
+Con un seguimiento medio de 9,7 meses, el grupo de trabeculectomía tuvo presiones intraoculares estadísticamente menores en las semanas 6 a 15 ( 12,6 mm Hg vs 16,4 mm Hg ) y los meses 11 a 13 ( 11,4 mm Hg vs 17,2 mm Hg ) que el grupo de implante Ahmed. 
+En comparación con el estado preoperatorio, no se observaron diferencias estadísticamente significativas entre los grupos por agudeza visual, campo visual, estado de la lente y profundidad final de la cámara anterior. 
+Las probabilidades acumuladas de éxito (presión intraocular < 21 mm Hg y reducción al menos del 15 % de la presión intraocular a partir del nivel preoperatorio) fueron del 83,6% para la trabeculectomía y del 88,1% para el implante Ahmed (p = 4,43 ). 
+Sin embargo, el grupo de implantes Ahmed tuvo un mayor requerimiento de medicación concomitante. 
+En la última visita, 10 de los ojos de trabeculectomía y 19 de los ojos de implante Ahmed requirieron al menos un medicamento tópico (p = 0,01 ). 
+No hubo diferencia estadísticamente significativa en la tasa de complicaciones entre los dos grupos. 
+Se observaron presiones intraoculares medias menores en el grupo de trabeculectomía. 
+Todos los demás resultados, incluyendo el éxito ( tal como se define en este estudio ) y la frecuencia de complicaciones, fueron comparables entre los dos grupos. 
+Comparar la presión intraocular ( PIO ) reduciendo el efecto y la seguridad de latanoprost 0,005 % una vez al día con unoprostone 0,12 % dos veces al día en pacientes con glaucoma primario de ángulo abierto ( POAG ) o hipertensión ocular ( OH ). 
+Un ensayo clínico de 8 semanas, doble enmascarado, aleatorizado, de grupo paralelo, de un solo centro. 
+Se incluyeron 108 pacientes con POAG o OH. 
+Después de completar un lavado de medicamentos hipotensos oculares, los pacientes fueron aleatorizados para recibir latanoprost una vez al día por la noche más placebo una vez al día por la mañana, o unoprostone dos veces al día ( por la mañana y por la noche ). 
+La PIO se midió a las 10:00 AM y a las 5:00 PM al inicio y a la semana 8, y antes de las 12:00 del mediodía a la semana 2. 
+Se realizaron evaluaciones de seguridad ocular y sistémica. 
+A partir de un valor basal global de 24,1 mmHg, latanoprost redujo la PIO en 6,7 mmHg ( 28 % ) y la unoprostona redujo la PIO en 3,3 mmHg ( 14 % ). 
+La diferencia entre los grupos de 3,4 mmHg fue significativa ( p : < 0,001, análisis de covarianza ; intervalo de confianza del 95 % [ IC ] : -4,7 a -2,1 ) a favor de latanoprost. 
+En los pacientes tratados con latanoprost, el 44 % de los pacientes tratados con latanoprost logró una reducción > /=30 % de la PIO media con respecto al valor basal, en comparación con el 8 % de los pacientes tratados con unaprostone. 
+La incidencia de acontecimientos adversos fue baja y comparable entre los grupos. 
+Latanoprost administrado una vez al día fue significativamente más eficaz en la reducción de la PIO en comparación con unoprostone administrado dos veces al día en pacientes con POAG y OH. 
+Comparar la eficacia y seguridad de latanoprost frente a timolol en pacientes pediátricos con glaucoma. 
+Prospectivo, aleatorizado, doble enmascarado, 12 semanas, estudio multicéntrico. 
+Individuos menores de 18 años con glaucoma. 
+Estratificados por edad, diagnóstico y nivel de presión intraocular ( PIO ), los sujetos fueron aleatorizados (1:1 ) a vehículo latanoprost a las 8 am y latanoprost 0,005 % a las 8 pm o timolol 0,5% ( 0,25% para los menores de 3 años ) dos veces al día ( 8 am, 8 pm ). 
+Al inicio y a las semanas 1, 4 y 12, se evaluaron la PIO y la seguridad ocular y se registraron reacciones adversas. 
+La terapia se cambió a latanoprost p.m. y timolol am y p.m. para la PIO no controlada. 
+Reducción media de la PIO desde el inicio hasta la semana 12. 
+Latanoprost se consideró no inferior al timolol si el límite inferior del intervalo de confianza del 95 % (IC) de la diferencia fue > -3 mmHg. 
+Se evaluó una proporción de respondedores ( sujetos con reducción de la PIO del 15 % en las semanas 4 y 12 ). 
+Se realizaron análisis en subgrupos diagnósticos : glaucoma congénito primario ( PCG ) y no PCG. 
+En total, 137 sujetos fueron tratados (población de seguridad ; 12-18 años, n=48 ; 3 < 12 años, n=55 ; 0- < 3 años, n=34 ). 
+La edad media fue de 8,8±5,5 años y la PIO basal media fue de 27,7±6,17 mmHg; 125 sujetos completaron el estudio y 107 sujetos se encontraban en la población por protocolo. 
+Las reducciones medias de la PIO para latanoprost y timolol en la semana 12 fueron de 7,2 y 5,7 mmHg, respectivamente, con una diferencia de 1,5 mmHg ( IC 95%, -0,8 a 3,7 ; P=0,21 ). 
+Las tasas de respuesta fueron del 60 % para latanoprost y del 52 % para timolol ( p=0,33 ). 
+Las diferencias entre el tratamiento en la reducción media de la PIO para los subgrupos de PCG y no PCG fueron de 0,6 mmHg (IC 95 %, -2,3 a 3,4 ) y 2,6 mmHg ( IC 95 %, -0,8 a 6,1 ), respectivamente. 
+Las tasas de respuesta para latanoprost frente a timolol fueron del 50 % frente al 46 % para el grupo PCG y del 72 % frente al 57 % para el grupo no PCG. 
+Ambas terapias fueron bien toleradas. 
+Latanoprost 0,005 % no es inferior (es decir, , es más eficaz o similarmente ) a timolol y produce reducciones de la PIO clínicamente relevantes en pacientes pediátricos con y sin PCG. 
+Tanto latanoprost como timolol tuvieron perfiles de seguridad favorables durante la duración de este ensayo de 3 meses. 
+El objetivo de este estudio es comparar la seguridad y la presión intraocular ( PIO ) -reducción de la eficacia de travoprost/timolol en una combinación fija libre de cloruro de benzalconio ( BAK ) preservada con poliquaternio-1 ( sin TRA/TIM BAK ), con combinación fija con travoprost/timolol preservada con BAK ( TRA/TIM ), en pacientes con glaucoma de ángulo abierto o hipertensión ocular. 
+En este ensayo prospectivo aleatorizado controlado, los sujetos con PIO de al menos 22 mm Hg en uno o ambos ojos a las 0900 h, y PIO de al menos 21 mm Hg en uno o ambos ojos a las 1100 h y 1600 h en dos visitas de elegibilidad fueron asignados aleatoriamente para recibir TRA/TIM BAK libre ( n=195 ) o TRA/TIM ( n=193 ), dosificados una vez al día por la mañana ( 0900 h ) durante 6 semanas. 
+La PIO se evaluó a las 0900 h, 1100 h y 1600 h en cada visita programada ( basal, 2 y 6 semanas después de la aleatorización ). 
+La reducción media de la PIO en todas las visitas y puntos de tiempo fue de 8,0 mm Hg en el grupo libre de TRA/TIM BAK y 8,4 mm Hg en el grupo de TRA/TIM ( p=0,0943 ). 
+La diferencia en la PIO media entre grupos varió de 0,2 a 0,7 mm Hg a lo largo de las visitas y los puntos de tiempo, con una diferencia media agrupada de 0,4 mm Hg ( IC 95 % : -0.1 a 0,8 ), demostrando la equivalencia de las dos formulaciones. 
+El acontecimiento adverso relacionado con el fármaco más frecuente fue la hiperemia ocular (hiperemia ocular e hiperemia conjuntival combinada ), que se produjo en el 11,8 % del grupo libre de TRA/TIM BAK y en el 13,0 % del grupo libre de TRA/TIM. 
+Travoprost/timolol BAK-free demostró equivalencia con travoprost/timolol preservado con BAK en eficacia. 
+No se identificaron diferencias clínicamente relevantes en los perfiles de seguridad de travoprost/timolol BAK-free y travoprost/timolol preservado con BAK. 
+Comparar el efecto del tratamiento con latanoprost o brimonidina sobre la presión intraocular en pacientes con glaucoma o hipertensión ocular y presión intraocular insuficientemente controlada mediante monoterapia o tratamiento dual. 
+Trescientos setenta y nueve pacientes con glaucoma primario de ángulo abierto o hipertensión ocular fueron reclutados para este estudio prospectivo de 6 meses, aleatorizado, multicéntrico enmascarado por observadores, en el que participaron 30 clínicas oculares. 
+Todos los pacientes recibieron monoterapia o tratamiento dual que no controló adecuadamente la presión intraocular. 
+Después de los períodos de lavado adecuados, los pacientes fueron aleatorizados al tratamiento con latanoprost una vez al día o brimonidina dos veces al día. 
+El principal resultado fue un cambio en la presión intraocular diurna media después de 6 meses de tratamiento en comparación con el valor basal. 
+De los 379 pacientes aleatorizados, 375 fueron incluidos en el análisis de intención de tratamiento. 
+A partir de una presión intraocular media basal global de 25,0 mm Hg, la monoterapia con latanoprost redujo la presión intraocular diurna media en 7,1 +/- 3,3 mm Hg ( media +/- DE, P < 0,001 ), mientras que la monoterapia con brimonidina produjo una reducción de la presión intraocular de 5,2 +/- 3,5 mm Hg ( P < 0,001 ). 
+Esta diferencia de 1,9 mm Hg en la reducción de la presión intraocular fue significativa a favor de latanoprost ( p < 0,001 ). 
+La alergia ocular ( p < 0,001 ) y los efectos adversos sistémicos ( p = 0,005 ) fueron notificados significativamente con menos frecuencia por los pacientes tratados con latanoprost que por los pacientes tratados con brimonidina. 
+Tanto latanoprost como la brimonidina redujeron la presión intraocular en pacientes con glaucoma o hipertensión ocular después de 6 meses de tratamiento. 
+Sin embargo, latanoprost una vez al día fue significativamente más eficaz que la brimonidina dos veces al día en la reducción de la presión intraocular diurna media. 
+Latanoprost se toleró mejor con menos frecuencia de aparición de alergia ocular y efectos secundarios sistémicos. 
+Evaluar la eficacia intraocular reductora de presión y el perfil de complicación postoperatoria de viscocanalostomía versus trabeculectomía. 
+Se aleatorizaron 60 ojos de 60 pacientes con glaucoma de ángulo abierto sin control médico, ya sea a la viscocanalostomía o al grupo de trabeculectomía del ensayo. 
+La viscocanalostomía se realizó de acuerdo con la técnica de Stegmann utilizando hialuronato sódico de alto peso molecular para llenar la ostia del canal de Schlemm. 
+Para la trabeculectomía, se realizó una transbeculectomía de Cairns modificada. 
+Los exámenes se realizaron antes de la cirugía y después del postoperatorio diariamente durante 1 semana. 
+Las visitas de seguimiento fueron programadas 1, 6, y 12 meses después de la cirugía. 
+La presión intraocular media (DE ) preoperatoria fue de 27,1 ( 7,1 ) mm Hg en todos los pacientes incluidos. 
+Un día después de la cirugía, la presión intraocular media ( DE ) fue de 15,9 ( 5,2 ) para el grupo de trabeculectomía ( p < 0,001 ) y de 15,7 ( 3,6 ) para el grupo de viscocanalostomía ( p < 0,001 ), respectivamente. 
+La tasa de éxito, definida como una presión intraocular inferior a 22 mm Hg sin medicación, fue del 56,7% en el grupo de trabeculectomía y del 30% en el grupo de viscocanalostomía a los 12 meses postoperatorios ( P = 0,041 ). 
+El número de complicaciones postoperatorias fue menor en el grupo de viscocanalostomía que en el grupo de trabeculectomía. 
+En los ojos con glaucoma de ángulo abierto, la viscocanalostomía es menos eficaz para reducir la presión intraocular que la cirugía de filtrado estándar. 
+Sin embargo, las complicaciones postoperatorias son más frecuentes después de la cirugía de filtrado. 
+Comparar el efecto reductor de la presión intraocular ( PIO ) y la seguridad del latanoprost 0,005 % una vez al día con el de unoprostone 0,15 % dos veces al día en pacientes con glaucoma primario de ángulo abierto o hipertensión ocular. 
+Ensayo clínico aleatorizado. 
+En un estudio prospectivo, de 8 semanas de duración, en grupo paralelo realizado en numerosos centros de los Estados Unidos, 165 pacientes tratados previamente con PIO > o = 25 mm Hg en uno o ambos ojos después del lavado fueron asignados aleatoriamente para recibir latanoprost 0,005 % una vez al día por la noche o unoprostone 0,15 % dos veces al día. 
+Los procedimientos de observación fueron la tonometría de aplicación Goldmann, la agudeza visual mejor corregida, la biomicroscopia de lámpara cortada y la oftalmoscopia. 
+La principal medida de desenlace fue el cambio en la media de los PIO medidos a las 8:00 AM, a las 12 del mediodía, y a las 4:00 PM entre el inicio (antes del tratamiento ) y después de 8 semanas de tratamiento. 
+El cambio en la media +/- DE de los COP medidos a las 8:00 AM, a las 12 del mediodía y a las 4:00 PM fue de -7,2 +/- 3,2 mm Hg ( 28 % ) para latanoprost ( 25,3 +/- 2,8 mm Hg al inicio hasta 18,2 +/- 2,8 mm Hg a las 8 semanas ) y -3,9 +/- 2,6 mm Hg ( 15 % ) para launoprostone ( 25,5 +/- 3,3 mm Hg al inicio hasta 21,6 +/- 4,0 mm Hg ; P < o = 0,001. 
+No se notificó ningún evento adverso grave relacionado con ninguno de los medicamentos. 
+Durante un período de 8 semanas, latanoprost 0,005 % una vez al día redujo la PIO más que la unoprostona 0,15 % dos veces al día en pacientes con PIO elevada. 
+Ambos agentes eran seguros y bien tolerados. 
+Para comparar la viscocanalostomía, un procedimiento no penetrante para el tratamiento del glaucoma, con la trabeculectomía. 
+Ensayo controlado aleatorio. 
+Veinte sujetos blancos ( 20 ojos ) con glaucoma de ángulo abierto sin antecedentes quirúrgicos. 
+Diez sujetos fueron asignados aleatoriamente a viscocanalostomía según la técnica de Stegmann y 10 sujetos a una trabeculectomía de Cairns modificada. 
+Se realizó un examen oftalmológico completo el día antes de la cirugía y en el postoperatorio. 
+Otras visitas fueron programadas mensualmente durante 6 a 8 meses después de la cirugía. 
+El éxito se definió como presión intraocular (PIO ) entre 7 y 20 mmHg, sin medicación. 
+Después de un seguimiento medio de 6 meses (intervalo, 6-8 meses ), se obtuvo éxito en 5 de 10 casos en el grupo de trabeculectomía y en 0 de 10 casos en el grupo de viscocanalostomía. 
+Con el método de Kaplan-Meier, los sujetos con viscocanalostomía mostraron períodos de reducción de la PIO postoperatoria más cortos que los sujetos sometidos a trabeculectomía. 
+De acuerdo con los resultados de este estudio a corto plazo, la trabeculectomía fue más eficaz que la viscocanalostomía en la reducción de la PIO en los ojos glaucomatosos de los pacientes blancos. 
+Comparar los resultados de la trabeculoplastia selectiva con láser (SLT ) con la terapia farmacológica para pacientes con glaucoma en un ensayo clínico prospectivo aleatorizado. 
+Se aleatorizaron 69 pacientes ( 127 ojos ) con glaucoma de ángulo abierto o hipertensión ocular para recibir tratamiento con SLT o tratamiento médico. 
+La presión intraocular diana ( PIO ) se determinó utilizando la fórmula del Estudio Colaborativo para el Tratamiento del Glaucoma Inicial. 
+Los pacientes fueron tratados con SLT ( 100 aplicaciones 360 grados ) o terapia médica ( análogo a la prostaglandina ). 
+Seis visitas durante 1 año siguieron el tratamiento inicial. 
+Si el rango objetivo de la PIO no se alcanzó con el SLT, el SLT adicional fue el siguiente paso, o en el brazo médico se añadieron medicamentos adicionales. 
+Resultado primario : PIO ; secundario : número de pasos. 
+Se trataron 69 pacientes. 
+La recolección de datos terminó con 54 pacientes que alcanzaron el seguimiento de 9 a 12 meses. 
+Veintinueve pacientes estaban en el grupo SLT, 25 pacientes en el grupo médico. 
+La PIO media basal para todos los ojos fue de 24,5 mm Hg en el grupo SLT, 24,7 mm Hg en el grupo médico. La PIO media (ambos ojos ) en el último seguimiento fue de 18,2 mm Hg (reducción de 6,3 mm Hg ) en el brazo de SLT, de 17,7 mm Hg (reducción de 7,0 mm Hg ) en el brazo médico. 
+En el último seguimiento, el 11 % de los ojos recibió SLT adicional, el 27 % necesitó medicación adicional. 
+No hubo diferencia estadísticamente significativa entre el SLT y los grupos de medicación. 
+La reducción de la PIO fue similar en ambos brazos después del seguimiento de 9 a 12 meses. 
+Fueron necesarios más pasos de tratamiento para mantener la PIO diana en el grupo de medicación, aunque no hubo diferencia estadísticamente significativa entre los grupos. 
+Estos resultados apoyan la opción del SLT como terapia inicial segura y eficaz en el glaucoma de ángulo abierto o hipertensión ocular. 
+Comparar la eficacia y seguridad de la viscocanalostomía y la trabeculectomía en pacientes con glaucoma primario de ángulo abierto (POAG ). 
+Departamento de Oftalmología, Ankara Hospital de Educación e Investigación, Ankara, Turquía. 
+En este ensayo prospectivo aleatorizado, 50 ojos de 50 pacientes con POAG incontrolado desde el punto de vista médico fueron aleatorizados para someterse a una trabeculectomía ( 25 ojos ) o a una viscocanalostomía ( 25 ojos ). 
+La agudeza visual, la presión intraocular ( PIO ), y los exámenes de la lámpara de corte fueron realizados antes de la cirugía y 1 día, 1 semana, 1, 3 y 6 meses, y 1, 2 y 3 años postoperatorio. 
+A los 3 años, la PIO media fue de 16,0 mmHg +/- 7,07 ( DE ) en el grupo de trabeculectomía y 17,8 +/- 4,6 mmHg en el grupo de viscocanalostomía ( p = 694 ). 
+El éxito completo ( PIO 6 a 21 mm Hg sin medicación ) se logró en 66,2 % de los ojos a los 6 meses y 55,1 % a los 3 años en el grupo de trabeculectomía y en 52,9 % y 35,3 %, respectivamente, en el grupo de viscocanalostomía ( P > 0,05 ). 
+El éxito calificado ( PIO 6 a 21 mmHg con medicación ) se logró en el 95,8% de los ojos a los 6 meses y el 79,2% a los 3 años en el grupo de trabeculectomía y en el 90,7% y el 73,9%, respectivamente, en el grupo de viscocanalostomía ( P > 0,05 ). 
+La hipotonía postoperatoria y la formación de cataratas se produjeron con más frecuencia en el grupo de trabeculectomía que en el grupo de viscocanalostomía (p = 0,002). 
+La trabeculectomía primaria redujo la PIO más que la viscocanalostomía en pacientes con POAG. 
+Sin embargo, la tasa de complicaciones fue menor en el grupo de viscocanalostomía. 
+Para investigar los factores de riesgo asociados con la progresión del campo visual en el Estudio de Tratamiento del Glaucoma de Baja Presión, un ensayo prospectivo diseñado para comparar los efectos del tartrato de brimonidina agonista alfa2-adrenérgico 0,2 % con el maleato de timolol antagonista beta-adrenérgico 0,5 % sobre la función visual en el glaucoma de baja presión. 
+Estudio prospectivo de cohortes. 
+Tratamiento del glaucoma a baja presión Se incluyeron pacientes del estudio con ≥5 pruebas de campo visual durante el seguimiento. 
+La progresión se determinó mediante el análisis de regresión lineal puntual, definido como los mismos 3 o más lugares de campo visual con una pendiente más negativa que -1,0 dB/año en P < 5 %, en 3 pruebas consecutivas. 
+Los factores de riesgo ocular y sistémico fueron analizados utilizando el modelo de riesgos proporcionales Cox y posteriormente probados para la independencia en un modelo multivariado. 
+Se analizó un total de 253 ojos de 127 sujetos (edad media, 64,7 10,9 años; seguimiento medio, 40,6 12 meses). 
+Los ojos aleatorizados a timolol progresaron más rápido que los aleatorizados a brimonidina (tasas medias de progresión, -0,38 0,9 vs 0,02 0,7 dB/y, p < 0,01 ). 
+En el modelo multivariado final de ajuste para todas las covariables probadas, edad avanzada (hazard ratio [ HR ] = 1,41/decade mayor, intervalo de confianza del 95 % [ IC ] = 1,05 a 1,90, P = 0,022 ), uso de antihipertensivos sistémicos ( HR = 2,53, IC 95 % = 1,32 a 4,87, P = 0,005 ), y presión media de perfusión ocular ( HR = 1,21/mm Hg menor, IC 95 % = 1,12 a 1,31, P < 0,001 ) se asociaron con progresión mientras que la aleatorización a la brimonidina reveló un efecto protector ( HR = 0,26, IC 95 % = 0,12 a 0,55, P < 0,001 ). 
+Mientras que la aleatorización a brimonidina 0,2 % fue protectora en comparación con timolol 0,5 %, la menor presión media de perfusión ocular aumentó el riesgo de alcanzar un resultado de progresión en el Estudio de Tratamiento de Glaucoma de Baja Presión. 
+Esto sugiere que el efecto beneficioso de la aleatorización en el brazo de brimonidina fue independiente de las posibles diferencias en las presiones de perfusión ocular entre los dos brazos de tratamiento. 
+Los resultados actuales y el gran número de abandonos en el grupo de brimonidina 0,2 % sugieren que es necesaria más investigación antes de alterar los paradigmas de la práctica clínica. 
+Para comparar el efecto del tiempo sobre el tratamiento, eficacia, tolerabilidad y utilización de recursos de análogos de latanoprost o no prostaglandinas ( no PG ) en pacientes que requirieron un cambio en la presión intraocular ( PIO ) -reducción de la monoterapia. 
+Este estudio abierto, multicéntrico (Suecia, 19 sitios ; Finlandia, 7 sitios ) incluyó adultos con glaucoma o hipertensión ocular con PIO diurno medio > o = 21 mmHg en monoterapia hipotensa ocular. 
+Los pacientes fueron aleatorizados a la monoterapia de latanoprost o al tratamiento sin PG (tratamiento disponible comercialmente distinto del PG ) y seguidos durante 36 meses. 
+Los puntos finales incluyen : tiempo hasta el fracaso del tratamiento ( base de referencia para visitar con un cambio en/adición al tratamiento ) ; PIO diurna ( media de 08.00, 12.00 y 16:00 h mediciones ) en los meses 6, 12, 24 y 36 ; tolerabilidad ; y utilización de los recursos, donde los análisis utilizaron los costes unitarios suecos y finlandeses del 2006. 
+Trescientos veintiséis pacientes recibieron > o = 1 dosis de latanoprost ( n = 162 ) o no PG ( n = 164 ). 
+La mediana del tiempo hasta el fracaso del tratamiento fue mayor para latanoprost ( 36 meses ) que para los no-PG ( 12 meses ; p < 0,001 ) ; el 51 % y el 24 % de los pacientes permanecieron en tratamiento aleatorizado después de 36 meses, respectivamente ( p < 0,001 ). 
+Las disminuciones en la PIO diurna media respecto al valor basal fueron significativamente mayores para latanoprost que para los no-PG en los meses 6 y 12 (p < 0,01 ). 
+No se consideró que los acontecimientos adversos graves estuvieran relacionados con el tratamiento. 
+Los costos directos medios totales de 36 meses fueron similares en pacientes iniciados con latanoprost y no PG. 
+Los pacientes que fallaron en monoterapia previa permanecieron en tratamiento más tiempo cuando se cambió a latanoprost. 
+El efecto reductor de la PIO de latanoprost y la tolerabilidad se mantuvieron a largo plazo. 
+La utilización de los recursos y los costos fueron generalmente similares en aquellos que iniciaron terapia con latanoprost o sin PG. 
