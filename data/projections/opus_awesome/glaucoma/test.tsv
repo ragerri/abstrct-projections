@@ -90,8 +90,8 @@ de O
 30,8 O
 mmHg. O
 
-Los O
-PIO B-Premise
+Los B-Premise
+PIO I-Premise
 medios I-Premise
 preoperatorios I-Premise
 en I-Premise
@@ -168,8 +168,8 @@ de I-Premise
 la I-Premise
 PIO. I-Premise
 
-Se O
-detectaron B-Premise
+Se B-Premise
+detectaron I-Premise
 tres I-Premise
 casos I-Premise
 de I-Premise
@@ -1249,8 +1249,8 @@ P I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Los O
-análisis B-Premise
+Los B-Premise
+análisis I-Premise
 de I-Premise
 PP I-Premise
 encontraron I-Premise
@@ -1554,9 +1554,9 @@ sin O
 significación O
 estadística. O
 
-En O
-el O
-postoperatorio B-Premise
+En B-Premise
+el I-Premise
+postoperatorio I-Premise
 de I-Premise
 un I-Premise
 día, I-Premise
@@ -1663,8 +1663,8 @@ p I-Premise
 0,05 I-Premise
 ). I-Premise
 
-El O
-análisis B-Premise
+El B-Premise
+análisis I-Premise
 de I-Premise
 SD-OCT I-Premise
 de I-Premise
@@ -2027,8 +2027,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Los O
-fármacos B-Claim
+Los B-Claim
+fármacos I-Claim
 administrados I-Claim
 en I-Claim
 ambos I-Claim
@@ -2542,8 +2542,8 @@ y O
 recibieron O
 timolol. O
 
-Los O
-sujetos B-Premise
+Los B-Premise
+sujetos I-Premise
 tratados I-Premise
 con I-Premise
 brimonidina I-Premise
@@ -2642,8 +2642,8 @@ de I-Premise
 los I-Premise
 grupos. I-Premise
 
-Se O
-observó B-Premise
+Se B-Premise
+observó I-Premise
 alergia I-Premise
 en I-Premise
 el I-Premise
@@ -2737,8 +2737,8 @@ medicación O
 fue O
 aceptable. O
 
-La O
-brimonidina B-Claim
+La B-Claim
+brimonidina I-Claim
 es I-Claim
 segura I-Claim
 y I-Claim
@@ -2752,8 +2752,8 @@ los I-Claim
 ojos I-Claim
 glaucomatosos. I-Claim
 
-La O
-brimonidina B-Claim
+La B-Claim
+brimonidina I-Claim
 proporciona I-Claim
 un I-Claim
 efecto I-Claim
@@ -3017,8 +3017,8 @@ médicamente I-Claim
 sin I-Claim
 cataratas. I-Claim
 
-La O
-trabeculectomía B-Claim
+La B-Claim
+trabeculectomía I-Claim
 es I-Claim
 más I-Claim
 eficaz I-Claim
@@ -3510,8 +3510,8 @@ p I-Premise
 0,23 I-Premise
 ). I-Premise
 
-Las O
-reacciones B-Premise
+Las B-Premise
+reacciones I-Premise
 adversas I-Premise
 fueron I-Premise
 leves I-Premise
@@ -3714,8 +3714,8 @@ con O
 el O
 estudio. O
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 intraocular I-Premise
 (OPI I-Premise
 ) I-Premise
@@ -3818,8 +3818,8 @@ de O
 la O
 PIO. O
 
-El O
-pulso B-Premise
+El B-Premise
+pulso I-Premise
 se I-Premise
 redujo I-Premise
 significativamente I-Premise
@@ -3851,8 +3851,8 @@ tratados I-Premise
 con I-Premise
 timolol. I-Premise
 
-Se O
-produjeron B-Claim
+Se B-Claim
+produjeron I-Claim
 menos I-Claim
 efectos I-Claim
 secundarios I-Claim
@@ -4114,8 +4114,8 @@ los O
 2 O
 grupos. O
 
-La O
-media B-Premise
+La B-Premise
+media I-Premise
 ( I-Premise
 error I-Premise
 estándar I-Premise
@@ -4715,8 +4715,8 @@ de O
 la O
 equivalencia. O
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 intraocular I-Premise
 se I-Premise
 redujo I-Premise
@@ -5154,8 +5154,8 @@ n O
 117 O
 ). O
 
-Los O
-valores B-Premise
+Los B-Premise
+valores I-Premise
 basales I-Premise
 medios I-Premise
 de I-Premise
@@ -5216,8 +5216,8 @@ grupo I-Premise
 de I-Premise
 dorzolamida/timolol. I-Premise
 
-Los O
-valores B-Premise
+Los B-Premise
+valores I-Premise
 medios I-Premise
 de I-Premise
 la I-Premise
@@ -5541,8 +5541,8 @@ Discapacidad O
 de O
 Glaucoma. O
 
-El O
-éxito B-Premise
+El B-Premise
+éxito I-Premise
 clínico I-Premise
 fue I-Premise
 del I-Premise
@@ -5653,8 +5653,8 @@ cardíaca I-Premise
 con I-Premise
 timolol. I-Premise
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 arterial I-Premise
 media I-Premise
 sistólica I-Premise
@@ -5668,8 +5668,8 @@ en I-Premise
 ambos I-Premise
 grupos. I-Premise
 
-La O
-calidad B-Premise
+La B-Premise
+calidad I-Premise
 de I-Premise
 vida I-Premise
 se I-Premise
@@ -5713,8 +5713,8 @@ sobre I-Claim
 el I-Claim
 corazón. I-Claim
 
-La O
-brimonidina B-Claim
+La B-Claim
+brimonidina I-Claim
 es I-Claim
 una I-Claim
 alternativa I-Claim
@@ -5989,8 +5989,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 media I-Premise
 tratada I-Premise
 fue I-Premise
@@ -6048,8 +6048,8 @@ p I-Premise
 0,008 I-Premise
 ). I-Premise
 
-Se O
-observaron B-Claim
+Se B-Claim
+observaron I-Claim
 diferencias I-Claim
 similares I-Claim
 en I-Claim
@@ -6068,8 +6068,8 @@ de I-Claim
 3 I-Claim
 omitiendo. I-Claim
 
-Los O
-pacientes B-Claim
+Los B-Claim
+pacientes I-Claim
 con I-Claim
 glaucoma I-Claim
 de I-Claim
@@ -6316,8 +6316,8 @@ visita I-Premise
 de I-Premise
 estudio. I-Premise
 
-El O
-TCC B-Premise
+El B-Premise
+TCC I-Premise
 se I-Premise
 incrementó I-Premise
 significativamente I-Premise
@@ -6413,8 +6413,8 @@ grupo I-Premise
 BSS I-Premise
 Plus. I-Premise
 
-La O
-solución B-Claim
+La B-Claim
+solución I-Claim
 de I-Claim
 Ringers I-Claim
 fue I-Claim
@@ -6431,8 +6431,8 @@ de I-Claim
 cataratas I-Claim
 atraumáticas. I-Claim
 
-Sin O
-embargo, B-Claim
+Sin B-Claim
+embargo, I-Claim
 nuestro I-Claim
 estudio I-Claim
 demuestra I-Claim
@@ -6688,8 +6688,8 @@ respectivamente O
 P=0,993 O
 ). O
 
-La O
-reducción B-Premise
+La B-Premise
+reducción I-Premise
 media I-Premise
 de I-Premise
 la I-Premise
@@ -7176,8 +7176,8 @@ ANCOVA I-Premise
 ) I-Premise
 ]. I-Premise
 
-El O
-análisis B-Premise
+El B-Premise
+análisis I-Premise
 no I-Premise
 ajustado I-Premise
 de I-Premise
@@ -7214,8 +7214,8 @@ tratado I-Premise
 con I-Premise
 unaprostone. I-Premise
 
-Los O
-síntomas B-Premise
+Los B-Premise
+síntomas I-Premise
 oculares I-Premise
 adversos I-Premise
 y I-Premise
@@ -7229,8 +7229,8 @@ grupos I-Premise
 de I-Premise
 tratamiento. I-Premise
 
-El O
-enrojecimiento B-Premise
+El B-Premise
+enrojecimiento I-Premise
 ocular I-Premise
 y I-Premise
 la I-Premise
@@ -7559,8 +7559,8 @@ P I-Premise
 0,026 I-Premise
 ). I-Premise
 
-Los O
-factores B-Premise
+Los B-Premise
+factores I-Premise
 de I-Premise
 riesgo I-Premise
 significativos I-Premise
@@ -7717,8 +7717,8 @@ trabeculectomía O
 sin O
 5-fluorouracilo. O
 
-La O
-media B-Premise
+La B-Premise
+media I-Premise
 ( I-Premise
 +/-SD I-Premise
 ) I-Premise
@@ -8032,8 +8032,8 @@ cada O
 6 O
 meses. O
 
-El O
-porcentaje B-Premise
+El B-Premise
+porcentaje I-Premise
 de I-Premise
 reducción I-Premise
 de I-Premise
@@ -8704,8 +8704,8 @@ a O
 12 O
 meses. O
 
-Las O
-complicaciones B-Premise
+Las B-Premise
+complicaciones I-Premise
 corneales I-Premise
 fueron I-Premise
 menos I-Premise
@@ -8933,8 +8933,8 @@ grupos I-Premise
 (p=0,001 I-Premise
 ). I-Premise
 
-La O
-trabeculectomía B-Premise
+La B-Premise
+trabeculectomía I-Premise
 fue I-Premise
 casi I-Premise
 igual I-Premise
@@ -8961,8 +8961,8 @@ B I-Premise
 (p=0,534 I-Premise
 ). I-Premise
 
-Las O
-puntuaciones B-Premise
+Las B-Premise
+puntuaciones I-Premise
 finales I-Premise
 de I-Premise
 bleb I-Premise
@@ -8992,8 +8992,8 @@ B I-Premise
 p=0,877 I-Premise
 ). I-Premise
 
-La O
-hipotonía B-Premise
+La B-Premise
+hipotonía I-Premise
 con I-Premise
 la I-Premise
 PIO I-Premise
@@ -9371,8 +9371,8 @@ o I-Premise
 0,008 I-Premise
 ). I-Premise
 
-La O
-perversión B-Premise
+La B-Premise
+perversión I-Premise
 del I-Premise
 gusto, I-Premise
 el I-Premise
@@ -9602,8 +9602,8 @@ P O
 0,01 O
 ). O
 
-Se O
-observaron B-Premise
+Se B-Premise
+observaron I-Premise
 defectos I-Premise
 epiteliales I-Premise
 de I-Premise
@@ -10288,8 +10288,8 @@ basal I-Premise
 P=0,628 I-Premise
 ). I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 que I-Premise
 recibieron I-Premise
 placebo I-Premise
@@ -10430,8 +10430,8 @@ a I-Claim
 anestesia I-Claim
 general. I-Claim
 
-La O
-clonidina B-Claim
+La B-Claim
+clonidina I-Claim
 oral I-Claim
 es I-Claim
 segura, I-Claim
@@ -10767,8 +10767,8 @@ la I-Claim
 trabeculectomía I-Claim
 sola. I-Claim
 
-Sin O
-embargo, B-Claim
+Sin B-Claim
+embargo, I-Claim
 la I-Claim
 cirugía I-Claim
 combinada I-Claim
@@ -11445,8 +11445,8 @@ entre I-Premise
 los I-Premise
 grupos. I-Premise
 
-La O
-tolerancia B-Premise
+La B-Premise
+tolerancia I-Premise
 subjetiva I-Premise
 tras I-Premise
 la I-Premise
@@ -11478,8 +11478,8 @@ los I-Premise
 pacientes I-Premise
 estándar. I-Premise
 
-El O
-malestar B-Premise
+El B-Premise
+malestar I-Premise
 transitorio I-Premise
 (principalmente I-Premise
 sensación I-Premise
@@ -11510,8 +11510,8 @@ en I-Premise
 cada I-Premise
 visita. I-Premise
 
-Se O
-notificó B-Premise
+Se B-Premise
+notificó I-Premise
 una I-Premise
 sensación I-Premise
 de I-Premise
@@ -11989,8 +11989,8 @@ la I-Claim
 trabeculectomía I-Claim
 estándar. I-Claim
 
-Las O
-suturas B-Claim
+Las B-Claim
+suturas I-Claim
 liberables I-Claim
 se I-Claim
 asociaron I-Claim
@@ -12414,8 +12414,8 @@ en I-Claim
 cada I-Claim
 visita. I-Claim
 
-La O
-reducción B-Premise
+La B-Premise
+reducción I-Premise
 media I-Premise
 de I-Premise
 la I-Premise
@@ -12587,8 +12587,8 @@ y O
 travoprost, O
 respectivamente. O
 
-El O
-éxito B-Claim
+El B-Claim
+éxito I-Claim
 clínico I-Claim
 y I-Claim
 adverso I-Claim
@@ -12783,8 +12783,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-El O
-BTFC B-Premise
+El B-Premise
+BTFC I-Premise
 proporcionó I-Premise
 mayores I-Premise
 reducciones I-Premise
@@ -12810,8 +12810,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Las O
-reducciones B-Premise
+Las B-Premise
+reducciones I-Premise
 medias I-Premise
 de I-Premise
 la I-Premise
@@ -13297,8 +13297,8 @@ análogos I-Claim
 de I-Claim
 prostaglandina. I-Claim
 
-El O
-BTFC B-Claim
+El B-Claim
+BTFC I-Claim
 demostró I-Claim
 un I-Claim
 rendimiento I-Claim
@@ -13316,8 +13316,8 @@ de I-Claim
 la I-Claim
 PIO. I-Claim
 
-Los O
-inhibidores B-Claim
+Los B-Claim
+inhibidores I-Claim
 orales I-Claim
 de I-Claim
 la I-Claim
@@ -13503,8 +13503,8 @@ desde I-Premise
 el I-Premise
 inicio. I-Premise
 
-Los O
-cambios B-Premise
+Los B-Premise
+cambios I-Premise
 medios I-Premise
 en I-Premise
 las I-Premise
@@ -13635,8 +13635,8 @@ incumplimiento O
 9 O
 ). O
 
-Los O
-acontecimientos B-Premise
+Los B-Premise
+acontecimientos I-Premise
 adversos I-Premise
 no I-Premise
 fueron I-Premise
@@ -13658,8 +13658,8 @@ parámetros O
 de O
 seguridad. O
 
-La O
-brinzolamida B-Claim
+La B-Claim
+brinzolamida I-Claim
 produjo I-Claim
 menos I-Claim
 molestias I-Claim
@@ -13692,8 +13692,8 @@ efectos I-Claim
 secundarios I-Claim
 sistémicos. I-Claim
 
-La O
-brinzolamida B-Claim
+La B-Claim
+brinzolamida I-Claim
 produjo I-Claim
 reducciones I-Claim
 significativas I-Claim
@@ -13716,8 +13716,8 @@ durante I-Claim
 18 I-Claim
 meses. I-Claim
 
-La O
-brinzolamida B-Claim
+La B-Claim
+brinzolamida I-Claim
 fue I-Claim
 segura I-Claim
 y I-Claim
@@ -14042,8 +14042,8 @@ adversos I-Premise
 no I-Premise
 previstos. I-Premise
 
-La O
-reducción B-Claim
+La B-Claim
+reducción I-Claim
 de I-Claim
 la I-Claim
 presión I-Claim
@@ -14087,8 +14087,8 @@ de I-Claim
 cataratas I-Claim
 sola. I-Claim
 
-Se O
-utilizan B-Claim
+Se B-Claim
+utilizan I-Claim
 combinaciones I-Claim
 fijas I-Claim
 de I-Claim
@@ -14421,8 +14421,8 @@ p I-Premise
 0,213 I-Premise
 ). I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 tratados I-Premise
 con I-Premise
 brimonidina-timolol I-Premise
@@ -14455,8 +14455,8 @@ tratados I-Premise
 con I-Premise
 dorzolamida-timolol. I-Premise
 
-La O
-combinación B-Claim
+La B-Claim
+combinación I-Claim
 fija I-Claim
 de I-Claim
 brimonidina-timolol I-Claim
@@ -14859,8 +14859,8 @@ el I-Premise
 grupo I-Premise
 control. I-Premise
 
-Los O
-análisis B-Claim
+Los B-Claim
+análisis I-Claim
 de I-Claim
 supervivencia I-Claim
 no I-Claim
@@ -14890,8 +14890,8 @@ los I-Claim
 dos I-Claim
 grupos. I-Claim
 
-La O
-extracción B-Premise
+La B-Premise
+extracción I-Premise
 de I-Premise
 cataratas I-Premise
 se I-Premise
@@ -15174,8 +15174,8 @@ BSS I-Premise
 (p=0,039 I-Premise
 ). I-Premise
 
-El O
-dolor B-Premise
+El B-Premise
+dolor I-Premise
 fue I-Premise
 más I-Premise
 frecuente I-Premise
@@ -15255,8 +15255,8 @@ por I-Claim
 los I-Claim
 pacientes. I-Claim
 
-Los O
-factores B-Claim
+Los B-Claim
+factores I-Claim
 de I-Claim
 riesgo I-Claim
 para I-Claim
@@ -15610,8 +15610,8 @@ p I-Premise
 0,817 I-Premise
 ). I-Premise
 
-El O
-17,2 B-Premise
+El B-Premise
+17,2 I-Premise
 % I-Premise
 de I-Premise
 los I-Premise
@@ -15636,8 +15636,8 @@ reacciones I-Premise
 adversas I-Premise
 leves. I-Premise
 
-La O
-alergia B-Premise
+La B-Premise
+alergia I-Premise
 ocular I-Premise
 se I-Premise
 produjo I-Premise
@@ -15670,8 +15670,8 @@ en I-Premise
 ambos I-Premise
 grupos. I-Premise
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 arterial I-Premise
 media I-Premise
 sistólica I-Premise
@@ -15740,8 +15740,8 @@ período I-Premise
 de I-Premise
 estudio. I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 que I-Premise
 recibieron I-Premise
 timolol I-Premise
@@ -16195,8 +16195,8 @@ en I-Premise
 ambos I-Premise
 grupos. I-Premise
 
-La O
-mitomicina B-Claim
+La B-Claim
+mitomicina I-Claim
 C I-Claim
 no I-Claim
 aumentó I-Claim
@@ -16765,8 +16765,8 @@ y O
 recibieron O
 MMC. O
 
-Se O
-alcanzó B-Premise
+Se B-Premise
+alcanzó I-Premise
 una I-Premise
 PIO I-Premise
 objetivo I-Premise
@@ -16876,8 +16876,8 @@ fuga I-Premise
 de I-Premise
 bleb. I-Premise
 
-Nuestro O
-estudio B-Claim
+Nuestro B-Claim
+estudio I-Claim
 sugiere I-Claim
 que I-Claim
 el I-Claim
@@ -17143,8 +17143,8 @@ grupo I-Premise
 de I-Premise
 viscocanalostomía. I-Premise
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 fue I-Premise
 menor I-Premise
 en I-Premise
@@ -17527,8 +17527,8 @@ en I-Premise
 tres I-Premise
 casos. I-Premise
 
-Las O
-complicaciones B-Premise
+Las B-Premise
+complicaciones I-Premise
 de I-Premise
 la I-Premise
 trabeculectomía I-Premise
@@ -17619,8 +17619,8 @@ en I-Premise
 tres I-Premise
 ojos. I-Premise
 
-La O
-viscocanalostomía B-Claim
+La B-Claim
+viscocanalostomía I-Claim
 es I-Claim
 un I-Claim
 procedimiento I-Claim
@@ -17641,8 +17641,8 @@ de I-Claim
 ángulo I-Claim
 abierto. I-Claim
 
-La O
-trabeculectomía B-Claim
+La B-Claim
+trabeculectomía I-Claim
 con I-Claim
 5-FU I-Claim
 postoperatorio I-Claim
@@ -17901,8 +17901,8 @@ ojos O
 de O
 Baerveldt. O
 
-Los O
-éxitos B-Premise
+Los B-Premise
+éxitos I-Premise
 acumulados I-Premise
 en I-Premise
 el I-Premise
@@ -17951,8 +17951,8 @@ rank I-Premise
 test I-Premise
 ). I-Premise
 
-El O
-sexo B-Claim
+El B-Claim
+sexo I-Claim
 masculino, I-Claim
 afrodescendientes, I-Claim
 el I-Claim
@@ -18235,8 +18235,8 @@ y I-Premise
 Ahmed, I-Premise
 respectivamente. I-Premise
 
-Se O
-había B-Premise
+Se B-Premise
+había I-Premise
 logrado I-Premise
 una I-Premise
 disminución I-Premise
@@ -18250,8 +18250,8 @@ del I-Premise
 65,9 I-Premise
 %. I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 éxito I-Premise
 fueron I-Premise
@@ -18725,8 +18725,8 @@ a I-Premise
 5 I-Premise
 años. I-Premise
 
-Las O
-agudezas B-Premise
+Las B-Premise
+agudezas I-Premise
 visuales I-Premise
 fueron I-Premise
 mejores I-Premise
@@ -18802,8 +18802,8 @@ de I-Claim
 la I-Claim
 PIO. I-Claim
 
-Las O
-comparaciones B-Claim
+Las B-Claim
+comparaciones I-Claim
 entre I-Claim
 intervalos I-Claim
 indican I-Claim
@@ -19091,8 +19091,8 @@ de I-Premise
 3 I-Premise
 años. I-Premise
 
-El O
-análisis B-Premise
+El B-Premise
+análisis I-Premise
 de I-Premise
 supervivencia I-Premise
 del I-Premise
@@ -19127,8 +19127,8 @@ después I-Premise
 del I-Premise
 tratamiento. I-Premise
 
-Los O
-conversores B-Premise
+Los B-Premise
+conversores I-Premise
 presentaron I-Premise
 valores I-Premise
 de I-Premise
@@ -19159,8 +19159,8 @@ comparación I-Premise
 con I-Premise
 placebo. I-Premise
 
-Se O
-encontró B-Premise
+Se B-Premise
+encontró I-Premise
 que I-Premise
 la I-Premise
 conversión I-Premise
@@ -19328,8 +19328,8 @@ el O
 grupo O
 2. O
 
-La O
-facotrabeculectomía B-Premise
+La B-Premise
+facotrabeculectomía I-Premise
 combinada I-Premise
 resultó I-Premise
 en I-Premise
@@ -19379,8 +19379,8 @@ P I-Premise
 0,01 I-Premise
 ). I-Premise
 
-La O
-facotrabeculectomía B-Premise
+La B-Premise
+facotrabeculectomía I-Premise
 combinada I-Premise
 resultó I-Premise
 en I-Premise
@@ -19407,8 +19407,8 @@ la I-Premise
 facoemulsificación I-Premise
 sola. I-Premise
 
-La O
-cirugía B-Premise
+La B-Premise
+cirugía I-Premise
 combinada I-Premise
 se I-Premise
 asoció I-Premise
@@ -19440,8 +19440,8 @@ la I-Premise
 facoemulsificación I-Premise
 sola. I-Premise
 
-La O
-facotrabeculectomía B-Claim
+La B-Claim
+facotrabeculectomía I-Claim
 combinada I-Claim
 con I-Claim
 mitomicina I-Claim
@@ -19470,8 +19470,8 @@ con I-Claim
 cataratas I-Claim
 coexistentes. I-Claim
 
-La O
-facotrabeculectomía B-Claim
+La B-Claim
+facotrabeculectomía I-Claim
 combinada I-Claim
 se I-Claim
 asocia I-Claim
@@ -19664,8 +19664,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 ( I-Premise
 media+/-SD I-Premise
 ) I-Premise
@@ -20063,8 +20063,8 @@ P I-Premise
 0,93 I-Premise
 ). I-Premise
 
-Las O
-tasas B-Claim
+Las B-Claim
+tasas I-Claim
 de I-Claim
 complicación I-Claim
 fueron I-Claim
@@ -20455,8 +20455,8 @@ P I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 tratados I-Premise
 con I-Premise
 brimonidina-timolol I-Premise
@@ -20519,8 +20519,8 @@ la I-Premise
 semana I-Premise
 12. I-Premise
 
-Se O
-produjeron B-Premise
+Se B-Premise
+produjeron I-Premise
 reacciones I-Premise
 adversas I-Premise
 en I-Premise
@@ -20544,8 +20544,8 @@ pacientes I-Premise
 con I-Premise
 timolol. I-Premise
 
-Los O
-hallazgos B-Premise
+Los B-Premise
+hallazgos I-Premise
 de I-Premise
 la I-Premise
 biomicroscopia I-Premise
@@ -20563,8 +20563,8 @@ semanas I-Premise
 de I-Premise
 tratamiento. I-Premise
 
-La O
-combinación B-Claim
+La B-Claim
+combinación I-Claim
 fija I-Claim
 de I-Claim
 brimonidina-timolol I-Claim
@@ -20907,8 +20907,8 @@ latanoprost I-Premise
 0,131 I-Premise
 ). I-Premise
 
-Los O
-cambios B-Premise
+Los B-Premise
+cambios I-Premise
 biomicroscópicos I-Premise
 medidos I-Premise
 desde I-Premise
@@ -20925,8 +20925,8 @@ en I-Premise
 ambos I-Premise
 grupos. I-Premise
 
-La O
-combinación B-Claim
+La B-Claim
+combinación I-Claim
 fija I-Claim
 de I-Claim
 brimonidina-timolol I-Claim
@@ -21143,8 +21143,8 @@ de O
 éxito O
 quirúrgico. O
 
-La O
-tasa B-Premise
+La B-Premise
+tasa I-Premise
 de I-Premise
 éxito I-Premise
 quirúrgico I-Premise
@@ -21640,8 +21640,8 @@ la O
 administración O
 a.m.. O
 
-El O
-travoprost B-Claim
+El B-Claim
+travoprost I-Claim
 dosificado I-Claim
 por I-Claim
 la I-Claim
@@ -21885,8 +21885,8 @@ de I-Premise
 PIO I-Premise
 diurnos. I-Premise
 
-Las O
-reducciones B-Premise
+Las B-Premise
+reducciones I-Premise
 diarias I-Premise
 de I-Premise
 la I-Premise
@@ -21947,8 +21947,8 @@ fueron I-Claim
 bien I-Claim
 toleradas. I-Claim
 
-El O
-tratamiento B-Claim
+El B-Claim
+tratamiento I-Claim
 con I-Claim
 latanoprost-timolol I-Claim
 de I-Claim
@@ -21978,8 +21978,8 @@ latanoprost I-Claim
 o I-Claim
 timolol. I-Claim
 
-El O
-tratamiento B-Claim
+El B-Claim
+tratamiento I-Claim
 combinado I-Claim
 puede I-Claim
 utilizarse I-Claim
@@ -22262,8 +22262,8 @@ del I-Premise
 dispositivo I-Premise
 Baerveldt. I-Premise
 
-La O
-visión B-Premise
+La B-Premise
+visión I-Premise
 redujo I-Premise
 ≥2 I-Premise
 líneas I-Premise
@@ -22318,8 +22318,8 @@ de I-Claim
 complicaciones I-Claim
 similares. I-Claim
 
-El O
-tamaño B-Claim
+El B-Claim
+tamaño I-Claim
 del I-Claim
 colgajo I-Claim
 escleral I-Claim
@@ -22720,8 +22720,8 @@ de I-Claim
 PF I-Claim
 timolol. I-Claim
 
-El O
-PF B-Claim
+El B-Claim
+PF I-Claim
 tafluprost I-Claim
 es I-Claim
 un I-Claim
@@ -23336,8 +23336,8 @@ trabeculectomía I-Claim
 con I-Claim
 MMC. I-Claim
 
-Sin O
-embargo, B-Claim
+Sin B-Claim
+embargo, I-Claim
 la I-Claim
 morfología I-Claim
 del I-Claim
@@ -23664,8 +23664,8 @@ de O
 3 O
 años. O
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 media I-Premise
 preoperatoria I-Premise
 fue I-Premise
@@ -23796,8 +23796,8 @@ P I-Premise
 0,59 I-Premise
 ). I-Premise
 
-La O
-agudeza B-Premise
+La B-Premise
+agudeza I-Premise
 visual I-Premise
 fue I-Premise
 similar I-Premise
@@ -23845,8 +23845,8 @@ durante O
 el O
 seguimiento. O
 
-Las O
-fugas B-Premise
+Las B-Premise
+fugas I-Premise
 tempranas I-Premise
 del I-Premise
 cierre I-Premise
@@ -23922,8 +23922,8 @@ sitios O
 0.0.01 O
 ). O
 
-La O
-facotrabeculectomía B-Claim
+La B-Claim
+facotrabeculectomía I-Claim
 basada I-Claim
 en I-Claim
 un I-Claim
@@ -24147,8 +24147,8 @@ p I-Premise
 0,846 I-Premise
 ). I-Premise
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 diurna I-Premise
 media I-Premise
 al I-Premise
@@ -24259,8 +24259,8 @@ oftálmicas I-Premise
 de I-Premise
 brinzolamida. I-Premise
 
-La O
-purita B-Claim
+La B-Claim
+purita I-Claim
 de I-Claim
 brimonidina I-Claim
 0,1% I-Claim
@@ -24292,8 +24292,8 @@ fueron I-Claim
 bien I-Claim
 toleradas. I-Claim
 
-Las O
-limitaciones B-Premise
+Las B-Premise
+limitaciones I-Premise
 de I-Premise
 este I-Premise
 estudio I-Premise
@@ -24311,8 +24311,8 @@ de I-Premise
 la I-Premise
 muestra. I-Premise
 
-Se O
-necesitan B-Claim
+Se B-Claim
+necesitan I-Claim
 estudios I-Claim
 adicionales I-Claim
 para I-Claim
@@ -25024,8 +25024,8 @@ POAG I-Claim
 o I-Claim
 THO. I-Claim
 
-Se O
-deben B-Claim
+Se B-Claim
+deben I-Claim
 realizar I-Claim
 más I-Claim
 estudios I-Claim
@@ -25229,8 +25229,8 @@ los O
 datos O
 basales. O
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 se I-Premise
 redujo I-Premise
 de I-Premise
@@ -25614,8 +25614,8 @@ tratados I-Premise
 con I-Premise
 BPL. I-Premise
 
-La O
-hiperemia B-Premise
+La B-Premise
+hiperemia I-Premise
 conjuntival I-Premise
 moderada I-Premise
 a I-Premise
@@ -25967,8 +25967,8 @@ control I-Premise
 p=0,82 I-Premise
 ). I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 complicación I-Premise
 no I-Premise
@@ -25978,8 +25978,8 @@ entre I-Premise
 los I-Premise
 grupos. I-Premise
 
-La O
-inyección B-Claim
+La B-Claim
+inyección I-Claim
 intravítrea I-Claim
 de I-Claim
 acetonuro I-Claim
@@ -26586,8 +26586,8 @@ Ex-PRESS I-Premise
 p=0,001 I-Premise
 ). I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 éxito I-Premise
 completo I-Premise
@@ -26616,8 +26616,8 @@ p I-Premise
 0,0024 I-Premise
 ). I-Premise
 
-Las O
-complicaciones B-Premise
+Las B-Premise
+complicaciones I-Premise
 postoperatorias I-Premise
 fueron I-Premise
 más I-Premise
@@ -27261,8 +27261,8 @@ IOP O
 y O
 C. O
 
-En O
-comparación B-Premise
+En B-Premise
+comparación I-Premise
 con I-Premise
 las I-Premise
 mediciones I-Premise
@@ -27298,8 +27298,8 @@ duración I-Premise
 del I-Premise
 tratamiento. I-Premise
 
-La O
-reducción B-Premise
+La B-Premise
+reducción I-Premise
 de I-Premise
 la I-Premise
 PIO I-Premise
@@ -27361,8 +27361,8 @@ y I-Premise
 12 I-Premise
 meses. I-Premise
 
-Se O
-observó B-Premise
+Se B-Premise
+observó I-Premise
 que I-Premise
 la I-Premise
 media I-Premise
@@ -27416,8 +27416,8 @@ tratados I-Premise
 con I-Premise
 timolol. I-Premise
 
-Se O
-observó B-Premise
+Se B-Premise
+observó I-Premise
 un I-Premise
 cambio I-Premise
 notable I-Premise
@@ -27757,8 +27757,8 @@ del I-Premise
 grupo I-Premise
 timolol. I-Premise
 
-El O
-análisis B-Premise
+El B-Premise
+análisis I-Premise
 de I-Premise
 supervivencia I-Premise
 mostró I-Premise
@@ -27808,8 +27808,8 @@ posteriores I-Premise
 al I-Premise
 estudio. I-Premise
 
-La O
-reducción B-Premise
+La B-Premise
+reducción I-Premise
 de I-Premise
 la I-Premise
 PIO I-Premise
@@ -28225,8 +28225,8 @@ el I-Premise
 grupo I-Premise
 B. I-Premise
 
-El O
-uso B-Claim
+El B-Claim
+uso I-Claim
 de I-Claim
 la I-Claim
 combinación I-Claim
@@ -28896,8 +28896,8 @@ los I-Premise
 dos I-Premise
 grupos. I-Premise
 
-La O
-SLT B-Claim
+La B-Claim
+SLT I-Claim
 es I-Claim
 equivalente I-Claim
 a I-Claim
@@ -29485,8 +29485,8 @@ ocular I-Claim
 recién I-Claim
 diagnosticado. I-Claim
 
-Sin O
-embargo, B-Premise
+Sin B-Premise
+embargo, I-Premise
 en I-Premise
 pacientes I-Premise
 tratados I-Premise
@@ -29755,8 +29755,8 @@ grupo I-Premise
 de I-Premise
 control. I-Premise
 
-La O
-medicación B-Premise
+La B-Premise
+medicación I-Premise
 hipotensiva I-Premise
 ocular I-Premise
 fue I-Premise
@@ -29789,8 +29789,8 @@ fue I-Premise
 estadísticamente I-Premise
 significativa. I-Premise
 
-Los O
-pacientes B-Claim
+Los B-Claim
+pacientes I-Claim
 con I-Claim
 un I-Claim
 solo I-Claim
@@ -30279,8 +30279,8 @@ durante O
 4 O
 semanas. O
 
-Los O
-cambios B-Premise
+Los B-Premise
+cambios I-Premise
 medios I-Premise
 en I-Premise
 la I-Premise
@@ -30331,8 +30331,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-El O
-cambio B-Premise
+El B-Premise
+cambio I-Premise
 de I-Premise
 la I-Premise
 PIO I-Premise
@@ -30937,8 +30937,8 @@ Hg I-Premise
 para I-Premise
 vehículo. I-Premise
 
-Las O
-puntuaciones B-Premise
+Las B-Premise
+puntuaciones I-Premise
 medias I-Premise
 de I-Premise
 hiperemia I-Premise
@@ -31336,8 +31336,8 @@ los I-Premise
 dos I-Premise
 grupos. I-Premise
 
-Se O
-observaron B-Premise
+Se B-Premise
+observaron I-Premise
 presiones I-Premise
 intraoculares I-Premise
 medias I-Premise
@@ -31538,8 +31538,8 @@ ocular O
 y O
 sistémica. O
 
-A O
-partir B-Premise
+A B-Premise
+partir I-Premise
 de I-Premise
 un I-Premise
 valor I-Premise
@@ -31611,8 +31611,8 @@ favor I-Premise
 de I-Premise
 latanoprost. I-Premise
 
-En O
-los O
+En B-Premise
+los I-Premise
 pacientes O
 tratados B-Premise
 con I-Premise
@@ -31970,8 +31970,8 @@ población O
 por O
 protocolo. O
 
-Las O
-reducciones B-Premise
+Las B-Premise
+reducciones I-Premise
 medias I-Premise
 de I-Premise
 la I-Premise
@@ -32007,8 +32007,8 @@ a I-Premise
 P=0,21 I-Premise
 ). I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 respuesta I-Premise
 fueron I-Premise
@@ -32027,8 +32027,8 @@ timolol I-Premise
 p=0,33 I-Premise
 ). I-Premise
 
-Las O
-diferencias B-Premise
+Las B-Premise
+diferencias I-Premise
 entre I-Premise
 el I-Premise
 tratamiento I-Premise
@@ -32656,8 +32656,8 @@ intención O
 de O
 tratamiento. O
 
-A O
-partir B-Premise
+A B-Premise
+partir I-Premise
 de I-Premise
 una I-Premise
 presión I-Premise
@@ -32743,8 +32743,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-La O
-alergia B-Premise
+La B-Premise
+alergia I-Premise
 ocular I-Premise
 ( I-Premise
 p I-Premise
@@ -32804,8 +32804,8 @@ meses I-Claim
 de I-Claim
 tratamiento. I-Claim
 
-Sin O
-embargo, B-Claim
+Sin B-Claim
+embargo, I-Claim
 latanoprost I-Claim
 una I-Claim
 vez I-Claim
@@ -33631,8 +33631,8 @@ sometidos I-Premise
 a I-Premise
 trabeculectomía. I-Premise
 
-De O
-acuerdo B-Claim
+De B-Claim
+acuerdo I-Claim
 con I-Claim
 los I-Claim
 resultados I-Claim
@@ -33848,8 +33848,8 @@ el O
 grupo O
 médico. O
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 media I-Premise
 basal I-Premise
 para I-Premise
@@ -33947,8 +33947,8 @@ grupos I-Premise
 de I-Premise
 medicación. I-Premise
 
-La O
-reducción B-Premise
+La B-Premise
+reducción I-Premise
 de I-Premise
 la I-Premise
 PIO I-Premise
@@ -34166,8 +34166,8 @@ p I-Premise
 694 I-Premise
 ). I-Premise
 
-El O
-éxito B-Premise
+El B-Premise
+éxito I-Premise
 completo I-Premise
 ( I-Premise
 PIO I-Premise
@@ -34222,8 +34222,8 @@ P I-Premise
 0,05 I-Premise
 ). I-Premise
 
-El O
-éxito B-Premise
+El B-Premise
+éxito I-Premise
 calificado I-Premise
 ( I-Premise
 PIO I-Premise
@@ -34277,8 +34277,8 @@ P I-Premise
 0,05 I-Premise
 ). I-Premise
 
-La O
-hipotonía B-Premise
+La B-Premise
+hipotonía I-Premise
 postoperatoria I-Premise
 y I-Premise
 la I-Premise
@@ -34305,8 +34305,8 @@ viscocanalostomía I-Premise
 = I-Premise
 0,002). I-Premise
 
-La O
-trabeculectomía B-Claim
+La B-Claim
+trabeculectomía I-Claim
 primaria I-Claim
 redujo I-Claim
 la I-Claim
@@ -34507,8 +34507,8 @@ medio, O
 12 O
 meses). O
 
-Los O
-ojos B-Premise
+Los B-Premise
+ojos I-Premise
 aleatorizados I-Premise
 a I-Premise
 timolol I-Premise
@@ -35005,8 +35005,8 @@ p O
 0,001 O
 ). O
 
-Las O
-disminuciones B-Premise
+Las B-Premise
+disminuciones I-Premise
 en I-Premise
 la I-Premise
 PIO I-Premise
@@ -35050,8 +35050,8 @@ con I-Premise
 el I-Premise
 tratamiento. I-Premise
 
-Los O
-costos B-Premise
+Los B-Premise
+costos I-Premise
 directos I-Premise
 medios I-Premise
 totales I-Premise
@@ -35069,8 +35069,8 @@ y I-Premise
 no I-Premise
 PG. I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 que I-Premise
 fallaron I-Premise
 en I-Premise
