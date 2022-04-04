@@ -203,8 +203,8 @@ de I-Premise
 la I-Premise
 enfermedad. I-Premise
 
-El O
-control B-Premise
+El B-Premise
+control I-Premise
 de I-Premise
 los I-Premise
 síntomas I-Premise
@@ -273,8 +273,8 @@ vida I-Premise
 P=0,008 I-Premise
 ). I-Premise
 
-El O
-control B-Premise
+El B-Premise
+control I-Premise
 de I-Premise
 los I-Premise
 síntomas I-Premise
@@ -326,8 +326,8 @@ los I-Premise
 80 I-Premise
 %. I-Premise
 
-La O
-mayor B-Premise
+La B-Premise
+mayor I-Premise
 parte I-Premise
 de I-Premise
 la I-Premise
@@ -383,8 +383,8 @@ tumor I-Claim
 objetivo I-Claim
 RR. I-Claim
 
-El O
-GEM B-Claim
+El B-Claim
+GEM I-Claim
 es I-Claim
 igualmente I-Claim
 eficaz I-Claim
@@ -412,8 +412,8 @@ síntomas I-Claim
 constitucionales I-Claim
 ". I-Claim
 
-La O
-mayor B-Premise
+La B-Premise
+mayor I-Premise
 parte I-Premise
 del I-Premise
 control I-Premise
@@ -1065,8 +1065,8 @@ de O
 células O
 NK. O
 
-Las O
-células B-Premise
+Las B-Premise
+células I-Premise
 T I-Premise
 recogidas I-Premise
 al I-Premise
@@ -1117,8 +1117,8 @@ péptidos I-Premise
 del I-Premise
 VHB. I-Premise
 
-Sin O
-embargo, B-Premise
+Sin B-Premise
+embargo, I-Premise
 durante I-Premise
 o I-Premise
 después I-Premise
@@ -1143,8 +1143,8 @@ el I-Premise
 valor I-Premise
 basal. I-Premise
 
-La O
-activación B-Premise
+La B-Premise
+activación I-Premise
 y I-Premise
 función I-Premise
 de I-Premise
@@ -1184,8 +1184,8 @@ GS-9620 I-Premise
 que I-Premise
 antes. I-Premise
 
-Los O
-cambios B-Premise
+Los B-Premise
+cambios I-Premise
 en I-Premise
 la I-Premise
 función I-Premise
@@ -1213,8 +1213,8 @@ la I-Premise
 hepatitis I-Premise
 B. I-Premise
 
-Los O
-niveles B-Premise
+Los B-Premise
+niveles I-Premise
 séricos I-Premise
 del I-Premise
 antígeno I-Premise
@@ -1245,8 +1245,8 @@ dosis I-Premise
 de I-Premise
 GS-9620. I-Premise
 
-La O
-administración B-Claim
+La B-Claim
+administración I-Claim
 de I-Claim
 GS-9620 I-Claim
 durante I-Claim
@@ -1291,9 +1291,9 @@ las I-Claim
 células I-Claim
 T. I-Claim
 
-Por O
-lo O
-tanto, B-Claim
+Por B-Claim
+lo I-Claim
+tanto, I-Claim
 la I-Claim
 GS-9620 I-Claim
 podría I-Claim
@@ -1578,8 +1578,8 @@ los I-Premise
 dos I-Premise
 grupos. I-Premise
 
-Una O
-adecuada B-Claim
+Una B-Claim
+adecuada I-Claim
 formación I-Claim
 nutricional I-Claim
 a I-Claim
@@ -1782,8 +1782,8 @@ la O
 Semana O
 72. O
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 pérdida I-Premise
 de I-Premise
@@ -1868,8 +1868,8 @@ semana I-Premise
 0,001 I-Premise
 ). I-Premise
 
-La O
-disminución B-Premise
+La B-Premise
+disminución I-Premise
 de I-Premise
 HBsAg I-Premise
 > I-Premise
@@ -1911,8 +1911,8 @@ la I-Premise
 semana I-Premise
 72. I-Premise
 
-La O
-disminución B-Claim
+La B-Claim
+disminución I-Claim
 de I-Claim
 HBsAg I-Claim
 en I-Claim
@@ -2153,8 +2153,8 @@ del I-Premise
 % I-Premise
 ). I-Premise
 
-En O
-general, B-Premise
+En B-Premise
+general, I-Premise
 la I-Premise
 satisfacción I-Premise
 subjetiva I-Premise
@@ -2480,8 +2480,8 @@ médicamente I-Claim
 sin I-Claim
 cataratas. I-Claim
 
-La O
-trabeculectomía B-Claim
+La B-Claim
+trabeculectomía I-Claim
 es I-Claim
 más I-Claim
 eficaz I-Claim
@@ -2755,8 +2755,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Se O
-alcanzó B-Premise
+Se B-Premise
+alcanzó I-Premise
 un I-Premise
 nivel I-Premise
 de I-Premise
@@ -2863,8 +2863,8 @@ por I-Claim
 farmacéuticos I-Claim
 especializados. I-Claim
 
-La O
-calidad B-Claim
+La B-Claim
+calidad I-Claim
 de I-Claim
 vida I-Claim
 relacionada I-Claim
@@ -3129,8 +3129,8 @@ total I-Premise
 de I-Premise
 DTR-QOL17. I-Premise
 
-La O
-linagliptina B-Claim
+La B-Claim
+linagliptina I-Claim
 es I-Claim
 superior I-Claim
 a I-Claim
@@ -3334,8 +3334,8 @@ VHB I-Premise
 p=0,96 I-Premise
 ). I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 alanina I-Premise
 aminotransferasa I-Premise
@@ -3358,8 +3358,8 @@ p=0,97 I-Premise
 respectivamente I-Premise
 ). I-Premise
 
-La O
-pérdida B-Premise
+La B-Premise
+pérdida I-Premise
 del I-Premise
 antígeno I-Premise
 de I-Premise
@@ -3385,8 +3385,8 @@ p=0,67 I-Premise
 respectivamente I-Premise
 ). I-Premise
 
-En O
-total, B-Premise
+En B-Premise
+total, I-Premise
 seis I-Premise
 pacientes I-Premise
 alcanzaron I-Premise
@@ -3429,8 +3429,8 @@ la I-Premise
 semana I-Premise
 240. I-Premise
 
-El O
-tratamiento B-Premise
+El B-Premise
+tratamiento I-Premise
 fue I-Premise
 generalmente I-Premise
 bien I-Premise
@@ -3474,8 +3474,8 @@ la I-Premise
 cadera, I-Premise
 respectivamente. I-Premise
 
-La O
-monoterapia B-Claim
+La B-Claim
+monoterapia I-Claim
 con I-Claim
 TDF I-Claim
 fue I-Claim
@@ -3544,8 +3544,8 @@ lamivudina O
 LAM-R O
 ). O
 
-La O
-monoterapia B-Claim
+La B-Claim
+monoterapia I-Claim
 con I-Claim
 tenofovir I-Claim
 disoproxil I-Claim
@@ -3737,8 +3737,8 @@ p I-Premise
 0,689 I-Premise
 ). I-Premise
 
-La O
-última B-Premise
+La B-Premise
+última I-Premise
 visita I-Premise
 fue I-Premise
 de I-Premise
@@ -3835,8 +3835,8 @@ p I-Premise
 0,669 I-Premise
 ). I-Premise
 
-La O
-filtración B-Premise
+La B-Premise
+filtración I-Premise
 temprana I-Premise
 de I-Premise
 la I-Premise
@@ -3997,8 +3997,8 @@ vez O
 al O
 día. O
 
-La O
-eficacia B-Premise
+La B-Premise
+eficacia I-Premise
 fue I-Premise
 similar I-Premise
 en I-Premise
@@ -4120,8 +4120,8 @@ y O
 meses, O
 respectivamente. O
 
-Se O
-registraron B-Premise
+Se B-Premise
+registraron I-Premise
 mejorías I-Premise
 sintomáticas I-Premise
 en I-Premise
@@ -4147,8 +4147,8 @@ con I-Premise
 respuesta I-Premise
 tumoral. I-Premise
 
-Las O
-reacciones B-Premise
+Las B-Premise
+reacciones I-Premise
 adversas I-Premise
 (EA) I-Premise
 a I-Premise
@@ -4172,8 +4172,8 @@ cutáneas I-Premise
 y I-Premise
 diarrea. I-Premise
 
-Las O
-toxicidades B-Premise
+Las B-Premise
+toxicidades I-Premise
 relacionadas I-Premise
 con I-Premise
 el I-Premise
@@ -4458,8 +4458,8 @@ de O
 la O
 intervención. O
 
-La O
-suplementación B-Premise
+La B-Premise
+suplementación I-Premise
 con I-Premise
 canela I-Premise
 llevó I-Premise
@@ -4731,8 +4731,8 @@ de O
 la O
 dosis. O
 
-La O
-administración B-Premise
+La B-Premise
+administración I-Premise
 de I-Premise
 antraciclina I-Premise
 se I-Premise
@@ -4882,8 +4882,8 @@ antraciclina I-Premise
 0,4924 I-Premise
 ). I-Premise
 
-La O
-terapia B-Claim
+La B-Claim
+terapia I-Claim
 con I-Claim
 antraciclina I-Claim
 aumenta I-Claim
@@ -5094,8 +5094,8 @@ de O
 144 O
 semanas. O
 
-El O
-ADN B-Premise
+El B-Premise
+ADN I-Premise
 del I-Premise
 VHB I-Premise
 sérico I-Premise
@@ -5204,8 +5204,8 @@ la I-Premise
 semana I-Premise
 144. I-Premise
 
-Se O
-produjo B-Premise
+Se B-Premise
+produjo I-Premise
 un I-Premise
 avance I-Premise
 virológico I-Premise
@@ -5274,8 +5274,8 @@ período I-Premise
 de I-Premise
 estudio. I-Premise
 
-La O
-monoterapia B-Claim
+La B-Claim
+monoterapia I-Claim
 con I-Claim
 TDF I-Claim
 fue I-Claim
@@ -5930,8 +5930,8 @@ fueron O
 resultados O
 secundarios. O
 
-Se O
-observaron B-Premise
+Se B-Premise
+observaron I-Premise
 respuestas I-Premise
 ( I-Premise
 > I-Premise
@@ -6218,8 +6218,8 @@ sepsis I-Premise
 o I-Premise
 muerte. I-Premise
 
-Se O
-produjo B-Premise
+Se B-Premise
+produjo I-Premise
 pancreatitis I-Premise
 en I-Premise
 3 I-Premise
@@ -6254,8 +6254,8 @@ oral I-Premise
 al I-Premise
 día. I-Premise
 
-El O
-bexaroteno B-Claim
+El B-Claim
+bexaroteno I-Claim
 ( I-Claim
 cápsulas I-Claim
 de I-Claim
@@ -6310,8 +6310,8 @@ mg/m I-Claim
 al I-Claim
 día. I-Claim
 
-La O
-hipertrigliceridemia B-Claim
+La B-Claim
+hipertrigliceridemia I-Claim
 y I-Claim
 el I-Claim
 hipotiroidismo I-Claim
@@ -6614,8 +6614,8 @@ mejorías O
 de O
 6MWD. O
 
-Los O
-cambios B-Premise
+Los B-Premise
+cambios I-Premise
 en I-Premise
 la I-Premise
 clase I-Premise
@@ -6639,8 +6639,8 @@ clínico I-Premise
 no I-Premise
 difirieron. I-Premise
 
-El O
-dolor B-Premise
+El B-Premise
+dolor I-Premise
 de I-Premise
 cabeza, I-Premise
 la I-Premise
@@ -7264,8 +7264,8 @@ y I-Premise
 menos I-Premise
 fibrosis. I-Premise
 
-El O
-ológeno B-Claim
+El B-Claim
+ológeno I-Claim
 resultó I-Claim
 en I-Claim
 una I-Claim
@@ -7864,8 +7864,8 @@ p I-Premise
 0,05 I-Premise
 ). I-Premise
 
-Se O
-observaron B-Premise
+Se B-Premise
+observaron I-Premise
 aumentos I-Premise
 significativos I-Premise
 dentro I-Premise
@@ -7888,8 +7888,8 @@ p I-Premise
 0,05 I-Premise
 ). I-Premise
 
-El O
-LDL-C B-Premise
+El B-Premise
+LDL-C I-Premise
 mostró I-Premise
 un I-Premise
 incremento I-Premise
@@ -7914,8 +7914,8 @@ p I-Premise
 0,05 I-Premise
 ). I-Premise
 
-La O
-comparación B-Premise
+La B-Premise
+comparación I-Premise
 entre I-Premise
 grupos I-Premise
 mostró I-Premise
@@ -7977,8 +7977,8 @@ y I-Claim
 la I-Claim
 FPG. I-Claim
 
-El O
-perfil B-Claim
+El B-Claim
+perfil I-Claim
 lipídico I-Claim
 y I-Claim
 el I-Claim
@@ -7993,8 +7993,8 @@ la I-Claim
 suplementación I-Claim
 sinbiótica. I-Claim
 
-El O
-sinbiótico B-Claim
+El B-Claim
+sinbiótico I-Claim
 es I-Claim
 eficaz I-Claim
 en I-Claim
@@ -8270,9 +8270,9 @@ de I-Premise
 desarrollar I-Premise
 hepatotoxicidad. I-Premise
 
-Los O
-participantes O
-con B-Premise
+Los B-Premise
+participantes I-Premise
+con I-Premise
 AST/ALT I-Premise
 elevado I-Premise
 y I-Premise
@@ -8324,8 +8324,8 @@ TAR I-Claim
 fue I-Claim
 alta. I-Claim
 
-Los O
-individuos B-Claim
+Los B-Claim
+individuos I-Claim
 gravemente I-Claim
 inmunosuprimidos I-Claim
 con I-Claim
@@ -8522,8 +8522,8 @@ y O
 ) O
 caídas. O
 
-La O
-aleatorización B-Premise
+La B-Premise
+aleatorización I-Premise
 al I-Premise
 control I-Premise
 intensivo I-Premise
@@ -8592,8 +8592,8 @@ P I-Premise
 =,90 I-Premise
 ). I-Premise
 
-El O
-riesgo B-Premise
+El B-Premise
+riesgo I-Premise
 de I-Premise
 los I-Premise
 tres I-Premise
@@ -8610,8 +8610,8 @@ crónica I-Premise
 o I-Premise
 fragilidad. I-Premise
 
-La O
-edad B-Premise
+La B-Premise
+edad I-Premise
 avanzada I-Premise
 también I-Premise
 se I-Premise
@@ -8639,8 +8639,8 @@ resultados I-Premise
 del I-Premise
 SAE. I-Premise
 
-Los O
-participantes B-Claim
+Los B-Claim
+participantes I-Claim
 aleatorizados I-Claim
 al I-Claim
 control I-Claim
@@ -8678,8 +8678,8 @@ según O
 la O
 edad. O
 
-La O
-resección B-Claim
+La B-Claim
+resección I-Claim
 anterior I-Claim
 baja I-Claim
 con I-Claim
@@ -8696,8 +8696,8 @@ cáncer I-Claim
 rectal I-Claim
 distal. I-Claim
 
-Sin O
-embargo, B-Premise
+Sin B-Premise
+embargo, I-Premise
 en I-Premise
 la I-Premise
 situación I-Premise
@@ -9694,8 +9694,8 @@ LAM, O
 otros O
 ). O
 
-En O
-general, B-Premise
+En B-Premise
+general, I-Premise
 el I-Premise
 6,6% I-Premise
 de I-Premise
@@ -9757,8 +9757,8 @@ p I-Premise
 0,0001 I-Premise
 ). I-Premise
 
-El O
-tratamiento B-Premise
+El B-Premise
+tratamiento I-Premise
 basado I-Premise
 en I-Premise
 la I-Premise
@@ -9800,8 +9800,8 @@ P I-Premise
 0,0001 I-Premise
 ). I-Premise
 
-Las O
-reacciones B-Premise
+Las B-Premise
+reacciones I-Premise
 adversas I-Premise
 relacionadas I-Premise
 con I-Premise
@@ -10414,8 +10414,8 @@ monoterapia I-Premise
 de I-Premise
 ETV. I-Premise
 
-Sin O
-embargo, B-Premise
+Sin B-Premise
+embargo, I-Premise
 la I-Premise
 diferencia I-Premise
 entre I-Premise
@@ -10478,8 +10478,8 @@ de I-Premise
 96 I-Premise
 semanas. I-Premise
 
-La O
-terapia B-Claim
+La B-Claim
+terapia I-Claim
 combinada I-Claim
 y I-Claim
 la I-Claim
@@ -10720,8 +10720,8 @@ dehidroepiandrosterona I-Premise
 1,4-4,0 I-Premise
 ). I-Premise
 
-La O
-disfunción B-Premise
+La B-Premise
+disfunción I-Premise
 menstrual I-Premise
 fue I-Premise
 menos I-Premise
@@ -10805,8 +10805,8 @@ con I-Premise
 ambos I-Premise
 tratamientos. I-Premise
 
-El O
-COC B-Claim
+El B-Claim
+COC I-Claim
 más I-Claim
 la I-Claim
 espironolactona I-Claim
@@ -11012,8 +11012,8 @@ Tratamiento O
 del O
 Cáncer. O
 
-La O
-supervivencia B-Premise
+La B-Premise
+supervivencia I-Premise
 libre I-Premise
 de I-Premise
 transfusiones I-Premise
@@ -11436,8 +11436,8 @@ UI/ml, I-Premise
 respectivamente I-Premise
 ). I-Premise
 
-Sin O
-embargo, B-Premise
+Sin B-Premise
+embargo, I-Premise
 los I-Premise
 niveles I-Premise
 de I-Premise
@@ -11517,8 +11517,8 @@ la I-Premise
 semana I-Premise
 88. I-Premise
 
-El O
-subanálisis B-Premise
+El B-Premise
+subanálisis I-Premise
 de I-Premise
 los I-Premise
 resultados I-Premise
@@ -11544,8 +11544,8 @@ después I-Premise
 del I-Premise
 tratamiento. I-Premise
 
-La O
-seguridad B-Premise
+La B-Premise
+seguridad I-Premise
 fue I-Premise
 comparable I-Premise
 entre I-Premise
@@ -11554,8 +11554,8 @@ grupos I-Premise
 de I-Premise
 tratamiento. I-Premise
 
-El O
-tratamiento B-Claim
+El B-Claim
+tratamiento I-Claim
 previo I-Claim
 con I-Claim
 ADV I-Claim
@@ -12073,8 +12073,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-El O
-BTFC B-Premise
+El B-Premise
+BTFC I-Premise
 proporcionó I-Premise
 mayores I-Premise
 reducciones I-Premise
@@ -12100,8 +12100,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Las O
-reducciones B-Premise
+Las B-Premise
+reducciones I-Premise
 medias I-Premise
 de I-Premise
 la I-Premise
@@ -12586,8 +12586,8 @@ se O
 vieron O
 afectados. O
 
-El O
-extracto B-Claim
+El B-Claim
+extracto I-Claim
 de I-Claim
 AG I-Claim
 añadido I-Claim
@@ -12606,8 +12606,8 @@ manejo I-Claim
 de I-Claim
 T2DM. I-Claim
 
-Los O
-estudios B-Claim
+Los B-Claim
+estudios I-Claim
 más I-Claim
 grandes I-Claim
 que I-Claim
@@ -12868,8 +12868,8 @@ P I-Premise
 0,05 I-Premise
 ). I-Premise
 
-El O
-tratamiento B-Premise
+El B-Premise
+tratamiento I-Premise
 con I-Premise
 DepoCyt I-Premise
 se I-Premise
@@ -13189,8 +13189,8 @@ p I-Premise
 0,0008 I-Premise
 ). I-Premise
 
-La O
-HFHT B-Premise
+La B-Premise
+HFHT I-Premise
 crónica I-Premise
 en I-Premise
 comparación I-Premise
@@ -13260,8 +13260,8 @@ la I-Claim
 PA I-Claim
 diastólica. I-Claim
 
-La O
-ingesta B-Claim
+La B-Claim
+ingesta I-Claim
 crónica I-Claim
 de I-Claim
 HFHT I-Claim
@@ -13539,8 +13539,8 @@ p I-Premise
 ), I-Premise
 respectivamente. I-Premise
 
-El O
-HMBPS B-Premise
+El B-Premise
+HMBPS I-Premise
 se I-Premise
 redujo I-Premise
 significativamente I-Premise
@@ -13925,8 +13925,8 @@ trabeculectomía I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Las O
-complicaciones B-Premise
+Las B-Premise
+complicaciones I-Premise
 postoperatorias I-Premise
 se I-Premise
 desarrollaron I-Premise
@@ -13960,9 +13960,9 @@ P I-Premise
 0,06 I-Premise
 ). I-Premise
 
-Se O
-produjeron O
-complicaciones B-Premise
+Se B-Premise
+produjeron I-Premise
+complicaciones I-Premise
 graves I-Premise
 que I-Premise
 requirieron I-Premise
@@ -14008,8 +14008,8 @@ P I-Premise
 0,03 I-Premise
 ). I-Premise
 
-La O
-trabeculectomía B-Claim
+La B-Claim
+trabeculectomía I-Claim
 con I-Claim
 MMC I-Claim
 tuvo I-Claim
@@ -14726,8 +14726,8 @@ negativo O
 al O
 inicio. O
 
-La O
-mayoría B-Premise
+La B-Premise
+mayoría I-Premise
 ( I-Premise
 41-80 I-Premise
 % I-Premise
@@ -14775,8 +14775,8 @@ y I-Premise
 48 I-Premise
 ). I-Premise
 
-La O
-inducción B-Premise
+La B-Premise
+inducción I-Premise
 ISG15 I-Premise
 fue I-Premise
 dosis-dependiente I-Premise
@@ -14823,8 +14823,8 @@ ningún I-Premise
 momento I-Premise
 evaluado. I-Premise
 
-Los O
-análisis B-Premise
+Los B-Premise
+análisis I-Premise
 multivariables I-Premise
 mostraron I-Premise
 que I-Premise
@@ -15059,8 +15059,8 @@ incluyó O
 ) O
 casos. O
 
-La O
-RIPC B-Premise
+La B-Premise
+RIPC I-Premise
 redujo I-Premise
 significativamente I-Premise
 la I-Premise
@@ -15110,8 +15110,8 @@ vs. I-Premise
 p=0,21 I-Premise
 ). I-Premise
 
-Se O
-observó B-Premise
+Se B-Premise
+observó I-Premise
 una I-Premise
 tendencia I-Premise
 para I-Premise
@@ -15153,8 +15153,8 @@ vs. I-Premise
 p=0,21 I-Premise
 ). I-Premise
 
-El O
-preacondicionamiento B-Claim
+El B-Claim
+preacondicionamiento I-Claim
 isquémico I-Claim
 remoto I-Claim
 reduce I-Claim
@@ -15173,8 +15173,8 @@ sometidos I-Claim
 a I-Claim
 ICP. I-Claim
 
-Se O
-presume B-Claim
+Se B-Claim
+presume I-Claim
 que I-Claim
 se I-Claim
 necesita I-Claim
@@ -15196,8 +15196,8 @@ con I-Claim
 diabetes I-Claim
 mellitus. I-Claim
 
-La O
-hipertensión B-Claim
+La B-Claim
+hipertensión I-Claim
 es I-Claim
 un I-Claim
 factor I-Claim
@@ -15594,8 +15594,8 @@ de I-Claim
 edad I-Claim
 avanzada. I-Claim
 
-La O
-presión B-Claim
+La B-Claim
+presión I-Claim
 arterial I-Claim
 sistólica I-Claim
 o I-Claim
@@ -15848,8 +15848,8 @@ después I-Premise
 de I-Premise
 ITx. I-Premise
 
-La O
-reducción B-Premise
+La B-Premise
+reducción I-Premise
 del I-Premise
 DIR I-Premise
 1 I-Premise
@@ -16025,8 +16025,8 @@ periférica I-Premise
 de I-Premise
 glucosa. I-Premise
 
-El O
-tratamiento B-Claim
+El B-Claim
+tratamiento I-Claim
 previo I-Claim
 con I-Claim
 rapamicina I-Claim
@@ -16306,8 +16306,8 @@ investigación I-Claim
 fue I-Claim
 rechazada. I-Claim
 
-De O
-acuerdo B-Premise
+De B-Premise
+acuerdo I-Premise
 con I-Premise
 el I-Premise
 análisis I-Premise
@@ -16370,8 +16370,8 @@ de I-Premise
 prueba I-Premise
 ). I-Premise
 
-Se O
-determinó B-Premise
+Se B-Premise
+determinó I-Premise
 la I-Premise
 comparación I-Premise
 de I-Premise
@@ -16440,8 +16440,8 @@ como I-Claim
 medicina I-Claim
 alopática. I-Claim
 
-Los O
-datos B-Claim
+Los B-Claim
+datos I-Claim
 observacionales I-Claim
 apoyan I-Claim
 un I-Claim
@@ -16768,9 +16768,9 @@ a O
 la O
 casualidad. O
 
-La O
-vitamina O
-D3 B-Premise
+La B-Premise
+vitamina I-Premise
+D3 I-Premise
 a I-Premise
 4000 I-Premise
 UI/d I-Premise
@@ -17116,8 +17116,8 @@ el I-Premise
 grupo I-Premise
 microcatéter. I-Premise
 
-Las O
-complicaciones B-Claim
+Las B-Claim
+complicaciones I-Claim
 cardiovasculares I-Claim
 son I-Claim
 una I-Claim
@@ -17142,8 +17142,8 @@ Mellitus I-Claim
 DM I-Claim
 ). I-Claim
 
-El O
-metabolismo B-Claim
+El B-Claim
+metabolismo I-Claim
 alterado I-Claim
 de I-Claim
 los I-Claim
@@ -17294,8 +17294,8 @@ de O
 la O
 aterosclerosis. O
 
-La O
-suplementación B-Premise
+La B-Premise
+suplementación I-Premise
 de I-Premise
 ocho I-Premise
 semanas I-Premise
@@ -17353,8 +17353,8 @@ p I-Premise
 0,04 I-Premise
 ). I-Premise
 
-La O
-suplementación B-Claim
+La B-Claim
+suplementación I-Claim
 con I-Claim
 EPA I-Claim
 en I-Claim
@@ -17777,8 +17777,8 @@ de I-Premise
 grado I-Premise
 4. I-Premise
 
-El O
-eritema, B-Premise
+El B-Premise
+eritema, I-Premise
 las I-Premise
 náuseas I-Premise
 y I-Premise
@@ -17811,8 +17811,8 @@ mayor I-Premise
 o I-Premise
 náuseas. I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 complicaciones I-Premise
 postoperatorias I-Premise
@@ -18627,8 +18627,8 @@ el I-Claim
 contexto I-Claim
 diabético. I-Claim
 
-El O
-linfoma B-Claim
+El B-Claim
+linfoma I-Claim
 cutáneo I-Claim
 de I-Claim
 células I-Claim
@@ -18925,8 +18925,8 @@ con I-Premise
 la I-Premise
 basal. I-Premise
 
-Los O
-acontecimientos B-Premise
+Los B-Premise
+acontecimientos I-Premise
 adversos I-Premise
 relacionados I-Premise
 con I-Premise
@@ -18964,8 +18964,8 @@ de I-Premise
 los I-Premise
 pacientes. I-Premise
 
-La O
-denileucina B-Claim
+La B-Claim
+denileucina I-Claim
 diftitox I-Claim
 no I-Claim
 se I-Claim
@@ -18976,8 +18976,8 @@ mielosupresión I-Claim
 clínicamente I-Claim
 significativa. I-Claim
 
-Los O
-pacientes B-Claim
+Los B-Claim
+pacientes I-Claim
 fuertemente I-Claim
 pretratados I-Claim
 con I-Claim
@@ -19078,8 +19078,8 @@ leche O
 artificialmente O
 acidificada. O
 
-Los O
-resultados B-Premise
+Los B-Premise
+resultados I-Premise
 mostraron I-Premise
 que I-Premise
 durante I-Premise
@@ -19162,8 +19162,8 @@ grupo I-Premise
 de I-Premise
 control. I-Premise
 
-Los O
-resultados B-Claim
+Los B-Claim
+resultados I-Claim
 demostraron I-Claim
 que I-Claim
 el I-Claim
@@ -19191,8 +19191,8 @@ en I-Claim
 sujetos I-Claim
 prehipertensivos. I-Claim
 
-El O
-consumo B-Claim
+El B-Claim
+consumo I-Claim
 regular I-Claim
 de I-Claim
 este I-Claim
@@ -19456,8 +19456,8 @@ monoinfectado O
 0,002 O
 ). O
 
-La O
-incidencia B-Premise
+La B-Premise
+incidencia I-Premise
 de I-Premise
 infecciones I-Premise
 bacterianas I-Premise
@@ -19885,8 +19885,8 @@ muestra I-Premise
 de I-Premise
 seguimiento. I-Premise
 
-El O
-TDF B-Claim
+El B-Claim
+TDF I-Claim
 fue I-Claim
 generalmente I-Claim
 bien I-Claim
@@ -20114,8 +20114,8 @@ los O
 dos O
 grupos. O
 
-Se O
-compararon B-Premise
+Se B-Premise
+compararon I-Premise
 las I-Premise
 diferencias I-Premise
 en I-Premise
@@ -20543,8 +20543,8 @@ en I-Premise
 ambos I-Premise
 grupos. I-Premise
 
-La O
-combinación B-Claim
+La B-Claim
+combinación I-Claim
 fija I-Claim
 de I-Claim
 brimonidina-timolol I-Claim
@@ -20786,8 +20786,8 @@ los I-Premise
 dos I-Premise
 grupos. I-Premise
 
-El O
-nivel B-Premise
+El B-Premise
+nivel I-Premise
 sérico I-Premise
 de I-Premise
 testosterona I-Premise
@@ -21432,8 +21432,8 @@ semanas O
 CV O
 ). O
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 tratados I-Premise
 con I-Premise
 DC I-Premise
@@ -21499,8 +21499,8 @@ tratados I-Premise
 con I-Premise
 CV. I-Premise
 
-La O
-tasa B-Premise
+La B-Premise
+tasa I-Premise
 de I-Premise
 respuesta I-Premise
 global I-Premise
@@ -21586,8 +21586,8 @@ los I-Premise
 tres I-Premise
 regímenes. I-Premise
 
-La O
-anemia B-Premise
+La B-Premise
+anemia I-Premise
 de I-Premise
 grado I-Premise
 3 I-Premise
@@ -21614,8 +21614,8 @@ DC I-Premise
 o I-Premise
 DCb. I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 tratados I-Premise
 con I-Premise
 cualquiera I-Premise
@@ -21645,8 +21645,8 @@ de I-Premise
 la I-Premise
 CV. I-Premise
 
-La O
-DC B-Claim
+La B-Claim
+DC I-Claim
 resultó I-Claim
 en I-Claim
 una I-Claim
@@ -21996,8 +21996,8 @@ corazón I-Premise
 derecho I-Premise
 ). I-Premise
 
-La O
-depresión B-Premise
+La B-Premise
+depresión I-Premise
 y I-Premise
 la I-Premise
 ansiedad I-Premise
@@ -22023,8 +22023,8 @@ p I-Premise
 ), I-Premise
 respectivamente. I-Premise
 
-Los O
-factores B-Claim
+Los B-Claim
+factores I-Claim
 psicológicos I-Claim
 impactan I-Claim
 en I-Claim
@@ -22202,8 +22202,8 @@ n O
 464 O
 ). O
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 del I-Premise
 grupo I-Premise
 de I-Premise
@@ -22268,8 +22268,8 @@ P I-Premise
 0,001 I-Premise
 ). I-Premise
 
-El O
-riesgo B-Premise
+El B-Premise
+riesgo I-Premise
 de I-Premise
 mortalidad I-Premise
 fue I-Premise
@@ -22364,8 +22364,8 @@ entre I-Premise
 los I-Premise
 grupos. I-Premise
 
-La O
-vigilancia B-Claim
+La B-Claim
+vigilancia I-Claim
 del I-Claim
 CHC I-Claim
 se I-Claim
@@ -22384,8 +22384,8 @@ curativo I-Claim
 más I-Claim
 tempranos. I-Claim
 
-La O
-ventaja B-Claim
+La B-Claim
+ventaja I-Claim
 de I-Claim
 supervivencia I-Claim
 fue I-Claim
@@ -22614,8 +22614,8 @@ relativo, I-Premise
 P=1,00 I-Premise
 ). I-Premise
 
-El O
-análisis B-Premise
+El B-Premise
+análisis I-Premise
 secundario I-Premise
 de I-Premise
 los I-Premise
@@ -22761,8 +22761,8 @@ cuarto I-Claim
 tratamiento I-Claim
 farmacológico. I-Claim
 
-La O
-vitamina B-Claim
+La B-Claim
+vitamina I-Claim
 D I-Claim
 sérica I-Claim
 baja I-Claim
@@ -22914,8 +22914,8 @@ P I-Premise
 0,05 I-Premise
 ). I-Premise
 
-El O
-nivel B-Premise
+El B-Premise
+nivel I-Premise
 sérico I-Premise
 y I-Premise
 gamma I-Premise
@@ -23227,9 +23227,9 @@ p I-Premise
 = I-Premise
 0,014. I-Premise
 
-A O
-lo O
-largo B-Premise
+A B-Premise
+lo I-Premise
+largo I-Premise
 de I-Premise
 diez I-Premise
 años I-Premise
@@ -23519,8 +23519,8 @@ Gramont I-Premise
 versus I-Premise
 raltitrexed. I-Premise
 
-Se O
-observó B-Premise
+Se B-Premise
+observó I-Premise
 un I-Premise
 aumento I-Premise
 de I-Premise
@@ -23550,8 +23550,8 @@ y I-Premise
 hematológica I-Premise
 combinada. I-Premise
 
-La O
-evaluación B-Premise
+La B-Premise
+evaluación I-Premise
 de I-Premise
 la I-Premise
 calidad I-Premise
@@ -24025,8 +24025,8 @@ mm I-Premise
 Hg, I-Premise
 respectivamente. I-Premise
 
-El O
-cambio B-Premise
+El B-Premise
+cambio I-Premise
 en I-Premise
 la I-Premise
 perfusión I-Premise
@@ -24152,8 +24152,8 @@ P I-Premise
 0,44 I-Premise
 ). I-Premise
 
-La O
-disminución B-Claim
+La B-Claim
+disminución I-Claim
 intensiva I-Claim
 de I-Claim
 la I-Claim
@@ -24735,8 +24735,8 @@ la I-Premise
 semana I-Premise
 16. I-Premise
 
-El O
-RRS B-Premise
+El B-Premise
+RRS I-Premise
 basal, I-Premise
 y I-Premise
 en I-Premise
@@ -24892,8 +24892,8 @@ vida O
 para O
 controlar. O
 
-La O
-espironolactona B-Claim
+La B-Claim
+espironolactona I-Claim
 puede I-Claim
 utilizarse I-Claim
 como I-Claim
@@ -25036,8 +25036,8 @@ sérico O
 de O
 potasio. O
 
-La O
-PA B-Premise
+La B-Premise
+PA I-Premise
 sistólica I-Premise
 se I-Premise
 redujo I-Premise
@@ -25110,8 +25110,8 @@ p I-Premise
 0,099 I-Premise
 ). I-Premise
 
-La O
-monoterapia B-Claim
+La B-Claim
+monoterapia I-Claim
 de I-Claim
 ciclo I-Claim
 corto I-Claim
@@ -25451,8 +25451,8 @@ efectos I-Premise
 adversos I-Premise
 graves. I-Premise
 
-El O
-tratamiento B-Premise
+El B-Premise
+tratamiento I-Premise
 antiviral I-Premise
 con I-Premise
 una I-Premise
@@ -25799,8 +25799,8 @@ P O
 0,015 O
 ). O
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 sistólica I-Premise
 aórtica I-Premise
 y I-Premise
@@ -25899,8 +25899,8 @@ P I-Premise
 0,013 I-Premise
 ). I-Premise
 
-El O
-AZT B-Claim
+El B-Claim
+AZT I-Claim
 redujo I-Claim
 la I-Claim
 presión I-Claim
@@ -25922,8 +25922,8 @@ e I-Claim
 hipertensión I-Claim
 comorbida. I-Claim
 
-La O
-inhibición B-Claim
+La B-Claim
+inhibición I-Claim
 de I-Claim
 la I-Claim
 anhidrasa I-Claim
@@ -26093,8 +26093,8 @@ farmacología O
 del O
 SGLT2. O
 
-Los O
-ensayos B-Premise
+Los B-Premise
+ensayos I-Premise
 clínicos I-Premise
 a I-Premise
 gran I-Premise
@@ -26122,8 +26122,8 @@ la I-Premise
 TFG I-Premise
 e. I-Premise
 
-La O
-investigación B-Premise
+La B-Premise
+investigación I-Premise
 sobre I-Premise
 las I-Premise
 terapias I-Premise
@@ -26472,8 +26472,8 @@ tratados I-Premise
 con I-Premise
 BPL. I-Premise
 
-La O
-hiperemia B-Premise
+La B-Premise
+hiperemia I-Premise
 conjuntival I-Premise
 moderada I-Premise
 a I-Premise
@@ -26752,8 +26752,8 @@ la I-Premise
 sesión I-Premise
 seca. I-Premise
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 arterial I-Premise
 sistólica I-Premise
 ajustada I-Premise
@@ -26802,8 +26802,8 @@ P I-Premise
 = I-Premise
 0,02. I-Premise
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 arterial I-Premise
 diastólica I-Premise
 no I-Premise
@@ -26857,8 +26857,8 @@ P I-Premise
 = I-Premise
 0,167. I-Premise
 
-Los O
-niveles B-Premise
+Los B-Premise
+niveles I-Premise
 de I-Premise
 aldosterona I-Premise
 en I-Premise
@@ -26866,8 +26866,8 @@ sangre I-Premise
 no I-Premise
 cambiaron. I-Premise
 
-La O
-reducción B-Claim
+La B-Claim
+reducción I-Claim
 del I-Claim
 volumen I-Claim
 circulante I-Claim
@@ -27132,8 +27132,8 @@ Ex-PRESS I-Premise
 p=0,001 I-Premise
 ). I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 éxito I-Premise
 completo I-Premise
@@ -27162,8 +27162,8 @@ p I-Premise
 0,0024 I-Premise
 ). I-Premise
 
-Las O
-complicaciones B-Premise
+Las B-Premise
+complicaciones I-Premise
 postoperatorias I-Premise
 fueron I-Premise
 más I-Premise
@@ -27240,8 +27240,8 @@ para I-Claim
 el I-Claim
 glaucoma. I-Claim
 
-Se O
-ha B-Claim
+Se B-Claim
+ha I-Claim
 informado I-Claim
 de I-Claim
 que I-Claim
@@ -27634,8 +27634,8 @@ otros I-Premise
 dos I-Premise
 grupos. I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 del I-Premise
 grupo I-Premise
 de I-Premise
@@ -27676,8 +27676,8 @@ ni I-Premise
 en I-Premise
 PulseOx. I-Premise
 
-El O
-nitrito B-Claim
+El B-Claim
+nitrito I-Claim
 sódico I-Claim
 de I-Claim
 liberación I-Claim
@@ -28047,8 +28047,8 @@ de O
 cada O
 fase. O
 
-El O
-consumo B-Premise
+El B-Premise
+consumo I-Premise
 de I-Premise
 ca I-Premise
 durante I-Premise
@@ -28258,8 +28258,8 @@ y O
 morfología O
 bleb. O
 
-El O
-éxito B-Premise
+El B-Premise
+éxito I-Premise
 completo I-Premise
 (definido I-Premise
 como I-Premise
@@ -28299,8 +28299,8 @@ P I-Premise
 0,04 I-Premise
 ). I-Premise
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 se I-Premise
 redujo I-Premise
 un I-Premise
@@ -28341,8 +28341,8 @@ del I-Premise
 68,29 I-Premise
 %. I-Premise
 
-Los O
-Blebs B-Premise
+Los B-Premise
+Blebs I-Premise
 en I-Premise
 el I-Premise
 grupo I-Premise
@@ -28502,8 +28502,8 @@ longevidad O
 del O
 bleb. O
 
-Se O
-ha B-Claim
+Se B-Claim
+ha I-Claim
 demostrado I-Claim
 que I-Claim
 la I-Claim
@@ -28752,8 +28752,8 @@ IMC O
 33,5 O
 kg/m2. O
 
-Las O
-observaciones B-Premise
+Las B-Premise
+observaciones I-Premise
 de I-Premise
 seguridad I-Premise
 fueron I-Premise
@@ -28764,8 +28764,8 @@ hallazgos I-Premise
 del I-Premise
 TAE. I-Premise
 
-Las O
-medidas B-Premise
+Las B-Premise
+medidas I-Premise
 de I-Premise
 eficacia I-Premise
 en I-Premise
@@ -29502,8 +29502,8 @@ BTFC O
 a O
 DTFC. O
 
-Se O
-observó B-Premise
+Se B-Premise
+observó I-Premise
 con I-Premise
 frecuencia I-Premise
 irritación I-Premise
@@ -29561,8 +29561,8 @@ resultados I-Premise
 de I-Premise
 seguridad. I-Premise
 
-La O
-no B-Claim
+La B-Claim
+no I-Claim
 inferioridad I-Claim
 de I-Claim
 BTFC I-Claim
@@ -30021,8 +30021,8 @@ indetectable I-Claim
 del I-Claim
 VHB. I-Claim
 
-Sin O
-embargo, B-Claim
+Sin B-Claim
+embargo, I-Claim
 la I-Claim
 monoterapia I-Claim
 con I-Claim
@@ -30272,8 +30272,8 @@ grupo I-Premise
 de I-Premise
 control. I-Premise
 
-La O
-medicación B-Premise
+La B-Premise
+medicación I-Premise
 hipotensiva I-Premise
 ocular I-Premise
 fue I-Premise
@@ -30306,8 +30306,8 @@ fue I-Premise
 estadísticamente I-Premise
 significativa. I-Premise
 
-Los O
-pacientes B-Claim
+Los B-Claim
+pacientes I-Claim
 con I-Claim
 un I-Claim
 solo I-Claim
@@ -30842,8 +30842,8 @@ macroalbuminuria O
 mg/g O
 ). O
 
-Los O
-cambios B-Premise
+Los B-Premise
+cambios I-Premise
 en I-Premise
 la I-Premise
 categoría I-Premise
@@ -30905,8 +30905,8 @@ bevacizumab, I-Claim
 o I-Claim
 ranibizumab. I-Claim
 
-La O
-terapia B-Claim
+La B-Claim
+terapia I-Claim
 de I-Claim
 privación I-Claim
 de I-Claim
@@ -30954,8 +30954,8 @@ con I-Claim
 la I-Claim
 salud. I-Claim
 
-El O
-ejercicio B-Claim
+El B-Claim
+ejercicio I-Claim
 de I-Claim
 resistencia I-Claim
 puede I-Claim
@@ -31093,8 +31093,8 @@ y O
 composición O
 corporal. O
 
-Los O
-hombres B-Premise
+Los B-Premise
+hombres I-Premise
 asignados I-Premise
 al I-Premise
 ejercicio I-Premise
@@ -31133,8 +31133,8 @@ grupo I-Premise
 de I-Premise
 control. I-Premise
 
-Los O
-hombres B-Premise
+Los B-Premise
+hombres I-Premise
 del I-Premise
 grupo I-Premise
 de I-Premise
@@ -31207,8 +31207,8 @@ pliegues I-Premise
 cutáneos I-Premise
 subcutáneos. I-Premise
 
-El O
-ejercicio B-Claim
+El B-Claim
+ejercicio I-Claim
 de I-Claim
 resistencia I-Claim
 reduce I-Claim
@@ -31466,8 +31466,8 @@ P I-Premise
 = I-Premise
 14,4). I-Premise
 
-La O
-mediana B-Premise
+La B-Premise
+mediana I-Premise
 de I-Premise
 supervivencia I-Premise
 fue I-Premise
@@ -31494,8 +31494,8 @@ MMC I-Premise
 = I-Premise
 0,34). I-Premise
 
-Las O
-toxicidades B-Premise
+Las B-Premise
+toxicidades I-Premise
 en I-Premise
 ambos I-Premise
 brazos I-Premise
@@ -31576,8 +31576,8 @@ entre I-Premise
 los I-Premise
 brazos. I-Premise
 
-El O
-5-FU B-Claim
+El B-Claim
+5-FU I-Claim
 de I-Claim
 PVI I-Claim
 más I-Claim
@@ -31637,8 +31637,8 @@ cáncer I-Claim
 de I-Claim
 páncreas. I-Claim
 
-El O
-riesgo B-Claim
+El B-Claim
+riesgo I-Claim
 de I-Claim
 fractura I-Claim
 aumenta I-Claim
@@ -31901,8 +31901,8 @@ p I-Premise
 ), I-Premise
 respectivamente. I-Premise
 
-La O
-asignación B-Premise
+La B-Premise
+asignación I-Premise
 de I-Premise
 regímenes I-Premise
 de I-Premise
@@ -31916,8 +31916,8 @@ niveles I-Premise
 de I-Premise
 BTM. I-Premise
 
-La O
-metformina B-Premise
+La B-Premise
+metformina I-Premise
 y I-Premise
 la I-Premise
 metformina I-Premise
@@ -32452,8 +32452,8 @@ P I-Premise
 0,3436 I-Premise
 ). I-Premise
 
-El O
-95 B-Premise
+El B-Premise
+95 I-Premise
 % I-Premise
 de I-Premise
 IC I-Premise
@@ -32733,8 +32733,8 @@ pero O
 no O
 sodio/potásico-BP. O
 
-El O
-peso B-Premise
+El B-Premise
+peso I-Premise
 normal I-Premise
 y I-Premise
 los I-Premise
@@ -32829,8 +32829,8 @@ y I-Claim
 la I-Claim
 hipertensión. I-Claim
 
-La O
-evidencia B-Claim
+La B-Claim
+evidencia I-Claim
 ha I-Claim
 demostrado I-Claim
 que I-Claim
@@ -33453,8 +33453,8 @@ p I-Premise
 0,001 I-Premise
 ). I-Premise
 
-La O
-CV B-Premise
+La B-Premise
+CV I-Premise
 global I-Premise
 aumentó I-Premise
 9,1 I-Premise
@@ -33492,8 +33492,8 @@ P I-Premise
 0,001 I-Premise
 ). I-Premise
 
-Las O
-correlaciones B-Premise
+Las B-Premise
+correlaciones I-Premise
 de I-Premise
 Pearson I-Premise
 indicaron I-Premise
@@ -33746,8 +33746,8 @@ completara O
 el O
 estudio. O
 
-La O
-epoyetina B-Premise
+La B-Premise
+epoyetina I-Premise
 alfa, I-Premise
 en I-Premise
 comparación I-Premise
@@ -33882,8 +33882,8 @@ la I-Premise
 epoyetina I-Premise
 alfa. I-Premise
 
-Las O
-reacciones B-Premise
+Las B-Premise
+reacciones I-Premise
 adversas I-Premise
 fueron I-Premise
 comparables I-Premise
@@ -33891,8 +33891,8 @@ entre I-Premise
 los I-Premise
 grupos. I-Premise
 
-La O
-epoyetina B-Claim
+La B-Claim
+epoyetina I-Claim
 alfa I-Claim
 alivia I-Claim
 de I-Claim
@@ -34048,8 +34048,8 @@ factores O
 de O
 riesgo. O
 
-Se O
-observaron B-Premise
+Se B-Premise
+observaron I-Premise
 menos I-Premise
 complicaciones I-Premise
 en I-Premise
@@ -34220,8 +34220,8 @@ asociación I-Premise
 marginalmente I-Premise
 significativa. I-Premise
 
-La O
-cirugía B-Claim
+La B-Claim
+cirugía I-Claim
 de I-Claim
 cataratas I-Claim
 en I-Claim
@@ -34259,8 +34259,8 @@ las I-Claim
 efusiones I-Claim
 uveales. I-Claim
 
-La O
-cirugía B-Claim
+La B-Claim
+cirugía I-Claim
 de I-Claim
 cataratas I-Claim
 en I-Claim
@@ -34485,8 +34485,8 @@ de I-Premise
 33 I-Premise
 meses. I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 tratados I-Premise
 con I-Premise
 CHOP I-Premise
@@ -34821,8 +34821,8 @@ sus I-Premise
 puntuaciones I-Premise
 basales. I-Premise
 
-La O
-proporción B-Premise
+La B-Premise
+proporción I-Premise
 de I-Premise
 pacientes I-Premise
 que I-Premise
@@ -34848,8 +34848,8 @@ con I-Premise
 quimioterapia I-Premise
 sola. I-Premise
 
-Las O
-mayores B-Premise
+Las B-Premise
+mayores I-Premise
 proporciones I-Premise
 del I-Premise
 grupo I-Premise
@@ -34900,8 +34900,8 @@ que I-Premise
 notificaron I-Premise
 empeoramiento. I-Premise
 
-Las O
-proporciones B-Claim
+Las B-Claim
+proporciones I-Claim
 estadísticamente I-Claim
 significativamente I-Claim
 mayores I-Claim
@@ -35542,8 +35542,8 @@ de O
 la O
 hipoglucemia. O
 
-El O
-tiempo B-Premise
+El B-Premise
+tiempo I-Premise
 con I-Premise
 hipoglucemia I-Premise
 nocturna, I-Premise
@@ -35731,8 +35731,8 @@ hipoglucemia I-Premise
 0,022 I-Premise
 ). I-Premise
 
-La O
-CGM B-Claim
+La B-Claim
+CGM I-Claim
 redujo I-Claim
 el I-Claim
 tiempo I-Claim
@@ -35946,8 +35946,8 @@ medio, O
 12 O
 meses). O
 
-Los O
-ojos B-Premise
+Los B-Premise
+ojos I-Premise
 aleatorizados I-Premise
 a I-Premise
 timolol I-Premise

@@ -2149,8 +2149,8 @@ P I-Premise
 ) I-Premise
 . I-Premise
 
-Los O
-fármacos B-Claim
+Los B-Claim
+fármacos I-Claim
 administrados I-Claim
 en I-Claim
 ambos I-Claim
@@ -2801,8 +2801,8 @@ los I-Premise
 dos I-Premise
 grupos. I-Premise
 
-Se O
-observó B-Premise
+Se B-Premise
+observó I-Premise
 alergia I-Premise
 en I-Premise
 el I-Premise
@@ -2878,8 +2878,8 @@ brimonidina I-Premise
 ) I-Premise
 . I-Premise
 
-El O
-dolor B-Premise
+El B-Premise
+dolor I-Premise
 de I-Premise
 cabeza, I-Premise
 la I-Premise
@@ -2904,8 +2904,8 @@ medicación O
 fue O
 aceptable. O
 
-La O
-brimonidina B-Claim
+La B-Claim
+brimonidina I-Claim
 es I-Claim
 segura I-Claim
 y I-Claim
@@ -3932,8 +3932,8 @@ con O
 el O
 estudio. O
 
-La O
-presión B-Premise
+La B-Premise
+presión I-Premise
 intraocular I-Premise
 ( I-Premise
 PIO I-Premise
@@ -6732,8 +6732,8 @@ del I-Premise
 estudio I-Premise
 . I-Premise
 
-El O
-CCT B-Premise
+El B-Premise
+CCT I-Premise
 aumentó I-Premise
 significativamente I-Premise
 ( I-Premise
@@ -7697,8 +7697,8 @@ con I-Premise
 unoprostona I-Premise
 . I-Premise
 
-Los O
-síntomas B-Premise
+Los B-Premise
+síntomas I-Premise
 y I-Premise
 hallazgos I-Premise
 oculares I-Premise
@@ -7711,8 +7711,8 @@ grupos I-Premise
 de I-Premise
 tratamiento. I-Premise
 
-El O
-enrojecimiento B-Premise
+El B-Premise
+enrojecimiento I-Premise
 de I-Premise
 los I-Premise
 ojos I-Premise
@@ -8252,8 +8252,8 @@ trabeculectomía O
 sin O
 5-fluorouracilo. O
 
-La O
-media B-Premise
+La B-Premise
+media I-Premise
 ( I-Premise
 +/-SD I-Premise
 ) I-Premise
@@ -10283,8 +10283,8 @@ P O
 ) O
 . O
 
-Se O
-observaron B-Premise
+Se B-Premise
+observaron I-Premise
 defectos I-Premise
 epiteliales I-Premise
 corneales I-Premise
@@ -10631,8 +10631,8 @@ al I-Claim
 día I-Claim
 . I-Claim
 
-En O
-general, B-Claim
+En B-Claim
+general, I-Claim
 Latanoprost I-Claim
 se I-Claim
 toleró I-Claim
@@ -11162,8 +11162,8 @@ anestesia I-Claim
 general I-Claim
 . I-Claim
 
-La O
-clonidina B-Claim
+La B-Claim
+clonidina I-Claim
 oral I-Claim
 es I-Claim
 segura, I-Claim
@@ -13423,9 +13423,9 @@ travoprost I-Premise
 respectivamente I-Premise
 . I-Premise
 
-Los O
-efectos O
-adversos B-Claim
+Los B-Claim
+efectos I-Claim
+adversos I-Claim
 oculares I-Claim
 y I-Claim
 el I-Claim
@@ -13631,8 +13631,8 @@ P I-Premise
 ) I-Premise
 . I-Premise
 
-El O
-BTFC B-Premise
+El B-Premise
+BTFC I-Premise
 proporcionó I-Premise
 mayores I-Premise
 reducciones I-Premise
@@ -13787,25 +13787,25 @@ en I-Premise
 % I-Premise
 ) I-Premise
 frente I-Premise
-a O
-18 O
-( O
-45 O
-% O
-) O
-ojos O
-para O
-BTFC O
-y O
-TTFC O
-, O
-respectivamente O
-( O
-P O
-< O
-0,001 O
-) O
-. O
+a I-Premise
+18 I-Premise
+( I-Premise
+45 I-Premise
+% I-Premise
+) I-Premise
+ojos I-Premise
+para I-Premise
+BTFC I-Premise
+y I-Premise
+TTFC I-Premise
+, I-Premise
+respectivamente I-Premise
+( I-Premise
+P I-Premise
+< I-Premise
+0,001 I-Premise
+) I-Premise
+. I-Premise
 
 Ambas B-Claim
 gotas I-Claim
@@ -14165,8 +14165,8 @@ de I-Claim
 las I-Claim
 prostaglandinas. I-Claim
 
-El O
-BTFC B-Claim
+El B-Claim
+BTFC I-Claim
 demostró I-Claim
 un I-Claim
 mayor I-Claim
@@ -14184,8 +14184,8 @@ la I-Claim
 PIO I-Claim
 . I-Claim
 
-Los O
-inhibidores B-Claim
+Los B-Claim
+inhibidores I-Claim
 orales I-Claim
 de I-Claim
 la I-Claim
@@ -14603,8 +14603,8 @@ secundarios I-Claim
 sistémicos I-Claim
 . I-Claim
 
-La O
-brinzolamida B-Claim
+La B-Claim
+brinzolamida I-Claim
 produjo I-Claim
 reducciones I-Claim
 significativas I-Claim
@@ -14972,8 +14972,8 @@ imprevistos I-Premise
 del I-Premise
 dispositivo. I-Premise
 
-La O
-reducción B-Claim
+La B-Claim
+reducción I-Claim
 de I-Claim
 la I-Claim
 presión I-Claim
@@ -15879,8 +15879,8 @@ los I-Claim
 grupos I-Claim
 . I-Claim
 
-Se O
-realizó B-Premise
+Se B-Premise
+realizó I-Premise
 la I-Premise
 extracción I-Premise
 de I-Premise
@@ -16277,8 +16277,8 @@ los I-Claim
 pacientes I-Claim
 . I-Claim
 
-Los O
-factores B-Claim
+Los B-Claim
+factores I-Claim
 de I-Claim
 riesgo I-Claim
 para I-Claim
@@ -16691,8 +16691,8 @@ efectos I-Premise
 adversos I-Premise
 leves. I-Premise
 
-La O
-alergia B-Premise
+La B-Premise
+alergia I-Premise
 ocular I-Premise
 se I-Premise
 produjo I-Premise
@@ -17286,8 +17286,8 @@ en I-Premise
 ambos I-Premise
 grupos. I-Premise
 
-La O
-mitomicina B-Claim
+La B-Claim
+mitomicina I-Claim
 C I-Claim
 no I-Claim
 aumentó I-Claim
@@ -18820,8 +18820,8 @@ tres I-Premise
 ojos I-Premise
 . I-Premise
 
-La O
-viscocanalostomía B-Claim
+La B-Claim
+viscocanalostomía I-Claim
 es I-Claim
 un I-Claim
 procedimiento I-Claim
@@ -18840,8 +18840,8 @@ de I-Claim
 ángulo I-Claim
 abierto. I-Claim
 
-La O
-trabeculectomía B-Claim
+La B-Claim
+trabeculectomía I-Claim
 con I-Claim
 5-FU I-Claim
 postoperatorio I-Claim
@@ -20405,8 +20405,8 @@ de I-Premise
 años I-Premise
 . I-Premise
 
-El O
-análisis B-Premise
+El B-Premise
+análisis I-Premise
 de I-Premise
 la I-Premise
 supervivencia I-Premise
@@ -20462,8 +20462,8 @@ no I-Premise
 convertidores I-Premise
 . I-Premise
 
-El O
-betaxolol B-Premise
+El B-Premise
+betaxolol I-Premise
 redujo I-Premise
 significativamente I-Premise
 el I-Premise
@@ -21144,8 +21144,8 @@ P I-Premise
 ) I-Premise
 . I-Premise
 
-A O
-partir B-Claim
+A B-Claim
+partir I-Claim
 de I-Claim
 los I-Claim
 datos I-Claim
@@ -21451,8 +21451,8 @@ P I-Premise
 ) I-Premise
 . I-Premise
 
-Las O
-tasas B-Claim
+Las B-Claim
+tasas I-Claim
 de I-Claim
 complicaciones I-Claim
 fueron I-Claim
@@ -22751,32 +22751,32 @@ a I-Premise
 respectivamente I-Premise
 ) I-Premise
 y I-Premise
-los O
-cambios O
-de O
-agudeza O
-visual O
-de O
-más O
-de O
-1 O
-línea O
-en O
-la O
-agudeza O
-visual O
-de O
-Snellen O
-( O
-43,3 O
-% O
-frente O
-a O
-29,0 O
-% O
-respectivamente O
-) O
-. O
+los I-Premise
+cambios I-Premise
+de I-Premise
+agudeza I-Premise
+visual I-Premise
+de I-Premise
+más I-Premise
+de I-Premise
+1 I-Premise
+línea I-Premise
+en I-Premise
+la I-Premise
+agudeza I-Premise
+visual I-Premise
+de I-Premise
+Snellen I-Premise
+( I-Premise
+43,3 I-Premise
+% I-Premise
+frente I-Premise
+a I-Premise
+29,0 I-Premise
+% I-Premise
+respectivamente I-Premise
+) I-Premise
+. I-Premise
 
 En B-Claim
 una I-Claim
@@ -24971,8 +24971,8 @@ con I-Claim
 MMC I-Claim
 . I-Claim
 
-Sin O
-embargo, B-Claim
+Sin B-Claim
+embargo, I-Claim
 la I-Claim
 morfología I-Claim
 de I-Claim
@@ -25460,8 +25460,8 @@ P I-Premise
 ) I-Premise
 . I-Premise
 
-La O
-agudeza B-Premise
+La B-Premise
+agudeza I-Premise
 visual I-Premise
 fue I-Premise
 similar I-Premise
@@ -25514,8 +25514,8 @@ durante O
 el O
 seguimiento. O
 
-Se O
-produjeron B-Premise
+Se B-Premise
+produjeron I-Premise
 fugas I-Premise
 tempranas I-Premise
 del I-Premise
@@ -26004,8 +26004,8 @@ fueron I-Claim
 bien I-Claim
 toleradas. I-Claim
 
-Las O
-limitaciones B-Premise
+Las B-Premise
+limitaciones I-Premise
 de I-Premise
 este I-Premise
 estudio I-Premise
@@ -26024,8 +26024,8 @@ la I-Premise
 muestra I-Premise
 . I-Premise
 
-Se O
-necesitan B-Claim
+Se B-Claim
+necesitan I-Claim
 estudios I-Claim
 adicionales I-Claim
 para I-Claim
@@ -27024,8 +27024,8 @@ datos O
 de O
 partida. O
 
-La O
-PIO B-Premise
+La B-Premise
+PIO I-Premise
 se I-Premise
 redujo I-Premise
 de I-Premise
@@ -27432,8 +27432,8 @@ con I-Premise
 BPL I-Premise
 . I-Premise
 
-La O
-hiperemia B-Premise
+La B-Premise
+hiperemia I-Premise
 conjuntival I-Premise
 de I-Premise
 moderada I-Premise
@@ -27802,8 +27802,8 @@ P=0,82 I-Premise
 ) I-Premise
 . I-Premise
 
-Las O
-tasas B-Premise
+Las B-Premise
+tasas I-Premise
 de I-Premise
 complicaciones I-Premise
 no I-Premise
@@ -28478,8 +28478,8 @@ P=0,0024 I-Premise
 ) I-Premise
 . I-Premise
 
-Las O
-complicaciones B-Premise
+Las B-Premise
+complicaciones I-Premise
 postoperatorias I-Premise
 fueron I-Premise
 más I-Premise
@@ -29205,8 +29205,8 @@ duración I-Premise
 del I-Premise
 tratamiento. I-Premise
 
-La O
-reducción B-Premise
+La B-Premise
+reducción I-Premise
 de I-Premise
 la I-Premise
 PIO I-Premise
@@ -29273,8 +29273,8 @@ y I-Premise
 meses I-Premise
 . I-Premise
 
-Se O
-encontró B-Premise
+Se B-Premise
+encontró I-Premise
 que I-Premise
 la I-Premise
 media I-Premise
@@ -29725,8 +29725,8 @@ P I-Premise
 ) I-Premise
 . I-Premise
 
-La O
-deserción B-Premise
+La B-Premise
+deserción I-Premise
 del I-Premise
 estudio I-Premise
 fue I-Premise
@@ -31488,8 +31488,8 @@ ocular I-Claim
 recién I-Claim
 diagnosticados. I-Claim
 
-Sin O
-embargo, B-Premise
+Sin B-Premise
+embargo, I-Premise
 en I-Premise
 los I-Premise
 pacientes I-Premise
@@ -31781,8 +31781,8 @@ de I-Premise
 control I-Premise
 . I-Premise
 
-La O
-medicación B-Premise
+La B-Premise
+medicación I-Premise
 hipotensora I-Premise
 ocular I-Premise
 fue I-Premise
@@ -32406,8 +32406,8 @@ p I-Premise
 ) I-Premise
 . I-Premise
 
-El O
-cambio B-Premise
+El B-Premise
+cambio I-Premise
 de I-Premise
 la I-Premise
 PIO I-Premise
@@ -33742,8 +33742,8 @@ y O
 sistémica O
 . O
 
-A O
-partir B-Premise
+A B-Premise
+partir I-Premise
 de I-Premise
 una I-Premise
 línea I-Premise
@@ -34273,8 +34273,8 @@ P=0,33 I-Premise
 ) I-Premise
 . I-Premise
 
-Las O
-diferencias B-Premise
+Las B-Premise
+diferencias I-Premise
 entre I-Premise
 tratamientos I-Premise
 en I-Premise
@@ -34929,8 +34929,8 @@ intención O
 de O
 tratar. O
 
-A O
-partir B-Premise
+A B-Premise
+partir I-Premise
 de I-Premise
 una I-Premise
 presión I-Premise
@@ -35019,8 +35019,8 @@ P I-Premise
 ) I-Premise
 . I-Premise
 
-Los O
-pacientes B-Premise
+Los B-Premise
+pacientes I-Premise
 tratados I-Premise
 con I-Premise
 latanoprost I-Premise
@@ -36485,8 +36485,8 @@ P=.694 I-Premise
 ) I-Premise
 . I-Premise
 
-El O
-éxito B-Premise
+El B-Premise
+éxito I-Premise
 completo I-Premise
 (PIO I-Premise
 de I-Premise
@@ -37385,8 +37385,8 @@ p O
 ) O
 . O
 
-Las O
-disminuciones B-Premise
+Las B-Premise
+disminuciones I-Premise
 de I-Premise
 la I-Premise
 PIO I-Premise

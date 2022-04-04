@@ -1107,8 +1107,7 @@ G-CSF no previno infecciones graves.
 El estudio fue diseñado para comparar los efectos del tratamiento con una combinación de trastuzumab ( Herceptin ; Genentech, Inc, South San Francisco, CA ) y quimioterapia frente a quimioterapia sola en la calidad de vida relacionada con la salud ( CVRS ) en pacientes con HER-2/neu sobreexpresando, cáncer de mama metastásico. 
 Una muestra de 400 pacientes, no tratados previamente para la enfermedad metastásica y aleatorizados para recibir trastuzumab más quimioterapia ( 208 pacientes ) o quimioterapia sola ( 192 pacientes ), completó el cuestionario de calidad de vida de la Organización Europea para la Investigación y el Tratamiento al inicio y al menos en una ocasión posterior a las 8, 20, 32, 44 y 56 semanas. 
 La mejoría o empeoramiento de la CVRS se definió como un cambio > o = 10 puntos (rango, 0 a 100 puntos ) en los puntajes de seis dominios preseleccionados ( calidad de vida global [ CV ], físico, rol, funcionamiento social y emocional, y fatiga ). 
-La CVRS estable se definió como un cambio de menos de 10. 
-Se aplicó una corrección de Bonferroni para múltiples pruebas. 
+La CVRS estable se definió como un cambio de menos de 10. Se aplicó una corrección de Bonferroni para múltiples pruebas. 
 Tras la finalización de la quimioterapia, los pacientes tratados con trastuzumab y quimioterapia notificaron una mejoría significativa de la fatiga ( p < 0,05 ) en comparación con sus puntuaciones basales. 
 La proporción de pacientes que recibieron el tratamiento combinado mejoró en la CV global (p < 0,05 ) que en los pacientes tratados con quimioterapia sola. 
 Las mayores proporciones del grupo de terapia combinada también lograron una mejoría en el funcionamiento físico y funcional y en la fatiga en comparación con el grupo quimioterapéutico, pero las diferencias no fueron estadísticamente significativas. 

@@ -1605,8 +1605,7 @@ Probar la hipótesis de que la modulación de Bcl-2 con ácido retinoico 13-cis 
 Se evaluó la respuesta, la toxicidad, la calidad de vida (QOL) y el efecto del tratamiento en los niveles de Bcl-2 en las células mononucleares de sangre periférica (PBMC).
 Las tasas de respuesta del PSA fueron del 50 % y el 23 %, las tasas de respuesta de la enfermedad medible ( CR+PR ) del 14 % y el 15 %, y la mediana de la supervivencia global de 19,4 meses y 13,9 meses en el brazo A y el brazo B, respectivamente.
 Se produjeron neutropenias transitorias de grado 4 en 18 y 2 pacientes , y trombosis de grado 3 a 4 en 7 pacientes y 1 paciente en el brazo A y el brazo B respectivamente .
-Los pacientes del brazo B informaron de un descenso clínicamente significativo de la CdV entre el inicio y la semana 9/10 (.71 s.d .
-) , y un nivel de QOL significativamente inferior al del Brazo A ( p = 0,01 ) .
+Los pacientes del brazo B informaron de un descenso clínicamente significativo de la CdV entre el inicio y la semana 9/10 (.71 s.d .) , y un nivel de QOL significativamente inferior al del Brazo A ( p = 0,01 ) .
 Tal y como se hipotetizó, los niveles de Bcl-2 disminuyeron con la terapia CRA/IFN sólo en el brazo B ( p = 0,03 ) .
 El tratamiento con MEV fue bien tolerado y demostró actividad clínica en pacientes con CPRC .
 Dado el efecto adverso de CRA/IFN/TAX sobre la CdV, se justifica el estudio de otros agentes novedosos dirigidos a las proteínas de la familia Bcl-2.
