@@ -1,4 +1,4 @@
-# antidote-projections
+<!-- # antidote-projections
 
 This repository contains a medical corpus for argument mining in Spanish that was generated from [AbstRCT corpus](https://gitlab.com/tomaye/abstrct), a dataset of clinical abstracts annotated for argument mining in English), by translating with Opus-MT and DeepL, and projecting using word alignment tools, such as Awesome align and Simalign. After automatic projection, the corpus was post-processed and manually corrected. 
 
@@ -25,4 +25,4 @@ Inside `data` folder:
       - `glaucoma`- argument relations in Spanish
       - `mixed` - argument relations in Spanish
       - `multilingual` - merged English and Spanish train and dev sets
-
+ -->
