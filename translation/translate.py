@@ -31,7 +31,6 @@ def translate_opus(source_file, output_file):
 
 def translate_deepl(source_file, output_file, auth_key):
 
-    # auth_key = 'f0a5361b-554b-dd9f-b3a3-4207aaea795f:fx'
     translator = deepl.Translator(auth_key)
     num_sentences = len(open(source_file, 'r').readlines())
     file = open(source_file, 'r')
