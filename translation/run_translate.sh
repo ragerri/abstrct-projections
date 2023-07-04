@@ -1,12 +1,12 @@
-export INPUT_PATH='./data/neoplasm/dev.tsv'
-export OUTPUT_LINE_PATH='test.txt'
-export MODEL='deepl'
-export OUTPUT_TRANSLATION_PATH=/Users/anaryegen/Desktop/translated_${MODEL}.txt
+export INPUT_PATH='../data/full_line_en/np_dev_en.txt'
+export MODEL='opus-mt'
+export OUTPUT_TRANSLATION_PATH=translated_${MODEL}.txt
+export LANGUAGE='es'
 export DEEPL_KEY=''
 
 python translate.py \
 --data_path=$INPUT_PATH \
---output_path=$OUTPUT_LINE_PATH \
 --save_translation_file=$OUTPUT_TRANSLATION_PATH \
+--target_language=$LANGUAGE
 --model=$MODEL \
 --deepl_key=$DEEPL_KEY
