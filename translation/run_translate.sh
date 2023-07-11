@@ -7,6 +7,6 @@ export DEEPL_KEY=''
 python translate.py \
 --data_path=$INPUT_PATH \
 --save_translation_file=$OUTPUT_TRANSLATION_PATH \
---target_language=$LANGUAGE
+--target_language=$LANGUAGE \
 --model=$MODEL \
 --deepl_key=$DEEPL_KEY

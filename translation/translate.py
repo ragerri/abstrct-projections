@@ -70,7 +70,6 @@ if __name__ == "__main__":
       '--model',
       type=str,
       required=False,
-      default='opus-mt',
       help='Translation model: opus-mt or deepl'
     )
     parser.add_argument(
