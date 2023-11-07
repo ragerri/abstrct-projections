@@ -235,7 +235,7 @@ def train(args, train_dataset, model, tokenizer):
 
                     for key, value in logs.items():
                         tb_writer.add_scalar(key, value, global_step)
-                    print(json.dumps({**logs, **{"step": global_step}}))
+                    (json.dumps({**logs, **{"step": global_step}}))
 
                 if args.local_rank in [-1, 0] and args.save_steps > 0 and global_step % args.save_steps == 0:
                     # Save model checkpoint

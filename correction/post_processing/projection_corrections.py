@@ -8,6 +8,7 @@ def read_file(file):
     current_tag = []
     for line in f:
         if line != '\n':
+            # print(line)
             token, tag = line.split()
             current_tag.append(tag)
             current_token.append(token)
@@ -25,6 +26,9 @@ def write_file(source_path, target_path, output_path):
     output = open(output_path, 'w')
     source_token_list, source_tag_list = read_file(source_path)
     target_token_list, target_tag_list = read_file(target_path)
+    
+    print(len(source_token_list))
+    print(len(target_token_list))
     
     assert len(source_token_list) == len(target_token_list), "Source and target should have equal amount of data/lines"
 
@@ -70,8 +74,6 @@ def get_numbers(source_file, target_file, output_file):
             c += 1
             # print(target, '\n', output, '\n')
     print("Number of corrections: ", c)
-    
-
     print("Number of sentences: ", len(target_tags))
 
 if __name__ == "__main__":

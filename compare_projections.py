@@ -52,6 +52,17 @@ def projection_difference(file_one, file_two):
             print(len(tag_one), len(tag_two))
             print('\n') 
             count_tags += 1
+    # q = open('/Users/anaryegen/Desktop/projections.txt', 'w')
+    # for tag_one, tag_two in zip(tokens_from_first, tokens_from_second):
+
+    #     if set(tag_one) != set(tag_two):
+    #         q.write('\n')
+    #         q.write(' '.join(tag_one))
+    #         q.write('\n')
+    #         q.write(' '.join(tag_two))
+    #         # print(len(tag_one), len(tag_two))
+    #         q.write('\n')
+    # #         # count_tags += 
 
     count_tokens = 0
     for token_one, token_two in zip(tokens_from_first, tokens_from_second):
@@ -64,4 +75,4 @@ def projection_difference(file_one, file_two):
     # print()
     # print("Difference in translation: ", count_tokens)
 
-projection_difference('data/argument_components/manual_projections/deepl/awesome/train.tsv', 'data/deepl_awesome/neoplasm/projected/train.tsv')
+projection_difference('/Users/anaryegen/Desktop/AbstRCT-projections/datasets/fr/nllb200/fr-mixed-test.tsv', '/Users/anaryegen/Desktop/AbstRCT-projections/datasets/en/en-mixed-test.tsv')
