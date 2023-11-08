@@ -6,7 +6,7 @@ Consider running `pip install requirements.txt` before running the scripts below
 Table of contents:
 
 - [Data](#data)
-- [Cross-lingual argument mining](https://github.com/ragerri/antidote-projections/cross-lingual-argument-mining)
+- [Cross-lingual argument mining](https://github.com/ragerri/antidote-projections/tree/main/cross-lingual-argument-mining)
 
 
 # Data
