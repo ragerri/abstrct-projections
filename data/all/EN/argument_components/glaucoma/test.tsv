@@ -985,7 +985,7 @@ of O
 double-masked O
 study O
 medication O
-";" O
+; O
 the O
 per-protocol O
 ( O
@@ -1117,13 +1117,13 @@ combination O
 n O
 = O
 175 O
-";" O
+; O
 latanoprost O
 , O
 n O
 = O
 173 O
-";" O
+; O
 mean O
 [ O
 SD O
@@ -1142,7 +1142,7 @@ and O
 years O
 , O
 respectively O
-";" O
+; O
 103 O
 women O
 in O
@@ -1196,7 +1196,7 @@ vs I-Premise
 % I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.001 I-Premise
@@ -1252,12 +1252,12 @@ fixed I-Premise
 , I-Premise
 35.1 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 latanoprost I-Premise
 , I-Premise
 17.8 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.001 I-Premise
@@ -1402,7 +1402,7 @@ at O
 and O
 <=15 O
 mmHg O
-";" O
+; O
 complete O
 ( O
 target O
@@ -1438,7 +1438,7 @@ System O
 ( O
 MBGS O
 ) O
-";" O
+; O
 spectral O
 domain O
 optical O
@@ -1448,12 +1448,12 @@ tomography O
 SD-OCT O
 ) O
 examination O
-";" O
+; O
 number O
 of O
 glaucoma O
 medications O
-";" O
+; O
 and O
 frequency O
 of O
@@ -2031,7 +2031,7 @@ daily O
 ( O
 8:00 O
 AM O
-";" O
+; O
 n O
 = O
 152 O
@@ -2049,7 +2049,7 @@ AM O
 and O
 8:00 O
 PM O
-";" O
+; O
 n O
 = O
 151 O
@@ -2218,7 +2218,7 @@ CI I-Premise
 1.9 I-Premise
 , I-Premise
 3.2 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.001 I-Premise
@@ -2411,7 +2411,7 @@ met O
 the O
 entry O
 criteria O
-";" O
+; O
 186 O
 received O
 brimonidine O
@@ -2439,7 +2439,7 @@ of I-Premise
 6.5 I-Premise
 mm I-Premise
 Hg I-Premise
-";" I-Premise
+; I-Premise
 timolol-treated I-Premise
 subjects I-Premise
 had I-Premise
@@ -2475,7 +2475,7 @@ P I-Premise
 < I-Premise
 .03 I-Premise
 ) I-Premise
-";" O
+; O
 no O
 significant O
 difference O
@@ -2765,7 +2765,7 @@ or I-Premise
 % I-Premise
 for I-Premise
 trabeculectomy I-Premise
-";" I-Premise
+; I-Premise
 P=0.76 I-Premise
 ) I-Premise
 . I-Premise
@@ -2811,7 +2811,7 @@ phacoemulsification I-Premise
 vs I-Premise
 4 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P=0.001 I-Premise
 ) I-Premise
 . I-Premise
@@ -2987,7 +2987,7 @@ Hg O
 [ O
 SD O
 ] O
-";" O
+; O
 control O
 group O
 : O
@@ -3059,7 +3059,7 @@ respectively I-Premise
 , I-Premise
 after I-Premise
 washout I-Premise
-";" I-Premise
+; I-Premise
 the B-Premise
 IOP I-Premise
 was I-Premise
@@ -3122,7 +3122,7 @@ and I-Premise
 1.0 I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .007 I-Premise
@@ -3162,7 +3162,7 @@ IOP I-Claim
 than I-Claim
 phacoemulsification I-Claim
 alone I-Claim
-";" I-Claim
+; I-Claim
 the O
 safety O
 profiles O
@@ -3332,7 +3332,7 @@ mild I-Premise
 in I-Premise
 both I-Premise
 groups I-Premise
-";" I-Premise
+; I-Premise
 however B-Premise
 there I-Premise
 were I-Premise
@@ -3379,7 +3379,7 @@ event O
 in O
 both O
 groups O
-";" O
+; O
 22 B-Premise
 subjects I-Premise
 ( I-Premise
@@ -3800,7 +3800,7 @@ latanoprost O
 n O
 = O
 60 O
-";" O
+; O
 dorzolamide/timolol O
 , O
 n O
@@ -4201,7 +4201,7 @@ Fisher I-Premise
 exact I-Premise
 test I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 qualified B-Premise
 success I-Premise
 rates I-Premise
@@ -4239,7 +4239,7 @@ mmHg I-Premise
 ( I-Premise
 -29.6 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.0001 I-Premise
@@ -4257,7 +4257,7 @@ mmHg I-Premise
 ( I-Premise
 -21 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.0001 I-Premise
@@ -4859,7 +4859,7 @@ latanoprost O
 n O
 = O
 112 O
-";" O
+; O
 dorzolamide/timolol O
 , O
 n O
@@ -4979,7 +4979,7 @@ difference I-Premise
 1.08 I-Premise
 mm I-Premise
 Hg I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.012 I-Premise
@@ -6239,7 +6239,7 @@ randomized O
 brimonidine/timolol O
 , O
 n=111 O
-";" O
+; O
 dorzolamide/timolol O
 , O
 n=99 O
@@ -7022,7 +7022,7 @@ and O
 ] O
 , O
 respectively O
-";" O
+; O
 P O
 = O
 .934 O
@@ -7652,7 +7652,7 @@ in I-Claim
 Japanese I-Claim
 NTG I-Claim
 patients I-Claim
-";" O
+; O
 both B-Claim
 showed I-Claim
 similar I-Claim
@@ -7758,7 +7758,7 @@ males O
 , O
 21 O
 females O
-";" O
+; O
 mean O
 age O
 61.9 O
@@ -8336,7 +8336,7 @@ Group I-Premise
 A I-Premise
 68.9 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 Group I-Premise
 B I-Premise
 66.51 I-Premise
@@ -8485,7 +8485,7 @@ topical O
 bimatoprost O
 ( O
 LUMIGAN O
-";" O
+; O
 Allergan O
 , O
 Inc. O
@@ -8506,7 +8506,7 @@ and O
 dorzolamide O
 ( O
 Cosopt O
-";" O
+; O
 Merck O
 and O
 Co O
@@ -9655,7 +9655,7 @@ at I-Premise
 17.96±5.49 I-Premise
 vs I-Premise
 13.61±4.09 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.001 I-Premise
@@ -9666,7 +9666,7 @@ and I-Premise
 16.90±4.11 I-Premise
 vs I-Premise
 13.96±3.25 I-Premise
-";" I-Premise
+; I-Premise
 P=0.003 I-Premise
 ) I-Premise
 h I-Premise
@@ -9702,7 +9702,7 @@ operation I-Premise
 15.41±3.96 I-Premise
 vs I-Premise
 16.01±3.41 I-Premise
-";" I-Premise
+; I-Premise
 P=0.0539 I-Premise
 ) I-Premise
 . I-Premise
@@ -9734,7 +9734,7 @@ group I-Premise
 vs I-Premise
 9.6 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P=0.091 I-Premise
 ) I-Premise
 . I-Premise
@@ -9836,7 +9836,7 @@ for O
 Chinese O
 PACG O
 patients O
-";" O
+; O
 75 O
 patients O
 underwent O
@@ -10308,7 +10308,7 @@ glaucoma O
 or O
 advanced O
 glaucoma O
-";" O
+; O
 any O
 intraocular O
 infection O
@@ -10328,7 +10328,7 @@ the O
 previous O
 3 O
 months O
-";" O
+; O
 contraindications O
 to O
 the O
@@ -10337,7 +10337,7 @@ of O
 beta O
 adrenoceptor O
 antagonists O
-";" O
+; O
 systemic O
 medications O
 likely O
@@ -10352,15 +10352,15 @@ the O
 previous O
 3 O
 months O
-";" O
+; O
 ocular O
 steroid O
 use O
-";" O
+; O
 contact O
 lens O
 wear O
-";" O
+; O
 and O
 pregnant O
 and O
@@ -11055,7 +11055,7 @@ P I-Premise
 < I-Premise
 0.001 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 day I-Premise
 3 I-Premise
 , I-Premise
@@ -11073,7 +11073,7 @@ P I-Premise
 < I-Premise
 0.001 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 day I-Premise
 7 I-Premise
 , I-Premise
@@ -11131,7 +11131,7 @@ group I-Premise
 ( I-Premise
 P=0.046 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 hypotony B-Premise
 recovered I-Premise
 in I-Premise
@@ -11500,10 +11500,10 @@ were O
 measured O
 at O
 baseline O
-";" O
+; O
 2 O
 weeks O
-";" O
+; O
 and O
 1 O
 , O
@@ -11702,7 +11702,7 @@ P I-Premise
 = I-Premise
 0.456 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 and I-Premise
 at I-Premise
 6 I-Premise
@@ -13881,7 +13881,7 @@ eye I-Premise
 at I-Premise
 18 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 control I-Premise
 eye I-Premise
 at I-Premise
@@ -14104,7 +14104,7 @@ CI I-Claim
 0.47 I-Claim
 to I-Claim
 0.97 I-Claim
-";" I-Claim
+; I-Claim
 p=0.034 I-Claim
 ) I-Claim
 . I-Claim
@@ -14145,7 +14145,7 @@ females I-Premise
 vs I-Premise
 43.6 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 OR I-Premise
 1.56 I-Premise
 ) I-Premise
@@ -14157,7 +14157,7 @@ non-Chinese I-Premise
 vs I-Premise
 46.9 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 OR I-Premise
 2.13 I-Premise
 ) I-Premise
@@ -14178,7 +14178,7 @@ eye I-Premise
 vs I-Premise
 44.7 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 OR I-Premise
 1.61 I-Premise
 ) I-Premise
@@ -16256,13 +16256,13 @@ group I-Premise
 n I-Premise
 = I-Premise
 20 I-Premise
-";" I-Premise
+; I-Premise
 log-rank I-Premise
 P I-Premise
 = I-Premise
 0.60 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 an B-Premise
 IOP I-Premise
 between I-Premise
@@ -16294,12 +16294,12 @@ group I-Premise
 n I-Premise
 = I-Premise
 18 I-Premise
-";" I-Premise
+; I-Premise
 log-rank I-Premise
 P I-Premise
 = I-Premise
 0.17 I-Premise
-";" I-Premise
+; I-Premise
 Kaplan-Meier I-Premise
 cumulative I-Premise
 probability I-Premise
@@ -16317,7 +16317,7 @@ intraoperative I-Premise
 conversion I-Premise
 into I-Premise
 trabeculectomy I-Premise
-";" I-Premise
+; I-Premise
 microruptures I-Premise
 in I-Premise
 Descemet I-Premise
@@ -16326,7 +16326,7 @@ membrane I-Premise
 in I-Premise
 five I-Premise
 eyes I-Premise
-";" I-Premise
+; I-Premise
 three I-Premise
 cases I-Premise
 of I-Premise
@@ -16349,7 +16349,7 @@ the I-Premise
 procedure I-Premise
 requiring I-Premise
 reoperation I-Premise
-";" I-Premise
+; I-Premise
 and I-Premise
 a I-Premise
 1-mm I-Premise
@@ -16378,11 +16378,11 @@ early I-Premise
 transient I-Premise
 IOP I-Premise
 spike I-Premise
-";" I-Premise
+; I-Premise
 one I-Premise
 early I-Premise
 hyphema I-Premise
-";" I-Premise
+; I-Premise
 five I-Premise
 cases I-Premise
 of I-Premise
@@ -16401,7 +16401,7 @@ from I-Premise
 the I-Premise
 conjunctival I-Premise
 suture I-Premise
-";" I-Premise
+; I-Premise
 three I-Premise
 cases I-Premise
 of I-Premise
@@ -17018,7 +17018,7 @@ remarkable I-Premise
 reductions I-Premise
 in I-Premise
 IOP I-Premise
-";" I-Premise
+; I-Premise
 from I-Premise
 pretreatment I-Premise
 IOP I-Premise
@@ -18407,7 +18407,7 @@ P I-Premise
 0.04 I-Premise
 , I-Premise
 PP I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.001 I-Premise
@@ -18667,7 +18667,7 @@ medications I-Premise
 0.7 I-Premise
 versus I-Premise
 1.3 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.006 I-Premise
@@ -19029,7 +19029,7 @@ groups O
 brimonidine-timolol O
 23.4 O
 mmHg O
-";" O
+; O
 timolol O
 23.0 O
 mmHg O
@@ -20273,7 +20273,7 @@ weeks O
 , O
 and O
 12 O
-";" O
+; O
 statistical O
 superiority O
 of O
@@ -20421,7 +20421,7 @@ for I-Premise
 FCLT I-Premise
 vs I-Premise
 timolol I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .001 I-Premise
@@ -20670,7 +20670,7 @@ Forty-one O
 patients O
 were O
 recruited O
-";" O
+; O
 20 O
 had O
 standard O
@@ -21734,7 +21734,7 @@ ologen I-Premise
 group I-Premise
 ( I-Premise
 score=2.8 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.01 I-Premise
@@ -22487,13 +22487,13 @@ purite I-Premise
 19.6 I-Premise
 +/- I-Premise
 2.94 I-Premise
-";" I-Premise
+; I-Premise
 brinzolamide I-Premise
 : I-Premise
 19.8 I-Premise
 +/- I-Premise
 3.25 I-Premise
-";" I-Premise
+; I-Premise
 p I-Premise
 = I-Premise
 0.846 I-Premise
@@ -22815,7 +22815,7 @@ using O
 laser O
 Doppler O
 flowmetry O
-";" O
+; O
 retrobulbar O
 flow O
 velocities O
@@ -22882,7 +22882,7 @@ LT I-Premise
 % I-Premise
 ±10.0 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 BT I-Premise
 : I-Premise
 -33.6 I-Premise
@@ -23184,7 +23184,7 @@ bimatoprost I-Premise
 SD I-Premise
 = I-Premise
 3.28 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.0001 I-Premise
@@ -23258,7 +23258,7 @@ percentage O
 ) O
 between O
 groups O
-";" O
+; O
 however O
 , O
 there B-Premise
@@ -23707,7 +23707,7 @@ BAK O
 latanoprost O
 ( O
 BPL O
-";" O
+; O
 Xalatan O
 ) O
 in O
@@ -23901,7 +23901,7 @@ D42 I-Premise
 vs I-Premise
 30.6 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 p=0.003 I-Premise
 ) I-Premise
 and I-Premise
@@ -23912,7 +23912,7 @@ D84 I-Premise
 vs I-Premise
 29.1 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 p=0.02 I-Premise
 ) I-Premise
 . I-Premise
@@ -23939,7 +23939,7 @@ D42 I-Premise
 0.15 I-Premise
 vs I-Premise
 0.41 I-Premise
-";" I-Premise
+; I-Premise
 p=0.001 I-Premise
 ) I-Premise
 and I-Premise
@@ -23948,7 +23948,7 @@ D84 I-Premise
 0.18 I-Premise
 vs I-Premise
 0.46 I-Premise
-";" I-Premise
+; I-Premise
 p=0.001 I-Premise
 ) I-Premise
 . I-Premise
@@ -24007,7 +24007,7 @@ included O
 in O
 the O
 study O
-";" O
+; O
 22 O
 were O
 randomly O
@@ -24178,11 +24178,11 @@ study I-Premise
 group I-Premise
 ( I-Premise
 control I-Premise
-";" I-Premise
+; I-Premise
 20.4±9.7 I-Premise
 , I-Premise
 study I-Premise
-";" I-Premise
+; I-Premise
 13.6±6.5 I-Premise
 , I-Premise
 P I-Premise
@@ -25237,7 +25237,7 @@ placebo O
 ) O
 once O
 daily O
-";" O
+; O
 group O
 2 O
 was O
@@ -25815,7 +25815,7 @@ loss I-Premise
 ( I-Premise
 NS I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 the B-Premise
 corresponding I-Premise
 figures I-Premise
@@ -25910,7 +25910,7 @@ end-point I-Premise
 ( I-Premise
 2.3 I-Premise
 mmHg I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.0002 I-Premise
@@ -26241,7 +26241,7 @@ B I-Premise
 +/- I-Premise
 4.67 I-Premise
 mmHg I-Premise
-";" I-Premise
+; I-Premise
 p=0.87 I-Premise
 ) I-Premise
 . I-Premise
@@ -26267,7 +26267,7 @@ to I-Premise
 +/- I-Premise
 6.13 I-Premise
 mmHg I-Premise
-";" I-Premise
+; I-Premise
 p=006 I-Premise
 ) I-Premise
 in I-Premise
@@ -27248,7 +27248,7 @@ vs I-Premise
 % I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.01 I-Premise
@@ -27290,7 +27290,7 @@ vs I-Premise
 , I-Premise
 respectively I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 however B-Premise
 , I-Premise
 the I-Premise
@@ -27327,7 +27327,7 @@ group I-Premise
 vs I-Premise
 74 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.01 I-Premise
@@ -27667,7 +27667,7 @@ group I-Premise
 at I-Premise
 12 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 it I-Premise
 was I-Premise
 also I-Premise
@@ -28755,14 +28755,14 @@ of I-Premise
 0 I-Premise
 = I-Premise
 none/trace I-Premise
-";" I-Premise
+; I-Premise
 1= I-Premise
 mild I-Premise
-";" I-Premise
+; I-Premise
 2 I-Premise
 = I-Premise
 moderate I-Premise
-";" I-Premise
+; I-Premise
 3 I-Premise
 = I-Premise
 severe I-Premise
@@ -29353,7 +29353,7 @@ P I-Premise
 analysis I-Premise
 of I-Premise
 covariance I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 confidence I-Premise
@@ -29661,19 +29661,19 @@ treated O
 ( O
 safety O
 population O
-";" O
+; O
 12-18 O
 years O
 , O
 n=48 O
-";" O
+; O
 -3 O
 < O
 12 O
 years O
 , O
 n=55 O
-";" O
+; O
 0 O
 < O
 3 O
@@ -29696,7 +29696,7 @@ IOP O
 was O
 27.7±6.17 O
 mmHg O
-";" O
+; O
 125 O
 subjects O
 completed O
@@ -29746,7 +29746,7 @@ CI I-Premise
 -0.8 I-Premise
 to I-Premise
 3.7 I-Premise
-";" I-Premise
+; I-Premise
 P=0.21 I-Premise
 ) I-Premise
 . I-Premise
@@ -30999,7 +30999,7 @@ to I-Premise
 4.0 I-Premise
 mm I-Premise
 Hg I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 or=.001 I-Premise
@@ -31369,7 +31369,7 @@ Primary O
 outcome O
 : O
 IOP O
-";" O
+; O
 secondary O
 : O
 number O
@@ -32013,7 +32013,7 @@ age O
 64.7 O
 10.9 O
 years O
-";" O
+; O
 mean O
 follow-up O
 , O
@@ -32311,7 +32311,7 @@ Sweden O
 , O
 19 O
 sites O
-";" O
+; O
 Finland O
 , O
 seven O
@@ -32382,7 +32382,7 @@ in/addition O
 to O
 treatment O
 ) O
-";" O
+; O
 diurnal O
 IOP O
 ( O
@@ -32405,9 +32405,9 @@ months O
 24 O
 and O
 36 O
-";" O
+; O
 tolerability O
-";" O
+; O
 and O
 resource O
 utilization O
@@ -32469,12 +32469,12 @@ non-PGs O
 ( O
 12 O
 months O
-";" O
+; O
 p O
 < O
 0.001 O
 ) O
-";" O
+; O
 51 O
 % O
 and O

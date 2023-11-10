@@ -468,7 +468,7 @@ point O
 was O
 progression-free O
 survival O
-";" O
+; O
 secondary O
 end O
 points O
@@ -1996,7 +1996,7 @@ States O
 n O
 = O
 749 O
-";" O
+; O
 78 O
 % O
 age O
@@ -2004,7 +2004,7 @@ age O
 or O
 = O
 50 O
-";" O
+; O
 87 O
 % O
 clinical O
@@ -2015,11 +2015,11 @@ or O
 = O
 2.0 O
 cm O
-";" O
+; O
 84 O
 % O
 lumpectomy O
-";" O
+; O
 87 O
 % O
 white O
@@ -2098,7 +2098,7 @@ mean I-Premise
 4.8 I-Premise
 v I-Premise
 3.0 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .001 I-Premise
@@ -2111,7 +2111,7 @@ months I-Premise
 3.6 I-Premise
 v I-Premise
 2.5 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .006 I-Premise
@@ -4239,7 +4239,7 @@ period I-Premise
 ( I-Premise
 week I-Premise
 12 I-Premise
-";" I-Premise
+; I-Premise
 p I-Premise
 < I-Premise
 0.0001 I-Premise
@@ -4439,7 +4439,7 @@ plus O
 paclitaxel O
 ( O
 TC O
-";" O
+; O
 area O
 under O
 the O
@@ -4539,7 +4539,7 @@ patients O
 were O
 randomly O
 assigned O
-";" O
+; O
 882 O
 and O
 860 O
@@ -4638,7 +4638,7 @@ HR I-Premise
 ] I-Premise
 , I-Premise
 1.18 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -4646,7 +4646,7 @@ CI I-Premise
 1.06 I-Premise
 to I-Premise
 1.32 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .0044 I-Premise
@@ -4672,7 +4672,7 @@ arm I-Premise
 HR I-Premise
 , I-Premise
 1.05 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -4680,7 +4680,7 @@ CI I-Premise
 0.91 I-Premise
 to I-Premise
 1.20 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .5106 I-Premise
@@ -5960,7 +5960,7 @@ Iressa O
 [ O
 ZD1839 O
 ] O
-";" O
+; O
 AstraZeneca O
 , O
 Wilmington O
@@ -6090,7 +6090,7 @@ CI I-Premise
 to I-Premise
 27.9 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 among I-Premise
 evaluable I-Premise
 patients I-Premise
@@ -6122,7 +6122,7 @@ CI I-Premise
 to I-Premise
 49.1 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 median I-Premise
 progression-free I-Premise
 survival I-Premise
@@ -6132,7 +6132,7 @@ were I-Premise
 and I-Premise
 2.8 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 and I-Premise
 median I-Premise
 overall I-Premise
@@ -6599,7 +6599,7 @@ bexarotene O
 ( O
 Targretin O
 capsules O
-";" O
+; O
 Ligand O
 Pharmaceuticals O
 Incorporated O
@@ -7011,7 +7011,7 @@ patients I-Premise
 13 I-Premise
 % I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 at I-Premise
 higher I-Premise
 doses I-Premise
@@ -7537,7 +7537,7 @@ resulting O
 in O
 significant O
 morbidity O
-";" O
+; O
 therefore O
 , O
 preventing O
@@ -7711,7 +7711,7 @@ in I-Premise
 the I-Premise
 escitalopram I-Premise
 group I-Premise
-";" I-Premise
+; I-Premise
 stratified I-Premise
 log-rank I-Premise
 test I-Premise
@@ -7795,18 +7795,18 @@ compared I-Premise
 with I-Premise
 surgery I-Premise
 group I-Premise
-";" I-Premise
+; I-Premise
 hazard I-Premise
 ratio I-Premise
 , I-Premise
 3.6 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
 , I-Premise
 1.38-9.40 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .009 I-Premise
@@ -7995,7 +7995,7 @@ IV O
 on O
 day O
 2 O
-";" O
+; O
 or O
 MVP O
 regimen O
@@ -8977,14 +8977,14 @@ with I-Premise
 complications I-Premise
 was I-Premise
 0.70 I-Premise
-";" I-Premise
+; I-Premise
 CI I-Premise
 95 I-Premise
 % I-Premise
 ( I-Premise
 0.23-2.11 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.694 I-Premise
@@ -9009,13 +9009,13 @@ observation I-Premise
 P I-Premise
 = I-Premise
 0.044 I-Premise
-";" I-Premise
+; I-Premise
 mean I-Premise
 difference I-Premise
 score I-Premise
 : I-Premise
 1.42 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -9303,7 +9303,7 @@ v I-Premise
 2.1 I-Premise
 with I-Premise
 placebo I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .02 I-Premise
@@ -9887,7 +9887,7 @@ BCC I-Premise
 , I-Premise
 254 I-Premise
 euros I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 confidence I-Premise
@@ -9895,13 +9895,13 @@ interval I-Premise
 , I-Premise
 181-324 I-Premise
 euros I-Premise
-";" I-Premise
+; I-Premise
 recurrent I-Premise
 BCC I-Premise
 , I-Premise
 249 I-Premise
 euros I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 confidence I-Premise
@@ -10380,11 +10380,11 @@ v O
 months O
 , O
 respectively O
-";" O
+; O
 P O
 < O
 .001 O
-";" O
+; O
 objective O
 response O
 rate O
@@ -10396,7 +10396,7 @@ v O
 % O
 , O
 respectively O
-";" O
+; O
 P O
 < O
 .001 O
@@ -10582,7 +10582,7 @@ and I-Premise
 1.98 I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .0001 I-Premise
@@ -10858,7 +10858,7 @@ reporting O
 significantly O
 greater O
 dysfunction O
-";" O
+; O
 P O
 = O
 .004 O
@@ -11095,7 +11095,7 @@ patients O
 ( O
 103 O
 females O
-";" O
+; O
 mean O
 age O
 , O
@@ -11187,7 +11187,7 @@ represented O
 normal O
 clinical O
 practice O
-";" O
+; O
 the O
 appropriate O
 control O
@@ -11535,7 +11535,7 @@ hazard I-Premise
 ratio I-Premise
 , I-Premise
 0.97 I-Premise
-";" I-Premise
+; I-Premise
 log I-Premise
 rank I-Premise
 p I-Premise
@@ -11912,7 +11912,7 @@ P I-Premise
 < I-Premise
 .05 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 this B-Premise
 improvement I-Premise
 correlated I-Premise
@@ -12150,7 +12150,7 @@ days O
 , O
 and O
 15 O
-";" O
+; O
 100 O
 mg/m O
 ( O
@@ -12160,7 +12160,7 @@ etoposide O
 on O
 days O
 1-5 O
-";" O
+; O
 and O
 20 O
 mg/m O
@@ -12171,7 +12171,7 @@ cisplatin O
 on O
 days O
 1-5 O
-";" O
+; O
 n O
 = O
 83 O
@@ -12223,7 +12223,7 @@ cisplatin O
 on O
 day O
 1 O
-";" O
+; O
 n O
 = O
 83 O
@@ -12354,7 +12354,7 @@ survival I-Premise
 vs I-Premise
 83 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 hazard I-Premise
 ratio I-Premise
 of I-Premise
@@ -12429,7 +12429,7 @@ P I-Premise
 vs I-Premise
 79 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 hazard I-Premise
 ratio I-Premise
 of I-Premise
@@ -13039,7 +13039,7 @@ and O
 % O
 , O
 respectively O
-";" O
+; O
 hazard O
 ratio O
 ( O
@@ -13174,7 +13174,7 @@ versus I-Premise
 % I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 p=0.0007 I-Premise
 ) I-Premise
 . I-Premise
@@ -13274,7 +13274,7 @@ of O
 cytarabine O
 ( O
 DepoCyt O
-";" O
+; O
 Chiron O
 Corp O
 , O
@@ -13476,7 +13476,7 @@ v I-Premise
 days I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 > I-Premise
 .05 I-Premise
@@ -13924,7 +13924,7 @@ aerobic O
 exercise O
 ( O
 STAN O
-";" O
+; O
 n O
 = O
 96 O
@@ -13943,7 +13943,7 @@ aerobic O
 exercise O
 ( O
 HIGH O
-";" O
+; O
 n O
 = O
 101 O
@@ -13965,7 +13965,7 @@ resistance O
 exercise O
 ( O
 COMB O
-";" O
+; O
 n O
 = O
 104 O
@@ -14045,7 +14045,7 @@ neither I-Premise
 HIGH I-Premise
 ( I-Premise
 +0.8 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 confidence I-Premise
@@ -14057,7 +14057,7 @@ CI I-Premise
 -0.8 I-Premise
 to I-Premise
 2.4 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .30 I-Premise
@@ -14066,7 +14066,7 @@ nor I-Premise
 COMB I-Premise
 ( I-Premise
 +0.5 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -14074,7 +14074,7 @@ CI I-Premise
 -1.1 I-Premise
 to I-Premise
 2.1 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .52 I-Premise
@@ -15008,7 +15008,7 @@ in I-Claim
 of I-Claim
 cancer I-Claim
 patients I-Claim
-";" I-Claim
+; I-Claim
 approximately O
 half O
 such O
@@ -15130,7 +15130,7 @@ detected I-Premise
 between I-Premise
 the I-Premise
 groups I-Premise
-";" I-Premise
+; I-Premise
 the B-Premise
 median I-Premise
 survival I-Premise
@@ -15527,7 +15527,7 @@ $ I-Premise
 vs I-Premise
 $ I-Premise
 18,563 I-Premise
-";" I-Premise
+; I-Premise
 mean I-Premise
 difference I-Premise
 , I-Premise
@@ -15646,7 +15646,7 @@ difference I-Premise
 - I-Premise
 $ I-Premise
 5,453 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -15769,7 +15769,7 @@ to O
 maintain O
 these O
 benefits O
-";" O
+; O
 the B-Claim
 treatments I-Claim
 are I-Claim
@@ -16036,7 +16036,7 @@ compared I-Premise
 to I-Premise
 baseline I-Premise
 measurements I-Premise
-";" I-Premise
+; I-Premise
 there B-Premise
 were I-Premise
 no I-Premise
@@ -16236,7 +16236,7 @@ and O
 females O
 , O
 age O
-";" O
+; O
 6.8 O
 +/- O
 2.33 O
@@ -16261,7 +16261,7 @@ and O
 females O
 , O
 age O
-";" O
+; O
 6.76 O
 +/- O
 2.28 O
@@ -16702,7 +16702,7 @@ men O
 , O
 46 O
 women O
-";" O
+; O
 mean O
 age O
 , O
@@ -17031,7 +17031,7 @@ epidural I-Premise
 ( I-Premise
 7 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 p I-Premise
 < I-Premise
 0.01 I-Premise
@@ -18069,7 +18069,7 @@ axitinib O
 mg O
 twice O
 daily O
-";" O
+; O
 n=361 O
 ) O
 or O
@@ -18079,7 +18079,7 @@ sorafenib O
 mg O
 twice O
 daily O
-";" O
+; O
 n=362 O
 ) O
 . O
@@ -18184,7 +18184,7 @@ HR I-Premise
 % I-Premise
 CI I-Premise
 0.800-1.174 I-Premise
-";" I-Premise
+; I-Premise
 one-sided I-Premise
 p=0.3744 I-Premise
 ) I-Premise
@@ -18220,7 +18220,7 @@ HR I-Premise
 % I-Premise
 CI I-Premise
 0.552-0.779 I-Premise
-";" I-Premise
+; I-Premise
 one-sided I-Premise
 p I-Premise
 < I-Premise
@@ -18623,7 +18623,7 @@ Outcome O
 Index O
 ( O
 TOI O
-";" O
+; O
 a O
 composite O
 endpoint O
@@ -18680,7 +18680,7 @@ intention-to-treat O
 ( O
 ITT O
 ) O
-";" O
+; O
 secondary O
 analyses O
 incorporated O
@@ -19308,7 +19308,7 @@ on O
 an O
 outpatient O
 basis O
-";" O
+; O
 cycles O
 were O
 planned O
@@ -19718,7 +19718,7 @@ DVT O
 ] O
 in O
 1 O
-";" O
+; O
 DVT O
 plus O
 pulmonary O
@@ -19728,7 +19728,7 @@ PE O
 ] O
 in O
 1 O
-";" O
+; O
 DVT O
 plus O
 PE O
@@ -19739,7 +19739,7 @@ drug O
 discontinuation O
 in O
 1 O
-";" O
+; O
 and O
 brachial O
 vein O
@@ -20039,7 +20039,7 @@ and I-Premise
 disability I-Premise
 ( I-Premise
 -9.6 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 confidence I-Premise
@@ -20053,7 +20053,7 @@ CI I-Premise
 -16.4 I-Premise
 to I-Premise
 -4.5 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .001 I-Premise
@@ -20065,14 +20065,14 @@ strength I-Premise
 ( I-Premise
 +10.8 I-Premise
 kg I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
 , I-Premise
 5.4-16.2 I-Premise
 kg I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .001 I-Premise
@@ -20087,7 +20087,7 @@ endurance I-Premise
 repetitions I-Premise
 x I-Premise
 kg I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -20096,7 +20096,7 @@ CI I-Premise
 repetitions I-Premise
 x I-Premise
 kg I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .039 I-Premise
@@ -20361,7 +20361,7 @@ found I-Premise
 in I-Premise
 volume I-Premise
 reduction I-Premise
-";" I-Premise
+; I-Premise
 however B-Premise
 , I-Premise
 all I-Premise
@@ -20388,7 +20388,7 @@ physical I-Premise
 symptoms I-Premise
 or I-Premise
 QOL I-Premise
-";" I-Premise
+; I-Premise
 however B-Premise
 , I-Premise
 treatment-related I-Premise
@@ -20974,11 +20974,11 @@ administration O
 PLC O
 6 O
 % O
-";" O
+; O
 CDB-2914 O
 -29 O
 % O
-";" O
+; O
 P=.01 O
 ) O
 , O
@@ -21035,12 +21035,12 @@ CDB-2914 O
 , O
 20 O
 % O
-";" O
+; O
 PLC O
 , O
 83 O
 % O
-";" O
+; O
 P=.001 O
 ) O
 . O
@@ -22314,7 +22314,7 @@ study O
 19 O
 , O
 flutamide O
-";" O
+; O
 18 O
 , O
 LHRH O
@@ -22638,7 +22638,7 @@ day O
 arm O
 B O
 ) O
-";" O
+; O
 cycles O
 were O
 repeated O
@@ -22651,7 +22651,7 @@ Fifteen O
 patients O
 were O
 ineligible O
-";" O
+; O
 patient O
 characteristics O
 were O
@@ -23283,7 +23283,7 @@ arm I-Premise
 , I-Premise
 30 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 arm I-Premise
 2 I-Premise
 , I-Premise
@@ -23557,7 +23557,7 @@ cisplatin O
 , O
 92 O
 % O
-";" O
+; O
 C+P O
 , O
 91 O
@@ -23680,7 +23680,7 @@ cisplatin I-Premise
 n I-Premise
 = I-Premise
 50 I-Premise
-";" I-Premise
+; I-Premise
 C+P I-Premise
 , I-Premise
 n I-Premise
@@ -23792,7 +23792,7 @@ weeks O
 ( O
 DC O
 ) O
-";" O
+; O
 docetaxel O
 75 O
 mg/m2 O
@@ -23813,7 +23813,7 @@ weeks O
 ( O
 DCb O
 ) O
-";" O
+; O
 or O
 vinorelbine O
 25 O
@@ -23849,7 +23849,7 @@ patients I-Premise
 ( I-Premise
 P I-Premise
 =.044 I-Premise
-";" I-Premise
+; I-Premise
 hazard I-Premise
 ratio I-Premise
 , I-Premise
@@ -23917,10 +23917,10 @@ months I-Premise
 for I-Premise
 VC I-Premise
 ] I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 =.657 I-Premise
-";" I-Premise
+; I-Premise
 hazard I-Premise
 ratio I-Premise
 , I-Premise
@@ -24238,7 +24238,7 @@ median I-Premise
 v I-Premise
 9.1 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 hazard I-Premise
 ratio I-Premise
 [ I-Premise
@@ -24246,7 +24246,7 @@ HR I-Premise
 ] I-Premise
 , I-Premise
 0.797 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -24254,7 +24254,7 @@ CI I-Premise
 0.639 I-Premise
 to I-Premise
 0.993 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .042 I-Premise
@@ -24310,11 +24310,11 @@ median I-Premise
 v I-Premise
 28.8 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 HR I-Premise
 , I-Premise
 1.245 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -24322,7 +24322,7 @@ CI I-Premise
 0.954 I-Premise
 to I-Premise
 1.624 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .105 I-Premise
@@ -24625,7 +24625,7 @@ narrow I-Premise
 gastric I-Premise
 tube I-Premise
 group I-Premise
-";" I-Premise
+; I-Premise
 meanwhile O
 , O
 the B-Premise
@@ -24751,7 +24751,7 @@ overall O
 and O
 progression-free O
 survival O
-";" O
+; O
 other O
 endpoints O
 included O
@@ -24777,7 +24777,7 @@ Gramont O
 regimen O
 ( O
 n=303 O
-";" O
+; O
 folinic O
 acid O
 200 O
@@ -24818,7 +24818,7 @@ Lokich O
 regimen O
 ( O
 n=301 O
-";" O
+; O
 protracted O
 venous O
 infusion O
@@ -24836,7 +24836,7 @@ or O
 raltitrexed O
 ( O
 n=301 O
-";" O
+; O
 3 O
 mg/m O
 ( O
@@ -26268,7 +26268,7 @@ CI I-Premise
 % I-Premise
 -50 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .0016 I-Premise
@@ -26291,7 +26291,7 @@ CI I-Premise
 % I-Premise
 -45 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .025 I-Premise
@@ -26328,7 +26328,7 @@ toxicity I-Premise
 ( I-Premise
 3.1 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -26345,7 +26345,7 @@ relapse I-Premise
 3.6 I-Premise
 months I-Premise
 less I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -26361,7 +26361,7 @@ TWiST I-Premise
 ( I-Premise
 6.1 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -26666,7 +26666,7 @@ M O
 : O
 9 O
 F O
-";" O
+; O
 mean O
 age O
 61.9+/-14.0 O
@@ -27024,7 +27024,7 @@ intervention O
 n O
 = O
 7 O
-";" O
+; O
 control O
 : O
 n O
@@ -27061,7 +27061,7 @@ in I-Premise
 the I-Premise
 control I-Premise
 group I-Premise
-";" I-Premise
+; I-Premise
 however B-Premise
 , I-Premise
 this I-Premise
@@ -27074,7 +27074,7 @@ significant I-Premise
 p I-Premise
 = I-Premise
 0.122 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 confidence I-Premise
@@ -28414,7 +28414,7 @@ in I-Premise
 both I-Premise
 treatment I-Premise
 arms I-Premise
-";" I-Premise
+; I-Premise
 no I-Premise
 patient I-Premise
 gained I-Premise
@@ -28459,7 +28459,7 @@ placebo-exposed I-Premise
 patients I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .82 I-Premise
@@ -28594,7 +28594,7 @@ from O
 the O
 hepatic O
 artery O
-";" O
+; O
 therefore O
 , O
 for B-Claim
@@ -28646,7 +28646,7 @@ end O
 point O
 was O
 survival O
-";" O
+; O
 secondary O
 end O
 points O
@@ -28688,7 +28688,7 @@ median I-Premise
 v I-Premise
 20 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .0034 I-Premise
@@ -28704,7 +28704,7 @@ rates I-Premise
 and I-Premise
 24 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .012 I-Premise
@@ -28716,12 +28716,12 @@ hepatic I-Premise
 progression I-Premise
 ( I-Premise
 THP I-Premise
-";" I-Premise
+; I-Premise
 9.8 I-Premise
 v I-Premise
 7.3 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .034 I-Premise
@@ -28737,7 +28737,7 @@ progression I-Premise
 v I-Premise
 14.8 I-Premise
 months I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .029 I-Premise
@@ -28784,7 +28784,7 @@ neutropenia I-Premise
 and I-Premise
 45 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .01 I-Premise
@@ -28797,7 +28797,7 @@ stomatitis I-Premise
 and I-Premise
 24 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .01 I-Premise
@@ -28811,7 +28811,7 @@ elevation I-Premise
 % I-Premise
 and I-Premise
 0 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .01 I-Premise
@@ -28847,7 +28847,7 @@ and I-Premise
 % I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .05 I-Premise
@@ -29139,7 +29139,7 @@ therapy I-Premise
 66.0 I-Premise
 vs. I-Premise
 61.9 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.001 I-Premise
@@ -29431,7 +29431,7 @@ HR I-Premise
 ] I-Premise
 , I-Premise
 0.60 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -29439,7 +29439,7 @@ CI I-Premise
 0.41 I-Premise
 to I-Premise
 0.87 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .007 I-Premise
@@ -29450,7 +29450,7 @@ dyspnea I-Premise
 HR I-Premise
 , I-Premise
 0.68 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -29458,7 +29458,7 @@ CI I-Premise
 0.50 I-Premise
 to I-Premise
 0.93 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .015 I-Premise
@@ -29471,7 +29471,7 @@ pain I-Premise
 HR I-Premise
 , I-Premise
 0.83 I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -29479,7 +29479,7 @@ CI I-Premise
 0.62 I-Premise
 to I-Premise
 1.10 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .19 I-Premise
@@ -30166,7 +30166,7 @@ vs. I-Premise
 % I-Premise
 , I-Premise
 respectively I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.073 I-Premise
@@ -30193,7 +30193,7 @@ group I-Premise
 vs. I-Premise
 41.5 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 0.012 I-Premise
@@ -30396,7 +30396,7 @@ life O
 EQ-5D O
 & O
 amp O
-";" O
+; O
 VAS O
 , O
 EORTC O
@@ -30791,7 +30791,7 @@ hazard I-Premise
 ratios I-Premise
 ( I-Premise
 HRs I-Premise
-";" I-Premise
+; I-Premise
 TAM-OCT I-Premise
 to I-Premise
 TAM I-Premise
@@ -30808,7 +30808,7 @@ CI I-Premise
 0.71 I-Premise
 to I-Premise
 1.22 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .62 I-Premise
@@ -30825,7 +30825,7 @@ CI I-Premise
 0.59 I-Premise
 to I-Premise
 1.18 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .31 I-Premise
@@ -30843,7 +30843,7 @@ CI I-Premise
 0.69 I-Premise
 to I-Premise
 1.37 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 = I-Premise
 .86 I-Premise
@@ -31428,7 +31428,7 @@ eighty-four O
 patients O
 were O
 enrolled O
-";" O
+; O
 658 O
 patients O
 were O
@@ -31556,7 +31556,7 @@ for I-Premise
 the I-Premise
 control I-Premise
 group I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .001 I-Premise
@@ -31580,7 +31580,7 @@ transfusion I-Premise
 vs I-Premise
 28.1 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .0001 I-Premise
@@ -31753,7 +31753,7 @@ b.i.d. O
 , O
 days O
 1-14 O
-";" O
+; O
 paclitaxel O
 175 O
 mg/m O
@@ -31780,7 +31780,7 @@ infusion O
 , O
 day O
 1 O
-";" O
+; O
 paclitaxel O
 as O
 above O
@@ -31873,7 +31873,7 @@ EP I-Premise
 CI I-Premise
 0.785-1.304 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 median I-Premise
 10.4 I-Premise
 months I-Premise
@@ -31899,7 +31899,7 @@ HR I-Premise
 CI I-Premise
 0.740-1.424 I-Premise
 ) I-Premise
-";" I-Premise
+; I-Premise
 median I-Premise
 22.0 I-Premise
 vs. I-Premise
@@ -32464,7 +32464,7 @@ EORTC O
 H O
 & O
 amp O
-";" O
+; O
 N35 O
 the O
 head O
@@ -32800,7 +32800,7 @@ compared I-Premise
 with I-Premise
 17.6 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -33202,7 +33202,7 @@ group I-Premise
 5.8 I-Premise
 vs. I-Premise
 8.1 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 0.004 I-Premise
@@ -33886,7 +33886,7 @@ in I-Premise
 the I-Premise
 control I-Premise
 group I-Premise
-";" I-Premise
+; I-Premise
 however I-Premise
 , I-Premise
 in I-Premise
@@ -34199,7 +34199,7 @@ difference I-Premise
 , I-Premise
 0.29 I-Premise
 L/min I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 confidence I-Premise
@@ -34211,7 +34211,7 @@ CI I-Premise
 0.18 I-Premise
 to I-Premise
 0.40 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .001 I-Premise
@@ -34242,7 +34242,7 @@ difference I-Premise
 , I-Premise
 8.8 I-Premise
 points I-Premise
-";" I-Premise
+; I-Premise
 95 I-Premise
 % I-Premise
 CI I-Premise
@@ -34250,7 +34250,7 @@ CI I-Premise
 3.6 I-Premise
 to I-Premise
 14.0 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 =.001 I-Premise
 ) I-Premise
@@ -34275,7 +34275,7 @@ QOL I-Premise
 r I-Premise
 = I-Premise
 0.45 I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 < I-Premise
 .01 I-Premise
@@ -34441,7 +34441,7 @@ proportion O
 of O
 patients O
 transfused O
-";" O
+; O
 secondary O
 end O
 points O
@@ -34748,7 +34748,7 @@ median I-Premise
 v I-Premise
 93.9 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 =.01 I-Premise
 ) I-Premise
@@ -34762,7 +34762,7 @@ median I-Premise
 v I-Premise
 93.3 I-Premise
 % I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 =.04 I-Premise
 ) I-Premise
@@ -34890,7 +34890,7 @@ median I-Premise
 v I-Premise
 6 I-Premise
 days I-Premise
-";" I-Premise
+; I-Premise
 P I-Premise
 =.006 I-Premise
 ) I-Premise
@@ -34970,7 +34970,7 @@ of O
 trastuzumab O
 ( O
 Herceptin O
-";" O
+; O
 Genentech O
 , O
 Inc O
