@@ -1,4 +1,4 @@
 python projection_corrections.py \
---source_path ../data/neoplasm/dev.tsv \
---target_path ../data/argument_components/projections/deepl_awesome/neoplasm/dev.tsv \
---output_path deepl_awesome_pp_dev.tsv 
+--source_path ../../data/neoplasm/train.tsv \
+--target_path /home/anar/Downloads/datasets/fr/nllb200/fr-neoplasm-train.tsv \
+--output_path fr_opus_pp_train.tsv 

@@ -13,7 +13,7 @@ class App:
         en_dataset: str,
         target_sentences: str,
         output_dataset: str,
-        font_size: int = 28,
+        font_size: int = 22,
     ):
 
         self.sentence_reader = SentenceReader(
