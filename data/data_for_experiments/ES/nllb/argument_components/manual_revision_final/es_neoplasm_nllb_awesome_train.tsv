@@ -36769,7 +36769,7 @@ y I-Premise
 estado I-Premise
 de I-Premise
 ánimo I-Premise
-(P =
+(P = I-Premise
 en I-Premise
 el I-Premise
 mes I-Premise
@@ -107629,7 +107629,7 @@ vida I-Claim
 fueron I-Claim
 concordantes I-Claim
 y I-Claim
-mostraron I-Claim
+mostraron B-Claim
 que I-Claim
 los I-Claim
 pacientes I-Claim
