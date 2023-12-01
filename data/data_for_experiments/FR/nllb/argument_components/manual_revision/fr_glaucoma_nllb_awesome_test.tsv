@@ -4054,13 +4054,20 @@ dorzolamide O
 chez O
 les O
 patients O
-atteints O
-de O
-glaucome O
+avec O
 primaire O
 à O
 angle O
 ouvert O
+glaucome O
+(POAG) O
+ou O
+hypertension oculaire O
+pendant O
+6 O
+mois O
+de O
+traitement.	O
 
 L' O
 étude O
@@ -11370,9 +11377,22 @@ des O
 3 O
 mois O
 précédents, O
-l' O
+" ;" O
+oculaire O
+stéroïde O
 utilisation O
+";" O
+lentille O
 de O
+contact O
+lentille O
+porter O
+";" O
+et O
+enceinte O
+et O
+allaitantes O
+femmes. O
 
 Les O
 patients O
@@ -17747,10 +17767,12 @@ log-rank I-Premise
 P I-Premise
 = I-Premise
 0,17 I-Premise
-"; I-Premise
-" I-Premise
+";" I-Premise
 probabilité I-Premise
-cum I-Premise
+Kaplan-Meier I-Premise
+cumulatif I-Premise
+probabilité I-Premise
+de succès).	I-Premise
 
 Les B-Premise
 complications I-Premise
@@ -26576,6 +26598,20 @@ mois, I-Premise
 de I-Premise
 13,8+/ I-Premise
 -4,7 I-Premise
+mmHg I-Premise
+à I-Premise
+6 I-Place
+mois, I-Premise
+et I-Premise
+14,1+/-4,4 I-superficie
+mmHg I-Premise
+à I-Premise
+12 I-Présence
+mois I-Premise
+dans I-Premise
+l'I-Premise
+trabéculectomie I-Premise
+groupe.	I-Premise
 
 Il O
 n' O
