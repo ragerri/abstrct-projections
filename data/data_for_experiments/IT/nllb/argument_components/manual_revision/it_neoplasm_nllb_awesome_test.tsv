@@ -8121,12 +8121,44 @@ mesna O
 uroprotezione, O
 epirubicina O
 60 O
-mg/ O
-m2 O
+mg/m2 O
 IV O
 al O
 giorno O
 1 O
+e O
+cisplatino O
+60 O
+mg/m2 O
+IV O
+il O
+giorno O
+giorno O
+2 O
+";" O
+o O
+MVP O
+regime O
+: O
+mitomicina-C O
+8 O
+mg/m2, O
+cisplatino O
+100 O
+mg/m2 O
+IV O
+il giorno O
+giorno O
+1, O
+vinblastina O
+4 O
+mg/m2 O
+IV O
+nei O
+giorni O
+1 O
+e O
+15). O
 
 Per O
 stimare O
@@ -10371,10 +10403,15 @@ scala O
 di O
 malattia O
 in O
-coping O
-comportamentale O
 attivo O
+comportamentale O
+di O
+affrontare O
 e O
+attivo O
+cognitivo O
+di O
+affrontare. O
 
 Miglioramenti B-Premise
 secondari I-Premise
@@ -18111,7 +18148,7 @@ ritardo I-Premise
 nella I-Premise
 guarigione I-Premise
 delle I-Premise
-fer I-Premise
+fer. I-Premise
 
 L' B-Claim
 accumulo I-Claim
@@ -18583,24 +18620,19 @@ e I-Premise
 20, I-Premise
 2 I-Premise
 mesi I-Premise
-(17, I-Premise
-1- I-Premise
-32, I-Premise
-0) I-Premise
+(17,1-32,0) I-Premise
 contro I-Premise
 14, I-Premise
 8 I-Premise
 mesi I-Premise
-(12, I-Premise
-0- I-Premise
-17, I-Premise
-0- I-Premise
-7) I-Premise
+(12,0 I-Premise
+17,7) I-Premise
 nel I-Premise
 gruppo I-Premise
 con I-Premise
 sorafenib I-Premise
-(p I-Premise
+(one-sided I-Premise
+p=0.0020). I-Premise
 
 Sebbene O
 la B-Claim
@@ -22750,7 +22782,10 @@ questionario O
 sulla O
 funzione O
 sessuale O
-(SM O
+(SMUF) O
+sono O
+stati O
+analizzati. O
 
 Alla B-Premise
 prostatectomia I-Premise
@@ -25209,8 +25244,11 @@ mg/ O
 m O
 (2) O
 per O
-infusione O
-endoven O
+via O
+endovenosa O
+ogni O
+21 O
+giorni). O
 
 Le O
 analisi O
@@ -25530,6 +25568,7 @@ somministrato O
 per O
 1 O
 anno O
+(TCH). O
 
 Il O
 questionario O
@@ -31006,6 +31045,30 @@ EORTC I-Premise
 C30 I-Premise
 scala I-Premise
 di I-Premise
+funzione I-Premise
+fisica I-Premise
+intervento I-Premise
+(0-100) I-Premise
+base: I-Premise
+84,9 I-Premise
+(14,8), I-Premise
+3 I-Premise
+mese: I-Premise
+86,9 I-Premise
+(10,7), I-Premise
+controllo I-Premise
+linea I-Premise
+di I-Premise
+base: I-Premise
+91,3 I-Premise
+(9,6), I-Premise
+3 I-Premise
+mese: I-Premise
+86,7 I-Premise
+(14,9), I-Premise
+P I-Premise
+= I-Premise
+0,02]. I-Premise
 
 Questi O
 miglioramenti O

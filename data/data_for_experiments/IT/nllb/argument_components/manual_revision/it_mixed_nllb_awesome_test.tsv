@@ -1658,7 +1658,7 @@ PEG-IFN O
 per O
 48 O
 settimane O
-(PI O
+(PI-48w). O
 
 Sono O
 stati O
@@ -2475,6 +2475,27 @@ collaborativa O
 con O
 i O
 parteci O
+con O
+i O
+partecipanti O
+medici) O
+o O
+a O
+un O
+attivo O
+controllo O
+approccio O
+(in O
+che O
+barbieri O
+incoraggiato O
+stile O 
+di O
+vita O
+modifica O
+e O
+visite O
+mediche). O
 
 L' O
 esito O
@@ -6080,6 +6101,9 @@ contro I-Premise
 m I-Premise
 nell' I-Premise
 APAH-CTD I-Premise
+(35% I-Premise
+della I-Premise
+popolazione). I-Premise
 
 La O
 sopravvivenza O
@@ -6382,7 +6406,14 @@ CI I-Premise
 1,098-2,042, I-Premise
 P=0,033 I-Premise
 e I-Premise
-AOR I-Premise
+AOR, I-Premise
+1.871 I-Premise
+";" I-Premise
+95% I-Premise
+CI I-Premise
+1.302-2.689, I-Premise
+P=0,001, I-Premise
+rispettivamente). I-Premise
 
 Dopo B-Premise
 aggiustamento I-Premise
@@ -6541,7 +6572,11 @@ l' O
 altro O
 con O
 MMC O
-(grup O
+gruppo O
+B O
+: O
+20 O
+occhi). O
 
 La O
 misurazione O
@@ -7208,9 +7243,21 @@ antiossidante O
 totale O
 (TAC) O
 e O
-la O
+sistolico O
+e O
+diastolico O
+sangue O
 pressione O
-sangu O
+(SBP, O
+DSP) O
+sono O
+stati O
+valutati O
+prima O
+di O
+e O
+dopo O
+l'intervento. O
 
 Non B-Premise
 sono I-Premise
@@ -12412,8 +12459,7 @@ dell' O
 informazione O
 e O
 della O
-comunicazione O
-di O
+comunicazione. O
 
 Questo O
 e'stato O
@@ -16634,7 +16680,7 @@ ritardo I-Premise
 nella I-Premise
 guarigione I-Premise
 delle I-Premise
-fer I-Premise
+fer. I-Premise
 
 L' B-Claim
 accumulo I-Claim
@@ -17201,6 +17247,21 @@ parametri O
 biochimici O
 ed O
 ematologici O
+di O
+l' O
+studio O
+di O
+al O
+linea O
+di O
+base O
+e O
+dopo O
+90 O
+giorni O
+di O
+vitamine O
+integrazione. O
 
 I O
 risultati O
@@ -19353,7 +19414,10 @@ questionario O
 sulla O
 funzione O
 sessuale O
-(SM O
+(SMUF) O
+sono O
+stati O
+analizzati. O
 
 Alla B-Premise
 prostatectomia I-Premise
@@ -21868,12 +21932,14 @@ a O
 raltitrexed O
 (n=301;" O
 3 O
-mg/ O
-m O
+mg/m O
 (2) O
 per O
-infusione O
-endoven O
+via O
+endovenosa O
+ogni O
+21 O
+giorni). O
 
 Le O
 analisi O
@@ -31853,7 +31919,11 @@ cataratta O
 con O
 sclerostomia O
 profilattica O
-con O
+(sclerostomia O
+gruppo, O
+n O
+= O
+29). O
 
 La O
 chirurgia O
