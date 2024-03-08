@@ -1773,7 +1773,8 @@ trastuzumab O
 8 O
 mg/kg O
 chargement O
-dose de O
+dose O
+de O
 suivie O
 par O
 6 O
@@ -40116,7 +40117,8 @@ de O
 LFA-5-FU O
 modulée O
 par O
-le méthotrexate O
+le O
+méthotrexate O
 ( O
 MTX O
 + O
@@ -40429,7 +40431,6 @@ intervalle I-Premise
 18-108 I-Premise
 ) I-Premise
 semaines I-Premise
-I-Premise
 la I-Premise
 médiane I-Premise
 temps I-Premise
@@ -40437,18 +40438,14 @@ jusqu'à I-Premise
 progression I-Premise
 était I-Premise
 38 I-Premise
-I-Premise
 25 I-Premise
-I-Premise
 et I-Premise
 27 I-Premise
 semaines I-Premise
 pour I-Premise
 bras I-Premise
 A I-Premise
-I-Premise
 B I-Premise
-I-Premise
 et I-Premise
 C, I-Premise
 respectivement. I-Premise
@@ -47556,7 +47553,7 @@ Les B-Claim
 deux I-Claim
 mesures I-Claim
 ont I-Claim
-été I-Claim 
+été I-Claim
 adaptées I-Claim
 ";" O
 parmi B-Premise
@@ -85439,7 +85436,7 @@ CI I-Premise
 0,87 I-Premise
 ";" I-Premise
 P I-Premise
-= 0,01). I-Premise
+=0,01). I-Premise
 
 En B-Premise
 revanche, I-Premise
@@ -89368,7 +89365,7 @@ Cancer O
 BC) O
 4 O
 sous-étude O
-d' O 
+d' O
 le O
 Tamoxifène O
 Exémestane O
@@ -101094,7 +101091,8 @@ x6 O
 suivi O
 par O
 un O
-2 semaines O
+2 O
+semaines O
 reste O
 période. O
 
@@ -103737,7 +103735,6 @@ bien-être I-Premise
 (ajusté I-Premise
 moyenne I-Premise
 différence I-Premise
-I-Premise, I-Premise
 2.79 I-Premise
 ";" I-Premise
 95% I-Premise
@@ -107333,7 +107330,8 @@ changer I-Premise
 comment I-Premise
 leur I-Premise
 famille I-Premise
-a vu I-Premise
+a I-Premise
+vu I-Premise
 et I-Premise
 apprécié I-Premise
 les I-Premise
@@ -107448,7 +107446,8 @@ l'étude I-Premise
 étude I-Premise
 groupe I-Premise
 avait I-Premise
-a été I-Premise
+a I-Premise
+été I-Premise
 satisfaisant, I-Premise
 comparé I-Premise
 avec I-Premise
@@ -136771,7 +136770,7 @@ P=.002 I-Premise
 ";" I-Premise
 taille I-Premise
 de I-Premise
-l'effet, I-Premise 
+l'effet, I-Premise
 0.37-0.46). I-Premise
 
 Les B-Premise

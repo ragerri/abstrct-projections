@@ -4062,12 +4062,13 @@ ouvert O
 glaucome O
 (POAG) O
 ou O
-hypertension oculaire O
+hypertension O
+oculaire O
 pendant O
 6 O
 mois O
 de O
-traitement.	O
+traitement. O
 
 L' O
 étude O
@@ -11377,7 +11378,7 @@ des O
 3 O
 mois O
 précédents, O
-" ;" O
+";" O
 oculaire O
 stéroïde O
 utilisation O
@@ -17771,8 +17772,9 @@ P I-Premise
 probabilité I-Premise
 Kaplan-Meier I-Premise
 cumulatif I-Premise
-probabilité I-Premise
-de succès).	I-Premise
+probabilité I-Premis
+de I-Premise
+succès). I-Premise
 
 Les B-Premise
 complications I-Premise
@@ -26611,7 +26613,7 @@ mois I-Premise
 dans I-Premise
 l' I-Premise
 trabéculectomie I-Premise
-groupe.	I-Premise
+groupe. I-Premise
 
 Il O
 n' O
@@ -35131,22 +35133,24 @@ IC I-Premise
 1,12 I-Premise
 vers I-Premise
 1.31 I-Premise
-I-Premise
 P I-Premise
 < I-Premise
 .001 I-Premise
 ) I-Premise
 étaient I-Premise
 associés I-Premise
-à la I-Premise
+à I-Premise
+la I-Premise
 progression I-Premise
-alors que O
+alors O
+que O
 randomisation B-Premise
 à I-Premise
 brimonidine I-Premise
 révélé I-Premise
 un I-Premise
-effet protecteur I-Premise
+effet I-Premise
+protecteur I-Premise
 effet I-Premise
 (HR I-Premise
 = I-Premise
@@ -35157,7 +35161,6 @@ CI I-Premise
 0,12 I-Premise
 à I-Premise
 0,55 I-Premise
-I-Premise
 P I-Premise
 < I-Premise
 .001 I-Premise

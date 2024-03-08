@@ -6854,7 +6854,6 @@ de I-Premise
 et I-Premise
 8.0 I-Premise
 mois I-Premise
-I-Premise
 respectivement. I-Premise
 
 Des B-Premise
@@ -13523,7 +13522,7 @@ mg/m O
 2 O
 ) O
 cisplatine O
-le jour O
+le O
 jour O
 1 O
 ";" O
@@ -33901,7 +33900,6 @@ base I-Premise
 ( I-Premise
 14,8 I-Premise
 ) I-Premise
-I-Premise
 3 I-Premise
 mois I-Premise
 : I-Premise
