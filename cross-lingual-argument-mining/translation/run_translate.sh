@@ -1,4 +1,4 @@
-export INPUT_PATH='../data/full_line_en/np_dev_en.txt'
+export INPUT_PATH='../data/all/EN/full_line_en/np_dev_en.txt'
 export MODEL='opus-mt'
 export OUTPUT_TRANSLATION_PATH=translated_${MODEL}.txt
 export LANGUAGE='es'
