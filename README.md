@@ -1,4 +1,4 @@
-# antidote-projections
+# AbstRCT-projections
 This repository contains a medical corpus for argument mining [AbstRCT](https://gitlab.com/tomaye/abstrct) (a dataset of clinical abstracts annotated for argument mining in English), and generation of the dataset in Spanish, French and Italian by translation and projection using word alignment tools, such as Awesome align and Simalign. 
 
 Table of contents:
@@ -33,7 +33,7 @@ Inside `data/data_for_experiments/$LANG` folder:
       - `manual_revision` - manually corrected projections in Spanish
       - `postprocessed` - merged English and Spanish train and dev sets 
       
-      
+
   - `argument_relations` (Only English and Spanish)
       - `neoplasm` - argument relations in Spanish  
       - `glaucoma`- argument relations in Spanish
