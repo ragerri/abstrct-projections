@@ -101,3 +101,17 @@ Evaluation can be done similarly by running the script below. <br>
 <u>Trained models, tasks and the test set can be changed in the script.</u>
 ```
 sh ACTA/run_evaluate.sh
+````
+
+# Citation
+
+````bibtex
+@misc{yeginbergen2024crosslingual,
+      title={Cross-lingual Argument Mining in the Medical Domain}, 
+      author={Anar Yeginbergen and Rodrigo Agerri},
+      year={2024},
+      eprint={2301.10527},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+````
